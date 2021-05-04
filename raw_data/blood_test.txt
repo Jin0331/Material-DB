@@ -1,0 +1,157 @@
+WM_WMA1_501_01_KR_CELL_PB_1	WMA1_501_01		R01001	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1				F	19	160	53.55												2020.12.07	ASAN									
+WM_WMA1_501_01_KR_CELL_PB_2	WMA1_501_01		R01001	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1				F	19	160	53.55												2020.12.07	ASAN									
+WM_WMA1_501_01_KR_CELL_PB_3	WMA1_501_01		R01001	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1				F	19	160	53.55												2020.12.07	ASAN									
+WM_WMA1_501_01_KR_CELL_PB_4	WMA1_501_01		R01001	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1				F	19	160	53.55												2020.12.07	ASAN									
+WM_WMA1_501_01_KR_CELL_PB_5	WMA1_501_01		R01001	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1				F	19	160	53.55												2020.12.07	ASAN									
+WM_WMA1_501_01_KR_CELL_PB_6	WMA1_501_01		R01001	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1				F	19	160	53.55												2020.12.07	ASAN									
+WM_WMA1_501_02_KR_CELL_PB_1	WMA1_501_02		R01002	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.07	ASAN									
+WM_WMA1_501_02_KR_CELL_PB_2	WMA1_501_02		R01002	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.07	ASAN									
+WM_WMA1_501_02_KR_CELL_PB_3	WMA1_501_02		R01002	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.07	ASAN									
+WM_WMA1_501_02_KR_CELL_PB_4	WMA1_501_02		R01002	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.07	ASAN									
+WM_WMA1_501_02_KR_CELL_PB_5	WMA1_501_02		R01002	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.07	ASAN									
+WM_WMA1_501_02_KR_CELL_PB_6	WMA1_501_02		R01002	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.07	ASAN									
+WM_WMA1_501_03_KR_CELL_PB_1	WMA1_501_03		R01003	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.07	ASAN									
+WM_WMA1_501_03_KR_CELL_PB_2	WMA1_501_03		R01003	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.07	ASAN									
+WM_WMA1_501_03_KR_CELL_PB_3	WMA1_501_03		R01003	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.07	ASAN									
+WM_WMA1_501_03_KR_CELL_PB_4	WMA1_501_03		R01003	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.07	ASAN									
+WM_WMA1_501_03_KR_CELL_PB_5	WMA1_501_03		R01003	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.07	ASAN									
+WM_WMA1_501_04_KR_CELL_PB_1	WMA1_501_04		R01004	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.07	ASAN									
+WM_WMA1_501_04_KR_CELL_PB_2	WMA1_501_04		R01004	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.07	ASAN									
+WM_WMA1_501_04_KR_CELL_PB_3	WMA1_501_04		R01004	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.07	ASAN									
+WM_WMA1_501_04_KR_CELL_PB_4	WMA1_501_04		R01004	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.07	ASAN									
+WM_WMA1_501_04_KR_CELL_PB_5	WMA1_501_04		R01004	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.07	ASAN									
+WM_WMA1_501_04_KR_CELL_PB_6	WMA1_501_04		R01004	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.07	ASAN									
+WM_WMA1_501_05_KR_CELL_PB_1	WMA1_501_05		R01005	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_05_KR_CELL_PB_2	WMA1_501_05		R01005	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_05_KR_CELL_PB_3	WMA1_501_05		R01005	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_05_KR_CELL_PB_4	WMA1_501_05		R01005	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_05_KR_CELL_PB_5	WMA1_501_05		R01005	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_05_KR_CELL_PB_6	WMA1_501_05		R01005	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_06_KR_CELL_PB_1	WMA1_501_06		R01006	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_06_KR_CELL_PB_2	WMA1_501_06		R01006	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_06_KR_CELL_PB_3	WMA1_501_06		R01006	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_06_KR_CELL_PB_4	WMA1_501_06		R01006	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_06_KR_CELL_PB_5	WMA1_501_06		R01006	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_06_KR_CELL_PB_6	WMA1_501_06		R01006	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_07_KR_CELL_PB_1	WMA1_501_07		R01007	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_07_KR_CELL_PB_2	WMA1_501_07		R01007	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_07_KR_CELL_PB_3	WMA1_501_07		R01007	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_07_KR_CELL_PB_4	WMA1_501_07		R01007	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_07_KR_CELL_PB_5	WMA1_501_07		R01007	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_07_KR_CELL_PB_6	WMA1_501_07		R01007	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_08_KR_CELL_PB_1	WMA1_501_08		R01008	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_08_KR_CELL_PB_2	WMA1_501_08		R01008	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_08_KR_CELL_PB_3	WMA1_501_08		R01008	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_08_KR_CELL_PB_4	WMA1_501_08		R01008	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_08_KR_CELL_PB_5	WMA1_501_08		R01008	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_08_KR_CELL_PB_6	WMA1_501_08		R01008	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_09_KR_CELL_PB_1	WMA1_501_09		R01009	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.09	ASAN									
+WM_WMA1_501_09_KR_CELL_PB_2	WMA1_501_09		R01009	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.09	ASAN									
+WM_WMA1_501_09_KR_CELL_PB_3	WMA1_501_09		R01009	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.09	ASAN									
+WM_WMA1_501_09_KR_CELL_PB_4	WMA1_501_09		R01009	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.09	ASAN									
+WM_WMA1_501_09_KR_CELL_PB_5	WMA1_501_09		R01009	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.09	ASAN									
+WM_WMA1_501_09_KR_CELL_PB_6	WMA1_501_09		R01009	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#1																			2020.12.09	ASAN									
+WM_WMA1_501_10_KR_CELL_PB_1	WMA1_501_10		R01010	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.09	ASAN									
+WM_WMA1_501_10_KR_CELL_PB_2	WMA1_501_10		R01010	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.09	ASAN									
+WM_WMA1_501_10_KR_CELL_PB_3	WMA1_501_10		R01010	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.09	ASAN									
+WM_WMA1_501_10_KR_CELL_PB_4	WMA1_501_10		R01010	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.09	ASAN									
+WM_WMA1_501_10_KR_CELL_PB_5	WMA1_501_10		R01010	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.09	ASAN									
+WM_WMA1_501_10_KR_CELL_PB_6	WMA1_501_10		R01010	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.09	ASAN									
+WM_WMA1_501_11_KR_CELL_PB_1	WMA1_501_11		R01011	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.09	ASAN									
+WM_WMA1_501_11_KR_CELL_PB_2	WMA1_501_11		R01011	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.09	ASAN									
+WM_WMA1_501_11_KR_CELL_PB_3	WMA1_501_11		R01011	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.09	ASAN									
+WM_WMA1_501_11_KR_CELL_PB_4	WMA1_501_11		R01011	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.09	ASAN									
+WM_WMA1_501_11_KR_CELL_PB_5	WMA1_501_11		R01011	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.09	ASAN									
+WM_WMA1_501_11_KR_CELL_PB_6	WMA1_501_11		R01011	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.09	ASAN									
+WM_WMA1_501_12_KR_CELL_PB_1	WMA1_501_12		R01012	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.10	ASAN									
+WM_WMA1_501_12_KR_CELL_PB_2	WMA1_501_12		R01012	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.10	ASAN									
+WM_WMA1_501_12_KR_CELL_PB_3	WMA1_501_12		R01012	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.10	ASAN									
+WM_WMA1_501_12_KR_CELL_PB_4	WMA1_501_12		R01012	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.10	ASAN									
+WM_WMA1_501_12_KR_CELL_PB_5	WMA1_501_12		R01012	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.10	ASAN									
+WM_WMA1_501_12_KR_CELL_PB_6	WMA1_501_12		R01012	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.10	ASAN									
+WM_WMA1_501_13_KR_CELL_PB_1	WMA1_501_13		R01013	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.14	ASAN									
+WM_WMA1_501_13_KR_CELL_PB_2	WMA1_501_13		R01013	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.14	ASAN									
+WM_WMA1_501_13_KR_CELL_PB_3	WMA1_501_13		R01013	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.14	ASAN									
+WM_WMA1_501_13_KR_CELL_PB_4	WMA1_501_13		R01013	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.14	ASAN									
+WM_WMA1_501_13_KR_CELL_PB_5	WMA1_501_13		R01013	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.14	ASAN									
+WM_WMA1_501_13_KR_CELL_PB_6	WMA1_501_13		R01013	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.14	ASAN									
+WM_WMA1_501_14_KR_CELL_PB_1	WMA1_501_14		R01014	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.14	ASAN									
+WM_WMA1_501_14_KR_CELL_PB_2	WMA1_501_14		R01014	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.14	ASAN									
+WM_WMA1_501_14_KR_CELL_PB_3	WMA1_501_14		R01014	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.14	ASAN									
+WM_WMA1_501_14_KR_CELL_PB_4	WMA1_501_14		R01014	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.14	ASAN									
+WM_WMA1_501_14_KR_CELL_PB_5	WMA1_501_14		R01014	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.14	ASAN									
+WM_WMA1_501_14_KR_CELL_PB_6	WMA1_501_14		R01014	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.14	ASAN									
+WM_WMA1_501_15_KR_CELL_PB_1	WMA1_501_15		R01015	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.14	ASAN									
+WM_WMA1_501_15_KR_CELL_PB_2	WMA1_501_15		R01015	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.14	ASAN									
+WM_WMA1_501_15_KR_CELL_PB_3	WMA1_501_15		R01015	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.14	ASAN									
+WM_WMA1_501_15_KR_CELL_PB_4	WMA1_501_15		R01015	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.14	ASAN									
+WM_WMA1_501_15_KR_CELL_PB_5	WMA1_501_15		R01015	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.14	ASAN									
+WM_WMA1_501_15_KR_CELL_PB_6	WMA1_501_15		R01015	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.14	ASAN									
+WM_WMA1_501_16_KR_CELL_PB_1	WMA1_501_16		R01016	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.15	ASAN									
+WM_WMA1_501_16_KR_CELL_PB_2	WMA1_501_16		R01016	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.15	ASAN									
+WM_WMA1_501_16_KR_CELL_PB_3	WMA1_501_16		R01016	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.15	ASAN									
+WM_WMA1_501_16_KR_CELL_PB_4	WMA1_501_16		R01016	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.15	ASAN									
+WM_WMA1_501_16_KR_CELL_PB_5	WMA1_501_16		R01016	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.15	ASAN									
+WM_WMA1_501_16_KR_CELL_PB_6	WMA1_501_16		R01016	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.15	ASAN									
+WM_WMA1_501_17_KR_CELL_PB_1	WMA1_501_17		R01017	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.15	ASAN									
+WM_WMA1_501_17_KR_CELL_PB_2	WMA1_501_17		R01017	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.15	ASAN									
+WM_WMA1_501_17_KR_CELL_PB_3	WMA1_501_17		R01017	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.15	ASAN									
+WM_WMA1_501_17_KR_CELL_PB_4	WMA1_501_17		R01017	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.15	ASAN									
+WM_WMA1_501_17_KR_CELL_PB_5	WMA1_501_17		R01017	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.15	ASAN									
+WM_WMA1_501_17_KR_CELL_PB_6	WMA1_501_17		R01017	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.15	ASAN									
+WM_WMA1_501_18_KR_CELL_PB_1	WMA1_501_18		R01018	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.15	ASAN									
+WM_WMA1_501_18_KR_CELL_PB_2	WMA1_501_18		R01018	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.15	ASAN									
+WM_WMA1_501_18_KR_CELL_PB_3	WMA1_501_18		R01018	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.15	ASAN									
+WM_WMA1_501_18_KR_CELL_PB_4	WMA1_501_18		R01018	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.15	ASAN									
+WM_WMA1_501_18_KR_CELL_PB_5	WMA1_501_18		R01018	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.15	ASAN									
+WM_WMA1_501_18_KR_CELL_PB_6	WMA1_501_18		R01018	ASAN		Korean	normal	PBMC	손혜진	2020.12.16	WMBIO_PBMC_LN2_#2																			2020.12.15	ASAN									
+WM_WMA1_501_01_KR_CELL_PL_1	WMA1_501_01		R01001	ASAN		Korean	normal	Plasma	손혜진	2020.12.16	WMBIO_Plasma_LN2_#1				F	19	160	53.55												2020.12.07	ASAN									
+WM_WMA1_501_02_KR_CELL_PL_1	WMA1_501_02		R01002	ASAN		Korean	normal	Plasma	손혜진	2020.12.16	WMBIO_Plasma_LN2_#1																			2020.12.07	ASAN									
+WM_WMA1_501_03_KR_CELL_PL_1	WMA1_501_03		R01003	ASAN		Korean	normal	Plasma	손혜진	2020.12.16	WMBIO_Plasma_LN2_#1																			2020.12.07	ASAN									
+WM_WMA1_501_04_KR_CELL_PL_1	WMA1_501_04		R01004	ASAN		Korean	normal	Plasma	손혜진	2020.12.16	WMBIO_Plasma_LN2_#1																			2020.12.07	ASAN									
+WM_WMA1_501_05_KR_CELL_PL_1	WMA1_501_05		R01005	ASAN		Korean	normal	Plasma	손혜진	2020.12.16	WMBIO_Plasma_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_06_KR_CELL_PL_1	WMA1_501_06		R01006	ASAN		Korean	normal	Plasma	손혜진	2020.12.16	WMBIO_Plasma_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_07_KR_CELL_PL_1	WMA1_501_07		R01007	ASAN		Korean	normal	Plasma	손혜진	2020.12.16	WMBIO_Plasma_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_08_KR_CELL_PL_1	WMA1_501_08		R01008	ASAN		Korean	normal	Plasma	손혜진	2020.12.16	WMBIO_Plasma_LN2_#1																			2020.12.08	ASAN									
+WM_WMA1_501_09_KR_CELL_PL_1	WMA1_501_09		R01009	ASAN		Korean	normal	Plasma	손혜진	2020.12.16	WMBIO_Plasma_LN2_#1																			2020.12.09	ASAN									
+WM_WMA1_501_10_KR_CELL_PL_1	WMA1_501_10		R01010	ASAN		Korean	normal	Plasma	손혜진	2020.12.16	WMBIO_Plasma_LN2_#1																			2020.12.09	ASAN									
+WM_WMA1_501_11_KR_CELL_PL_1	WMA1_501_11		R01011	ASAN		Korean	normal	Plasma	손혜진	2020.12.16	WMBIO_Plasma_LN2_#1																			2020.12.09	ASAN									
+WM_WMA1_501_12_KR_CELL_PL_1	WMA1_501_12		R01012	ASAN		Korean	normal	Plasma	손혜진	2020.12.16	WMBIO_Plasma_LN2_#1																			2020.12.10	ASAN									
+WM_WMA1_501_13_KR_CELL_PL_1	WMA1_501_13		R01013	ASAN		Korean	normal	Plasma	손혜진	2020.12.16	WMBIO_Plasma_LN2_#1																			2020.12.14	ASAN									
+WM_WMA1_501_14_KR_CELL_PL_1	WMA1_501_14		R01014	ASAN		Korean	normal	Plasma	손혜진	2020.12.16	WMBIO_Plasma_LN2_#1																			2020.12.14	ASAN									
+WM_WMA1_501_15_KR_CELL_PL_1	WMA1_501_15		R01015	ASAN		Korean	normal	Plasma	손혜진	2020.12.16	WMBIO_Plasma_LN2_#1																			2020.12.14	ASAN									
+WM_WMA1_501_16_KR_CELL_PL_1	WMA1_501_16		R01016	ASAN		Korean	normal	Plasma	손혜진	2020.12.16	WMBIO_Plasma_LN2_#1																			2020.12.15	ASAN									
+WM_WMA1_501_17_KR_CELL_PL_1	WMA1_501_17		R01017	ASAN		Korean	normal	Plasma	손혜진	2020.12.16	WMBIO_Plasma_LN2_#1																			2020.12.15	ASAN									
+WM_WMA1_501_18_KR_CELL_PL_1	WMA1_501_18		R01018	ASAN		Korean	normal	Plasma	손혜진	2020.12.16	WMBIO_Plasma_LN2_#1																			2020.12.15	ASAN									
+WM_WMA1_501_19_KR_CELL_PL_1	WMA1_501_19		R01019	ASAN		Korean	normal	Plasma	손혜진	2021.01.12	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_20_KR_CELL_PL_1	WMA1_501_20		R01020	ASAN		Korean	normal	Plasma	손혜진	2021.01.12	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_21_KR_CELL_PL_1	WMA1_501_21		R01021	ASAN		Korean	normal	Plasma	손혜진	2021.01.12	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_22_KR_CELL_PL_1	WMA1_501_22		R01022	ASAN		Korean	normal	Plasma	손혜진	2021.01.12	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_23_KR_CELL_PL_1	WMA1_501_23		R01023	ASAN		Korean	normal	Plasma	손혜진	2021.01.12	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_24_KR_CELL_PL_1	WMA1_501_24		R01024	ASAN		Korean	normal	Plasma	손혜진	2021.01.12	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_25_KR_CELL_PL_1	WMA1_501_25		R01025	ASAN		Korean	normal	Plasma	손혜진	2021.01.12	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_26_KR_CELL_PL_1	WMA1_501_26		R01026	ASAN		Korean	normal	Plasma	손혜진	2021.01.12	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_27_KR_CELL_PL_1	WMA1_501_27		R01027	ASAN		Korean	normal	Plasma	손혜진	2021.01.12	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_28_KR_CELL_PL_1	WMA1_501_28		R01028	ASAN		Korean	normal	Plasma	손혜진	2021.01.12	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_29_KR_CELL_PL_1	WMA1_501_29		R01029	ASAN		Korean	normal	Plasma	손혜진	2021.01.12	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_30_KR_CELL_PL_1	WMA1_501_30		R01030	ASAN		Korean	normal	Plasma	손혜진	2021.01.12	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_31_KR_CELL_PL_1	WMA1_501_31		R01031	ASAN		Korean	normal	Plasma	손혜진	2021.01.12	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_32_KR_CELL_PL_1	WMA1_501_32		R01032	ASAN		Korean	normal	Plasma	손혜진	2021.01.12	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_33_KR_CELL_PL_1	WMA1_501_33		R01033	ASAN		Korean	normal	Plasma	손혜진	2021.01.12	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_34_KR_CELL_PL_1	WMA1_501_34		R01034	ASAN		Korean	normal	Plasma	손혜진	2021.01.12	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_35_KR_CELL_PL_1	WMA1_501_35		R01035	ASAN		Korean	normal	Plasma	손혜진	2021.01.12	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_36_KR_CELL_PL_1	WMA1_501_36		R01036	ASAN		Korean	normal	Plasma	손혜진	2021.01.12	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_37_KR_CELL_PL_1	WMA1_501_37		R01037	ASAN		Korean	normal	Plasma	손혜진	2021.01.12	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_38_KR_CELL_PL_1	WMA1_501_38		R01038	ASAN		Korean	normal	Plasma	손혜진	2021.01.12	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_39_KR_CELL_PL_1	WMA1_501_39		R01039	ASAN		Korean	normal	Plasma	손혜진	2021.01.12	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_40_KR_CELL_PL_1	WMA1_501_40		R01040	ASAN		Korean	normal	Plasma	손혜진	2021.01.12	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_41_KR_CELL_PL_1	WMA1_501_41		R01041	ASAN		Korean	normal	Plasma	손혜진	2021.01.12	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_42_KR_CELL_PL_1	WMA1_501_42		R01042	ASAN		Korean	normal	Plasma	손혜진	2021.01.24	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_43_KR_CELL_PL_1	WMA1_501_43		R01043	ASAN		Korean	normal	Plasma	손혜진	2021.01.24	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_44_KR_CELL_PL_1	WMA1_501_44		R01044	ASAN		Korean	normal	Plasma	손혜진	2021.01.24	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_45_KR_CELL_PL_1	WMA1_501_45		R01045	ASAN		Korean	normal	Plasma	손혜진	2021.01.24	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_46_KR_CELL_PL_1	WMA1_501_46		R01046	ASAN		Korean	normal	Plasma	손혜진	2021.01.24	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_47_KR_CELL_PL_1	WMA1_501_47		R01047	ASAN		Korean	normal	Plasma	손혜진	2021.01.24	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_48_KR_CELL_PL_1	WMA1_501_48		R01048	ASAN		Korean	normal	Plasma	손혜진	2021.01.24	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_49_KR_CELL_PL_1	WMA1_501_49		R01049	ASAN		Korean	normal	Plasma	손혜진	2021.01.24	WMBIO_Plasma_LN2_#1																				ASAN									
+WM_WMA1_501_50_KR_CELL_PL_1	WMA1_501_50		R01050	ASAN		Korean	normal	Plasma	손혜진	2021.01.24	WMBIO_Plasma_LN2_#1																				ASAN									
