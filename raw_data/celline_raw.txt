@@ -1,0 +1,85 @@
+WM_SNU308_CL_0001_01	SNU-308	Biliary tract	Human	Biliary tract cancer, gall bladder			KRAS wt	△165			RPMI with 25mM HEPES (+10% FBS, 1% P/S)	Adherent	1:3, 4~5days	KCLB																		
+WM_FaDu_CL_0002_01	FaDu	pharynx	Human	carcinoma, squamous cell		Cetuximab	KRAS wt	△165			MEM (+10% FBS, 1% P/S)	Adherent	1:4~1:6, 2~3days	KCLB																		
+WM_SNU869_CL_0003_01	SNU-869	Biliary tract	Human	Biliary tract cancer, ampulla of vater				△165			RPMI with 25mM HEPES (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_LS513_CL_0004_01	LS513	Colon/cecal	Human	carcinoma			KRAS mt(G12D)	△165			RPMI with 25mM HEPES (+10% FBS, 1% P/S)	Adherent	1:3, 2~3days	KCLB																		
+WM_SNU1196_CL_0005_01	SNU-1196	Biliary tract	Human	Biliary tract cancer, hepatic duct bifurcation			KRAS wt	△165			RPMI with 25mM HEPES (+10% FBS, 1% P/S)	Adherent	1:3, 2~3days	KCLB																		
+WM_HCC366_CL_0006_01	HCC-366	Lung	Human	NSCLC							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_HCC15_CL_0007_01	HCC-15	Lung	Human	NSCLC							RPMI (+10% FBS, 1% P/S)	Adherent	1:4~1:6, 2~3days	KCLB																		
+WM_HCC2108_CL_0008_01	HCC-2108	Lung	Human	adenocarcinoma							RPMI with 25mM HEPES (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_HCC1171_CL_0009_01	HCC-1171	Lung	Human	adenocarcinoma							RPMI with 25mM HEPES (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_HCC44_CL_0010_01	HCC-44	Lung	Human	NSCLC							RPMI with 25mM HEPES (+10% FBS, 1% P/S)	Adherent	1:4~1:6, 2~3days	KCLB																		
+WM_NCI-H522_CL_0011_01	NCI-H522	Lung	Human	adenocarcinoma							RPMI with 25mM HEPES (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_NCI-H1373_CL_0012_01	NCI-H1373	Lung	Human	adenocarcinoma(stage3A)							RPMI with 25mM HEPES (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_HCC2279_CL_0013_01	HCC-2279	Lung	Human	adeno-squamous cell carcinoma							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_NCI-H1993_CL_0014_01	NCI-H1993	Lung	Human	NSCLC(stage 3A, adenocarcinoma)							RPMI (+10% FBS, 1% P/S)	Adherent		ATCC																		
+WM_NCI-H2030_CL_0015_01	NCI-H2030	Lung	Human	NSCLC(adenocarcinoma)							RPMI (+10% FBS, 1% P/S)	Adherent		ATCC																		
+WM_NCI-H2228_CL_0016_01	NCI-H2228	Lung	Human	NSCLC(adenocarcinoma)							RPMI (+10% FBS, 1% P/S)	Adherent	1:3~1:4, 2~3days	ATCC																		
+WM_NCI-H520_CL_0017_01	NCI-H520	Lung	Human	Squamous cell carcinoma							RPMI (+10% FBS, 1% P/S)	Adherent	1:2~1:3, 2~3days	ATCC																		
+WM_MIA PaCa2_CL_0018_01	MIA PaCa-2	pancreas	Human	carcinoma			KRAS mt(G12C)	△160			DMEM (+10% FBS, 1% P/S)	Mix	1:5~1:7, 2~3days	KCLB																		
+WM_PANC1_CL_0019_01	PANC-1	pancreas/ducts	Human	carcinoma, epidermoid			KRAS mt(G12D)	△155			DMEM (+10% FBS, 1% P/S)	Adherent	1:3, 2~3days	KCLB																		
+WM_SW900_CL_0020_01	SW900	Lung	Human	carcinoma, squamous cell(grade IV)							L15(+10% FBS, 1% P/S)	Adherent	1:3~1:4, 4~5day	KCLB																		
+WM_HCC1588_CL_0021_01	HCC-1588	Lung	Human	Squamous cell carcinoma							RPMI with 25mM HEPES (+10% FBS, 1% P/S)	Adherent	1:3~1:4, 2~3days	KCLB																		
+WM_HCC2279_CL_0022_01	HCC-2279	Lung	Human	adeno-squamous cell carcinoma							RPMI with 25mM HEPES (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_HCC1438_CL_0023_01	HCC-1438	Lung	Human	large cell tumor							RPMI with 25mM HEPES (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_NCI-H1755_CL_0024_01	NCI-H1755	Lung	Human	adenocarcinoma, NSCLC							RPMI with 25mM HEPES (+10% FBS, 1% P/S)	Mix		KCLB																		
+WM_HCC95_CL_0025_01	HCC-95	Lung	Human	Squamous cell carcinoma							RPMI with 25mM HEPES (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_HCC1359_CL_0026_01	HCC-1359	Lung	Human	spindle giant cell tumor							RPMI with 25mM HEPES (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_SNU478_CL_0027_01	SNU-478	Biliary tract	Human	Biliary tract cancer, ampulla of vater			KRAS wt	△165			RPMI (+10% FBS, 1% P/S)	Adherent	1:5, 2~3days	KCLB																		
+WM_BT20_CL_0028_01	BT20	breast	Human	breast cancer 							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB, ATCC																		
+WM_HCC1937_CL_0029_01	HCC1937	breast	Human	TNM stage IIB, grade3, primary ductal carcinoma							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_HCC38_CL_0030_01	HCC38	breast	Human	TNM stage IIB, grade3, primary ductal carcinoma							RPMI (+10% FBS, 1% P/S)	Adherent(loosely attached clusters)		KCLB																		
+WM_MDA-MB-231_CL_0031_01	MDA-MB-231	Mammary gland,breast	Human	adenocarcinoma; pleural effusion							RPMI (+10% FBS, 1% P/S)	Adherent	1:4, 2~3days	KCLB																		
+WM_MDA-MB-453_CL_0032_01	MDA-MB-453	Mammary gland,breast	Human	Metastatic carcinoma							RPMI (+10% FBS, 1% P/S)	Adherent	1:4, 2~3days	KCLB																		
+WM_SKBR3_CL_0033_01	SK-BR-3	Mammary gland,breast	Human	adenocarcinoma; pleural effusion, malignant							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_T47D_CL_0034_01	T47D	Mammary gland	Human	ductal carcinoma							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB, ATCC																		
+WM_HeLa_CL_0035_01	HeLa	cervix, uterine	Human	adenocarcinoma							MEM (+10% FBS, 1% P/S)	Adherent	1:6, 2~3days	None																		
+WM_CCD-986sk_CL_0001_11	CCD-986sk	Skin	Human	Normal							DMEM (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_B16F10_CL_0036_01	B16-F10	Skin	Mouse	melanoma							RPMI (+10% FBS, 1% P/S)	Adherent	1:8, 2~3days	KCLB																		
+WM_Ags_CL_0037_01	AGS	Stomach	Human	adenocarcinoma							DMEM (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_Hs746T_CL_0038_01	Hs746T	Stomach	Human	carcinoma; metastatic to left leg							RPMI (+10% FBS, 1% P/S)	Adherent	1:2, 4~5days	KCLB																		
+WM_KATO III_CL_0039_01	KATO III	Stomach	Human	carcinoma, pleural effusion with metastases to supraclavicular and axillary lymph nodes							RPMI (+10% FBS, 1% P/S)	Mix		KCLB																		
+WM_MKN1_CL_0040_01	MKN-1	Stomach	Human	carcinoma, adenosquamous							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_MKN45_CL_0041_01	MKN-45	Stomach	Human	adenocarcinoma							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_MKN74_CL_0042_01	MKN-74	Stomach	Human	adenocarcinoma, tubular							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_NCI-N87_CL_0043_01	NCI-N87	Stomach	Human	carcinoma; metastatic to liver							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_NIH3T3_CL_0002_11	NIH3T3	Embryo	Mouse	Normal							DMEM (+10% BS, 1% P/S)	Adherent	1:8, 2~3days	KCLB																		
+WM_COS-7_CL_0003_11	COS-7	Kidney	Monkey	SV40 transformed							DMEM (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_HEK293_CL_0004_11	HEK293	Kidney	Human	transformed primary embryonal kidney							MEM (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_DU145_CL_0044_01	DU145	prostate	Human	carcinoma, metastasis to brain							RPMI (+10% FBS, 1% P/S)	Adherent	1:4, 2~3days	KCLB																		
+WM_LNCap_CL_0045_01	LNCaP	prostate	Human	carcinoma, metastasis to left supraclavicular lymph node							RPMI (+10% FBS, 1% P/S)	clusters(lightly adherent)		KCLB																		
+WM_PC3_CL_0046_01	PC-3	prostate	Human	adenocarcinoma, grade4, metastasis to brain							RPMI (+10% FBS, 1% P/S)	Adherent	1:4, 2~3days	KCLB																		
+WM_THP-1_CL_0001_02	THP-1	Monocyte	Human	leukemia, acute monocytic							RPMI (+10% FBS, 1% P/S)	Suspension		KCLB	PMA 분화 되지 않음																	
+WM_SKOV3_CL_0047_01	SK-OV-3	ovary	Human	adenocarcinoma, malignant ascites							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_H4IIE_CL_0048_01	H4-II-E	Liver	Human	hepatoma							EMEM(+10% FBS, 10% calf serum, 1% P/S)	Adherent		KCLB																		
+WM_HepG2_CL_0049_01	HepG2	Liver	Human	hepatoblastoma							MEM (+10% FBS, 1% P/S)	Adherent	1:3, 2days 1:4, 3days	KCLB	1. 너무 낮은 density 로 계대배양시 cell death 일어남. 2. Over growth 주의하여 세포 배양 할것																	
+WM_HepG2_CL_0050_01	HepG2	Liver	Human	carcinoma, hepatocellular							DMEM (+10% FBS, 1% P/S)	Adherent	1:3~1:4, 2days 1:4~1:5, 3days	KCLB	1. 계대 배양시 single cell로 잘 풀어서 배양 할것 2. Confluency 높지 않게 세포 배양 할것(over growth시 cell morphology 변함)																	
+WM_Huh7_CL_0051_01	Huh7	Liver	Human								RPMI (+10% FBS, 1% P/S)	Epithilial-like	1:4~1:6, 2~3day	KCLB																		
+WM_SK-HEP-1_CL_0052_01	SK-HEP-1	Liver	Human	adenocarcinoma; ascites							DMEM (+10% FBS, 1% P/S, 2mM L-glutamine)	Adherent	1:4, 2days 1:5, 3days	KCLB	1. low density로 계대배양시 morphology 변화 및 cell death 일어남. 2. 4일 이상 계대 배양시 cell morphology 변함																	
+WM_SNU354_CL_0053_01	SNU-354	Liver	Human	carcinoma, hepatocellular; primary							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_SNU398_CL_0054_01	SNU-398	Liver	Human	carcinoma, hepatocellular; primary							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_SNU449_CL_0055_01	SNU-449	Liver	Human	carcinoma, hepatocellular; primary							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_SNU475_CL_0056_01	SNU-475	Liver	Human	carcinoma, hepatocellular; primary							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_SNU739_CL_0057_01	SNU-739	Liver	Human	hepatocellular carcinoma							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_SNU878_CL_0058_01	SNU-878	Liver	Human	hepatocellular carcinoma							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_SNU886_CL_0059_01	SNU-886	Liver	Human	hepatocellurar carcinoma							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_A427_CL_0060_01	A427	Lung	Human	carcinoma							DMEM (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_A549_CL_0061_01	A549	Lung	Human	carcinoma							RPMI (+10% FBS, 1% P/S)	Adherent	1:3, 2~3day	KCLB																		
+WM_Calu1_CL_0062_01	Calu-1	Lung	Human	grade III,epidermoid carcinoma							Macoy (+10% FBS, 1% P/S)	Adherent	1:3~1:4, 2~3day	KCLB																		
+WM_Calu3_CL_0063_01	Calu-3	Lung(derived from metastatic site)	Human	adenocarcinoma							DMEM (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_Calu6_CL_0064_01	Calu-6	probably lung	Human	anaplastic carcinoma							RPMI (+10% FBS, 1% P/S)	Adherent	1:4, 2~3days	KCLB																		
+WM_HCC1833_CL_0065_01	HCC-1833	Lung	Human	adenocarcinoma							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_HCC827_CL_0066_01	HCC-827	Lung	Human	NSCLC							RPMI (+10% FBS, 1% P/S)	Adherent	1:4~1:5, 2~3day	KCLB																		
+WM_LA4_CL_0067_01	LA-4	Lung	Human	adenoma							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_NCI-H1299_CL_0068_01	NCI-H1299	Lung(derived from metastatic site)	Human	carcinoma, NSCLC							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_NCI-H1650_CL_0069_01	NCI-H1650	Lung(derived from metastatic site)	Human	stage 3B, adenocarcinoma, bronchoalveolar carcinoma			KRAS wt	△165			RPMI (+10% FBS, 1% P/S)	Adherent	1:4, 2~3days	KCLB																		
+WM_NCI-H1703_CL_0070_01	NCI-H1703	Lung	Human	squamous cell, NSCLC							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_NCI-H1793_CL_0071_01	NCI-H1793	Lung	Human	adenocarcinoma							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_NCI-H2087_CL_0072_01	NCI-H2087	Lung	Human	stage 1, adenocarcinoma, NSCLC							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_NCI-H23_CL_0073_01	NCI-H23	Lung	Human	adenocarcinoma, NSCLC							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_NCI-H358_CL_0074_01	NCI-H358	Lung(bronchiole)	Human	bronchiolar carcinoma, NCSLC			KRAS mt(G12C)	△165			RPMI (+10% FBS, 1% P/S)	Adherent	1:3, 3~4days	KCLB																		
+WM_NCI-H460_CL_0075_01	NCI-H460	Lung	Human	large cell carcinoma			KRAS mt(Q61H)	△165			RPMI (+10% FBS, 1% P/S)	Adherent	1:5, 2~3days	KCLB																		
+WM_NCI-H596_CL_0076_01	NCI-H596	Lung	Human	 adenosquamous carcinoma							RPMI (+10% FBS, 1% P/S)	Adherent		KCLB																		
+WM_NCI-H69_CL_0077_01	NCI-H69	Lung	Human	carcicoma, SCLC			KRAS wt	△165			RPMI (+10% FBS, 1% P/S)	Suspnesion (aggregates)		KCLB																		
+WM_SK-LU-1_CL_0078_01	SK-LU-1	Lung	Human	adenocarcinoma			KRAS mt(G12D)	△165			DMEM (+10% FBS, 1% P/S)	Adherent	1:4, 2~3days	KCLB																		
+WM_SK-MES-1_CL_0079_01	SK-MES-1	Lung(derived from metastatic site)	Human	squamous cell carcinoma							DMEM (+10% FBS, 1% P/S)	Adherent	1:4~1:5, 2~3day	KCLB																		
+WM_Caco2_CL_0080_01	Caco-2	Colon	Human	adenocarcinoma			KRAS wt	WT			MEM (+10% FBS, 1% P/S)	Adherent	1:3, 2~3days	KCLB																		

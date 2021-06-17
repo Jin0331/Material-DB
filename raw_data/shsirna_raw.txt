@@ -1,0 +1,25 @@
+WM-S1	WM_VEGFR1_HR_S1_0001	shVEGFR1	VEGFR1	Human	shRNA			genolution					1번 냉동고 / 진솔	김송이		New									
+WM-S1	WM_VEGFR2_HR_S1_0001	shVEGFR2	VEGFR2	Human	shRNA			genolution					1번 냉동고 / 진솔	김송이		New									
+WM-S1	WM_VEGFR3_HR_S1_0001	shVEGFR3	VEGFR3	Human	shRNA			genolution					1번 냉동고 / 진솔	김송이		New									
+WM-S1	WM_SC_SI_S1_0001	siSC			siRNA	100uM		Bioneer					1번 냉동고 / 진솔	김송이		50uL	50uL	50uL	50uL	50uL	50uL	50uL	50uL	50uL	
+WM-S1	WM_CRG_SI_S1_0001	siCRG #1	exon13	Human	siRNA	100uM		Bioneer					1번 냉동고 / 진솔	김송이		50uL	50uL								
+WM-S1	WM_CRG_SI_S1_0002	siCRG #2	exon13	Human	siRNA			genolution					1번 냉동고 / 진솔	김송이		New									
+WM-S1	WM_CRG_SI_S1_0003	siCRG #3	exon13	Human	siRNA			Bioneer					1번 냉동고 / 진솔	김송이		New									
+WM-S1	WM_NC_HR_S1_0003	sh N.C #3			shRNA			Bioneer					1번 냉동고 / 진솔	김송이											
+WM-S1	WM_NC_HR_S1_0001	NC			shRNA			gene pharma					1번 냉동고 / 진솔	김송이		New	New								
+WM-S1	WM_SRC_HR_S1_0001	shSrc	Src	Human	shRNA			genolution					1번 냉동고 / 진솔	김송이		New									
+WM-S1	WM_CRGX1_HR_S1_0001	shCRG	exon1(1309-1329)	Human	shRNA			genolution					1번 냉동고 / 진솔	김송이		New									
+WM-S1	WM_CRGX1_HR_S1_0002	shCRG 	exon1(980-1002)	Human	shRNA			genolution					1번 냉동고 / 진솔	김송이		New									
+WM-A1	WM_ATF3_HR_A1_0001	shATF3(1)	ATF3	Human	shRNA	100uM		IDT					1번 냉동고/김다은	김송이		50uL	50uL	50uL	50uL	50uL	50uL	50uL	50uL	50uL	
+WM-A1	WM_ATF3_HR_A1_0002	shATF3(1)	ATF3	Human	shRNA	20uM		IDT					1번 냉동고/김다은	김송이		50L	50L	50L							
+WM-A1	WM_PDL1_HR_A1_0001	shPDL-1	PDL-1	Human	shRNA	20uM		genolution					1번 냉동고/김다은	김송이		50uL									
+WM-A1	WM_PDL1_HR_A1_0003	shPDL-1(3)	PDL-1	Human	shRNA	20uM		genolution					1번 냉동고/김다은	김송이		50L	50L	50L	50L	50L					
+WM-A1	WM_PDL1_HR_A1_0002	shATF3(2)	ATF3	Human	shRNA	20uM		genolution					1번 냉동고/김다은	김송이		50L	50L	50L	50L	50L					
+WM-A1	WM_NC_HR_A1_0004	sh N.C#4			shRNA			genolution					1번 냉동고/김다은	김송이		50L									
+WM-A1	WM_IRF2_HR_A1_0001	shIRF2		Human	shRNA	20uM		genolution					1번 냉동고/김다은	김송이		50L									
+WM-A1	WM_CMG_HR_A1_0001	shCMG		Human	shRNA	100uM		genolution					1번 냉동고/김다은	김송이		50L									
+WM-A2	WM_CEACAM_HR_A2_0001	shCEACAM_1	CEACAM	Human	shRNA			genolution					1번 냉동고 / 김하나	김송이		50L	50L	50L							
+WM-A2	WM_CEACAM_HR_A2_0002	shCEACAM_2	CEACAM	Human	shRNA			genolution					1번 냉동고 / 김하나	김송이		50L	50L	50L							
+WM-P1	WM_SERTAD1_HR_P1_0003	shSERTAD1(3)	SERTAD1	human	shRNA			genolution					6번 냉동고/ 진솔	김송이											
+WM-P1	WM_P53_HR_P1_0001	sh_p53 #1 	p53	Human	shRNA			genolution					1번 냉동고 / 약효평가 1팀	김송이		50L									
+WM-P1	WM_P53_HR_P1_0002	sh_p53 #2 	p53	Human	shRNA			genolution					1번 냉동고 / 약효평가 1팀	김송이		50L	50L	50L	50L						

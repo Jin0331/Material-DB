@@ -345,7 +345,8 @@ def protein_to_mongo(path):
         
         # Inserting Data
         total_converting.append({"Project":line[0], "WMB_NO":line[1], "Reagent_name":line[2], "Manufacturer":line[3], "Cat_No":line[4], 
-                         "Lot_No":line[5], "Leftover":line[6], "Location":line[7], "Data_sheet":line[8]})  
+                         "Lot_No":line[5], "Leftover":line[6], "Location":line[7], "Data_sheet":line[8], "New1":line[9], "New2":line[10], "New3":line[11],
+                         "New4":line[12], "New5":line[13], "New6":line[14], "New7":line[15], "New8":line[16], "New9":line[17], "New10":line[18]})  
         
     with open(date_join, 'w', encoding="UTF-8") as file:
         file.write((json.dumps(total_converting, indent=4, sort_keys= False, ensure_ascii=False)))

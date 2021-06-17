@@ -1,0 +1,3997 @@
+[
+    {
+        "WMB_NO": "WM_SNU308_CL_0001_01",
+        "Celline": "SNU-308",
+        "Tissue": "Biliary tract",
+        "Organism": "Human",
+        "Disease": "Biliary tract cancer, gall bladder",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "△165",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI with 25mM HEPES (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3, 4~5days",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_FaDu_CL_0002_01",
+        "Celline": "FaDu",
+        "Tissue": "pharynx",
+        "Organism": "Human",
+        "Disease": "carcinoma, squamous cell",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "Cetuximab",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "△165",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "MEM (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4~1:6, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_SNU869_CL_0003_01",
+        "Celline": "SNU-869",
+        "Tissue": "Biliary tract",
+        "Organism": "Human",
+        "Disease": "Biliary tract cancer, ampulla of vater",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "△165",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI with 25mM HEPES (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_LS513_CL_0004_01",
+        "Celline": "LS513",
+        "Tissue": "Colon/cecal",
+        "Organism": "Human",
+        "Disease": "carcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "KRAS mt(G12D)",
+                "RON_Genotype": "△165",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI with 25mM HEPES (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_SNU1196_CL_0005_01",
+        "Celline": "SNU-1196",
+        "Tissue": "Biliary tract",
+        "Organism": "Human",
+        "Disease": "Biliary tract cancer, hepatic duct bifurcation",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "△165",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI with 25mM HEPES (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_HCC366_CL_0006_01",
+        "Celline": "HCC-366",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "NSCLC",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_HCC15_CL_0007_01",
+        "Celline": "HCC-15",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "NSCLC",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4~1:6, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_HCC2108_CL_0008_01",
+        "Celline": "HCC-2108",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI with 25mM HEPES (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_HCC1171_CL_0009_01",
+        "Celline": "HCC-1171",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI with 25mM HEPES (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_HCC44_CL_0010_01",
+        "Celline": "HCC-44",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "NSCLC",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI with 25mM HEPES (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4~1:6, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_NCI-H522_CL_0011_01",
+        "Celline": "NCI-H522",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI with 25mM HEPES (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_NCI-H1373_CL_0012_01",
+        "Celline": "NCI-H1373",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma(stage3A)",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI with 25mM HEPES (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_HCC2279_CL_0013_01",
+        "Celline": "HCC-2279",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "adeno-squamous cell carcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_NCI-H1993_CL_0014_01",
+        "Celline": "NCI-H1993",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "NSCLC(stage 3A, adenocarcinoma)",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "ATCC",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_NCI-H2030_CL_0015_01",
+        "Celline": "NCI-H2030",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "NSCLC(adenocarcinoma)",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "ATCC",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_NCI-H2228_CL_0016_01",
+        "Celline": "NCI-H2228",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "NSCLC(adenocarcinoma)",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3~1:4, 2~3days",
+        "Purchase": "ATCC",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_NCI-H520_CL_0017_01",
+        "Celline": "NCI-H520",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Squamous cell carcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:2~1:3, 2~3days",
+        "Purchase": "ATCC",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_MIA PaCa2_CL_0018_01",
+        "Celline": "MIA PaCa-2",
+        "Tissue": "pancreas",
+        "Organism": "Human",
+        "Disease": "carcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "KRAS mt(G12C)",
+                "RON_Genotype": "△160",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "DMEM (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Mix",
+        "Ratio_Period": "1:5~1:7, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_PANC1_CL_0019_01",
+        "Celline": "PANC-1",
+        "Tissue": "pancreas/ducts",
+        "Organism": "Human",
+        "Disease": "carcinoma, epidermoid",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "KRAS mt(G12D)",
+                "RON_Genotype": "△155",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "DMEM (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_SW900_CL_0020_01",
+        "Celline": "SW900",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "carcinoma, squamous cell(grade IV)",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "L15(+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3~1:4, 4~5day",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_HCC1588_CL_0021_01",
+        "Celline": "HCC-1588",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Squamous cell carcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI with 25mM HEPES (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3~1:4, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_HCC2279_CL_0022_01",
+        "Celline": "HCC-2279",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "adeno-squamous cell carcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI with 25mM HEPES (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_HCC1438_CL_0023_01",
+        "Celline": "HCC-1438",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "large cell tumor",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI with 25mM HEPES (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_NCI-H1755_CL_0024_01",
+        "Celline": "NCI-H1755",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma, NSCLC",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI with 25mM HEPES (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Mix",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_HCC95_CL_0025_01",
+        "Celline": "HCC-95",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Squamous cell carcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI with 25mM HEPES (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_HCC1359_CL_0026_01",
+        "Celline": "HCC-1359",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "spindle giant cell tumor",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI with 25mM HEPES (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_SNU478_CL_0027_01",
+        "Celline": "SNU-478",
+        "Tissue": "Biliary tract",
+        "Organism": "Human",
+        "Disease": "Biliary tract cancer, ampulla of vater",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "△165",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:5, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_BT20_CL_0028_01",
+        "Celline": "BT20",
+        "Tissue": "breast",
+        "Organism": "Human",
+        "Disease": "breast cancer ",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB, ATCC",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_HCC1937_CL_0029_01",
+        "Celline": "HCC1937",
+        "Tissue": "breast",
+        "Organism": "Human",
+        "Disease": "TNM stage IIB, grade3, primary ductal carcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_HCC38_CL_0030_01",
+        "Celline": "HCC38",
+        "Tissue": "breast",
+        "Organism": "Human",
+        "Disease": "TNM stage IIB, grade3, primary ductal carcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent(loosely attached clusters)",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_MDA-MB-231_CL_0031_01",
+        "Celline": "MDA-MB-231",
+        "Tissue": "Mammary gland,breast",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma; pleural effusion",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_MDA-MB-453_CL_0032_01",
+        "Celline": "MDA-MB-453",
+        "Tissue": "Mammary gland,breast",
+        "Organism": "Human",
+        "Disease": "Metastatic carcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_SKBR3_CL_0033_01",
+        "Celline": "SK-BR-3",
+        "Tissue": "Mammary gland,breast",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma; pleural effusion, malignant",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_T47D_CL_0034_01",
+        "Celline": "T47D",
+        "Tissue": "Mammary gland",
+        "Organism": "Human",
+        "Disease": "ductal carcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB, ATCC",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_HeLa_CL_0035_01",
+        "Celline": "HeLa",
+        "Tissue": "cervix, uterine",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "MEM (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:6, 2~3days",
+        "Purchase": "None",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_CCD-986sk_CL_0001_11",
+        "Celline": "CCD-986sk",
+        "Tissue": "Skin",
+        "Organism": "Human",
+        "Disease": "Normal",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "DMEM (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_B16F10_CL_0036_01",
+        "Celline": "B16-F10",
+        "Tissue": "Skin",
+        "Organism": "Mouse",
+        "Disease": "melanoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:8, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_Ags_CL_0037_01",
+        "Celline": "AGS",
+        "Tissue": "Stomach",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "DMEM (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_Hs746T_CL_0038_01",
+        "Celline": "Hs746T",
+        "Tissue": "Stomach",
+        "Organism": "Human",
+        "Disease": "carcinoma; metastatic to left leg",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:2, 4~5days",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_KATO III_CL_0039_01",
+        "Celline": "KATO III",
+        "Tissue": "Stomach",
+        "Organism": "Human",
+        "Disease": "carcinoma, pleural effusion with metastases to supraclavicular and axillary lymph nodes",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Mix",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_MKN1_CL_0040_01",
+        "Celline": "MKN-1",
+        "Tissue": "Stomach",
+        "Organism": "Human",
+        "Disease": "carcinoma, adenosquamous",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_MKN45_CL_0041_01",
+        "Celline": "MKN-45",
+        "Tissue": "Stomach",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_MKN74_CL_0042_01",
+        "Celline": "MKN-74",
+        "Tissue": "Stomach",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma, tubular",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_NCI-N87_CL_0043_01",
+        "Celline": "NCI-N87",
+        "Tissue": "Stomach",
+        "Organism": "Human",
+        "Disease": "carcinoma; metastatic to liver",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_NIH3T3_CL_0002_11",
+        "Celline": "NIH3T3",
+        "Tissue": "Embryo",
+        "Organism": "Mouse",
+        "Disease": "Normal",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "DMEM (+10% BS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:8, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_COS-7_CL_0003_11",
+        "Celline": "COS-7",
+        "Tissue": "Kidney",
+        "Organism": "Monkey",
+        "Disease": "SV40 transformed",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "DMEM (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_HEK293_CL_0004_11",
+        "Celline": "HEK293",
+        "Tissue": "Kidney",
+        "Organism": "Human",
+        "Disease": "transformed primary embryonal kidney",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "MEM (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_DU145_CL_0044_01",
+        "Celline": "DU145",
+        "Tissue": "prostate",
+        "Organism": "Human",
+        "Disease": "carcinoma, metastasis to brain",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_LNCap_CL_0045_01",
+        "Celline": "LNCaP",
+        "Tissue": "prostate",
+        "Organism": "Human",
+        "Disease": "carcinoma, metastasis to left supraclavicular lymph node",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "clusters(lightly adherent)",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_PC3_CL_0046_01",
+        "Celline": "PC-3",
+        "Tissue": "prostate",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma, grade4, metastasis to brain",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_THP-1_CL_0001_02",
+        "Celline": "THP-1",
+        "Tissue": "Monocyte",
+        "Organism": "Human",
+        "Disease": "leukemia, acute monocytic",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Suspension",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "PMA 분화 되지 않음",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_SKOV3_CL_0047_01",
+        "Celline": "SK-OV-3",
+        "Tissue": "ovary",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma, malignant ascites",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_H4IIE_CL_0048_01",
+        "Celline": "H4-II-E",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "hepatoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "EMEM(+10% FBS, 10% calf serum, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_HepG2_CL_0049_01",
+        "Celline": "HepG2",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "hepatoblastoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "MEM (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3, 2days 1:4, 3days",
+        "Purchase": "KCLB",
+        "Issue": "1. 너무 낮은 density 로 계대배양시 cell death 일어남. 2. Over growth 주의하여 세포 배양 할것",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_HepG2_CL_0050_01",
+        "Celline": "HepG2",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "carcinoma, hepatocellular",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "DMEM (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3~1:4, 2days 1:4~1:5, 3days",
+        "Purchase": "KCLB",
+        "Issue": "1. 계대 배양시 single cell로 잘 풀어서 배양 할것 2. Confluency 높지 않게 세포 배양 할것(over growth시 cell morphology 변함)",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_Huh7_CL_0051_01",
+        "Celline": "Huh7",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Epithilial-like",
+        "Ratio_Period": "1:4~1:6, 2~3day",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_SK-HEP-1_CL_0052_01",
+        "Celline": "SK-HEP-1",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma; ascites",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "DMEM (+10% FBS, 1% P/S, 2mM L-glutamine)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4, 2days 1:5, 3days",
+        "Purchase": "KCLB",
+        "Issue": "1. low density로 계대배양시 morphology 변화 및 cell death 일어남. 2. 4일 이상 계대 배양시 cell morphology 변함",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_SNU354_CL_0053_01",
+        "Celline": "SNU-354",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "carcinoma, hepatocellular; primary",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_SNU398_CL_0054_01",
+        "Celline": "SNU-398",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "carcinoma, hepatocellular; primary",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_SNU449_CL_0055_01",
+        "Celline": "SNU-449",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "carcinoma, hepatocellular; primary",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_SNU475_CL_0056_01",
+        "Celline": "SNU-475",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "carcinoma, hepatocellular; primary",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_SNU739_CL_0057_01",
+        "Celline": "SNU-739",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "hepatocellular carcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_SNU878_CL_0058_01",
+        "Celline": "SNU-878",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "hepatocellular carcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_SNU886_CL_0059_01",
+        "Celline": "SNU-886",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "hepatocellurar carcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_A427_CL_0060_01",
+        "Celline": "A427",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "carcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "DMEM (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_A549_CL_0061_01",
+        "Celline": "A549",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "carcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3, 2~3day",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_Calu1_CL_0062_01",
+        "Celline": "Calu-1",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "grade III,epidermoid carcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "Macoy (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3~1:4, 2~3day",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_Calu3_CL_0063_01",
+        "Celline": "Calu-3",
+        "Tissue": "Lung(derived from metastatic site)",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "DMEM (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_Calu6_CL_0064_01",
+        "Celline": "Calu-6",
+        "Tissue": "probably lung",
+        "Organism": "Human",
+        "Disease": "anaplastic carcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_HCC1833_CL_0065_01",
+        "Celline": "HCC-1833",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_HCC827_CL_0066_01",
+        "Celline": "HCC-827",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "NSCLC",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4~1:5, 2~3day",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_LA4_CL_0067_01",
+        "Celline": "LA-4",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "adenoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_NCI-H1299_CL_0068_01",
+        "Celline": "NCI-H1299",
+        "Tissue": "Lung(derived from metastatic site)",
+        "Organism": "Human",
+        "Disease": "carcinoma, NSCLC",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_NCI-H1650_CL_0069_01",
+        "Celline": "NCI-H1650",
+        "Tissue": "Lung(derived from metastatic site)",
+        "Organism": "Human",
+        "Disease": "stage 3B, adenocarcinoma, bronchoalveolar carcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "△165",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_NCI-H1703_CL_0070_01",
+        "Celline": "NCI-H1703",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "squamous cell, NSCLC",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_NCI-H1793_CL_0071_01",
+        "Celline": "NCI-H1793",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_NCI-H2087_CL_0072_01",
+        "Celline": "NCI-H2087",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "stage 1, adenocarcinoma, NSCLC",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_NCI-H23_CL_0073_01",
+        "Celline": "NCI-H23",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma, NSCLC",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_NCI-H358_CL_0074_01",
+        "Celline": "NCI-H358",
+        "Tissue": "Lung(bronchiole)",
+        "Organism": "Human",
+        "Disease": "bronchiolar carcinoma, NCSLC",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "KRAS mt(G12C)",
+                "RON_Genotype": "△165",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3, 3~4days",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_NCI-H460_CL_0075_01",
+        "Celline": "NCI-H460",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "large cell carcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "KRAS mt(Q61H)",
+                "RON_Genotype": "△165",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:5, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_NCI-H596_CL_0076_01",
+        "Celline": "NCI-H596",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": " adenosquamous carcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_NCI-H69_CL_0077_01",
+        "Celline": "NCI-H69",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "carcicoma, SCLC",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "△165",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "RPMI (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Suspnesion (aggregates)",
+        "Ratio_Period": "",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_SK-LU-1_CL_0078_01",
+        "Celline": "SK-LU-1",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "KRAS mt(G12D)",
+                "RON_Genotype": "△165",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "DMEM (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_SK-MES-1_CL_0079_01",
+        "Celline": "SK-MES-1",
+        "Tissue": "Lung(derived from metastatic site)",
+        "Organism": "Human",
+        "Disease": "squamous cell carcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "DMEM (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4~1:5, 2~3day",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    },
+    {
+        "WMB_NO": "WM_Caco2_CL_0080_01",
+        "Celline": "Caco-2",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Picture": "",
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "WT",
+                "IGSF1 Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "Media_Condition": "MEM (+10% FBS, 1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": "",
+        "RT_PCR": [
+            {
+                "RON": "",
+                "KRAS": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "WB": [
+            {
+                "RON": "",
+                "BRAF": "",
+                "EGFR": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": "",
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": "",
+        "New9": "",
+        "New10": ""
+    }
+]

@@ -1,7 +1,4 @@
 # ignore
-PDF/
-backup/
-raw_data/
 py/.ipynb_checkpoints
 *.Rproj
 .Rproj.user

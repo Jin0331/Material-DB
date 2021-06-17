@@ -1,0 +1,20 @@
+[
+    {
+        "WMB_NO": "WM_WMA1_501_03_KR_CELL_PB_6_01_FACS_1",
+        "SampleID": "WMA1_501_03",
+        "FF_ID": "R01003",
+        "Gumche_bungo": "Immune cell_analysis",
+        "Experimental_Information": [
+            {
+                "image_path": "WM_WMA1_501_03_KR_CELL_PB_6_01_FACS_1.jpg",
+                "Meterial": "CD4, CD8, CD56, CD14, CD19 Ab",
+                "Method": "Surface Marker Staining (FACS)",
+                "Condition": "10-*10^6당 2.5ul",
+                "Experimental_content": "PBMC의 Immune cell population 확인",
+                "Result": "CD4 (35.2%), CD8 (13.5%), CD56 (1.3%), CD14 (15.7%), CD19 (6.5%)",
+                "Manager": "손혜진",
+                "Date": "2020.12. 21"
+            }
+        ]
+    }
+]

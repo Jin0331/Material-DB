@@ -1,0 +1,137 @@
+[
+    {
+        "WMB_NO": "WM_PDX#87_KR_COAD_PX_0002_01_01",
+        "SampleID": "PDX #87",
+        "FF_ID": "",
+        "Gumche_bungo": "C87",
+        "Tissue_site": "Colon",
+        "Cancer": "+",
+        "Tumor_Grade": "",
+        "Tumor_Stage": "",
+        "Treatment_History": "",
+        "Drug_resistant": "",
+        "Experimental_Information": [
+            {
+                "image_path": "WM_PDX#87_KR_COAD_PX_0002_01_01 (4).jpg",
+                "Experimental_tissue": "Colorectal cancer",
+                "Passage": "P5",
+                "Media": "HBSS",
+                "Transplantation_point": "18.11.02",
+                "Administration_point": "18.11.20",
+                "Transplantation_Administration_duration": "Day18",
+                "Issue": "Day 28 - Vehicle 평균 2825 mm3",
+                "Experimental_info": "WM-S1-030 – 50 mg/kg에서 단독 효능 평가",
+                "Experimental_result": "WM-S1-030 50 mg/kg : 83.1%",
+                "Soohangja": "이민기;이미소"
+            }
+        ]
+    },
+    {
+        "WMB_NO": "WM_PDX#87_KR_COAD_PX_0002_01_02",
+        "SampleID": "PDX #87",
+        "FF_ID": "",
+        "Gumche_bungo": "C87",
+        "Tissue_site": "Colon",
+        "Cancer": "+",
+        "Tumor_Grade": "",
+        "Tumor_Stage": "",
+        "Treatment_History": "",
+        "Drug_resistant": "",
+        "Experimental_Information": [
+            {
+                "image_path": "WM_PDX#87_KR_COAD_PX_0002_01_02 (3).jpg",
+                "Experimental_tissue": "Colorectal cancer",
+                "Passage": "P5",
+                "Media": "HBSS",
+                "Transplantation_point": "18.12.18",
+                "Administration_point": "19.01.04",
+                "Transplantation_Administration_duration": "Day17",
+                "Issue": "Day 28 - Vehicle 평균 1777 mm3",
+                "Experimental_info": "WM-S1-030, BMS-777607, Cetuximab 단독, 병용 효능 평가",
+                "Experimental_result": "BMS-777607 30 mg/kg : 18.5%;WM-S1-030 30 mg/kg : 73.1%;Cetuximab 40 mg/kg : 91.9 %;BMS+Cetux : 86.4 %;WM-S1 + Cetux : 94.7 %",
+                "Soohangja": "이민기;이미소"
+            }
+        ]
+    },
+    {
+        "WMB_NO": "WM_PDX#116_KR_COAD_PX_0003_01_01",
+        "SampleID": "PDX #116",
+        "FF_ID": "",
+        "Gumche_bungo": "C116",
+        "Tissue_site": "Colon",
+        "Cancer": "+",
+        "Tumor_Grade": "",
+        "Tumor_Stage": "",
+        "Treatment_History": "",
+        "Drug_resistant": "",
+        "Experimental_Information": [
+            {
+                "image_path": "WM_PDX#116_KR_COAD_PX_0003_01_01 (3).jpg",
+                "Experimental_tissue": "Colorectal cancer",
+                "Passage": "P5",
+                "Media": "HBSS",
+                "Transplantation_point": "19.02.22",
+                "Administration_point": "19.03.11",
+                "Transplantation_Administration_duration": "Day17",
+                "Issue": "Day 28 - Vehicle 평균 715 mm3",
+                "Experimental_info": "WM-S1-030 – 50 mg/kg에서 단독 효능 평가",
+                "Experimental_result": "WM-S1-030 50 mg/kg : 39.4%",
+                "Soohangja": "이민기;이준형"
+            }
+        ]
+    },
+    {
+        "WMB_NO": "WM_PDX#116_KR_COAD_PX_0003_01_02",
+        "SampleID": "PDX #116",
+        "FF_ID": "",
+        "Gumche_bungo": "C116",
+        "Tissue_site": "Colon",
+        "Cancer": "+",
+        "Tumor_Grade": "",
+        "Tumor_Stage": "",
+        "Treatment_History": "",
+        "Drug_resistant": "",
+        "Experimental_Information": [
+            {
+                "image_path": "WM_PDX#116_KR_COAD_PX_0003_01_02 (3).jpg",
+                "Experimental_tissue": "Colorectal cancer",
+                "Passage": "P5",
+                "Media": "HBSS",
+                "Transplantation_point": "19.03.06",
+                "Administration_point": "19.03.22",
+                "Transplantation_Administration_duration": "Day16",
+                "Issue": "Day 28 - Vehicle 평균 1473 mm3",
+                "Experimental_info": "WM-S1-030, BMS-777607, Cetuximab 단독, 병용 효능 평가",
+                "Experimental_result": "BMS-777607 50 mg/kg : 31.1 %;WM-S1-030 50 mg/kg : 56.8 %;Cetuximab 40 mg/kg : 16.3 %;BMS+Cetux : 31.8 %;WM-S1 + Cetux : 74.2 %",
+                "Soohangja": "이민기;이준형"
+            }
+        ]
+    },
+    {
+        "WMB_NO": "WM_PDX#87_KR_COAD_PX_0002_01_03",
+        "SampleID": "PDX #87",
+        "FF_ID": "",
+        "Gumche_bungo": "C87",
+        "Tissue_site": "Colon",
+        "Cancer": "+",
+        "Tumor_Grade": "",
+        "Tumor_Stage": "",
+        "Treatment_History": "",
+        "Drug_resistant": "",
+        "Experimental_Information": [
+            {
+                "image_path": "WM_PDX#87_KR_COAD_PX_0002_01_03 (3).jpg",
+                "Experimental_tissue": "Colorectal cancer",
+                "Passage": "P5",
+                "Media": "HBSS",
+                "Transplantation_point": "19.05.02",
+                "Administration_point": "19.05.16",
+                "Transplantation_Administration_duration": "Day14",
+                "Issue": "Day 28 - Vehicle 평균 2029 mm3",
+                "Experimental_info": "WM-S1-030, BMS-777607, Crizotinib - 10, 30 mg/kg에서 단독 효능 평가",
+                "Experimental_result": "BMS-777607 10 mg/kg : 31.3 %;BMS-777607 30 mg/kg : 50.4 %;Crizotinib 10 mg/kg : 25.8 %;Crizotinib 10 mg/kg : 25.6 %;WM-S1-030 10 mg/kg : 79.5 %;WM-S1-030 10 mg/kg : 86.5 %",
+                "Soohangja": "이민기;이준형"
+            }
+        ]
+    }
+]
