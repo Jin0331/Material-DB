@@ -1,0 +1,3 @@
+WM_PDX#87_KR_COAD_PX_0001_01_01	PDX #52		C52	ASAN			Colon		적출 후 24시간 이내	신재식	2018년 이전	동물실험팀 LN2																															
+WM_PDX#87_KR_COAD_PX_0002_01_01	PDX #87		C87	ASAN			Colon		적출 후 24시간 이내	신재식	2018년 이전	동물실험팀 LN2																															
+WM_PDX#87_KR_COAD_PX_0003_01_01	PDX #116		C116	ASAN			Colon		적출 후 24시간 이내	신재식	2018년 이전	동물실험팀 LN2																															

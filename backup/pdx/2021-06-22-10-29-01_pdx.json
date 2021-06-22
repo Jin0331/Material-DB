@@ -1,0 +1,230 @@
+[
+    {
+        "WMB_NO": "WM_PDX#87_KR_COAD_PX_0001_01_01",
+        "SampleID": "PDX #52",
+        "FF_ID": "",
+        "Gumche_bungo": "C52",
+        "Gooipchu": [
+            {
+                "Gooknae": "ASAN",
+                "Haeoe": ""
+            }
+        ],
+        "Ethnicity": "",
+        "Tissue": "Colon",
+        "Disease": "",
+        "Ipgo_hyngtae": "적출 후 24시간 이내",
+        "Insooja": "신재식",
+        "Ipgo_Date": "2018년 이전",
+        "Location": "동물실험팀 LN2",
+        "Tumor_Grade": "",
+        "Tumor_Stage": "",
+        "Patient_defualt": [
+            {
+                "Gender": "",
+                "Age": "",
+                "Height": "",
+                "Weight": ""
+            }
+        ],
+        "Patient_smoking": [
+            {
+                "Status": "",
+                "Cigarettes_Day": "",
+                "Duration": ""
+            }
+        ],
+        "Patient_alchohol": [
+            {
+                "Status": "",
+                "Drinks_Day": "",
+                "Duration": ""
+            }
+        ],
+        "Treatment_history": [
+            {
+                "Prior_Treatment": "",
+                "Drug": "",
+                "Drug2": ""
+            }
+        ],
+        "Histological_Description": "",
+        "Experimental_animals": [
+            {
+                "Mouse_Type": "",
+                "Gooipchu": ""
+            }
+        ],
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1_Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": [
+            38
+        ],
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": ""
+    },
+    {
+        "WMB_NO": "WM_PDX#87_KR_COAD_PX_0002_01_01",
+        "SampleID": "PDX #87",
+        "FF_ID": "",
+        "Gumche_bungo": "C87",
+        "Gooipchu": [
+            {
+                "Gooknae": "ASAN",
+                "Haeoe": ""
+            }
+        ],
+        "Ethnicity": "",
+        "Tissue": "Colon",
+        "Disease": "",
+        "Ipgo_hyngtae": "적출 후 24시간 이내",
+        "Insooja": "신재식",
+        "Ipgo_Date": "2018년 이전",
+        "Location": "동물실험팀 LN2",
+        "Tumor_Grade": "",
+        "Tumor_Stage": "",
+        "Patient_defualt": [
+            {
+                "Gender": "",
+                "Age": "",
+                "Height": "",
+                "Weight": ""
+            }
+        ],
+        "Patient_smoking": [
+            {
+                "Status": "",
+                "Cigarettes_Day": "",
+                "Duration": ""
+            }
+        ],
+        "Patient_alchohol": [
+            {
+                "Status": "",
+                "Drinks_Day": "",
+                "Duration": ""
+            }
+        ],
+        "Treatment_history": [
+            {
+                "Prior_Treatment": "",
+                "Drug": "",
+                "Drug2": ""
+            }
+        ],
+        "Histological_Description": "",
+        "Experimental_animals": [
+            {
+                "Mouse_Type": "",
+                "Gooipchu": ""
+            }
+        ],
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1_Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": [
+            38
+        ],
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": ""
+    },
+    {
+        "WMB_NO": "WM_PDX#87_KR_COAD_PX_0003_01_01",
+        "SampleID": "PDX #116",
+        "FF_ID": "",
+        "Gumche_bungo": "C116",
+        "Gooipchu": [
+            {
+                "Gooknae": "ASAN",
+                "Haeoe": ""
+            }
+        ],
+        "Ethnicity": "",
+        "Tissue": "Colon",
+        "Disease": "",
+        "Ipgo_hyngtae": "적출 후 24시간 이내",
+        "Insooja": "신재식",
+        "Ipgo_Date": "2018년 이전",
+        "Location": "동물실험팀 LN2",
+        "Tumor_Grade": "",
+        "Tumor_Stage": "",
+        "Patient_defualt": [
+            {
+                "Gender": "",
+                "Age": "",
+                "Height": "",
+                "Weight": ""
+            }
+        ],
+        "Patient_smoking": [
+            {
+                "Status": "",
+                "Cigarettes_Day": "",
+                "Duration": ""
+            }
+        ],
+        "Patient_alchohol": [
+            {
+                "Status": "",
+                "Drinks_Day": "",
+                "Duration": ""
+            }
+        ],
+        "Treatment_history": [
+            {
+                "Prior_Treatment": "",
+                "Drug": "",
+                "Drug2": ""
+            }
+        ],
+        "Histological_Description": "",
+        "Experimental_animals": [
+            {
+                "Mouse_Type": "",
+                "Gooipchu": ""
+            }
+        ],
+        "Characterization": [
+            {
+                "Chemoresistance_status": "",
+                "Mutation_status": "",
+                "RON_Genotype": "",
+                "IGSF1_Genotype": "",
+                "P34_Genotype": ""
+            }
+        ],
+        "New1": "",
+        "New2": "",
+        "New3": [
+            38
+        ],
+        "New4": "",
+        "New5": "",
+        "New6": "",
+        "New7": "",
+        "New8": ""
+    }
+]

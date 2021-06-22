@@ -49,7 +49,7 @@ def blood_to_mongo(path):
                      "Patient_alchohol":Patient_alcohol, "Treatment_history" : Treatment_history, 
                      "Singel_cell_seperation_date":Singel_cell_seperation_date, "Cell_population":Cell_population, 
                      "Cytokine_profile":Cytokine_profile, "In_vitro_coculture_with":In_vitro_coculture_with, "Tested_drug":Tested_drug,
-                     "Blood1":line[41], "Blood2":line[42], "Blood3":line[43], "Blood4":line[44], "Blood5":line[45]})  
+                     "New1":line[41], "New2":line[42], "New3":line[43], "New4":line[44], "New5":line[45]})  
         
     with open(date_join, 'w', encoding="UTF-8") as file:
         file.write((json.dumps(total_converting, indent=4, sort_keys= False, ensure_ascii=False)))
@@ -132,7 +132,8 @@ def pdx_to_mongo(path):
                      "Tumor_Stage":line[14], "Patient_defualt":Patient_defualt, "Patient_smoking":Patient_smoking, 
                      "Patient_alchohol":Patient_alcohol, "Treatment_history" : Treatment_history,
                      "Histological_Description":line[28], "Experimental_animals":Experimental_animals,
-                     "Characterization":Characterization})  
+                     "Characterization":Characterization, "New1":line[36], "New2":line[37], "New3":line[38], "New4":line[39], "New5":line[40], "New6":line[41], 
+                     "New7":line[42], "New8":line[43]})  
         
     with open(date_join, 'w', encoding="UTF-8") as file:
         file.write((json.dumps(total_converting, indent=4, sort_keys= False, ensure_ascii=False)))
