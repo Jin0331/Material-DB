@@ -1,4 +1,5 @@
 # ignore
+.vscode
 py/.ipynb_checkpoints
 *.Rproj
 .Rproj.user
