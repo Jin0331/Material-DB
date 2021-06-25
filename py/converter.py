@@ -224,7 +224,7 @@ def ff_to_mongo(path):
                                  "Patient_defualt":Patient_defualt, "Patient_smoking":Patient_smoking, "Patient_alcohol":Patient_alcohol,
                                  "Patient_surgery":Patient_surgery, "Treatment_history":Treatment_history, "Histological Description":line[32],
                                  "TNM_Staging":line[33], "Microsatellite instability":line[34], "RT_PCR":RT_PCR, "WB_Experimental":WB_Experimental,
-                                 "New1":line[52], "New2":line[53], "New3":[54], "New4":line[55], "New5":line[56], "New6":line[57], "New7":line[58]
+                                 "New1":line[52], "New2":line[53], "New3":line[54], "New4":line[55], "New5":line[56], "New6":line[57], "New7":line[58]
                                 })  
         
     with open(date_join, 'w', encoding="UTF-8") as file:
@@ -260,7 +260,7 @@ def ff_result_to_mongo(path):
         Treatment_history.append({"Prior_Treatment":line[6], "Drug_Response":line[7]})
         RT_PCR.append({"RON":line[8], "KRAS":line[9], "BRAF":line[10], "EGFR":line[11], "IGSF1":line[12], "RT_PCR1":line[13],
                       "RT_PCR2":line[14], "RT_PCR3":line[15], "RT_PCR4":line[16], "RT_PCR5":line[17], "RT_PCR6":line[18],
-                      "RT_PCR7":line[19], "RT_PCR6":line[20]})
+                      "RT_PCR7":line[19], "RT_PCR8":line[20]})
         WB_Experimental.append({"RON":line[21], "BRAF":line[22], "EGFR":line[23], "WB_Experimental1":line[24], "WB_Experimental2":line[25],
                                "WB_Experimental3":line[26], "WB_Experimental4":line[27], "WB_Experimental5":line[28], "WB_Experimental6":line[29], 
                                "WB_Experimental7":line[30], "WB_Experimental8":line[31], "WB_Experimental9":line[32]})
