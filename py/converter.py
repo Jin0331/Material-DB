@@ -274,6 +274,89 @@ def ff_result_to_mongo(path):
     
     return total_converting
 
+def ffpe_to_mongo(path):
+    # backup file write
+    save_path = "/home/wmbio/WMBIO_DB/backup/ffpe"
+    file_name = timeStamped("ffpe.json")
+    date_join = os.path.join(save_path, file_name)
+    
+    # txt to json(list or tuple)
+    total_converting = list()
+
+    f = open(path, "r", encoding="UTF-8")
+    content = f.read()
+    splitcontent = content.splitlines()
+
+    for line in splitcontent:
+        line = line.split("\t")
+
+        # tuple list
+        # assiagn empty list
+        empty_list_name = ["Gooipchu", "Subdivide_Tissue", "Patient_defualt", "Patient_smoking", "Patient_alcohol", "IHC_result"]
+        for name in empty_list_name:
+            exec("%s = list()" %(name), globals())
+
+        # each filed to tuple
+        Gooipchu.append({"Gooknae":line[3], "Haeoe":line[4]})
+        Patient_defualt.append({"Gender":line[14], "Age":line[15], "Height":line[16], "Weight":line[17]})
+        Patient_smoking.append({"Status":line[18], "Cigarettes_Day":line[19], "Duration":line[20]})
+        Patient_alcohol.append({"Status":line[21], "Drinks_Day":line[22], "Duration":line[23]})
+        IHC_result.append({"p53":line[24], "p34":line[25], "MDM2":line[26], "pRON":line[27], "RON":line[28], "MSP":line[29], "cmyc":line[30],
+                          "PDL1":line[31], "IGSF1":line[32], "New1":line[33], "New2":line[34], "New3":line[35],"New4":line[36], "New5":line[37],
+                          "New6":line[38], "New7":line[39], "New8":line[40], "New9":line[41], "New10":line[42], "New11":line[43], "New12":line[44],
+                          "New13":line[45], "New14":line[46], "New15":line[47], "New16":line[48], "New17":line[49], "New18":line[50], "New19":line[51],
+                          "New20":line[52], "New21":line[53]})
+
+        # Inserting Data
+        total_converting.append({"WMB_NO":line[0], "SampleID":line[1], "FF_ID":line[2], "Gooipchu":Gooipchu,
+                                 "Ethnicity":line[5], "Tissue_site":line[6], "Ipgo_hyngtae":line[7], "Insooja":line[8],
+                                 "Ipgo_Date":line[9], "Location":line[10], "Cancer":line[11], "Tumor_Grade":line[12], "Tumor_Stage":line[13],
+                                 "Patient_defualt":Patient_defualt, "Patient_smoking":Patient_smoking, "Patient_alcohol":Patient_alcohol,
+                                 "IHC_result":IHC_result})  
+        
+    with open(date_join, 'w', encoding="UTF-8") as file:
+        file.write((json.dumps(total_converting, indent=4, sort_keys= False, ensure_ascii=False)))
+    
+    return total_converting
+
+def ffpe_result_to_mongo(path):
+    # backup file write
+    save_path = "/home/wmbio/WMBIO_DB/backup/ffpe_result"
+    file_name = timeStamped("ffpe_result.json")
+    date_join = os.path.join(save_path, file_name)
+    
+    # txt to json(list or tuple)
+    total_converting = list()
+
+    f = open(path, "r", encoding="UTF-8")
+    content = f.read()
+    splitcontent = content.splitlines()
+
+    for line in splitcontent:
+        line = line.split("\t")
+
+        # tuple list
+        # assiagn empty list
+        empty_list_name = [
+                            "WB_Experimental"
+                          ]
+        for name in empty_list_name:
+            exec("%s = list()" %(name), globals())
+
+        # each filed to tuple
+        WB_Experimental.append({"Image":line[7], "Target":line[8], "Antibody":line[9], "Score":line[10], "Experimental_information":line[11],
+                               "Experimental_result":line[12], "manager":line[13]})
+        # Inserting Data
+        total_converting.append({"WMB_NO":line[0], "SampleID":line[1], "FF_ID":line[2], "Tissue_site":line[3], "Cancer":line[4],"Tumor_Grade":line[5], 
+                                 "Tumor_Stage":line[6], "WB_Experimental":WB_Experimental
+                                })  
+        
+    with open(date_join, 'w', encoding="UTF-8") as file:
+        file.write((json.dumps(total_converting, indent=4, sort_keys= False, ensure_ascii=False)))
+    
+    return total_converting
+
+
 
 def drug_to_mongo(path):
     # backup file write
