@@ -1,0 +1,50 @@
+APC/Cyanine7 anti-mouse CD69 Antibody (activation)	104526	HM	MS	FACS	4℃ FACS BOX 	손혜진	biolegend						
+BD Pharmingen™ PE-Cy™7 Rat Anti-Mouse CD45R/B220	552772	RT	MS	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+BD Pharmingen™ FITC Rat Anti-Mouse Ly-6G and LY-6C	553127	RT	MS	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+BD Horizon™ BV421 Hamster Anti-Mouse CD3e	562600	HM	MS	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+BD Horizon™ BV786 Rat Anti-Mouse CD45	564225	RT	MS	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+BD Pharmingen™ PE Rat Anti-Mouse F4/80	565410	RT	MS	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+BD OptiBuild™ BV650 Rat Anti-Mouse CD56 (NCAM-1)	748098	RT	MS	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+iNOS Monoclonal Antibody (CXNFT), PE	12-5920-82	RT	MS	FACS	4℃ FACS BOX 	손혜진	eBioscience						
+PE/Dazzle™ 594 anti-human CD279 (PD-1) Antibody	329940	MS	HU,MK	FACS	4℃ FACS BOX 	손혜진	biolegend						
+HSP90 monoclonal antibody (AC88) 	ADI-SPA-830PE-D	MS	HU,HM,MK,RB,RT	FACS	4℃ FACS BOX 	손혜진	 Enzo Life Sciences						
+IL-17A Monoclonal Antibody (eBio64DEC17), PerCP-Cyanine5.5	45-7179-42	MS	HU,HM,MK	FACS	4℃ FACS BOX 	손혜진	ebioscience						
+Perforin Monoclonal Antibody (dG9 (delta G9)), PE-Cyanine7	25-9994-42	MS	HU,PG	FACS	4℃ FACS BOX 	손혜진	ebioscience						
+APC Rat Anti-CD11b  	553312	RT	MS,HU 	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+Arginase 1 Monoclonal Antibody (A1exF5), Alexa Fluor 488	53-3697-82	RT	MS,HU	FACS	4℃ FACS BOX 	손혜진	eBioscience						
+PE-Cy™7 Mouse Anti-Human CD16 (NK cell, cytotoxic)	335788	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+PE-Cy™7 Mouse Anti-Human CD16	335788	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+BD Simultest™ CD3 FITC/CD8 PE (T cell)	340044	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+ APC-Cy™7 Mouse Anti-Human CD19	348794	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+PerCP/Cyanine5.5 anti-human CD152 (CTLA-4) Antibody	349927	MS	HU	FACS	4℃ FACS BOX 	손혜진	biolegend						
+BD Pharmingen™ APC Mouse Anti-Human TNF	554514	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+PE Mouse Anti-Human CD25 	555432	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+PE Mouse Anti-Human CD86 (M1 macrophage)	555665	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+BD Pharmingen™ PE-Cy™7 Mouse Anti-Human CD69 (activation)	557745	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+Alexa Fluor® 700 Mouse Anti-Human CD4 (CD4+ T cell)	557922	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+Alexa Fluor® 647 Mouse anti-Human FoxP3 	560045	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+Anti-Human CD3_APC-H7	560176	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+APC Mouse Anti-Human CD16 (NK cell, cytotoxic)	561304	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+APC Mouse Anti-Human CD4 	561841	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+PE-CF594 Mouse Anti-Human CD14 (monocyte) 	562335	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+BV421 Mouse Anti-Human CD3 	562426	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+PE-CF594 Mouse Anti-Human Granzyme B 	562462	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+BD Horizon™ PE-CF594 Mouse Anti-Human CD69 (activation)	562617	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+BV510 Mouse Anti-Human HLA-DR	563083	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+V510 Mouse Anti-Human CD62L (T cell subtype)	563203	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+BV711 Mouse Anti-Human CD8 (CD8+ T cell)	563676	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+BD Horizon™ BV650 Rat Anti-Human and Viral IL-10	564051	RT	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+BD Horizon™ BV786 Mouse Anti-Human CD56 (NK cell)	564058	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+BD Horizon™ BV786 Rat Anti-Human IL-4	564113	RT	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+Anti-Human IL-2_BV421	564164	RT	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+BD Horizon™ BV711 Mouse Anti-Human CD45 (lymphocyte)	564357	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+APC-R700 Mouse Anti-Human CD4 	564975	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+PE-CF594 Mouse Anti-Human CD279 (PD-1)	565024	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+BD Pharmingen™ PerCP-Cy™5.5 Mouse Anti-Human CD11c (macrophage)	565227	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+BD Pharmingen™ PE-Cy™7 Mouse Anti-Human CD68 (M1 macrophage)	565595	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+BV421 Mouse Anti-Human LAG-3 (CD223)	565720	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+BD Horizon™ BV480 Mouse Anti-Human CD25	566160	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+Alexa Fluor® 647 anti-HMGB1 Antibody (immunogenic cell death)	651408	MS	HU	FACS	4℃ FACS BOX 	손혜진	biolegend						
+BD OptiBuild™BV650 Mouse Anti-Human CD206 (M2 macrophage)	740598	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+BB700 Mouse Anti-Human CD26 	746112	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						
+Alexa Fluor® 700 Mouse Anti-Human CD4 	557922	MS	HU	FACS	4℃ FACS BOX 	손혜진	BD BIOSCIENCES						

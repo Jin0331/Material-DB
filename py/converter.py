@@ -384,10 +384,10 @@ def drug_to_mongo(path):
     
     return total_converting
 
-def antibody_to_mongo(path):
+def antibody_WB_to_mongo(path):
     # backup file write
-    save_path = "/home/wmbio/WMBIO_DB/backup/antibody"
-    file_name = timeStamped("antibody.json")
+    save_path = "/home/wmbio/WMBIO_DB/backup/antibody_wb"
+    file_name = timeStamped("antibody_wb.json")
     date_join = os.path.join(save_path, file_name)
     
     # txt to json(list or tuple)
@@ -404,12 +404,68 @@ def antibody_to_mongo(path):
         total_converting.append({"No":line[0], "WMB_NO":line[1], "Antibody":line[2], "Cat_No":line[3], "Lot_No":line[4], 
                          "Conc":line[5], "Host":line[6], "Species_Reactivity":line[7], "Application":line[8], "Use_Titer":line[9], 
                          "Blocking Buffer":line[10], "Protein_size":line[11], "Vial":line[12], "Ipgo_date":line[13], "Location":line[14],
-                         "Manager":line[15], "Manufacturer":line[16], "etc":line[17]})  
+                         "Manager":line[15], "Manufacturer":line[16], "etc":line[17], "New1":line[18], "New2":line[19], "New3":line[20],
+                         "New4":line[21], "New5":line[22], "New6":line[23], "New7":line[24], "New8":line[25]})  
         
     with open(date_join, 'w', encoding="UTF-8") as file:
         file.write((json.dumps(total_converting, indent=4, sort_keys= False, ensure_ascii=False)))
     
     return total_converting
+
+def antibody_IHC_to_mongo(path):
+    # backup file write
+    save_path = "/home/wmbio/WMBIO_DB/backup/antibody_ihc"
+    file_name = timeStamped("antibody_ihc.json")
+    date_join = os.path.join(save_path, file_name)
+    
+    # txt to json(list or tuple)
+    total_converting = list()
+
+    f = open(path, "r", encoding="UTF-8")
+    content = f.read()
+    splitcontent = content.splitlines()
+
+    for line in splitcontent:
+        line = line.split("\t")
+        
+        # Inserting Data
+        total_converting.append({"No":line[0], "WMB_NO":line[1], "Antibody":line[2], "Cat_No":line[3], "Lot_No":line[4], 
+                         "Conc":line[5], "Host":line[6], "Species_Reactivity":line[7], "Application":line[8], "Use_Titer":line[9], 
+                         "Blocking Buffer":line[10], "Protein_size":line[11], "Vial":line[12], "Ipgo_date":line[13], "Location":line[14],
+                         "Manager":line[15], "Manufacturer":line[16], "etc":line[17], "New1":line[18], "New2":line[19], "New3":line[20],
+                         "New4":line[21], "New5":line[22], "New6":line[23], "New7":line[24], "New8":line[25]})  
+        
+    with open(date_join, 'w', encoding="UTF-8") as file:
+        file.write((json.dumps(total_converting, indent=4, sort_keys= False, ensure_ascii=False)))
+    
+    return total_converting
+
+def antibody_FACS_to_mongo(path):
+    # backup file write
+    save_path = "/home/wmbio/WMBIO_DB/backup/antibody_facs"
+    file_name = timeStamped("antibody_facs.json")
+    date_join = os.path.join(save_path, file_name)
+    
+    # txt to json(list or tuple)
+    total_converting = list()
+
+    f = open(path, "r", encoding="UTF-8")
+    content = f.read()
+    splitcontent = content.splitlines()
+
+    for line in splitcontent:
+        line = line.split("\t")
+        
+        # Inserting Data
+        total_converting.append({"Antibody":line[0], "Cat_No":line[1], "Host":line[2], "Species_Reactivity":line[3], "Application":line[4],
+                                "Location":line[5], "Manager":line[6], "Manufacturer":line[7], "etc":line[8], "New1":line[9], "New2":line[10],
+                                "New3":line[11], "New4":line[12], "New5":line[13]})        
+    with open(date_join, 'w', encoding="UTF-8") as file:
+        file.write((json.dumps(total_converting, indent=4, sort_keys= False, ensure_ascii=False)))
+    
+    return total_converting
+
+
 
 def protein_to_mongo(path):
     # backup file write

@@ -1,0 +1,35 @@
+1		pRON [pY1238/1239]	MBS462024			RABBIT	HU, MS, RT	ELISA, WB, IP, IHC	IHC 1:100			1		-20℃ IHC AB BOX 1		MyBioSource									
+2		pRON [Y1238/Y1239]	AF1947			RABBIT	HU	WB				1		-20℃ IHC AB BOX 1		R&D systems									
+3		pRON [pY1238]	ab203752			RABBIT	HU, MS, RT	IHC-P				1		-20℃ IHC AB BOX 1		Abcam									
+4		RON [EP1132Y] 	ab52927			RABBIT	HU	WB, IP, FACS, IHC-P, ICC/IF	IHC 1:50			1		-20℃ IHC AB BOX 1		Abcam									
+5		RON	11053-1-AP			RABBIT	HU, MS, RT	WB, IHC	IHC 1:100			1		-20℃ IHC AB BOX 1		Proteintech									
+6		RON	LS‑C815113			RABBIT	MS	IHC				1		-20℃ IHC AB BOX 1		Lsbio									
+7		Cleaved caspase3 [Asp175]	MAB835			RABBIT	HU, MS	WB, IHC/ICC, FACS	IHC 1:50			1		-20℃ IHC AB BOX 1		R&D systems									
+8		Cyclin D1 [SP4]	Z2027RS			RABBIT	HU	IHC	IHC 1:100			1		4℃ IHC AB BOX 1		Zeta Corporation	단종 (AB16663 대체)								
+9		Cyclin D1 [DCS-6]	MBS438202			MOUSE	HU, MS, RT, MK	WB, IHC, FACS				1		-20℃ IHC AB BOX 1		MyBioSource									
+10		Cyclin D1 [92G2]	2978T			RABBIT	HU, MS, RT	WB, IHC				1		-20℃ IHC AB BOX 1		Cell signaling									
+11		Cyclin D1 [SP4]	ab16663			RABBIT	HU, MS, RT	ICC/IF, WB, IHC-P, FACS	IHC 1:50			1		-20℃ IHC AB BOX 1		Abcam									
+12		c-Myc (9E10)	MAB3696			MOUSE	HU	WB, IP, IHC, FACS, ICC/IF	IHC 1:250			1		-20℃ IHC AB BOX 1		R&D systems									
+13		c-Myc (9E10)	MA1-980			MOUSE	HU, MS, RT	WB, IP, IHC, FACS, ICC/IF				1		-20℃ IHC AB BOX 1		Invitrogen									
+14		IGSF-1 [F-7]	SC393786			MOUSE	HU, MS, RT	WB, IP, IF ,ELISA, IHC	IHC 1:100			1		4℃ IHC AB BOX 1		Santa cruz									
+15		CD48 [4H9]	SC8397			MOUSE	HU, MS, RT	WB, IP, IF, FCM, ELISA	IHC 1:100			1		4℃ IHC AB BOX 1		Santa cruz									
+16		PD-L1 [28-8]	ab205921			RABBIT	HU	ICC, IHC-P, WB, FACS	IHC 1:50			1		-20℃ IHC AB BOX 1		Abcam									
+17		PD-L1 [22C3]	M3653			MOUSE	HU	IHC-P	IHC 1:50			1		4℃ IHC AB BOX 1		Agilent dako									
+18		PD-L1 [BLR020E]	ab243877			RABBIT	HU	WB, IP, IHC, ICC/IF	IHC 1:50			1		-20℃ IHC AB BOX 1		Abcam									
+19		PD-1 (D4W2J)	86163S			RABBIT	HU	WB, IP, IHC, FACS.	IHC 1:100			1		-20℃ IHC AB BOX 1		Cell signaling									
+20		CD3 [SP7]	ab16669			RABBIT	HU, MS	FACS, IHC-P, WB, mIHC	IHC 1:100			1		-20℃ IHC AB BOX 1		Abcam									
+21		CD8(C8/144B)	ab17147			MOUSE	HU	WB, FACS, IHC-P	IHC 1:100			1		-20℃ IHC AB BOX 1		Abcam									
+22		CD45	ab10558			RABBIT	HU, MS, RT	FACS, WB, IHC-P				1		-20℃ IHC AB BOX 1		Abcam									
+23		P34 [ TB1-27/2 ]	ALX-804-645-C050			MOUSE	HU, MS, MK, PG	IHC, WB	IHC 1:100			1		-20℃ IHC AB BOX 1		Enzo									
+24		MDM2	MCA1709			MOUSE	HU	IHC, WB, IP, ELISA	IHC 1:100			1		-20℃ IHC AB BOX 1		Bio-Rad									
+25		P53	M7001			MOUSE	HU	IHC	IHC 1:100			1		4℃ IHC AB BOX 1		Dako									
+26		Phospho-p44/42 MAPK (Erk1/2)	4370S			RABBIT	HU, MS, RT, HM, MK, MI, DM, Z, B, DG, PG, CE	WB, IP, IHC, FACS, IF				1		-20℃ IHC AB BOX 1		Cell signaling									
+27		p44/42 MAPK (Erk1/2)	4695S			RABBIT	HU, MS, RT, HM, MK, MI, DM, Z, B, DG, PG, CE	WB, IP, IHC, FACS, IF				1		-20℃ IHC AB BOX 1		Cell signaling									
+28		E-cardherin	3195S			RABBIT	HU, MS	WB, IP, IHC, FACS				1		-20℃ IHC AB BOX 1		Cell signaling									
+29		MSP/MPT1 [OTI1A10]	NBP2-46024			MOUSE	HU	WB, IHC				1		-20℃ IHC AB BOX 1		Novus									
+30		pSRC [Family-Y416]	AP0452			RABBIT	HU, MS, RT	WB				1		-20℃ IHC AB BOX 1		Abclonal									
+31		Mutant p53	ab32049			RABBIT	HU	ICC/IF, WB, IHC-P, FACS, I				1		-20℃ IHC AB BOX 1		abcam									
+32		Vimentin [EPR3776]	ab92547			RABBIT	HU, MS, RT, MK	ICC/IF, WB, FACS, IHC-P				1		-20℃ IHC AB BOX 1		abcam									
+33		B-catenin	8480S			RABBIT	HU, MS, RT	WB, IP, IHC-P, IF-F, IF-IC, ChIP, ChIP-seq				1		-20℃ IHC AB BOX 1		Cell signaling									
+34		CD68	ab955			MOUSE	HU	WB, ICC, IHC-P				1		-20℃ IHC AB BOX 1		abcam									
+35		CD14	14-0149-82			MOUSE	HU	IHC, FACS., NEU, FN, MiSC, ICC/IF				1		4℃ IHC AB BOX 1		Invitrogen									
