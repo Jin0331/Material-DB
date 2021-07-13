@@ -7,7 +7,7 @@ def timeStamped(fname, fmt='%Y-%m-%d-%H-%M-%S_{fname}'):
 
 def blood_to_mongo(path):
     # backup file write
-    save_path = "/home/wmbio/WMBIO_DB/backup/blood"
+    save_path = "/notebooks/backup/blood"
     file_name = timeStamped("blood.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -59,7 +59,7 @@ def blood_to_mongo(path):
 
 def blood_result_to_mongo(path):
     # backup file write
-    save_path = "/home/wmbio/WMBIO_DB/backup/blood_result"
+    save_path = "/notebooks/blood_result"
     file_name = timeStamped("blood_result.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -94,7 +94,7 @@ def blood_result_to_mongo(path):
 
 def pdx_to_mongo(path):
     # backup file write
-    save_path = "/home/wmbio/WMBIO_DB/backup/pdx"
+    save_path = "/notebooks/backup/pdx"
     file_name = timeStamped("pdx.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -143,7 +143,7 @@ def pdx_to_mongo(path):
 
 def pdx_result_to_mongo(path):
     # backup file write
-    save_path = "/home/wmbio/WMBIO_DB/backup/pdx_result"
+    save_path = "/notebooks/backup/pdx_result"
     file_name = timeStamped("pdx_result.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -181,7 +181,7 @@ def pdx_result_to_mongo(path):
 
 def ff_to_mongo(path):
     # backup file write
-    save_path = "/home/wmbio/WMBIO_DB/backup/ff"
+    save_path = "/notebooks/backup/ff"
     file_name = timeStamped("ff.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -234,7 +234,7 @@ def ff_to_mongo(path):
 
 def ff_result_to_mongo(path):
     # backup file write
-    save_path = "/home/wmbio/WMBIO_DB/backup/ff_result"
+    save_path = "/notebooks/backup/ff_result"
     file_name = timeStamped("ff_result.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -276,7 +276,7 @@ def ff_result_to_mongo(path):
 
 def ffpe_to_mongo(path):
     # backup file write
-    save_path = "/home/wmbio/WMBIO_DB/backup/ffpe"
+    save_path = "/notebooks/backup/ffpe"
     file_name = timeStamped("ffpe.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -321,7 +321,7 @@ def ffpe_to_mongo(path):
 
 def ffpe_result_to_mongo(path):
     # backup file write
-    save_path = "/home/wmbio/WMBIO_DB/backup/ffpe_result"
+    save_path = "/notebooks/backup/ffpe_result"
     file_name = timeStamped("ffpe_result.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -360,7 +360,7 @@ def ffpe_result_to_mongo(path):
 
 def drug_to_mongo(path):
     # backup file write
-    save_path = "/home/wmbio/WMBIO_DB/backup/drug"
+    save_path = "/notebooks/backup/drug"
     file_name = timeStamped("drug.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -386,7 +386,7 @@ def drug_to_mongo(path):
 
 def antibody_WB_to_mongo(path):
     # backup file write
-    save_path = "/home/wmbio/WMBIO_DB/backup/antibody_wb"
+    save_path = "/notebooks/backup/antibody_wb"
     file_name = timeStamped("antibody_wb.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -414,7 +414,7 @@ def antibody_WB_to_mongo(path):
 
 def antibody_IHC_to_mongo(path):
     # backup file write
-    save_path = "/home/wmbio/WMBIO_DB/backup/antibody_ihc"
+    save_path = "/notebooks/backup/antibody_ihc"
     file_name = timeStamped("antibody_ihc.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -442,7 +442,7 @@ def antibody_IHC_to_mongo(path):
 
 def antibody_FACS_to_mongo(path):
     # backup file write
-    save_path = "/home/wmbio/WMBIO_DB/backup/antibody_facs"
+    save_path = "/notebooks/backup/antibody_facs"
     file_name = timeStamped("antibody_facs.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -469,7 +469,7 @@ def antibody_FACS_to_mongo(path):
 
 def protein_to_mongo(path):
     # backup file write
-    save_path = "/home/wmbio/WMBIO_DB/backup/protein"
+    save_path = "/notebooks/backup/protein"
     file_name = timeStamped("protein.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -495,7 +495,7 @@ def protein_to_mongo(path):
 
 def shsirna_to_mongo(path):
     # backup file write
-    save_path = "/home/wmbio/WMBIO_DB/backup/shsirna"
+    save_path = "/notebooks/backup/shsirna"
     file_name = timeStamped("shsirna.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -523,7 +523,7 @@ def shsirna_to_mongo(path):
 
 def celline_to_mongo(path):
     # backup file write
-    save_path = "/home/wmbio/WMBIO_DB/backup/celline"
+    save_path = "/notebooks/backup/celline"
     file_name = timeStamped("celline.json")
     date_join = os.path.join(save_path, file_name)
     
