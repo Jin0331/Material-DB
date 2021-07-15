@@ -401,11 +401,11 @@ def antibody_WB_to_mongo(path, base_path):
         line = line.split("\t")
         
         # Inserting Data
-        total_converting.append({"No":line[0], "WMB_NO":line[1], "Antibody":line[2], "Cat_No":line[3], "Lot_No":line[4], 
-                         "Conc":line[5], "Host":line[6], "Species_Reactivity":line[7], "Application":line[8], "Use_Titer":line[9], 
-                         "Blocking Buffer":line[10], "Protein_size":line[11], "Vial":line[12], "Ipgo_date":line[13], "Location":line[14],
-                         "Manager":line[15], "Manufacturer":line[16], "etc":line[17], "New1":line[18], "New2":line[19], "New3":line[20],
-                         "New4":line[21], "New5":line[22], "New6":line[23], "New7":line[24], "New8":line[25]})  
+        total_converting.append({"No":line[0], "Antibody":line[1], "Cat_No":line[2], "Lot_No":line[3], 
+                         "Conc":line[4], "Host":line[5], "Species_Reactivity":line[6], "Application":line[7], "Use_Titer":line[8], 
+                         "Blocking Buffer":line[9], "Protein_size":line[10], "Vial":line[11], "Ipgo_date":line[12], "Location":line[13],
+                         "Manager":line[14], "Manufacturer":line[15], "etc":line[16], "New1":line[17], "New2":line[18], "New3":line[19],
+                         "New4":line[20], "New5":line[21], "New6":line[22], "New7":line[23], "New8":line[24]})  
         
     with open(date_join, 'w', encoding="UTF-8") as file:
         file.write((json.dumps(total_converting, indent=4, sort_keys= False, ensure_ascii=False)))
