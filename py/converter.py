@@ -5,9 +5,9 @@ import datetime
 def timeStamped(fname, fmt='%Y-%m-%d-%H-%M-%S_{fname}'):
     return datetime.datetime.now().strftime(fmt).format(fname=fname)
 
-def blood_to_mongo(path):
+def blood_to_mongo(path, base_path):
     # backup file write
-    save_path = "/notebooks/backup/blood"
+    save_path = base_path + "/backup/blood"
     file_name = timeStamped("blood.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -57,9 +57,9 @@ def blood_to_mongo(path):
     return total_converting
 
 
-def blood_result_to_mongo(path):
+def blood_result_to_mongo(path, base_path):
     # backup file write
-    save_path = "/notebooks/blood_result"
+    save_path = base_path + "/blood_result"
     file_name = timeStamped("blood_result.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -92,9 +92,9 @@ def blood_result_to_mongo(path):
     
     return total_converting
 
-def pdx_to_mongo(path):
+def pdx_to_mongo(path, base_path):
     # backup file write
-    save_path = "/notebooks/backup/pdx"
+    save_path = base_path + "/backup/pdx"
     file_name = timeStamped("pdx.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -141,9 +141,9 @@ def pdx_to_mongo(path):
     return total_converting
 
 
-def pdx_result_to_mongo(path):
+def pdx_result_to_mongo(path, base_path):
     # backup file write
-    save_path = "/notebooks/backup/pdx_result"
+    save_path = base_path + "/backup/pdx_result"
     file_name = timeStamped("pdx_result.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -179,9 +179,9 @@ def pdx_result_to_mongo(path):
     
     return total_converting
 
-def ff_to_mongo(path):
+def ff_to_mongo(path, base_path):
     # backup file write
-    save_path = "/notebooks/backup/ff"
+    save_path = base_path + "/backup/ff"
     file_name = timeStamped("ff.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -232,9 +232,9 @@ def ff_to_mongo(path):
     
     return total_converting
 
-def ff_result_to_mongo(path):
+def ff_result_to_mongo(path, base_path):
     # backup file write
-    save_path = "/notebooks/backup/ff_result"
+    save_path = base_path + "/backup/ff_result"
     file_name = timeStamped("ff_result.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -274,9 +274,9 @@ def ff_result_to_mongo(path):
     
     return total_converting
 
-def ffpe_to_mongo(path):
+def ffpe_to_mongo(path, base_path):
     # backup file write
-    save_path = "/notebooks/backup/ffpe"
+    save_path = base_path + "/backup/ffpe"
     file_name = timeStamped("ffpe.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -319,9 +319,9 @@ def ffpe_to_mongo(path):
     
     return total_converting
 
-def ffpe_result_to_mongo(path):
+def ffpe_result_to_mongo(path, base_path):
     # backup file write
-    save_path = "/notebooks/backup/ffpe_result"
+    save_path = base_path + "/backup/ffpe_result"
     file_name = timeStamped("ffpe_result.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -358,9 +358,9 @@ def ffpe_result_to_mongo(path):
 
 
 
-def drug_to_mongo(path):
+def drug_to_mongo(path, base_path):
     # backup file write
-    save_path = "/notebooks/backup/drug"
+    save_path = base_path + "/backup/drug"
     file_name = timeStamped("drug.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -384,9 +384,9 @@ def drug_to_mongo(path):
     
     return total_converting
 
-def antibody_WB_to_mongo(path):
+def antibody_WB_to_mongo(path, base_path):
     # backup file write
-    save_path = "/notebooks/backup/antibody_wb"
+    save_path = base_path + "/backup/antibody_wb"
     file_name = timeStamped("antibody_wb.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -412,9 +412,9 @@ def antibody_WB_to_mongo(path):
     
     return total_converting
 
-def antibody_IHC_to_mongo(path):
+def antibody_IHC_to_mongo(path, base_path):
     # backup file write
-    save_path = "/notebooks/backup/antibody_ihc"
+    save_path = base_path + "/backup/antibody_ihc"
     file_name = timeStamped("antibody_ihc.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -440,9 +440,9 @@ def antibody_IHC_to_mongo(path):
     
     return total_converting
 
-def antibody_FACS_to_mongo(path):
+def antibody_FACS_to_mongo(path, base_path):
     # backup file write
-    save_path = "/notebooks/backup/antibody_facs"
+    save_path = base_path + "/backup/antibody_facs"
     file_name = timeStamped("antibody_facs.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -467,9 +467,9 @@ def antibody_FACS_to_mongo(path):
 
 
 
-def protein_to_mongo(path):
+def protein_to_mongo(path, base_path):
     # backup file write
-    save_path = "/notebooks/backup/protein"
+    save_path = base_path + "/backup/protein"
     file_name = timeStamped("protein.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -493,9 +493,9 @@ def protein_to_mongo(path):
     
     return total_converting
 
-def shsirna_to_mongo(path):
+def shsirna_to_mongo(path, base_path):
     # backup file write
-    save_path = "/notebooks/backup/shsirna"
+    save_path = base_path + "/backup/shsirna"
     file_name = timeStamped("shsirna.json")
     date_join = os.path.join(save_path, file_name)
     
@@ -521,9 +521,9 @@ def shsirna_to_mongo(path):
     
     return total_converting
 
-def celline_to_mongo(path):
+def celline_to_mongo(path, base_path):
     # backup file write
-    save_path = "/notebooks/backup/celline"
+    save_path = base_path + "/backup/celline"
     file_name = timeStamped("celline.json")
     date_join = os.path.join(save_path, file_name)
     
