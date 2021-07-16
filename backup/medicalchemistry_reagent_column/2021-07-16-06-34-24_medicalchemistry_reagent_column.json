@@ -1,0 +1,52 @@
+[
+    {
+        "ID": "LC-MS",
+        "Manufacturer": "Agilent",
+        "Name": "SB-C18, 2.1x50mm, 1.8um, 600bar",
+        "CAT_NO": "827700-902",
+        "Size": "2.1*50mm",
+        "pore_size": "1.8 um",
+        "ipgo_date": "2019-03-29",
+        "status": "폐기"
+    },
+    {
+        "ID": "LC-MS",
+        "Manufacturer": "Agilent",
+        "Name": "SB-C18, 2.1x50mm, 1.8um, 600bar",
+        "CAT_NO": "827700-902",
+        "Size": "2.1*50mm",
+        "pore_size": "1.8 um",
+        "ipgo_date": "2020-01-07",
+        "status": "사용"
+    },
+    {
+        "ID": "HPLC",
+        "Manufacturer": "Agilent",
+        "Name": "InfinityLab Poroshell 120 EC-C18",
+        "CAT_NO": "693970-902",
+        "Size": "4.6x150mm",
+        "pore_size": "4 um",
+        "ipgo_date": "2020-02-10",
+        "status": "폐기 (구입: CMC 연구소)"
+    },
+    {
+        "ID": "HPLC",
+        "Manufacturer": "Agilent",
+        "Name": "InfinityLab Poroshell 120 EC-C18",
+        "CAT_NO": "693970-902",
+        "Size": "4.6x150mm",
+        "pore_size": "4 um",
+        "ipgo_date": "2020-08-26",
+        "status": "사용"
+    },
+    {
+        "ID": "HPLC",
+        "Manufacturer": "Agilent",
+        "Name": "Poroshell 120, UHPLC Grd, EC-C18, 4.6mm,4um",
+        "CAT_NO": "820750-916",
+        "Size": "4.6mm",
+        "pore_size": "4 um",
+        "ipgo_date": "2021-06-08",
+        "status": "사용 (3개 중 1개 사용)"
+    }
+]

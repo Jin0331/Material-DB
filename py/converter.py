@@ -610,3 +610,53 @@ def medicalchemistry_reagent_column_to_mongo(path, base_path):
         file.write((json.dumps(total_converting, indent=4, sort_keys= False, ensure_ascii=False)))
     
     return total_converting
+
+def cmc_reagent_to_mongo(path, base_path):
+    # backup file write
+    save_path = base_path + "/backup/cmc_reagent"
+    file_name = timeStamped("cmc_reagent.json")
+    date_join = os.path.join(save_path, file_name)
+    
+    # txt to json(list or tuple)
+    total_converting = list()
+
+    f = open(path, "r", encoding="UTF-8")
+    content = f.read()
+    splitcontent = content.splitlines()
+
+    for line in splitcontent:
+        line = line.split("\t")
+        
+        # Inserting Data
+        total_converting.append({"CAS_NO":line[0], "Manufacturer":line[1], "prefix":line[2], "Name":line[3], "CAT_NO":line[4], "unit":line[5],
+                                "leftover":line[6], "location":line[7], "ipgo_date":line[8], "msds":line[9], "etc":line[10]})  
+        
+    with open(date_join, 'w', encoding="UTF-8") as file:
+        file.write((json.dumps(total_converting, indent=4, sort_keys= False, ensure_ascii=False)))
+    
+    return total_converting
+
+def cmc_reagent_column_to_mongo(path, base_path):
+    # backup file write
+    save_path = base_path + "/backup/cmc_reagent_column"
+    file_name = timeStamped("cmc_reagent_column.json")
+    date_join = os.path.join(save_path, file_name)
+    
+    # txt to json(list or tuple)
+    total_converting = list()
+
+    f = open(path, "r", encoding="UTF-8")
+    content = f.read()
+    splitcontent = content.splitlines()
+
+    for line in splitcontent:
+        line = line.split("\t")
+        
+        # Inserting Data
+        total_converting.append({"ID":line[0], "Manufacturer":line[1], "Name":line[2], "CAT_NO":line[3], "Size":line[4],
+                                "pore_size":line[5], "ipgo_date":line[6], "status":line[7]})  
+        
+    with open(date_join, 'w', encoding="UTF-8") as file:
+        file.write((json.dumps(total_converting, indent=4, sort_keys= False, ensure_ascii=False)))
+    
+    return total_converting

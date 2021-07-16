@@ -1,0 +1,341 @@
+403-40-7	combi	1-	(4-Fluorophenyl)ethanamine	QB-8180	5g	1	시약장	2021-04-07	N	 
+540-63-6	Alfa	 	1,2-Ethanedithiol, 98+%	L12865	25g	1	데시케이터	2021-03-23	N	 
+75-07-0	sigma-aldrich	 	Acetaldehyde solution	36392	5ml	1	냉장	2021-02-18	N	 
+64-19-7	Daejung	 	Acetic acid, glacial	1005-4100	1 kg	2	산시약장	 	Y	 
+108-24-7	sigma-aldrich	 	Acetic anhydride	242845	1 kg	1	시약장	2020-09-03	Y	 
+79-10-7	Alfa	 	Acrylic acid, 98%, extra pure, stabilized	16425	250ml	1	데시케이터	44273	N	 
+7446-70-0	TCI	 	Aluminum(III) Chloride	A1831	100 g	1	데시케이터	2021-01-18	Y	 
+534-03-2	TCI	2-	Amino-1,3-propanediol	A1252	5g	1	데시케이터	2021-02-04	Y	 
+41838-46-4	TCI	4-	Amino-1-methylpiperidine	A2046	5g	1	시약장	2021-01-27	Y	 
+220353-22-0	Chemscene	4-	Amino-2,6-difluorophenol hydrochloride	CS-D1569	10 g	1	냉장	 	Y	 
+94741-69-2	combi-blocks	4-	Amino-2-chloropyrimidine-5-carbonitrile	SS-5174	1 g	1	냉장	2021-01-22	Y	 
+399-96-2	Astatech	4-	Amino-2-fluorophenol	CL8498	50 g	1	데시케이터	2020-03-11	Y	 
+4815-28-5	combi-blocks	2-	Amino-4,5,6,7-tetrahydrobenzo(b)thiophene-3-carboxamide	ST-8064	5 g	1	냉장	2021-01-22	Y	 
+102-28-3	TCI	3'-	Aminoacetanilide	A1533	25 g	1	시약장	2020-03-17	Y	 
+455-14-1	TCI	4-	Aminobenzotrifluoride	A0662	25ml	1	냉장	2021-04-07	N	 
+27489-62-9	Alfa	trans-4-	Aminocyclohexanol, 98+%	B22365.06	5 g	1	시약장	2021-01-13	Y	 
+60-23-1	TCI	2-	Aminoethanethiol	A0648	25g	1	냉장	2021-02-24	N	 
+27578-60-5 	TCI	1-(2-	Aminoethyl)piperidine	A1026	5ml	1	시약장	2021-02-08	Y	 
+7154-73-6	Acros	N-(2-	Aminoethyl)pyrrolidine	103700050	5mL	1	시약장	2021-02-19	N	 
+96783-68-5	Combi-blocks	N-(3-(	Aminomethyl)phenyl)acetamide	QB-6922	1 g	1	시약장	2020-12-08	Y	 
+27578-60-5	Alfa	2-(	Aminomethyl)piperidine, 98%	L20122.06	5g	1	시약장	2021-01-27	Y	 
+69879-22-7	ANGENE	6-	Aminonicotinaldehyde	 	5g	1	시약장	44288	N	 
+69879-22-7	combi-blocks	6-	Aminonicotinaldehyde	QE-7337	1 g	1	시약장	2021-01-22	Y	 
+103831-11-4	TCI	3-	Aminopyrrolidine Dihydrochloride	A1055	5g	1	데시케이터	2021-02-04	Y	 
+631-61-8	Daejung	 	Ammonium acetate	1052-4405	500 g	1	무기물시약장	 	Y	 
+12125-02-9	Daejung	 	Ammonium chloride	1060-4400	1 kg	2	무기물시약장	 	Y	 
+7722-76-1	Alfa Aesar	 	Ammonium dihydrogen phosphate, ACS, 98.0% min	11598	500 g	1	시약장	 	Y	 
+540-69-2	fluka	 	Ammonium formate	17843	250 g	1	데시케이터	2019-08-14	Y	 
+540-69-2	Fisher chemical	 	Ammonium formate, Optima LC/MS grade	A115-50	50 g	1	데시케이터	2019-07-30	Y	 
+1336-21-6	Daejung	 	Ammonium hydroxide	1065-4100	1 L	1	시약장	 	Y	 
+1336-21-6	sigma-aldrich	 	Ammonium hydroxide solution puriss., meets analytical specification of Ph. Eur., 25-30% NH3 basis	05003-1L	1 L	1	시약장	2019-07-31	Y	 
+62-53-3	Alfa Aesar	 	Aniline	A14443	100 g	2	시약장	2020-05-11	Y	 
+123-11-5	KANTO CHEMICAL	p-	Anisaldehyde	01398-00	500 g	1	시약장	 	Y	 
+104-94-9	TCI	p-	Anisidine	A0487	25g	1	냉장실	2021-03-24	N	 
+732976-86-2	combi-blocks	 	Azetidine-3-carbonitrile, HCl	ST-7114	10 g	1	냉장	2021-01-13	Y	 
+732976-86-2	Combi-blocks	 	Azetidine-3-carbonitrile, HCl	ST-7114	10 g	1	냉장	2020-11-18	Y	 
+345954-83-8	Combi-blocks	 	Azetidine-3-carbonitrile, HCl	ST-7114	10g	1	냉장	2020-07-03	Y	 
+98-80-6	Alfa Aesar	 	Benzeneboronic acid	A14257	50 g	1	시약장	2020-05-13	Y	 
+65-85-0	Daejung	 	Benzoic acid	2018-4405	500 g	1	산시약장	 	Y	 
+1047217	Alfa	2,2-	Bis(hydroxymethyl)propionic acid	L14014	100g	1	데시케이터	2021-02-22	N	 
+193085-24-4	Combi-blocks	2-(1-	Boc-piperidin-4-ylidene)acetic acid	HC-2815	1g	1	시약장	2021-03-24	N	 
+10294-33-4	sigma-aldrich	 	Boron tribromide solution (1M in MC)	211222	25 ml	2	냉장	 	Y	 
+107-04-0	Alfa Aesar	1-	Bromo-2-chloroethane, 98%	A12349	100 g	1	시약장	2020-07-02	Y	 
+109-70-6	Alfa Aesar	1-	Bromo-3-chloropropane, 99%	A11395	100 g	1	시약장	2020-10-20	Y	 
+7252-83-7	Alfa	 	Bromoacetaldehyde dimethyl acetal, 97+%, stab. with potassium carbonate	A11324	25g	1	냉장	2021-04-07	N	 
+540-51-2	TCI	2-	Bromoethanol	B0590	25g	1	냉장	2020-10-13	Y	 
+2302-25-2	Alfa Aesar	4-	Bromoimidazole, 98%	H64972	25 g	1	시약장	2020-09-25	Y	 
+590-97-6	TCI	 	Bromomethyl Acetate	B3907	1 g	1	냉장	2020-11-20	Y	 
+17247-58-4	TCI	(	Bromomethyl)cyclobutane	B3679	5 g	1	시약장	2019-03-11	Y	 
+89598-96-9	TCI	3-	Bromophenylboronic Acid (contains varying amounts of Anhydride)	B2890	25 g	1	시약장	 	Y	 
+36255-44-4	TCI	3-	Bromopropionaldehyde Dimethyl Acetal	B1901	5g	1	 	 	N	 
+3034-53-5	TCI	2-	Bromothiazole	B1280	25 g	1	냉동	2020-09-17	Y	 
+109-72-8	sigma-aldrich	n-	Butyllithium solution (2.5M in hexanes)	230707	25ml	4	냉장	2020-09-14	Y	 
+96-48-0	Daejung	γ-	Butyrolactone	2082-4405	500 g	1	시약장	2020-04-17	Y	 
+96-48-0	Daejung	γ-	Butyrolactone	2082-4405	500 g	1	시약장	2019-05-31	Y	 
+10043-52-4	Daejung	 	Calcium chloride anhydrous	2507-1400	1 kg	9	무기물시약장	 	Y	 
+7440-44-0	Daejung	 	Carbon, activated, powder	2530-1405	500 g	1	시약장	 	Y	 
+68855-54-9	Daejung	 	Celite 545	2537-1405	500 g	6	무기물시약장	 	Y	 
+534-17-8	Alfa Aesar	 	Cesium carbonate	12887	250 g	1	시약장	 	Y	 
+534-17-8	sigma-aldrich	 	Cesium carbonate Reagentplus, 99%	441902-250G	250 g	4	무기물시약장	 	Y	 
+13400-13-0	DAEJUNG	 	Cesium Fluoride	2734-8825	25 g	1	시약장	2021-01-20	Y	 
+1719-57-9	TCI	 	Chloro(chloromethyl)dimethylsilane	C0605	25g	1	데시케이터	2021-01-27	Y	 
+89-63-4	TCI	4-	Chloro-2-nitroaniline	C0215	25g	1	시약장	2021-03-24	N	 
+36404-88-3	BLD Pharm	2-	Chloro-3-formylpyridine	BD20453	5g	1	시약장	2020-11-24	Y	 
+153034-86-7	TCI	2-	Chloro-4-iodopyridine	C2089	5 g	1	시약장	 	Y	 
+205448-31-3	Combi-blocks	4-	Chloro-6-methoxyquinolin-7-ol	QA-2601	25g	1	시약장	2020-11-10	Y	 
+79-04-9	TCI	 	Chloroacetyl Chloride	C0098	25g	1	시약장	2021-03-25	N	 
+108-90-7	Alfa Aesar	 	Chlorobenzene	B21052	500 ml	2	용매시약장	2020-07-02	Y	 
+1679-18-1	Alfa Aesar	4-	Chlorobenzeneboronic acid	A15657	25 g	1	시약장	2021-01-04	Y	 
+143254-82-4	BLD Pharm	1-	Chlorocarbonyl-4-piperidinopiperidine hydrochloride	BD18331	5 g	1	냉장	2021-01-13	Y	 
+126055-32-1	combi-blocks	1-(2-	Chloroethyl)-4-methylpiperazine hydrochloride	QC-0818	1 g	1	냉장	2021-01-05	Y	 
+3647-69-6	Alfa Aesar	4-(2-	Chloroethyl)morpholine hydrochloride	L05771	500 g	1	시약장	 	Y	 
+7250-67-1	Acros	N-(2-	Chloroethyl)pyrrolidine hydrochloride, 98%	10922	25g	1	데시케이터	2020-12-21	Y	 
+67-66-3	DAEJUNG	 	Chloroform	2548-4400	1 kg	1	용매시약장	2020-08-13	Y	 
+22128-62-7	Alfa Aesar	 	Chloromethyl chloroformate	L09527	10 g	1	냉장	2020-12-02	Y	 
+23100-12-1	combi-blocks	6-	Chloronicotinaldehyde	OR-5598	100g	1	시약장	2021-02-17	N	 
+36404-88-3	combi	2-	Chloronicotinaldehyde	OS-7694	5g	2	시약장	2021-04-07	N	 
+23100-12-1	Combi-blocks	6-	Chloronicotinaldehyde, 95+%	OR-5598	5 g	1	시약장	2021-01-13	Y	 
+5326-23-8	TCI	6-	Chloronicotinic acid	C1116	25 g	1	시약장	2020-03-17	Y	 
+88625-24-5	BLD Pharm	5-	Chloropyrazine-2-carbaldehyde	BD236466	1g	1	냉장	2020-11-24	Y	 
+54661-55-1	 	2-(6-	chloropyridin-3-yl)-1H-1,3-benzodiazole	 	10 g	1	시약장	2020-10-27	N	원료
+7379-35-3	Alfa	4-	Chloropyridine hydrochloride, 98+%	A15628	5g	1	시약장	44273	N	 
+31181-89-2	Combi	5-	Chloropyridine-2-carboxaldehyde	 	10g	1	냉장실	44279	N	 
+933702-55-7	Combi-blocks	2-	Chloropyrimidine-5-carbaldehyde	QC-3877	1g	1	냉장	2020-11-24	Y	 
+69627-03-8	Angene	7-	Chlorothieno[3,2-b]pyridine	 	100g	2	냉장	 	 	 
+77-92-9	Daejung	 	Citric acid anhydrous	2561-4400	1 kg	1	산시약장	 	Y	 
+7758-89-6	Alfa	 	Copper(I) chloride	11871	100g	1	데시케이터	2021-01-27	Y	 
+6046-93-1	JUNSEI	 	Copper(II) acetate monohydrate	31200S1250	1 kg	2	시약장	2020-10-27	Y	 
+4415-82-1	TCI	 	Cyclobutanemethanol	C2061	5 g	1	시약장	2019-03-07	Y	 
+1489-69-6	TCI	 	Cyclopropanecarboxaldehyde	C1707	1g	1	냉장실	44279	N	 
+2516-33-8	TCI	 	Cyclopropanemethanol	C0982	25 mL	1	시약장	2019-04-23	Y	 
+13754-19-3	TCI	4,5-	Diaminopyrimidine	D3858	1g	1	시약장	2021-03-24	N	 
+6674-22-2	TCI	1,8-	Diazabicyclo[5.4.0]-7-undecene	D1270	25 g	1	시약장	2021-01-18	Y	 
+109-64-8	Alfa Aesar	1,3-	Dibromopropane	A14687	250 g	1	시약장	2020-07-02	Y	 
+107-06-2	Alfa Aesar	1,2-	Dichloroethane, 99+%	A12775	500 ml	1	특별관리시약장	2020-07-02	Y	특별관리물질
+80-43-3	Alfa	 	Dicumyl peroxide	H60442	100g	1	냉장	2021-01-27	Y	 
+101-83-7	Alfa	 	Dicyclohexylamine, 98%	A15671	100ml	1	시약장	44273	N	 
+1606-01-5	Combi-blocks	 	Diethylamino-acetic acid	QH-5667	1g	1	시약장	2021-03-05	N	 
+1942-52-5	Aldrich	2-	Diethylaminoethanethiol hydrochloride	D86604	25 g	1	시약장	2021-01-21	Y	 
+658-07-1	 	2,6-	Difluoro-4-nitrophenol	 	10 g	1	시약장	2020-10-27	N	원료
+381-73-7	Alfa	 	Difluoroacetic acid, 98%	A12787	5g	1	시약장	2021-03-22	N	 
+288315-03-7	Combi-blocks	3,3-	Difluoroazetidine, HCl	QA-4538	25g	2	냉장	2020-10-13	Y	 
+163457-23-6	BLD Pharm	3,3-	Difluoropyrrolidine, HCl	BD2330	25g	1	시약장	2020-10-28	Y	 
+111-96-6	DAEJUNG	 	Diglyme    (Diethylene glycol dimethyl ether)	3095-4105	500 ml	1	시약장	2021-01-20	Y	 
+22929-52-8	BLD Pharm	 	Dihydrofuran-3(2H)-one, 97%	BD28112	100 g	1	시약장	 	Y	 
+2446-83-5	Alfa Aesar	 	Diisopropyl azodicarboxylate, 94%	L10386	25 g	1	냉장	2020-01-10	Y	 
+7087-68-5	TCI	N,N-	Diisopropylethylamine	D1599	500 ml	1	시약장	2020-05-22	Y	 
+496-72-0	TCI	3,4-	Dimainotoluene	D0125	25g	1	시약장	2020-11-20	Y	 
+696-59-3	Combi-blocks	2,5-	Dimethoxytetrahydrofuran	QE-8414	5g	1	시약장	2021-03-24	N	 
+616-38-6	대정화금	 	Dimethyl carbonate	3084-4105	500 g	1	시약장	2021-01-05	Y	 
+77-78-1	대정화금	 	Dimethyl sulfate	3101-4405	500 g	1	시약장	2021-01-05	Y	 
+127-19-5	Daejung	N,N-	Dimethylacetamide	3048-4100	1 L	3	특별관리시약장	 	Y	특별관리물질
+127-19-5	Alfa Aesar	N,N-	Dimethylacetamide, 99%	A10924	500 mL	1	특별관리시약장	2019-01-10	Y	특별관리물질
+506-59-2	Acros	 	Dimethylamine hydrochloride	C15527	500 g	1	시약장	2019-10-11	Y	 
+506-59-2	Alfa	 	Dimethylamine hydrochloride, 98+%	A12133	250g	2	시약장	2021-04-07	N	 
+848133-35-7	TCI	(E)-4-(	Dimethylamino)-2-butenoic Acid Hydrochloride	D5625	1g	1	데시케이터	2021-04-07	N	 
+4584-46-7	Alfa Aesar	2-	Dimethylaminoethyl chloride hydrochloride, 98+%	A15134	100 g	1	데시케이터	2020-09-25	Y	 
+1122-58-3	TCI	4-	Dimethylaminopyridine	D1450	100 g	1	시약장	2020-05-26	Y	 
+68-12-2	Daejung	N,N-	Dimethylformamide	3057-4100	1 L	6	특별관리시약장	 	Y	특별관리물질
+4637-24-5	Combi-blocks	N,N-	Dimethylformamide dimethyl acetal	OT-0501	1 kg	1	시약장	 	Y	 
+4637-24-5	Combi-blocks	N,N-	Dimethylformamide dimethyl acetal	OT-0501	500 g	1	시약장	 	Y	 
+97-02-9	TCI	2,4-	Dinitroaniline	D0814	25g	1	시약장	2021-03-24	N	 
+26386-88-9	TCI	 	Diphenylphosphoryl Azide	D1672	25 g	`	냉장	2021-04-07	N	 
+24424-99-5	TCI	 	Di-tert-butyl Dicarbonate [Boc-reagent for Amino Acid]	D1547	25 g	2	냉장	2020-09-03	Y	 
+582-33-2	TCI	 	Ethyl 3-Aminobenzoate	A1460	5g	1	시약장	2021-03-24	N	 
+71406-78-5	combi-blocks	 	Ethyl 4-amino-2-chloropyrimidine-5-carboxylate	QA-0580	1 g	1	냉장	2021-01-22	Y	 
+105-36-2	Aldrich	 	Ethyl bromoacetate, 98%	A10448.22	100 g	1	시약장	2021-01-13	Y	 
+541-41-3	DAEJUNG	 	Ethyl Chloroformate	4024-4405	500 g	1	시약장	2020-11-24	Y	 
+105-56-6	TCI	 	Ethyl cyanoacetate	C0441	500 g	1	시약장	2018-12-19	Y	 
+109-94-4	TCI	 	Ethyl formate	F0053	500 ml	1	시약장	2020-09-03	Y	 
+109-94-4	Acros	 	Ethyl formate	42924	500 ml	1	시약장	2019-09-19	Y	 
+109-94-4	Acros	 	Ethyl formate, AcroSealx	42924	100 ml	1	시약장	2019-09-09	Y	 
+36239-09-5	TCI	 	Ethyl malonyl chloride	E0484	25 g	3	냉장	2020-11-04	Y	 
+36239-09-5	Alfa	 	Ethyl malonyl chloride	A15616	25g	1	냉장	2021-04-07	N	 
+36239-09-5	Alfa	 	Ethyl malonyl chloride	A15616	25g	1	냉장	44293	N	 
+403-19-0	Combi-blocks	2-	Fluoro-4-nitrophenol	AN-1553	100 g	1	냉장	 	Y	 
+677728-92-6	Combi	2-	Fluoro-5-formylpyridine	 	5g	1	시약장	44279	N	 
+371-40-4	Alfa Aesar	4-	Fluoroaniline	A15597	100 g	1	시약장	2020-04-17	Y	 
+371-40-4	Acros	4-	Fluoroaniline	C11929	100 ml	1	시약장	2020-04-17	Y	 
+372-19-0	TCI	3-	Fluoroaniline	 	25g	1	시약장	44279	N	 
+459-46-1	Alfa Aesar	4-	Fluorobenzyl bromide	A10208	10g	1	시약장	2020-09-11	Y	 
+140-75-0	Alfa Aesar	4-	Fluorobenzylamine, 98+%	A15486	10 g	1	시약장	2020-11-16	Y	 
+1978-37-6	Combi	3-	Fluoro-N-methylaniline	 	1g	1	시약장	44279	N	 
+90389-84-7	TCI	3-	Fluoro-N-methylbenzylamine	F0805	1 g	1	시약장	2021-01-21	Y	 
+17797-10-3	Combi-blocks	1-(4-	Fluorophenyl)-1-methylethylamine	SS-6611	1g	1	냉장	2020-11-24	Y	 
+403-40-7	Combi-blocks	1-(4-	Fluorophenyl)ethylamine	QB-8180	1g	1	시약장	2020-11-24	Y	 
+74788-45-7	Combi-blocks	1-(3-	Fluorophenyl)ethylamine	SS-5528	1g	1	냉장	2020-11-24	Y	 
+404-70-6	Alfa	2-(3-	Fluorophenyl)ethylamine, 97+%	H64762	5 g	1	시약장	2021-01-13	Y	 
+100-82-3	BLD Pharm	(3-	Fluorophenyl)methanamine, 95%	BD40091	5g	1	냉장	2020-11-24	Y	 
+74702-89-9	Combi-blocks	2-(3-	Fluorophenyl)propan-2-amine	SS-3721	1g	1	시약장	2020-11-24	Y	 
+768-35-4	TCI	3-	Fluorophenylboronic Acid (contains varying amounts of Anhydride)	F0404	25 g	1	시약장	2021-01-05	Y	 
+57395-89-8	Combi-blocks	4-	Fluoropiperidine hydrochloride	QG-2525	5g	2	시약장	2020-10-13	Y	 
+50-00-0	Daejung	 	Formaldehyde	4044-4400	1 L	1	특별관리시약장	 	Y	 
+64-18-6	DAEJUNG	 	Formic acid	4046-2340	100 mL	1	산시약장	2020-07-28	Y	 
+3760-54-1	이지켐텍	1-	Formylpyrrolidine	QH-1295	1g	1	시약장	2021-02-17	N	 
+110-17-8	Daejung	 	Fumaric acid	4051-4400	1 kg	1	산시약장	 	Y	 
+56-86-0	Daejung	L-	Glutamic acid	4062-4405	500 g	1	산시약장	 	Y	 
+110-94-1	DAEJUNG	 	Glutaric acid	4065-4425	25g	1	산시약장	44306	N	 
+70-18-8	Alfa Aesar	L-	Glutathione, reduced, 97%	A18014	5 g	1	냉장	2020-01-09	Y	 
+23147-58-2	sigma-aldrich	 	Glycolaldehyde dimer	G6805	1g	1	냉장	2021-02-22	N	 
+79-14-1	Alfa	 	Glycolic acid	A12511	100g	1	데시케이터	2021-02-22	N	 
+148893-10-1	Combi-blocks	 	HATU	OR-0618	25 g	1	냉장	 	Y	 
+148893-10-1	combi-blocks	 	HATU	OR-0618	25gx4	1	냉장	2021-01-28	Y	 
+999-97-3	Alfa	1,1,1,3,3,3-	Hexamethyldisilazane	A15139.AE	100ml	1	데시케이터	2021-01-27	Y	 
+7647-01-0	Daejung	 	Hydrochloric acid	4090-4100	1 kg	3	산시약장	 	Y	 
+7647-01-0	Acros	 	Hydrogen chloride in 2-propanol	42860	100mL	1	산시약장	2020-11-04	Y	 
+7647-01-0	Alfa Aesar	 	Hydrogen chloride in methanol	H31570	100mL	1	냉장	2020-11-04	Y	 
+7647-01-0	Alfa Aesar	 	Hydrogen chloride, 1M in EA	H32266	100 ml	1	냉장	2020-02-23	Y	 
+7647-01-0	TCI	 	Hydrogen chloride, 1M in Ether	H1061	100 ml	1	냉장	2020-03-02	Y	 
+123333-53-9	Daejung	1-	Hydroxybenzotriazole hydrate	4112-4405	500 g	1	시약장	2020-10-27	Y	 
+123333-53-9	Daejung	1-	Hydroxybenzotriazole hydrate	4112-4405	500 g	1	시약장	2018-10-29	Y	 
+7218-52-2	Combi-blocks	4-	Hydroxy-but-2-ynoic acid	ST-3220	1g	1	시약장	2021-03-24	N	 
+622-40-2	Alfa Aesar	4-(2-	Hydroxyethyl)morpholine, 99%	B22759	100 g	1	시약장	2020-01-10	Y	 
+103-76-4	TCI	1-(2-	Hydroxyethyl)piperazine	P0812	25 g	1	데시케이터	2021-01-13	Y	 
+3034-50-2	TCI	 	Imidazole-4-carboxaldehyde	I0636	1g	1	냉장	2021-01-27	Y	 
+7553-56-2	Daejung	 	Iodine	5010-4405	500 g	1	시약장	 	Y	 
+71759-89-2	TCI	4-	Iodo-1H-imidazole	I0812	5 g	1	시약장	2020-09-28	Y	 
+71759-87-0	Combi-blocks	4-	Iodo-1-methyl-1H-imidazole	HI-1004	5 g	1	냉장	2020-09-21	Y	 
+39806-90-1	Combi-blocks	4-	iodo-1-methyl-1H-pyrazole	HI-1350	5 g	1	냉장	2020-09-21	Y	 
+1556-18-9	Alfa	 	Iodocyclopentane, 97%, stab. with copper	 	5g	1	시약장	2021-02-25	N	 
+1556-18-9	Alfa	 	Iodocyclopentane, 97%, stab. with copper	L01522	25g	1	시약장	44273	N	 
+74-88-4	DAEJUNG	 	Iodomethane	5014-4405	500 g	1	시약장	2020-12-22	Y	 
+53064-79-2	Combi-blocks	 	Iodomethyl pivalate	QC-7757	1 g	1	냉장	2020-11-24	Y	 
+75-30-9	TCI	2-	Iodopropane (stabilized with Copper chip	 	25g	1	시약장	2021-02-17	N	 
+5029-67-4	TCI	2-	Iodopyridine (stabilized with Na2S2O3) 	I0533	5 g	1	시약장	2020-09-17	Y	 
+7439-89-6	Daejung	 	Iron, powder	5027-4400	1 kg	1	시약장	2020-07-01	Y	 
+543-27-1 	Alfa Aesar	 	Isobutyl chloroformate	A14692	25 g	1	시약장	2019-01-11	Y	 
+78-84-2	TCI	 	Isobutyraldehyde	I0101	25 ml	1	데시케이터	2021-01-22	Y	 
+79-31-2	Alfa	 	Isobutyric acid, 99%	L04038	100 ml	1	산시약장	2020-12-17	Y	 
+108-21-4	Alfa	 	Isopropyl acetate	L09337	250ml	1	시약장	44272	N	 
+503-74-2	Alfa	 	Isovaleric acid, 98%	A18642	250ml	1	산시약장	2020-12-21	Y	 
+50-21-5	Daejung	 	Lactic acid	5057-4400	1 kg	1	산시약장	 	Y	 
+16853-85-3	Aldrich	 	Lithium aluminum hydrdride 1.0 M in THF solution	212776	25 mL	1	시약장	2021-01-13	Y	 
+7447-41-8	Acros	 	Lithium chloride	41327	100 g	1	시약장	2018-04-22	Y	 
+1310-66-3	Junsei	 	Lithium hydroxide monohydrate	39225S0450	1 kg	2	무기물시약장	 	Y	 
+7487-88-9	Daejung	 	Magnesium sulfate anhydrous, powder	5514-4400	1 kg	7	무기물시약장	 	Y	 
+110-16-7	DAEJUNG	 	Maleic acid	5519-4405 	500g	1	산시약장	44306	N	 
+617-48-1	Junsei	DL-	Malic acid	20193130	500 g	1	산시약장	 	Y	 
+141-82-2	Daejung	 	Malonic acid	5654-4405	500 g	1	산시약장	 	Y	 
+2033-24-1	TCI	 	Meldrum's Acid (=2,2-Dimethyl-1,3-dioxane-4,6-dione)	M0799	25 g	1	냉장	2020-09-03	Y	 
+60-24-2	TCI	2-	Mercaptoethanol	M0058	25g	1	데시케이터	2021-02-24	N	 
+75-75-2	대정화금	 	Methanesulfonic acid	5651-4405	500 g	1	산시약장	2020-12-24	Y	 
+124-63-0	sigma-aldrich	 	Methanesulfonyl chloride	471259	100 mL	1	냉장	2020-01-14	Y	 
+577-72-0	Combi-blocks	4-	Methoxy-3-nitroaniline	SS-5305	25 g	1	냉장	2020-09-17	Y	 
+16292-88-9	Combi-blocks	3-	Methoxy-4-nitroaniline	AN-3281	25 g	1	시약장	2020-09-17	Y	 
+625-45-6	TCI	 	Methoxyacetic Acid	M0827	25g	1	시약장	2021-03-02	N	 
+824-94-2	Acros	4-	Methoxybenzyl Chloride	29417	100 g	1	냉장	2020-07-02	Y	 
+4009-98-7	TCI	(	Methoxymethyl)triphenylphosphonium Chloride	M0828	100 g	1	시약장	2019-05-27	Y	 
+5720-07-0	Acros	4-	Methoxyphenylboronic acid	30948	25 g	1	시약장	2021-01-04	Y	 
+688809-94-1	Combi-blocks	3-	Methoxypiperidine hydrocholoride	HC-4013	10g	1	시약장	2020-10-28	Y	 
+205448-66-4	BLD Pharm	 	Methyl 4-chloro-7-methoxyquinoline-6-carboxylate, 97%	BD257784	25 g	1	냉장	2020-09-14	Y	 
+36052-24-1	combi-blocks	 	Methyl 6-aminonicotinate	CA-4102	5 g	1	시약장	2021-01-22	Y	 
+79-22-1	Daejung	 	Methyl Chloroformate	5742-4425	25 mL	1	시약장	2020-11-18	Y	 
+37517-81-0	Alfa	 	methyl malonyl chloride	41451	5g	1	냉장	44293	N	 
+2365-48-2	Alfa	 	Methyl mercaptoacetate	L03783	100g	1	시약장	2021-02-24	N	 
+513-35-9	Acros	2-	Methyl-2-butene	12649	25 mL	3	시약장	2019-05-16	Y	 
+872-50-4	Alfa Aesar	1-	Methyl-2-pyrrolidinone	A12260	500 g	1	시약장	2019-12-16	Y	 
+872-50-4	Daejung	N-	Methyl-2-pyrrolidone	5575-4100	1 kg	1	시약장	 	Y	 
+116-53-0	Alfa	2-	Methylbutyric acid, 98%	A11546	25ml	1	산시약장	2020-12-21	Y	 
+109-02-4	TCI	4-	Methylmorpholine	M0370	25 mL	1	시약장	 	Y	 
+54699-92-2	Combi-blocks	(4-	Methylpiperazin-1-yl)acetic acid	AM-1736	1 g	1	냉장	2020-11-24	Y	 
+109-01-3	TCI	1-	Methylpiperazine	M0553	25 mL	1	시약장	2021-01-13	Y	 
+ 	Daejung	 	Molecular sieve 4A (4-8 mesh)	5585-1405	500 g	3	무기물시약장	 	Y	 
+654055-01-3	Alfa Aesar	 	Morin hydrate	35400	5g	1	시약장	2020-10-07	Y	 
+91-20-3	Alfa Aesar	 	Naphthalene	33347	50 g	1	시약장	2019-11-26	Y	 
+123-86-4	Alfa	 	n-Butyl acetate	A19412	500ml	1	시약장	44272	N	 
+107-92-6	Acros	 	n-Butyric acid, 99+%	10811	100 ml	1	산시약장	2020-12-17	Y	 
+485-47-2	Daejung	 	Ninhydrin	5615-4425	25 g	2	시약장	 	Y	 
+619-73-8	TCI	4-	Nitrobenzyl alcohol	N0180	25 g	1	시약장	2020-11-20	Y	 
+4457-32-3	sigma-aldrich	4-	Nitrobenzyl chloroformate	222801	5g	1	냉장	2020-11-27	Y	 
+144-62-7	Daejung	 	Oxalic acid anhydrous	5710-4105	500 g	1	산시약장	 	Y	 
+29262-58-6	Combi-blocks	 	Oxalic acid mono-(N-methyl)-amide	QC-7012	1g	1	시약장	2021-03-05	N	 
+79-37-8	TCI	 	Oxalyl Chloride	O0082	100 g	1	데시케이터	2020-05-29	Y	 
+471-47-6	Alfa	 	Oxamic acid, 98%	B20344	5g	1	시약장	2021-02-25	N	 
+108-95-2	Acros	 	Phenol	C14934	50 g	1	데시케이터	2019-11-26	Y	특별관리물질
+101-84-8	TCI	 	Phenyl Ether	P0177	500 g	1	용매시약장	2020-09-03	Y	 
+95-54-5	Alfa Aesar	o-	Phenylenediamine	A11946	25 g	1	시약장	2020-03-12	Y	 
+108-45-2	TCI	1,3-	Phenylenediamine	P1892	25 g	1	시약장	2021-01-13	Y	 
+95-54-5 	Alfa	o-	Phenylenediamine, 98%	A11946	250g	1	시약장	2021-02-05	Y	 
+51429-74-4	Daejung	 	Phosphomolybdic acid hydrate	6531-4125	25 g	1	시약장	 	Y	 
+10025-87-3	sigma-aldrich	 	Phosphorus(V) oxychloride	201170	250 g	1	산시약장	2020-09-03	Y	 
+110-85-0	TCI	 	Piperazine Anhydrous	P0446	25 g	1	데시케이터	2021-01-13	Y	 
+5625-67-2	TCI	2-	Piperazinone	P1867	1 g	1	데시케이터	2021-01-13	Y	 
+3235-67-4	Combi-blocks	 	Piperidin-1-yl-acetic acid	ST-8763	1 g	1	시약장	2020-11-24	Y	 
+61644-00-6	Combi-blocks	 	Piperidin-3-one, HCl	AM-1825	1 g	1	시약장	2020-06-04	Y	 
+41979-39-9	Combi-blocks	 	piperidin-4-one, HCl	AM-1826	5 g	1	시약장	2020-06-04	Y	 
+4897-50-1	TCI	4-	Piperidinopiperidine	P1638	5 g	1	시약장	2020-11-20	Y	 
+630-19-3	acros	 	Pivaldehyde, 97%	36836	5 g	1	냉장	2021-01-22	Y	 
+75-98-9	TCI	 	Pivalic Acid	P0461	25 g	1	시약장	2020-11-20	Y	 
+8017-16-1	Alfa Aesar	 	Polyphosphoric acid, ca 84%	L14856	100 ml	1	시약장	2020-03-12	Y	 
+298-14-6	Combi-blocks	 	Potassium bicarbonate	QE-7724	25 g	1	시약장	2020-12-22	Y	 
+584-08-7	Daejung	 	Potassium carbonate anhydrous	6564-4400	1 kg	2	무기물시약장	 	Y	 
+584-08-7	Daejung	 	Potassium carbonate anhydrous, powder	6668-4400	1 kg	6	무기물시약장	 	Y	 
+7447-40-7	DAEJUNG	 	Potassium chloride	6566-4405	500 g	1	무기물시약장	2020-08-11	Y	 
+1310-58-3	Daejung	 	Potassium hydroxide, flakes	6597-4400	1 kg	2	무기물시약장	 	Y	 
+7681-11-0	Alfa Aesar	 	potassium iodide	A12704	50 g	2	데시케이터	2019-12-24	Y	 
+7681-11-0	Alfa Aesar	 	Potassium iodide, 99%	A12704	50 g	1	데시케이터	2020-05-26	Y	 
+7722-64-7	Daejung	 	Potassium permanganate	6607-4400	1 kg	1	시약장	 	Y	 
+37222-66-5	TCI	 	Potassium Peroxymonosulfate	O0310	25 g	1	데시케이터	2020-03-11	Y	 
+37222-66-5	TCI	 	Potassium Peroxymonosulfate [> ca. 45%(T) as KHSO5]	O0310	500g	1	데시케이터	2021-02-17	N	 
+865-47-4	sigma-aldrich	 	Potassium tert-butoxide	156671	100 g	1	데시케이터	2020-05-21	Y	 
+865-47-4	TCI	 	Potassium tert-Butoxide (12% in Tetrahydrofuran, ca. 1mol/L)	P1619	100 ml	1	데시케이터	2020-09-03	Y	 
+123-38-6	alfa	 	Propionaldehyde, 97%	A16146	500 ml	1	냉장	2021-01-22	Y	 
+79-09-4	대정화금	 	Propionic acid	6627-4400	1 kg	1	산시약장	2020-12-17	Y	 
+110-86-1	JUNSEI	 	Pyridine	60200-0380	1 L	2	시약장	 	Y	 
+628-13-7	Alfa Aesar	 	Pyridine hydrochloride	A10871	50 g	1	시약장	2018-04-22	Y	 
+37386-15-5	Combi-blocks	2-(	Pyrrolidin-1-yl)acetic acid	QB-4317	1 g	1	시약장	2020-11-24	Y	 
+3760-52-9	Combi-blocks	 	Pyrrolidin-3-one, HCl	OS-1284	1 g	1	냉장	2020-06-04	Y	 
+616-45-5	Acros	2-	Pyrrolidinone	13211	250ml	1	데시케이터	2020-05-25	Y	 
+107-97-1	TCI	 	Sarcosine	M0332	25g	1	데시케이터	2021-02-25	N	 
+ 	wako	 	Sea sand, 850-1400 μm (14-20mesh)	190-11405	500 g	3	무기물시약장	 	Y	 
+7631-86-9	Daejung	 	Silicagel blue(Medium granular)	7510-1405	500 g	5	무기물시약장	 	Y	 
+127-09-3	Daejung	 	Sodium acetate anhydrous	7527-4400	1 kg	2	무기물시약장	 	Y	 
+16940-66-2	TCI	 	Sodium borohydride	S0480	25g	1	데시케이터	44279	N	 
+497-19-8	Daejung	 	Sodium carbonate anhydrous	7541-4400	1 kg	2	무기물시약장	 	Y	 
+7647-14-5	Daejung	 	Sodium chloride	7548-4100	1 kg	5	무기물시약장	 	Y	 
+25895-60-7	Alfa Aesar	 	Sodium cyanoborohydride, 95%	87839	100 g	1	데시케이터	2020-05-19	Y	 
+141-52-6	TCI	 	Sodium ethoxide	S0547	100 g	1	데시케이터	2020-09-03	Y	 
+141-52-6	Alfa Aesar	 	Sodium ethoxide	L06230	100 g	1	데시케이터	2020-06-26	Y	 
+141-52-6	Alfa Aesar	 	Sodium ethoxide, 21% w/w in ethanol	L13083	500 mL	1	시약장	2019-07-01	Y	 
+141-52-6	Alfa Aesar	 	Sodium ethoxide, 21% w/w in EtOH	L13083	500 ml	1	시약장	2020-04-17	Y	 
+7646-69-7	TCI	 	Sodium Hydride (60%, dispersion in Paraffin Liquid)	S0481	100 g	1	데시케이터	2020-05-22	Y	 
+144-55-8	Daejung	 	Sodium hydrogen carbonate	7566-4400	1 kg	5	무기물시약장	 	Y	 
+1310-73-2	Daejung	 	Sodium hydroxide beads	7571-4100	1 kg	5	무기물시약장	 	Y	 
+7681-82-5	Daejung	 	Sodium iodide	7696-4405	500 g	1	시약장	2020-07-07	Y	 
+124-41-4	Daejung	 	Sodium methoxide anhydrous	7596-4405	500 g	1	시약장	2020-05-19	Y	 
+124-41-4	Daejung	 	Sodium methoxide, 30 wt.% solution in methanol	7699-1405	500 ml	1	시약장	2020-05-19	Y	 
+7757-82-6	Daejung	 	Sodium sulfate anhydrous	7630-4405	500 g	12	무기물시약장	 	Y	 
+540-72-7	Alfa	 	Sodium thiocyanate, ACS	33388	100G	1	시약장	44272	N	 
+10102-17-7	Junsei	 	Sodium thiosulfate pentahydrate	44305S1250	1 kg	1	무기물시약장	 	Y	 
+56553-60-7	acros	 	Sodium triacetoxyborohydride, 97%	29182	100 g	2	데시케이터	2020-05-21	Y	 
+110-15-6	Daejung	 	Succinic acid	7672-4400	1 kg	1	산시약장	 	Y	 
+7664-93-9	Daejung	 	Sulfuric acid	7683-4100	1 kg	1	산시약장	2020-05-13	Y	특별관리물질
+87-69-4	Daejung	L(+)-	Tartaric acid	8502-4400	1 kg	1	산시약장	 	Y	 
+1643-19-2	TCI	 	Tetrabutylammonium Bromide	T0054	100 g	1	데시케이터	2020-10-20	Y	 
+311-28-4	TCI	 	Tetrabutylammonium Iodide	T0057	25 g	1	데시케이터	2020-10-20	Y	 
+651706-15-9	BLD Pharm	(4,5,6,7-	Tetrahydrobenzo[d]thiazol-2-yl)methanamine	BD276133	1 g	1	냉장	2021-01-21	Y	 
+14221-01-3	TCI	 	Tetrakis(triphenylphosphine)palladium(0)	T1350	25 g	1	냉동	2020-09-17	Y	 
+17787-40-5	combi	 	Tetramethylammonium fluoride tetrahydrate, 97%	QA-4481	5g	1	시약장	2021-02-19	N	 
+590-93-2	TCI	 	Tetrolic Acid	T1199	1g	1	시약장	44279	N	 
+18453-07-1	Combi-blocks	2-(	Thiazol-2-yl)ethanamine	QJ-6506	1g	1	냉장	2021-01-05	Y	 
+432047-36-4	BLD Pharm	1-(2-	Thiazolyl)ethylamine	BD224429	1g	1	냉장	2020-11-24	Y	 
+68-11-01	sigma-aldrich	 	Thioglycolic acid	528056	100 mL	1	냉장	2020-11-24	Y	 
+68-11-01	TCI	 	Thioglycolic acid	M0052	25 g	1	냉장	 	Y	 
+2125597	DAEJUNG	 	Thionyl chloride	8518-4405	500 g	1	산시약장	2020-05-20	Y	 
+62-56-6	Alfa	 	Thiourea, 99%	A12828	100g	1	시약장	2021-03-23	N	 
+7550-45-0	Alfa Aesar	 	Titanium chloride, 1M soln. in DCM	H31830	500 ml	1	데시케이터	2020-02-23	Y	 
+6192-52-5	대정화금	p-	Toluenesulfonic acid monohydrate	8542-4405	500 g	1	산시약장	2020-12-24	Y	 
+39968-33-7	TCI	3H-1,2,3-	Triazolo[4,5-b]pyridin-3-ol	T1673	25 g	1	시약장	 	Y	 
+121-44-8	JUNSEI	 	Triethylamine	49140S0480	1 L	2	시약장	 	Y	 
+368-39-8	sigma-aldrich	 	Triethyloxonium tetrafluoroborate	90520	25 g	2	냉장	2020-11-04	Y	 
+368-39-8	Alfa Aesar	 	Triethyloxonium tetrafluoroborate, 1.0M in dichloromethane	A11678	500 ml	2	냉장	2019-10-16	Y	 
+368-39-8	Alfa Aesar	 	Triethyloxonium tetrafluoroborate, 1.0M in dichloromethane	A11678	100 ml	1	냉장	2019-06-26	Y	 
+76-05-1	Daejung	 	Trifluoroacetic acid	8558-4405	500 g	1	산시약장	2020-07-01	Y	 
+128796-39-4	Alfa Aesar	4-(	Trifluoromethyl)benzeneboronic acid	B22374	25 g	1	시약장	2021-01-04	Y	 
+2516-99-6	Alfa	3,3,3-	Trifluoropropionic acid, 98%	B20428	1g	1	시약장	2021-03-22	N	 
+128796-39-4	Alfa Aesar	4-(	Trifluromethyl)benozeneboronic acid	B22374	5 g	1	시약장	2019-10-29	Y	 
+1445-45-0	TCI	 	Trimethyl Orthoacetate	O0115	25 mL	1	시약장	2020-07-22	Y	 
+149-73-5	TCI	 	Trimethyl Orthoformate	O0068	500 ml	1	시약장	2020-09-03	Y	 
+603-35-0	Alfa Aesar	 	Triphenylphosphine, powder, 99%	L02502	50 g	1	시약장	2020-10-20	Y	 
+32315-10-9	TCI	 	Triphosgene	T1467	25 g	1	냉장	2020-11-17	Y	 
+66-22-8	Alfa Aesar	 	Uracil	A15570	50 g	1	시약장	2019-11-26	Y	 
+7646-85-7	Sigma-aldrich	 	Zinc chloride solution (1M in diethyl ether)	276839	100 mL	2	냉장	2020-09-14	Y	 
+358-23-6	sigma-aldrich	 	Trifluoromethanesulfonic anhydride	176176	5g	1	시약장	 	N	 
+23147-58-2	Combi-blocks	2,5-	Dihydroxy-1,4-dioxane	QB-6275	5g	1	시약장	44320	N	 
+7550-35-8	DAEJUNG	 	Lithium bromide anhydrous 98%	5108-1410	100g	1	시약장	 	N	 
+496807-97-7	Combi-blocks	3,3-	Difluoropiperidine, HCl	SS-9713	1g	1	시약장	44320	N	 
+4876-59-9	Combi-blocks	 	Dimethyl-piperidin-4-yl-amine DiHCl	OR-1532	5g	1	시약장	44320	N	 
+657-36-6	Angene	4-(	Trifluoromethyl)piperidine	AG003KBY	5g	1	냉장	44328	N	 
+110-89-4	Alfa	 	piperidine	A12442	100ml	1	시약장	44327	N	 
+13734-41-3	TCI	N-(	tert-Butoxycarbonyl)-L-valine	B1333	5g	1	시약장	44336	N	 
+22838-58-0	TCI	N-(	tert-Butoxycarbonyl)-D-valine	B2991	5g	1	시약장	44334	출력	 
+98-09-9	TCI	 	Benzenesulfonyl Chloride	B0036	25g	1	데시케이터	44334	출력	 
+23147-58-2	Combi-blocks	2,5-	Dihydroxy-1,4-dioxane	QB-6275	25g	1	시약장	44347	N	 
+26386-88-9	TCI	 	Diphenylphosphoryl Azide	D1672	25 g	1	냉장	44350	N	 
+7087-68-5	TCI	N,N-	Diisopropylethylamine	D1599	500 ml	1	시약장	44344	N	 
+403-19-0	Combi-blocks	2-	Fluoro-4-nitrophenol	AN-1553	100 g	1	냉장	44358	N	 
+23147-58-2	Combi-blocks	2,5-	Dihydroxy-1,4-dioxane	QB-6275	25g	1	시약장	44347	N	 
+26386-88-9	TCI	 	Diphenylphosphoryl Azide	D1672	25 g	1	냉장	44350	N	 
+7087-68-5	TCI	N,N-	Diisopropylethylamine	D1599	500 ml	1	시약장	44344	N	 
+590-92-1	Alfa	3-	Bromopropionic acid, 97%	32577	100g	1	시약장	44377	N	 
