@@ -1,0 +1,442 @@
+[
+    {
+        "Project": "WM-S1",
+        "WMB_NO": "WM_10755H20B_PR_0001",
+        "Reagent_name": "c-Src GST tag",
+        "Manufacturer": "sinobiological Inc.",
+        "Cat_No": "10755-H20B",
+        "Leftover": "",
+        "Location": "공용 초저온 냉동고(진솔)",
+        "Data_sheet": "Human SRC Kinase_sino(# 10755-H20B)"
+    },
+    {
+        "Project": "WM-S1",
+        "WMB_NO": "WM_S1076_PR_0001",
+        "Reagent_name": "SRC ative GST tagged",
+        "Manufacturer": "sigma",
+        "Cat_No": "S1076",
+        "Leftover": "",
+        "Location": "공용 초저온 냉동고(진솔)",
+        "Data_sheet": "Src recombinant human protein_sigma(# S1076)"
+    },
+    {
+        "Project": "WM-S1",
+        "WMB_NO": "WM_RER36_PR_0001",
+        "Reagent_name": "RON △155",
+        "Manufacturer": "peptidream",
+        "Cat_No": "RER36",
+        "Leftover": "1uL/tube : 2vial",
+        "Location": "공용 초저온 냉동고(정현호)",
+        "Data_sheet": "RON wt, 155, 160 recombinant human protein_peak protein"
+    },
+    {
+        "Project": "WM-S1",
+        "WMB_NO": "WM_RER38_PR_0001",
+        "Reagent_name": "RON △160",
+        "Manufacturer": "peptidream",
+        "Cat_No": "RER38",
+        "Leftover": "1uL/tube : 16vial",
+        "Location": "공용 초저온 냉동고(정현호)",
+        "Data_sheet": "RON wt, 155, 160 recombinant human protein_peak protein"
+    },
+    {
+        "Project": "WM-S1",
+        "WMB_NO": "WM_RER34_PR_0001",
+        "Reagent_name": "RON wild type",
+        "Manufacturer": "peptidream",
+        "Cat_No": "RER34",
+        "Leftover": "1uL/tube : 15vial",
+        "Location": "공용 초저온 냉동고(정현호)",
+        "Data_sheet": "RON wt, 155, 160 recombinant human protein_peak protein"
+    },
+    {
+        "Project": "WM-S1",
+        "WMB_NO": "WM_08189_PR_0001",
+        "Reagent_name": "VEGFR1 kinase",
+        "Manufacturer": "carna bioscience",
+        "Cat_No": "08-189",
+        "Leftover": "1uL/tube : 17vial",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": "VEGFR1(FLT1) kinase_carna bioscience(# 08-189)"
+    },
+    {
+        "Project": "WM-S1",
+        "WMB_NO": "WM_08191_PR_0001",
+        "Reagent_name": "VEGFR2(KDR) kinase",
+        "Manufacturer": "carna bioscience",
+        "Cat_No": "08-191",
+        "Leftover": "1uL/tube : 20vial",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": "VEGFR2(KDR) kinase_carna bioscience(# 08-191)"
+    },
+    {
+        "Project": "WM-S1",
+        "WMB_NO": "WM_08190_PR_0001",
+        "Reagent_name": "VEGFR3(FLT4) kinase",
+        "Manufacturer": "carna bioscience",
+        "Cat_No": "08-190",
+        "Leftover": "1uL/tube : 19vial",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": "VEGFR3(FLT4) kinase_carna bioscience(# 08-191)"
+    },
+    {
+        "Project": "WM-S1",
+        "WMB_NO": "WM_352MS_PR_0001",
+        "Reagent_name": "rhMSP/MST1",
+        "Manufacturer": "R&D",
+        "Cat_No": "352-MS",
+        "Leftover": "3vial(NEW)",
+        "Location": "공용 초저온 냉동고(김민화)",
+        "Data_sheet": "MSP MST1 recombinant human protein_R&D(# 352-MS)"
+    },
+    {
+        "Project": "WM-S1",
+        "WMB_NO": "WM_RER34_PR_0002",
+        "Reagent_name": "RON wild type",
+        "Manufacturer": "peptidream",
+        "Cat_No": "RER34",
+        "Leftover": "3vial(NEW)",
+        "Location": "공용 초저온 냉동고(정현호)",
+        "Data_sheet": "RON wt, 155, 160 recombinant human protein_peak protein"
+    },
+    {
+        "Project": "WM-S1",
+        "WMB_NO": "WM_RER36_PR_0002",
+        "Reagent_name": "RON △155",
+        "Manufacturer": "peptidream",
+        "Cat_No": "RER36",
+        "Leftover": "2vial(NEW)",
+        "Location": "공용 초저온 냉동고(정현호)",
+        "Data_sheet": "RON wt, 155, 160 recombinant human protein_peak protein"
+    },
+    {
+        "Project": "WM-S1",
+        "WMB_NO": "WM_RER38_PR_0002",
+        "Reagent_name": "RON △160",
+        "Manufacturer": "peptidream",
+        "Cat_No": "RER38",
+        "Leftover": "2vial(NEW)",
+        "Location": "공용 초저온 냉동고(정현호)",
+        "Data_sheet": "RON wt, 155, 160 recombinant human protein_peak protein"
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "WM_PDMU102_PR_0001",
+        "Reagent_name": "mdm2 protein",
+        "Manufacturer": "peptidream",
+        "Cat_No": "PDMU102",
+        "Leftover": "3uL",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": ""
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "WM_PDKK153_PR_0001",
+        "Reagent_name": "mdm2 protein",
+        "Manufacturer": "peptidream",
+        "Cat_No": "PDKK153",
+        "Leftover": "2uL",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": ""
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "WM_PDKK154_PR_0001",
+        "Reagent_name": "mdm2 protein",
+        "Manufacturer": "peptidream",
+        "Cat_No": "PDKK154",
+        "Leftover": "1uL",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": ""
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "WM_PDKK155_PR_0001",
+        "Reagent_name": "mdm2 protein",
+        "Manufacturer": "peptidream",
+        "Cat_No": "PDKK155",
+        "Leftover": "20uL x 4vial",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": ""
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "WM_PDKK156_PR_0001",
+        "Reagent_name": "mdm2 protein",
+        "Manufacturer": "peptidream",
+        "Cat_No": "PDKK156",
+        "Leftover": "7uL",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": ""
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "WM_H0004193P01_PR_0001",
+        "Reagent_name": "mdm2 recombinant human protein",
+        "Manufacturer": "Abnova",
+        "Cat_No": "H0004193-P01",
+        "Leftover": "15ug, 25ug",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": "mdm2 recombinant human protein_abnova(# H00004193-P01)"
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "WM_ab82080_PR_0001",
+        "Reagent_name": "mdm2 recombinant human protein",
+        "Manufacturer": "abcam",
+        "Cat_No": "ab82080",
+        "Leftover": "",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": "mdm2 recombinant human proteim_abcam(# ab82080)"
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "WM_E3290050_PR_0001",
+        "Reagent_name": "NEDD4 recombinant human protein",
+        "Manufacturer": "bostonbiochem",
+        "Cat_No": "E3-290-050",
+        "Leftover": "10uL",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": "NEDD4 recombinant human protein_bostonbiochem(# E3290050)"
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "WM_Vol1_PR_0001",
+        "Reagent_name": "p34 protein",
+        "Manufacturer": "peptidream",
+        "Cat_No": "Vol1",
+        "Leftover": "-",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": ""
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "WM_Vol2_PR_0001",
+        "Reagent_name": "p34 protein",
+        "Manufacturer": "peptidream",
+        "Cat_No": "Vol2",
+        "Leftover": "40uL",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": ""
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "WM_H00029950P01_PR_0001",
+        "Reagent_name": "Sertad1 recombinant human protein",
+        "Manufacturer": "Abnova",
+        "Cat_No": "H00029950-P01",
+        "Leftover": "25ug",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": "p34 recombinant human protein_abnova(# H00029950-P01)"
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "WM_H0007157P02_PR_0001",
+        "Reagent_name": "TP53 recombinant human protein",
+        "Manufacturer": "Abnova",
+        "Cat_No": "H0007157-P02",
+        "Leftover": "",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": "p53 recombinant human protein_abnova(# H00007157 P02)"
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "WM_E3202050_PR_0001",
+        "Reagent_name": "mdm2 recombinant human protein",
+        "Manufacturer": "bostonbiochem",
+        "Cat_No": "E3-202-050",
+        "Leftover": "NEW",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": ""
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "WM_srp2095_PR_0001",
+        "Reagent_name": "mdm2 recombinant human protein",
+        "Manufacturer": "sigma",
+        "Cat_No": "srp2095",
+        "Leftover": "2vial(NEW)",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": "Mdm2 recombinant human protein_sigma(# SRP2095)"
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "WM_H00091107Q01_PR_0001",
+        "Reagent_name": "TRIM47 recombinant human protein",
+        "Manufacturer": "abnova",
+        "Cat_No": "H00091107-Q01",
+        "Leftover": "NEW",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": "TRIM47 recombinant human protein_abnova(# H00091107-Q01)"
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "WM_E2616100_PR_0001",
+        "Reagent_name": "UbcH5a/UbE2D1",
+        "Manufacturer": "bostonbiochem",
+        "Cat_No": "E2-616-100",
+        "Leftover": "NEW",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": "UbcH5a UBE2D1 recombinant human protein_bostonbhochem(# E2-616-100)"
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "WM_E3305025_PR_0001",
+        "Reagent_name": "E1 Ez, human",
+        "Manufacturer": "bostonbiochem",
+        "Cat_No": "E3-305-025",
+        "Leftover": "NEW",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": "UBE1 recombinant human ubiquitin-activating enzyme_bostonbioche(# E-305)"
+    },
+    {
+        "Project": "WM-A1",
+        "WMB_NO": "WM_SA005_PR_0001",
+        "Reagent_name": "IGSF1-4",
+        "Manufacturer": "Peak protein",
+        "Cat_No": "SA005",
+        "Leftover": "1mL : 13vial",
+        "Location": "공용 초저온 냉동고(공용)",
+        "Data_sheet": ""
+    },
+    {
+        "Project": "WM-S2",
+        "WMB_NO": "WM_02504_PR_0001",
+        "Reagent_name": "PIM1 kinase",
+        "Manufacturer": "carna bioscience",
+        "Cat_No": "02-504",
+        "Leftover": "1uL/tube : 17 vial",
+        "Location": "공용 초저온 냉동고(공용)",
+        "Data_sheet": "PIM1 kinase protein_carna bioscience(# 02-054)"
+    },
+    {
+        "Project": "WM-S2",
+        "WMB_NO": "WM_05156_PR_0001",
+        "Reagent_name": "PIM3 kinase",
+        "Manufacturer": "carna bioscience",
+        "Cat_No": "05-156",
+        "Leftover": "1uL/tube : 17 vial",
+        "Location": "공용 초저온 냉동고(공용)",
+        "Data_sheet": "PIM3 kinase protein_carna bioscience(# 02-156)"
+    },
+    {
+        "Project": "WM-S2",
+        "WMB_NO": "WM_02504_PR_0002",
+        "Reagent_name": "PIM1 kinase",
+        "Manufacturer": "carna bioscience",
+        "Cat_No": "02-504",
+        "Leftover": "2vial(NEW)",
+        "Location": "공용 초저온 냉동고(공용)",
+        "Data_sheet": "PIM3 kinase protein_carna bioscience(# 02-156)"
+    },
+    {
+        "Project": "WM-S2",
+        "WMB_NO": "WM_02152_PR_0001",
+        "Reagent_name": "PIM2 kinase",
+        "Manufacturer": "carna bioscience",
+        "Cat_No": "02-152",
+        "Leftover": "2vial(NEW)",
+        "Location": "공용 초저온 냉동고(공용)",
+        "Data_sheet": "PIM2 kinase protein_carna bioscience(# 02-155)"
+    },
+    {
+        "Project": "WM-S2",
+        "WMB_NO": "WM_05156_PR_0002",
+        "Reagent_name": "PIM3 kinase",
+        "Manufacturer": "carna bioscience",
+        "Cat_No": "05-156",
+        "Leftover": "2vial(NEW)",
+        "Location": "공용 초저온 냉동고(공용)",
+        "Data_sheet": "PIM3 kinase protein_carna bioscience(# 02-156)"
+    },
+    {
+        "Project": "TAM",
+        "WMB_NO": "WM_A31515_PR_0001",
+        "Reagent_name": "AXL kinase",
+        "Manufacturer": "invitrogen",
+        "Cat_No": "A31515",
+        "Leftover": "NEW",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": "AXL kinase protein_Thermo fisher(# A31515)"
+    },
+    {
+        "Project": "TAM",
+        "WMB_NO": "WM_PV3627_PR_0001",
+        "Reagent_name": "MERTK kinase",
+        "Manufacturer": "invitrogen",
+        "Cat_No": "PV3627",
+        "Leftover": "NEW",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": "MERTK kinase protein_Thermo fisher(# PV3627)"
+    },
+    {
+        "Project": "TAM",
+        "WMB_NO": "WM_PV3828_PR_0001",
+        "Reagent_name": "TYRO3 kinase",
+        "Manufacturer": "invitrogen",
+        "Cat_No": "PV3828",
+        "Leftover": "NEW",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": "TYRO3 kinase protein_Thermo fisher(# PV3828)"
+    },
+    {
+        "Project": "TAM",
+        "WMB_NO": "WM_A31515_PR_0002",
+        "Reagent_name": "AXL kinase",
+        "Manufacturer": "invitrogen",
+        "Cat_No": "A31515",
+        "Leftover": "1uL/tube : 79vial",
+        "Location": "공용 초저온 냉동고(공용)",
+        "Data_sheet": "AXL kinase protein_Thermo fisher(# A31515)"
+    },
+    {
+        "Project": "TAM",
+        "WMB_NO": "WM_PV3627_PR_0002",
+        "Reagent_name": "MERTK kinase",
+        "Manufacturer": "invitrogen",
+        "Cat_No": "PV3627",
+        "Leftover": "1uL/tube : 26vial",
+        "Location": "공용 초저온 냉동고(공용)",
+        "Data_sheet": "MERTK kinase protein_Thermo fisher(# PV3627)"
+    },
+    {
+        "Project": "TAM",
+        "WMB_NO": "WM_PV3828_PR_0002",
+        "Reagent_name": "TYRO3 kinase",
+        "Manufacturer": "invitrogen",
+        "Cat_No": "PV3828",
+        "Leftover": "1uL/tube : 20vial",
+        "Location": "공용 초저온 냉동고(공용)",
+        "Data_sheet": "TYRO3 kinase protein_Thermo fisher(# PV3828)"
+    },
+    {
+        "Project": "KRAS",
+        "WMB_NO": "WM_100753_PR_0001",
+        "Reagent_name": "SOS-FLAG",
+        "Manufacturer": "Bpbioscience",
+        "Cat_No": "100753",
+        "Leftover": "",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": "SOS1 recombinant human protein_BPS bioscience(# 100753)"
+    },
+    {
+        "Project": "KRAS",
+        "WMB_NO": "WM_RA117050_PR_0001",
+        "Reagent_name": "KRAS",
+        "Manufacturer": "promise",
+        "Cat_No": "RA117050",
+        "Leftover": "1uL/tube : 13 vial",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": "KRAS(G12C) recombinant human protein_Promise(# RA117050)"
+    },
+    {
+        "Project": "KRAS",
+        "WMB_NO": "WM_14863_PR_0001",
+        "Reagent_name": "RAF",
+        "Manufacturer": "millipore",
+        "Cat_No": "14-863",
+        "Leftover": "2uL/tube : 18 vial",
+        "Location": "공용 초저온 냉동고(김송이)",
+        "Data_sheet": ""
+    }
+]

@@ -1,6 +1,7 @@
 import os
 import json
 import datetime
+import re
 
 def timeStamped(fname, fmt='%Y-%m-%d-%H-%M-%S_{fname}'):
     return datetime.datetime.now().strftime(fmt).format(fname=fname)
@@ -485,8 +486,7 @@ def protein_to_mongo(path, base_path):
         
         # Inserting Data
         total_converting.append({"Project":line[0], "WMB_NO":line[1], "Reagent_name":line[2], "Manufacturer":line[3], "Cat_No":line[4], 
-                         "Lot_No":line[5], "Leftover":line[6], "Location":line[7], "Data_sheet":line[8], "New1":line[9], "New2":line[10], "New3":line[11],
-                         "New4":line[12], "New5":line[13], "New6":line[14], "New7":line[15], "New8":line[16], "New9":line[17], "New10":line[18]})  
+                         "Leftover":line[5], "Location":line[6], "Data_sheet":line[7]})  
         
     with open(date_join, 'w', encoding="UTF-8") as file:
         file.write((json.dumps(total_converting, indent=4, sort_keys= False, ensure_ascii=False)))
@@ -513,8 +513,8 @@ def shsirna_to_mongo(path, base_path):
         total_converting.append({"Project":line[0], "WMB_NO":line[1], "Name":line[2], "Target_Gene":line[3], "Species":line[4], 
                          "Type":line[5], "Concentration":line[6], "Sequence":line[7], "Manufacturer":line[8], "Stock_vial_ipgo":line[9],
                          "Stock_vial_liftover":line[10], "Stock_vial_location":line[11], "Subdivide_vial_liftover":line[12], "Location":line[13],
-                         "Manager":line[14], "Data_sheet":line[15], "New1":line[16], "New2":line[17], "New3":line[18], "New4":line[19], 
-                         "New5":line[20], "New6":line[21], "New7":line[22], "New8":line[23], "New9":line[24], "New10":line[25]})  
+                         "Manager":line[14], "New1":line[15], "New2":line[16], "New3":line[17], "New4":line[18], "New5":line[19], "New6":line[20], 
+                         "New7":line[21], "New8":line[22], "New9":line[23], "New10":line[24]})  
         
     with open(date_join, 'w', encoding="UTF-8") as file:
         file.write((json.dumps(total_converting, indent=4, sort_keys= False, ensure_ascii=False)))
@@ -544,18 +544,42 @@ def celline_to_mongo(path, base_path):
             exec("%s = list()" %(name), globals())
 
         # each filed to tuple
-        Characterization.append({"Chemoresistance_status":line[6], "Mutation_status":line[7], "RON_Genotype":line[8], "IGSF1 Genotype":line[9],
-                                "P34_Genotype":line[10]})
-        RT_PCR.append({"RON":line[16], "KRAS":line[17], "BRAF":line[18], "EGFR":line[19]})
-        WB.append({"RON":line[20], "BRAF":line[21], "EGFR":line[22]})
+        Characterization.append({"Chemoresistance_status":line[5], "Mutation_status":line[6], "RON_Genotype":line[7], "IGSF1 Genotype":line[8],
+                                "P34_Genotype":line[9]})
+        #RT_PCR.append({"RON":line[16], "KRAS":line[17], "BRAF":line[18], "EGFR":line[19]})
+        #WB.append({"RON":line[20], "BRAF":line[21], "EGFR":line[22]})
         
         # Inserting Data
         total_converting.append({"WMB_NO":line[0], "Celline":line[1], "Tissue":line[2], "Organism":line[3], "Disease":line[4], 
-                                 "Picture":line[5], "Characterization":Characterization, "Media_Condition":line[11], "GROWTH_PATTERN":line[12],
-                                 "Ratio_Period":line[13], "Purchase":line[14], "Issue":line[15], "RT_PCR":RT_PCR, "WB":WB, "New1":line[23],
-                                 "New2":line[24], "New3":line[25], "New4":line[26], "New5":line[27], "New6":line[28], "New7":line[29], 
-                                 "New8":line[30], "New9":line[31], "New10":line[32]
+                                 "Characterization":Characterization, "Media_Condition":line[10], "GROWTH_PATTERN":line[11],
+                                 "Ratio_Period":line[12], "Purchase":line[13], "Issue":line[14] 
                                 })  
+        
+    with open(date_join, 'w', encoding="UTF-8") as file:
+        file.write((json.dumps(total_converting, indent=4, sort_keys= False, ensure_ascii=False)))
+    
+    return total_converting
+
+def medicalchemistry_reagent_to_mongo(path, base_path):
+    # backup file write
+    save_path = base_path + "/backup/medicalchemistry_reagent"
+    file_name = timeStamped("medicalchemistry_reagent.json")
+    date_join = os.path.join(save_path, file_name)
+    
+    # txt to json(list or tuple)
+    total_converting = list()
+
+    f = open(path, "r", encoding="UTF-8")
+    content = f.read()
+    splitcontent = content.splitlines()
+
+    for line in splitcontent:
+        line = line.split("\t")
+        
+        # Inserting Data
+        total_converting.append({"CAS_NO":line[0], "Manufacturer":line[1], "prefix":line[2], "Name":line[3], "CAT_NO":line[4], "unit":line[5],
+                                "leftover":line[6], "location":line[7], "ipgo_date":line[8], "harmful_factors":line[9], "harmful_factors_status":line[10],
+                                "etc":line[11]})  
         
     with open(date_join, 'w', encoding="UTF-8") as file:
         file.write((json.dumps(total_converting, indent=4, sort_keys= False, ensure_ascii=False)))

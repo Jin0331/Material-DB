@@ -1,0 +1,1030 @@
+110-52-1	TCI	1,4-	Dibromobutane	D0176	25 g	1	 	2021-07-07	 	 	 
+111-24-0	TCI	1,5-	Dibromopentane	D0198	25 g	1	 	2021-07-07	 	 	 
+5021-33-0	combi	(1-	Methylpyrrolidin-3-yl)methanol	QH-5249	1 g	1	 	2021-05-18	 	 	 
+14630-40-1	Alfa	 	Bis(trimethylsilyl)acetylene, 99%	A11960	10 g	1	 	2021-06-15	 	 	 
+141-75-3	TCI	 	Butyryl chloride, 98%	B0770	25 g	1	 	2021-06-29	 	 	 
+298-12-4	TCI	 	Glyoxylic acid, 50% w/w aq. soln.	G0366	25 mL	1	 	2021-06-02	 	 	 
+101691-94-5	Combi	4-(	Iodomethyl)tetrahydro-2H-pyran	ST-2461	1 g	1	냉장	2021-03-17	 	 	 
+574-98-1	Combi	N-(2-	Bromoethyl)phthalimide	OR-1552	5 g	1	 	2021-03-17	 	 	 
+137-32-6	Alfa	(±)-2-	Methyl-1-butanol	B21825	100 mL	1	 	2021-05-06	 	 	 
+108-11-2	Alfa	(±)-4-	Methyl-2-pentanol	A13435	500 mL	1	 	2021-05-14	 	 	 
+54627-94-0	Accelachem bio	5-(1H-	Benzimidazol-2-yl)pyridin-2-ol	SY157410	1 g	1	 	2020-11-10	 	 	 
+5805-57-2	combi-blocks	(1H-	Benzo[d]imidazol-2-yl)methanamine	QA-9893	1 g	1	냉장	2020-10-15	 	 	 
+5805-57-2	combi-blocks	(1H-	Benzo[d]imidazol-2-yl)methanamine	QA-9893	10 g	1	냉장	2021-01-13	 	 	 
+1499172-23-4	Combi	(1-	Methylazetidin-3-yl)methanol	QV-6461	250mg	1	냉장	2021-05-18	 	 	 
+2955-88-6	Alfa	N-(2-	Hydroxyethyl)pyrrolidine	H60368	25 mL	1	 	2021-05-06	 	 	 
+6504-13-8	amgene	2-(4′-	Hydroxyphenyl)benzimidazole	 	1 g	1	냉장	2021-04-14	 	 	 
+6504-13-8	amgene	2-(4′-	Hydroxyphenyl)benzimidazole	 	1 g	1	냉장	2021-04-16	 	 	 
+5468-66-6	Combi-blocks	2-(4-	Chlorobenzyl)benzimidazole	OR-0740	5 g	1	 	2021-04-07	 	 	 
+297172-16-8	combi-blocks	(4-	Methylpiperidin-4-yl)methanol	AM-2294	1 g	1	 	2020-07-21	 	 	 
+3731-52-0	Alfa	3-(	Aminomethyl)pyridine, 98+%	B23634	25g	1	 	2021-03-17	 	 	 
+41791-10-0	ANG	1-(	bromomethyl)-4-methylnaphthalene	M200713-2	1 g	1	 	2020-07-30	 	 	 
+130628-75-0	Combi	3-(	Bromomethyl)-5-methylisoxazole	QA-9812	1 g	1	냉장	2021-03-17	 	 	 
+17247-58-4	combi	(	Bromomethyl)cyclobutane	OS-7954	1 g	1	냉장	2021-03-23	 	 	 
+2550-36-9	alfa	(	Bromomethyl)cyclohexane, 98%	L11343	5 g	1	 	2021-03-16	 	 	 
+7051-34-5	combi	(	Bromomethyl)cyclopropane, 97%	OS-7629	5 g	1	 	2021-04-07	 	 	 
+ 	BLD Pharm	5-(	Bromomethyl)isoquinoline, HCl	BD229172	1 g	1	냉장	2020-09-04	 	 	 
+3163-27-7	TCI	1-(	Bromomethyl)naphthalene	B4563	5 g	1	 	2020-05-18	 	 	 
+124668-49-1	combi-blocks	3-(	Dimethylamino)azetidine diHCl	QB-3581	5 g	1	냉장	2020-08-19	 	 	 
+942308-06-7	combi-blocks	3-(	Methoxymethyl)azetidine hydrochloride	QC-5012	1 g	1	냉장	2020-06-01	 	 	 
+109-83-1	TCI	2-(	Methylamino)ethanol	M0144	25 mL	1	 	2021-05-12	 	 	 
+126069-70-3	combi-blocks	2-(	Trifluoromethyl)-5H,6H,7H,8H-imidazo[1,2-a]pyrazine	HC-7023	1 g	1	 	2020-10-15	 	 	 
+7529-22-8	aldrich	4-	Methylmorpholine N-Oxide	224286	5 g	1	냉장	2021-03-10	 	 	 
+20127-63-3	combi	9H-	Pyrido[3,4-b]indole-1-carboxaldehyde	QE-8109	250mg	1	냉장	2021-04-28	 	 	 
+14691-89-5	TCI	4-	Acetamido-2,2,6,6-tetramethylpiperidine 1-Oxyl Free Radical	A1348	5 g	1	 	 	 	 	 
+64-19-7	Daejung	 	Acetic acid	 	1 kg	3	 	 	 	 	 
+64-19-7	Daejung	 	Acetic acid, glacial	 	1 kg	3	 	 	 	 	 
+108-24-7	sigma-aldrich	 	Acetic anhydride	 	1 L	1	 	 	1.-다.-1)	보관중	 
+75-05-8	Alfa	 	Acetonitrile, anhydrous, 99.8+% packaged undr Argon in resealable CehmSeal bottles	043166	250ml	1	 	2021-03-30	 	 	 
+75-36-5	Alfa	 	Acetyl chloride 1M soln. in DCM	H32616	100 mL	1	데시케이터	 	 	 	 
+75-36-5	Alfa	 	Acetyl chloride, 98%	43262	50 mL	1	 	2021-07-09	 	 	 
+574-19-6	alfa	1-	Acetyl-2-naphthol	A18537	5 g	1	 	2020-02-17	 	 	 
+705941-45-3	combi-block	(4-	Acetyl-piperazin-1-yl)-acetic acid	OR-6297	1 g	1	 	2021-02-19	 	 	 
+79-10-7	TCI	 	Acrylic acid	A0141	25 g	1	냉장	2020-02-21	 	 	 
+814-68-6	Daejung	 	Acryloyl chloride	DJ-182729	50 g	1	냉장	 	 	 	 
+814-68-6	Aldrich	 	Acryloyl Chloride	549797	5 g	1	냉장	2020-07-02	 	 	 
+2051-76-5	combi-blocks	 	Acylic anhydride	QH-7998	5 g	1	냉장	2020-04-03	 	 	 
+302-72-7	TCI	DL-	Alanine, >98%	A0178	25 g	1	 	2020-10-28	 	 	 
+556-56-9	TCI	 	Allyl Iodide (stabilized with Copper chip)	I0070	5 g	1	냉장	2021-03-17	 	 	 
+7446-70-0	Alfa	 	Aluminum chloride, anhydrous, Reagent Grade	12298	250 g	1	 	2021-06-15	 	 	 
+54523-76-1	combi-blocks	4-	Amino-1,3-dihydro-indol-2-one	QA-6127	250mg	1	 	2020-12-09	 	 	 
+61-82-5	Alfa	3-	Amino-1H-1,2,4-triazole	A14871	50 g	1	 	 	 	 	 
+41838-46-4	TCI	4-	Amino-1-methylpiperidine	A2046	5 g	1	 	 	 	 	 
+399-96-2	Combi-Blocks	4-	Amino-2-fluorophenol	 	25g	1	냉장	 	 	 	 
+399-96-2	Combi-blocks	4-	Amino-2-fluorophenol	OR-4488	100 g	1	냉장	 	 	 	 
+7251-09-04	BLDpharm	4-	Amino-2-methoxybenzonitrile, 98%	BD93700	5 g	1	 	 	 	 	 
+86-97-5	combi-blocks	5-	Amino-2-naphthol	QE-9891	5 g	1	 	2020-02-18	 	 	 
+16462-26-3	combi-blocks	4-	Amino-2-sulfanylpyrimidine-5-carbonitrile	QY-1310	1 g	1	 	2020-04-03	 	 	 
+19798-77-7	TCI	4-	Amino-3-chloropyridine	A2788	1 g	1	냉장	 	 	 	 
+53981-23-0	combi-blocks	2-	Amino-3-fluorophenol	AN-2836	1 g	1	 	2020-07-10	 	 	 
+16867-03-1	alfa	2-	Amino-3-hydroxypyridine, 98%	 	25 g	1	 	 	 	 	 
+14678-02-5	Alfa	5-	Amino-3-methylisoxazole	A12446	1 g	1	 	 	 	 	 
+14678-02-5	Alfa	5-	Amino-3-methylisoxazole, 98%	A12446	25g	1	 	 	 	 	 
+610-81-1	TCI	4-	Amino-3-nitrophenol, >97%	A1426	100 g	1	 	2021-01-06	 	 	 
+4815-28-5	BLD Pharm	2-	Amino-4,5,6,7-tetrahydro-1-benzothiophene-3-carboxamide	BD70005	5 g	1	냉장	2020-04-03	 	 	 
+4651-91-6	alfa	2-	Amino-4,5,6,7-tetrahydrobenzo[b]thiophene-3-carbonitrile, 97%	H32544	1 g	1	 	2020-09-28	 	 	 
+108354-78-5	combi-blocks	2-	Amino-4,5,6,7-tetrahydro-benzo[b]thiophene-3-carboxylic acid methyl ester	QB-1694	1 g	1	 	2020-10-06	 	 	 
+108354-78-5	combi-blocks	2-	Amino-4,5,6,7-tetrahydro-benzo[b]thiophene-3-carboxylic acid methyl ester	QB-1694	1 g	1	냉장	2020-10-15	 	 	 
+40925-68-6	TCI	2-	Amino-4-bromophenol	A2271	5 g	1	 	2020-12-01	 	 	 
+19798-80-2	TCI	2-	Amino-4-chloropyridine	A2152	5 g	1	 	 	 	 	 
+3993-78-0	Combi-Blocks	2-	Amino-4-chloropyrimidine	OS-7866	25g	1	냉장	 	 	 	 
+54660-78-5	TCI	5-	Amino-4-chloropyrimidine	A2937	1 g	1	냉장	 	 	 	 
+150986-82-6	combi	2-	Amino-4H,5H,7H-thieno[2,3-c]pyran-3-carbonitrile	SH-5704	1 g	1	냉장	2021-06-23	 	 	 
+879884-04-5	Accelachem bio	2-	Amino-5-(2-benzimidazolyl)pyridine	SY173212	1 g	1	냉장	2020-11-27	 	 	 
+1072-97-5	Alfa	2-	Amino-5-bromopyridine	A14280	5 g	1	 	 	 	 	 
+1196157-51-3	BLD pharm	2-	Amino-6-bromonicotinic acid, 97+%	BD218941	1 g	1	냉장	2019-12-18	 	 	 
+19798-81-3	Alfa	2-	Amino-6-bromopyridine	H26555	5 g	1	 	 	 	 	 
+58584-92-2	combi-blocks	2-	Amino-6-chloronicotinic acid	ST-1713	5 g	1	 	2020-02-11	 	 	 
+58584-92-2	combi-blocks	2-	Amino-6-chloronicotinic acid	ST-1713	5 g	1	 	2020-03-26	 	 	 
+58584-92-2	combi-blocks	2-	Amino-6-chloronicotinic acid	ST-1713	5 g	1	냉장	2020-09-25	 	 	 
+33332-28-4	Alfa	2-	Amino-6-chloropyrazine	H61934	25g	1	 	 	 	 	 
+5305-59-9	Combi-Blocks	4-	Amino-6-chloropyrimidine	OS-1108	1 g	1	 	 	 	 	 
+5305-59-9	Combi-Blocks	4-	Amino-6-chloropyrimidine	OS-1108	25g	1	 	 	 	 	 
+603-87-2	combi-blocks	2-	Amino-6-nitrophenol	QB-1798	1 g	1	냉장	2020-12-09	 	 	 
+122-80-5	TCI	4'-	Aminoacetanilide	A0106	25g	1	 	2020-07-07	 	 	 
+99-03-06	Alfa	3'-	Aminoacetophenone, 97%	A12503	50 g	1	 	2021-05-11	 	 	 
+99-92-3	Alfa	4'-	Aminoacetophenone, 99%	A13213	50 g	1	 	2021-05-11	 	 	 
+99-05-8	TCI	3-	Aminobenzoic Acid	A0268	25g	1	 	2021-04-12	 	 	 
+455-14-1	TCI	4-	Aminobenzotrifluoride	A0662	25 mL	1	냉장	 	 	 	 
+455-14-1	TCI	4-	Aminobenzotrifluoride	A0662	25 mL	1	냉장	2021-01-06	 	 	 
+1036260-25-9	combi-blocks	3-	Aminocyclobutanol hydrochloride	QC-1699	5 g	1	냉장	2020-06-09	 	 	 
+27489-62-9	TCI	trans-4-	Aminocyclohexanol	A1160	25g	1	 	 	 	 	 
+6850-39-1	Combi-Blocks	3-	Aminocyclohexanol	OR-5969	1 g	1	 	 	 	 	 
+6850-65-3	combi-blocks	4-	Aminocyclohexanol	QB-7846	5 g	1	 	2020-06-09	 	 	 
+899806-45-2	Combi-Blocks	Trans-2-(4-	Aminocyclohexyl)-2-hydroxypropane	QA-7307	5 g	1	데시케이터	 	 	 	 
+1184919-69-4	combi-blocks	3-	Aminocyclopentanol, HCl	QA-1391	1 g	1	 	2020-06-09	 	 	 
+2038-03-1	Alfa	4-(2-	Aminoethyl)morpholine, 98+%	B21365	50 g	1	 	 	 	 	 
+116650-26-1	Combi-Blocks	3-(	Aminomethyl)cyclohexanol	QB-3905	1 g	1	 	 	 	 	 
+3218-02-8	TCI	 	Aminomethylcyclohexane	A1114	25 mL	1	 	 	 	 	 
+130290-79-8	combi-blocks	4-	Aminomethyltetrahydropyran	AM-1003	5 g	1	 	2020-06-09	 	 	 
+69879-22-7	Combi-blocks	6-	aminonicotinaldehyde	QE-7337	1 g	1	 	2020-12-24	 	 	 
+615-72-5	combi-blocks	3,4-	Aminophenol, 96%	AN-3892	1 g	1	냉장	2021-01-06	 	 	 
+102-28-3	BLD Pharm	N-(3-	Aminophenyl)acetamide	BD84390	100 g	1	 	2020-07-16	 	 	 
+123-00-2	TCI	N-(3-	Aminopropyl)morpholine	A0409	25 mL	1	 	 	 	 	 
+116529-31-8	combi-blocks	4-	Aminotetrahydro-2H-thiopyran 1,1-dioxide, HCl	SS-1672	1 g	1	 	2020-07-21	 	 	 
+88675-24-5	BLD	3-	Aminotetrahydrofuran	BD87077	1 g	1	냉장	2020-10-15	 	 	 
+38041-19-9	combi-blocks	4-	Aminotetrahydropyran	AM-1004	5 g	1	냉장	 	 	 	 
+96-50-4	Alfa	2-	Aminothiazole, 97%	A12026	50 g	1	 	2021-02-25	 	 	 
+873-83-6	alfa	6-	Aminouracil	L03332	100 g	1	 	2020-02-17	 	 	 
+1336-21-6	TCI	 	Ammonia Solution (28% in Water)	A2038	500 mL	1	 	 	 	 	 
+7664-41-7	Alfa	 	Ammonia, 7M in methanol	H30382	100 mL	1	냉장	 	 	 	 
+631-61-8	Daejung	 	Ammonium acetate	 	500 g	1	 	 	 	 	 
+12125-02-9	대정화금	 	Ammonium chloride	1060-4400	1 kg	1	 	2020-04-17	 	 	 
+12125-02-9	Daejung	 	Ammonium chloride	 	1 kg	1	 	 	 	 	 
+7722-76-1	Alfa	 	Ammonium dihydrogen phosphate, ACS, 98.0% min	11598	500 g	1	 	2020-04-24	 	 	 
+540-69-2	Acros	 	Ammonium formate	A0392362	250g	1	데시케이터	 	 	 	 
+1336-21-6	Daejung	 	Ammonium hydroxide	 	1 L	5	 	 	 	 	 
+12054-85-2	Alfa	 	Ammonium molybdate (para) tetrahydrate, 99%	A13766	50 g	1	 	 	 	 	 
+7727-54-0	Sigma-Aldrich	 	Ammonium porsulfate	A3678	100 g	1	 	 	 	 	 
+7783-20-2	alfa	 	Ammonium sulfate	A11682	1 kg	1	 	2020-06-10	 	 	 
+62-53-3	TCI	 	Aniline	 	500 g	1	 	 	1.-가.-53)	보관중	 
+90-04-0	TCI	o-	Anisidine	A0486	25 mL	1	냉장	2020-07-07	 	 	 
+104-94-9	alfa	p-	Anisidine	A10946	100 g	1	 	2021-01-05	 	 	 
+536-90-3	Alfa	m-	Anisidine, 98%	A10815	50 g	1	 	2021-05-11	 	 	 
+148893-10-1	Alfa	O-(7-	Aza-1H-benzotriazol-1-yl)-N,N,N',N'-tetramethyluronium hexafluorophosphate (HATU)	H26082	25g	1	데시케이터	 	 	 	 
+156311-83-0	Aldrich	(7-	Azabenzotriazol-1-yloxy)tripyrrolidinophosphonium hexafluorophosphate (pyAOP)	535303	1 g	1	냉동	 	 	 	 
+45347-82-8	combi-blocks	 	Azetidin-3-ol	OT-2658	1 g	1	냉장	2020-04-24	 	 	 
+45347-82-8	combi-blocks	 	Azetidin-3-ol	OT-2658	5 g	1	냉장	2020-06-01	 	 	 
+928038-44-2	combi-blocks	 	Azetidin-3-ylmethanol, HCl	SH-5382	1 g	1	 	2020-04-24	 	 	 
+928038-44-2	combi-blocks	 	Azetidin-3-ylmethanol, HCl	SH-5382	10 g	1	 	2020-06-01	 	 	 
+345954-83-8	combi-blocks	 	Azetidine-3-carbonitrile, HCl	ST-7114	1 g	1	냉장	2020-04-24	 	 	 
+345954-83-8	combi-blocks	 	Azetidine-3-carbonitrile, HCl	ST-7114	10 g	1	냉장	2020-06-01	 	 	 
+345954-83-8	combi	 	Azetidine-3-carbonitrile, HCl	ST-7114	10 g	1	냉장	2021-06-23	 	 	 
+345954-83-8	combi	 	Azetidine-3-carbonitrile, HCl	ST-7114	10 g	1	냉장	2021-07-07	 	 	 
+4648-54-8	Aldrich	 	Azidotrimethylsilane	155071	10 g	1	냉장	 	 	 	 
+1072-52-2	angene	1-	Aziridineethanol	 	1 g	1	냉장	2021-05-25	 	 	 
+78-67-1	sigma-aldrich	 	Azobisisobutyronitrile 12 wt. % in acetone	768375	100 mL	1	냉장	 	 	 	 
+71-43-2	Daejung	 	Benzene	 	1 L	1	 	 	1.-가.-36)	보관중	 
+98-80-6	Alfa	 	Benzeneboronic acid	A14257	10 g	1	 	 	 	 	 
+98-80-6	Alfa	 	Benzeneboronic acid	A14257	50 g	2	 	 	 	 	 
+98-09-9	Alfa	 	Benzenesulfonyl chloride	A10849	250g	1	 	 	 	 	 
+1007206-54	combi-blocks	1H-	Benzimidazole-5-boronic acid, pinacol ester	PN9095	1 g	1	냉장	2020-11-04	 	 	 
+65-85-0	Daejung	 	Benzoic acid	2018-4400	1 kg	1	 	 	 	 	 
+1013-88-3	alfa	 	Benzophenone imine	H30110	5 g	1	 	2021-02-05	 	 	 
+1073354-91-2	combi-blocks	 	Benzothiazole-5-boronic acid pinacol ester	PN-8787	1 g	1	냉장	2021-01-13	 	 	 
+2158302-01-1	chemscene	 	Benzyl (S)-2-(cyanomethyl)piperazine-1-carboxylate	CS-0095743	1 g	4	냉장	2020-02-28	 	 	 
+2158302-01-1	Angene	 	Benzyl (S)-2-(cyanomethyl)piperazine-1-carboxylate	200619B-1	5 g	1	냉장	2020-07-07	 	 	 
+2158302-01-1	Angene	 	Benzyl (S)-2-(cyanomethyl)piperazine-1-carboxylate	200619B-1	5 g	1	냉장	2020-08-24	 	 	 
+2158302-01-1	Angene	 	Benzyl (S)-2-(cyanomethyl)piperazine-1-carboxylate	200619B-1	5 g	1	냉장	2020-09-25	 	 	 
+100-51-6	TCI	 	Benzyl Alcohol	B2378	500 g	1	 	2019-11-29	 	 	 
+100-39-0	대정화금	 	Benzyl bromide	2084-4440	100 g	1	 	 	 	 	 
+501-53-1	TCI	 	Benzyl Chloroformate	B3021	25g	1	냉장	 	 	 	 
+100-53-8	TCI	 	Benzyl Mercaptan	T0287	25g	1	 	2020-02-12	 	 	 
+478646-33-2	labnetwork	 	Benzyl N-[(3S)-piperidin-3-yl]carbamate	PBN20121610	5 g	1	 	 	 	 	 
+56-37-1	TCI	 	Benzyltriethylammonium chloride	B0444	25g	1	데시케이터	 	 	 	 
+98327-87-8	TCI	(±)-	BINAP	B2383	5 g	1	데시케이터	 	 	 	 
+92-52-4	Kanto	 	Biphenyl	10429-00	500 g	1	 	 	 	 	 
+14592-56-4	combi-blocks	 	Bis(acetonitrile)palladium(II) Dichloride	OS-7707	1 g	1	 	2020-07-21	 	 	 
+98327-87-8	Alfa	(±)-2,2'-	Bis(diphenylphosphino)-1,1'-binaphthyl, 97+%	H26226	5 g	1	 	2020-01-08	 	 	 
+161265-03-8	TCI	4,5-	Bis(diphenylphosphino)-9,9-dimethylxanthene	B2709	5 g	1	 	2020-02-11	 	 	 
+161265-03-8	Alfa	4,5-	Bis(diphenylphosphino)-9,9-dimethylxanthene	H26241	1 g	1	데시케이터	 	 	 	 
+95464-05-4	sigma-aldrich	[1,1′-	Bis(diphenylphosphino)ferrocene]dichloropalladium(II), complex with dichloromethane	379670	5 g	1	데시케이터	 	 	 	 
+95464-05-4	Adrich	[1,1′-	Bis(diphenylphosphino)ferrocene]dichloropalladium(II), complex with dichloromethane	379670	5 g	1	데시케이터	 	 	 	 
+95408-45-0	TCI	[1,1'-	Bis(di-tert-butylphosphino)ferrocene]palladium(II) Dichloride	B3160	1 g	1	데시케이터	 	 	 	 
+73183-34-3	alfa	 	Bis(pinacolato)diboron	L16088	25 g	1	 	 	 	 	 
+13965-03-2	TCI	 	Bis(triphenylphosphine)palladium(II) Dichloride	B1667	5 g	1	냉장	 	 	 	 
+13965-03-2	TCI	 	Bis(triphenylphosphine)palladium(II) Dichloride	B1667	25 g	1	냉장	 	 	 	 
+53199-31-8	sigma-aldrich	 	Bis(tri-tert-butylphosphine)palladium(0)	676578	1 g	1	냉장	 	 	 	 
+195314-59-1	combi-blocks	N-	Boc-1,4-cyclohexanediamine	QB-0248	1 g	1	냉장	 	 	 	 
+85908-96-9	Combi-Blocks	1-	Boc-2-piperidone	OR-5251	25g	1	 	 	 	 	 
+147081-29-6	Alfa	(S)-(-)-1-	Boc-3-methylpiperazine, 98%	H27534	5 g	1	냉장	2020-02-06	 	 	 
+166104-20-7	Combi-blocks	1-	Boc-5-aminoindole	QA-7944	1 g	1	냉장	 	 	 	 
+1203651-07-3	Alfa	(3S,5R)-3-(	Boc-amino)-5-methylpiperidine	QM-7412	1 g	1	냉장	2020-01-07	 	 	 
+216854-23-8	Alfa	(S)-3-(	Boc-amino)piperidine	H26957	5 g	1	데시케이터	 	 	 	 
+135632-53-0	combi-blocks	4-(	Boc-Aminomethyl)piperidine	AM-1757	5 g	1	냉장	 	 	 	 
+216854-23-8	Combi-Blocks	(S)-3-	Boc-aminopiperidine	AM-1742	5 g	1	냉장	 	 	 	 
+216854-23-8	combi-blocks	(S)-3-	Boc-aminopiperidine	AM-1742	100 g	1	냉장	 	 	 	 
+4530-20-5	alfa	N-	Boc-glycine	A11579	5 g	1	 	2021-01-05	 	 	 
+213318-44-6	combi-blocks	1-	Boc-indole-2-boronic acid	BB-2009	5 g	1	냉동	2020-12-08	 	 	 
+13292-87-0	Sigma-Aldrich	 	Borane dimethyl sulfide complex	179825	25 mL	1	냉장	 	 	 	 
+13292-87-0	sigma-aldrich	 	Borane dimethyl sulfide complex solution in THF(2 M)	192120	100 mL	1	냉장	 	 	 	 
+14044-65-6	sigma-aldrich	 	Borane tetrahydrofuran complex solution in THF(1 M)	176192	100 mL	1	냉장	 	 	 	 
+13292-87-0	alfa	 	Borane-dimethyl sulfide complex	42967	25 mL	1	냉장	2020-02-24	 	 	 
+10294-33-4	Aldrich	 	Boron tribromide	202207	25g	1	냉장	 	 	 	 
+10294-33-4	Aldrich	 	Boron tribromide solution, 1.0 M in methylene chloride	211222	25 mL	1	냉장	 	 	 	 
+10294-33-4	Adrich	 	Boron tribromide solution, 1.0 M in methylene chloride	211222	100 mL	7	냉장	2020-03-24	 	 	 
+109-63-7	Aldrich	 	Boron trifluoride diethyl etherate	216607	25 mL	1	냉장	 	 	 	 
+353-43-5	Aldrich	 	Boron trifluoride methyl sulfide complex	261998	100 mL	1	 	2020-06-09	 	 	 
+7726-95-6	Junsei	 	Bromine	37175S0301	500 g	1	 	 	1.-라.-2)	보관중	 
+1429901-88-1	Combi-blocks	7-	Bromo-[1,3]oxazolo[4,5-b]pyridine	QY-3229	1 g	1	 	 	 	 	 
+65232-57-7	combi-blocks	2-	Bromo-1,3-diethylbenzene	QF-4311	5 g	1	냉장	2020-02-25	 	 	 
+57190-17-7	combi-blocks	2-	Bromo-1,3-diisopropylbenzene	QE-5087	5 g	1	냉장	2020-02-25	 	 	 
+1729-99-3	BLD	8-	Bromo-1-naphthoic acid	BD13575	5 g	1	 	2020-04-01	 	 	 
+630-17-1	combi	1-	Bromo-2,2-dimethylpropane	 	1 g	1	 	2021-03-17	 	 	 
+1131992-30-7	BLD Pharm	6-	Bromo-2,4-dichloro-3H-pyrrolo[2,3-d]pyrimidine	BD266017	1 g	1	냉장	2020-04-28	 	 	 
+816-40-0	Acros	1-	Bromo-2-butanone, 90%, stabilized	22245	1 g	1	냉장	2021-03-12	 	 	 
+816-40-0	Acros	1-	Bromo-2-butanone, 90%, stabilized	22245	1 g	1	 	2021-03-17	 	 	 
+816-40-0	Alfa	1-	Bromo-2-butanone, 90%, stabilized	22245	1 g	1	냉장	2021-05-11	 	 	 
+53939-30-3	combi-blocks	5-	Bromo-2-chloropyridine	OT-0324	25g	1	 	2020-07-28	 	 	 
+367-24-8	alfa	4-	Bromo-2-fluoroaniline, 98+%	A10228	10 g	1	 	 	1.-가.-53)	보관중	 
+128071-98-7	TCI	4-	Bromo-2-fluoropyridine	B4778	1 g	1	 	 	 	 	 
+1458-98-6	TCI	3-	Bromo-2-methyl-1-propene	B2467	5 g	1	냉장	2021-03-12	 	 	 
+63837-11-6	TCI	5-	Bromo-2-methylbenzothiazole	B1798	5 g	1	냉장	2020-12-01	 	 	 
+4965-34-8	BLD	7-	Bromo-2-methylquinoline, 97%	BD166908	5 g	1	 	2019-12-03	 	 	 
+1017793-21-3	combi-blocks	4-	Bromo-3-chloro-2-fluoropyridne , 98%	QF-2412	5 g	1	냉장	 	 	 	 
+109-70-6	TCI	1-	Bromo-3-chloropropane	B0575	25g	1	 	 	 	 	 
+104540-42-3	combi-blocks	2-	Bromo-3-fluorobenzotrifluoride	QA-1259	5 g	1	 	 	 	 	 
+104540-42-3	combi-blocks	2-	Bromo-3-fluorobenzotrifluoride	QA-1259	5 g	1	 	 	 	 	 
+5498-31-7	combi-blocks	1-	Bromo-3-hydroxynaphthalene	QN-8208	5 g	1	 	 	 	 	 
+5498-31-7	combi-blocks	1-	Bromo-3-hydroxynaphthalene	QN-8208	1 g	1	 	2020-08-19	 	 	 
+6602-32-0	TCI	2-	Bromo-3-hydroxypyridine	B1478	25g	1	 	 	 	 	 
+6602-32-0	Alfa	2-	Bromo-3-hydroxypyridine, 99%	A12687	100 g	1	 	 	 	 	 
+19056-40-7	combi-blocks	4-	Bromo-3-methoxyaniline	AN-1606	25g	1	 	2020-03-24	1.-가.-53)	보관중	 
+19056-40-7	Combi-Blocks	4-	Bromo-3-methoxyaniline, 97%	AN-1606	25 g	1	 	2020-01-03	1.-가.-53)	보관중	 
+19967-55-6	Combi	1-	Bromo-3-methyl-2-butanone	QA-4750	1 g	1	냉장	2021-03-17	 	 	 
+6602-32-0	Aldrich	2-	Bromo-3-pyridinol	116173	5 g	1	 	 	 	 	 
+476660-71-6	대정화금	6-	Bromo-4-chloro-7-methoxyquinoline	DJ-200632	20 g	1	냉장	2020-04-17	 	 	 
+656-64-4	TCI	3-	Bromo-4-fluoroaniline	B2957	5 g	1	냉장	 	1.-가.-53)	보관중	 
+19056-41-8	combi-blocks	3-	Bromo-4-methoxyaniline	AN-1573	25g	1	 	2020-03-24	1.-가.-53)	보관중	 
+19056-41-8	combi-blocks	3-	Bromo-4-methoxyaniline, 97%	AN-1573	25g	1	 	2020-02-11	1.-가.-53)	보관중	 
+16503-46-1	amgene	2-	bromo-4-phenylbutanoic acid	 	1 g	1	냉장	2021-07-01	 	 	 
+1206800-24-9	AstaTech	6-	Bromo-5-(2-fluoro-4-nitrophenoxy)-1-methyl-1h-indazole	P16140	1 g	1	냉장	 	 	 	 
+1206800-24-9	LNW	6-	Bromo-5-(2-fluoro-4-nitrophenoxy)-1-methyl-1H-indazole	PB1252145	1 g	1	 	 	 	 	 
+1052714-46-1	Combi-Blocks	6-	Bromo-5-fluoro-2-pyridinecarboxylic acid	QC-1867	5 g	1	 	 	 	 	 
+1052714-46-1	Combi-blocks	6-	Bromo-5-fluoro-2-pyridinecarboxylic acid	QC-1867	10 g	1	 	 	 	 	 
+917251-99-1	Combi-blocks	8-	Bromo-5-fluoroquinoline	HC-2022	5 g	1	 	 	 	 	 
+149806-06-4	Accela	2-	Bromo-5-formylpyridine	182682	100 g	1	냉장	 	 	 	 
+55717-45-8	TCI	2-	Bromo-5-hydroxypyridine	 	5 g	1	 	 	 	 	 
+﻿﻿83472-62-2	BLDpharm	6-	Bromo-7-chloro-3H-imidazo[4,5-b]pyridine	BD300286	1 g	1	냉장	 	 	 	 
+22118-09-8	Acros	 	Bromoacetyl chloride, 95%	197990250	25g	1	냉장	2021-07-09	 	 	 
+4887-88-1	TCI	6-	Bromobenzimidazole	B4458	1 g	1	 	2020-12-04	 	 	 
+768-11-6	combi-blocks	5-	Bromobenzothiazole	HC-2374	5 g	1	냉장	2021-01-13	 	 	 
+2623-87-2	Alfa	4-	Bromobutyric acid, 97%	A12870	10 g	1	 	2021-04-01	 	 	 
+76-60-8	Alfa	 	Bromocresol Green	A17090	5 g	1	 	 	 	 	 
+7073-94-1	TCI	2-	Bromocumene	B2044	5 g	1	 	2020-02-18	 	 	 
+13287-42-8	combi	2-(2-	Bromoethyl)oxirane	 	1 g	1	냉장	2021-03-17	 	 	 
+6188-23-4	Alfa	6-	Bromoimidazo[1,2-a]pyridine	H34453	1 g	1	 	 	 	 	 
+52415-29-9	TCI	6-	Bromoindole	B1794	1 g	1	 	2021-01-13	 	 	 
+2052-01-9	Aldrich	2-	Bromoisobutyric Acid, >98%	306851	25 g	1	 	2020-12-24	 	 	 
+81093-21-2	combi-blocks	1-(	Bromomethyl)-2,3-dimethylbenzene	SS-6578	5 g	1	냉장	2020-07-22	 	 	 
+3814-30-0	Combi	 	Bromomethylcyclopentane	ST-7332	1 g	1	 	2021-03-17	 	 	 
+2862-39-7	combi-blocks	2-	Bromo-N,N-dimethylethylaminehydrobromide	OR-1498	5 g	1	 	2020-10-15	 	 	 
+149806-06-4	combi-blocks	6-	Bromonicotinaldehyde	OS-7600	100 g	1	 	 	 	 	 
+149806-06-4	Combi-blocks	6-	Bromonicotinaldehyde	OS-7600	25g	1	 	 	 	 	 
+149806-06-4	BLDpharm	6-	Bromonicotinaldehyde, 97+%	BD18481	100 g	1	 	 	 	 	 
+1575-37-7	Alfa	4-	Bromo-o-phenylenediamine, 97%	H26929	5 g	1	 	2020-11-23	 	 	 
+590-92-1	Alfa	3-	Bromopropionic acid, 97%	A11573	25g	1	 	2021-04-01	 	 	 
+15486-96-1	TCI	3-	Bromopropionyl chloride	B2065	25 g	1	냉장	2021-05-25	 	 	 
+1060812-84-1	BLDpharm	5-	Bromopyrazolo[1,5-a]pyridine	BD228010	1 g	1	냉장	2020-12-03	 	 	 
+122306-01-8	combi-blocks	(6-	Bromo-pyridin-3-yl)methanol	OT-8103	25g	1	 	 	 	 	 
+109-04-6	sigma-aldrich	2-	Bromopyridine	 	25g	1	 	 	 	 	 
+31181-90-5	Alfa	5-	Bromopyridine-2-carboxaldehyde, 99%	H50154	1 g	1	 	2021-06-14	 	 	 
+31181-90-5	Alfa	5-	Bromopyridine-2-carboxaldehyde, 99%	H50154	5 g	1	 	2021-07-09	 	 	 
+149806-06-4	Alfa	2-	Bromopyridine-5-carboxaldehyde	 	25g	1	데시케이터	 	 	 	 
+128-08-5	Alfa	N-	Bromosuccinimide	 	250g	1	 	 	 	 	 
+ 	DAEJUNG	 	Buffer solution pH 6.86	2066-3705	500 ml	1	냉장	2021-05-14	 	 	 
+78-92-2	TCI	2-	Butanol	B0705	25 mL	1	 	2021-03-17	 	 	 
+71-36-3	Alfa	1-	butanol	L13171	100 mL	1	 	2021-05-14	 	 	 
+78-93-3	Alfa	2-	Butanone	 	500 mL	1	 	 	 	 	 
+85909-086	Combi-Blocks	1-(t-	Butoxycarbonyl)-2-pyrrolidinone	SS-7905	25g	1	 	 	 	 	 
+552846-17-0	TCI	1-(tert-	Butoxycarbonyl)-4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)pyrazole	B5203	5 g	1	냉장	 	 	 	 
+3303-84-2	TCI	N-(tert-	Butoxycarbonyl)-β-alanine	B2176	5 g	1	 	 	 	 	 
+73874-95-0	TCI	4-(tert-	Butoxycarbonylamino)piperidine	B2319	1 g	1	 	 	 	 	 
+903129-71-5	combi-blocks	tert-	Butyl 2,4-dichloro-5H-pyrrolo[3,4-d]pyrimidine-6(7H)-carboxylate	SS-0185	5 g	1	냉장	2020-07-22	 	 	 
+240401-27-8	 	Tert-	Butyl 2-Oxa-7-Azaspiro[3.5]Nonane-7-Carboxylate	WX100763	5 g	1	 	 	 	 	 
+142643-29-6	Combi-blocks	tert-	butyl N-(piperidin-3-ylmethyl)carbamate	AM-1856	5 g	1	냉장	 	 	 	 
+57260-71-6	Combi-blocks	t-	Butyl piperazine-1-carboxylate	AM-1697	25g	1	 	 	 	 	 
+3760-95-0	TCI	(R)-(+)-	Butylene oxide	B3832	5 mL	1	 	2021-03-12	 	 	 
+30608-62-9	TCI	(S)-(-)-	Butylene oxide	B3833	5 mL	1	 	2021-03-17	 	 	 
+30608-62-9	TCI	(S)-(-)-	Butylene oxide	B3833	5 mL	1	 	2021-03-17	 	 	 
+109-72-8	sigma-aldrich	n-	Butyllithium solution 1.6M in hexanes	186171	50 mL	3	냉장	 	 	 	 
+109-72-8	sigma-aldrich	n-	Butyllithium solution 2.5M in hexanes	 	800 mL	1	냉장	 	 	 	 
+693-04-9	sigma-aldrich	 	Butylmagnesium chloride solution	 	100 mL	1	냉장	 	 	 	 
+107-92-6	alfa	 	Butyric acid	L13189	100 mL	1	 	2021-02-02	 	 	 
+96-48-0	Daejung	γ-	Butyrolactone	2082-4405	500 g	1	 	 	 	 	 
+96-48-0	DAEJUNG	γ-	Butyrolactone	2082-4405	500 g	1	 	2021-01-06	 	 	 
+1003-10-7	Combi-blocks	4-	Butyrothiolactone	QH-4075	5 g	1	냉장	 	 	 	 
+1305-62-0	Alfa	 	Calcium hydroxide, 95%	A12650	250g	1	 	2021-03-10	 	 	 
+3144-16-9	Acros	D(+)-10-	Camphorsulfonic acid	10822	100 g	1	 	 	 	 	 
+530-62-1	Aldrich	1,1′-	Carbonyldiimidazole (CDI)	115533	10 g	1	 	 	 	 	 
+623586-00-5	BLD pharm	(R)-4-	Cbz-2-methylpiperazine	BD57651	5 g	1	냉장	 	 	 	 
+623586-00-5	 	(R)-1-	Cbz-3-methylpiperazine	BD57651	5 g	1	냉장	2020-04-17	 	 	 
+18618-55-8	alfa	 	Cerium(III) chloride heptahydrate	A12947	50 g	1	 	 	 	 	 
+13400-13-0	Alfa	 	Cesium fluoride	12885	25g	1	-	 	 	 	 
+95-83-0	TCI	4-	Chloro-1,2-phenylenediamine, > 97%	C0255	5 g	1	 	2020-10-15	 	 	 
+6980-11-6	LNW	7-	Chloro-1H-imidazo［4,5-b］pyridine	Rundong1132	1 g	1	 	 	 	 	 
+29274-28-0	combi-blocks	4-	Chloro-1H-pyrazolo[3,4-b]pyridine	ST-2973	1 g	1	냉장	 	 	 	 
+5399-92-8	combi-blocks	4-	Chloro-1H-pyrazolo[3,4-d]pyrimidine	SS-7866	5 g	1	냉장	 	 	 	 
+920966-03-6	BLD pharm	4-	Chloro-1H-pyrrolo[2,3-b]pyridine-5-carboxylic acid, 97%	BD167205	1 g	1	냉장	 	 	 	 
+14338-32-0	alfa	2-	Chloro-1-methylpyridinium iodide	A12820	25g	1	냉장	 	 	 	 
+21508-19-0	Alfa	5-	chloro-2-furaldehyde, 98%, stab. with 2% ethanol	L19971	1 g	1	냉장	2020-10-27	 	 	 
+307951-53-7	BLD pharm	4-	Chloro-2-methyl-1H-pyrrolo[2,3-b]pyridine	BD228023	1 g	1	냉장	 	 	 	 
+36404-88-3	BLD Pharm	2-	Chloro-3-formylpyridine	BD20453	25g	1	 	2020-07-16	 	 	 
+6980-11-6	combi-blocks	7-	Chloro-3h-imidazo[4,5-b]pyridine	QB-2673	1 g	1	냉장	 	 	 	 
+417721-69-8	BLDpharm	4-	Chloro-3-iodopyridin-2-amine, 98%	BD25941	1 g	1	 	 	 	 	 
+13726-14-2	TCI	4-	Chloro-3-methoxyaniline	C1774	5 g	1	 	 	1.-가.-53)	보관중	 
+13091-23-1	sigma-aldrich	4-	Chloro-3-nitropyridine	674079	5 g	1	냉장	 	 	 	 
+23100-12-1	TCI	6-	Chloro-3-pyridinecarboxaldehyde	C2519	5 g	1	 	2021-01-11	 	 	 
+491-11-2	Combi-Blocks	3-	Chloro-4-nitrophenol	QB8027	5 g	1	 	 	 	 	 
+619-08-9	TCI	2-	Chloro-4-nitrophenol	 	25g	1	 	 	 	 	 
+101066-61-9	TCI	2-	Chloro-4-pyridinecarboxaldehyde	C2723	1 g	1	 	2020-12-08	 	 	 
+24415-66-5	Combi-blocks	7-	Chloro-5-methyl-[1,2,4]triazolo[1,5-a]pyrimidine	QA-6620	5 g	1	냉장	 	 	 	 
+619-10-3	Combi-blocks	2-	Chloro-5-nitrophenol, 97%	OR-0812	25 g	1	 	2019-12-19	 	 	 
+1289032-19-4	BLD	6-	Chloro-5-nitropicolinaldehyde	C210305-427	1 g	1	냉장	2021-03-23	 	 	 
+22353-33-9	ANG	3-	Chloro-5-nitropyridine	DJ-181206	5 g	1	냉장	 	 	 	 
+7283-96-7	BLDpharm	2-	Chloro-5-thiopenecarboxaldehyde	BD2553	5 g	1	냉동	2020-11-04	 	 	 
+16732-08-0	combi-blocks	4-	Chloro-6,7-dihydro-5h-pyrrolo[2,3-d]pyrimidine	QA-2198	1 g	1	냉장	 	 	 	 
+13790-39-1	TCI	4-	Chloro-6,7-dimethoxyquinazoline	C2574	5 g	1	 	 	 	 	 
+35654-56-9	Combi-Blocks	4-	Chloro-6,7-dimethoxyquinoline	OR-7361	1 g	1	 	 	 	 	 
+35654-56-9	Combi-Blocks	4-	Chloro-6,7-dimethoxyquinoline	OR-7361	25g	1	 	 	 	 	 
+35654-56-9	combi-blocks	4-	Chloro-6,7-dimethoxyquinoline, 98%	OR-7361	25g	1	 	2020-03-26	 	 	 
+313545-32-3	Combi-Blocks	2-	Chloro-6-fluorophenylboronic acid	BB-2387	5 g	1	냉장	 	 	 	 
+148018-29-5	BLD pharm	4-	Chloro-6-hydroxyquinoline, 97%	BD163733	1 g	1	냉장	 	 	 	 
+26452-81-3	TCI	4-	Chloro-6-methoxypyrimidine	C2369	1 g	1	 	2021-07-06	 	 	 
+205448-31-3	Combi-blocks	4-	Chloro-6-methoxyquinolin-7-ol	QA-2601	25 g	1	 	2020-12-24	 	 	 
+4295-04-9	Combi-blocks	4-	Chloro-6-methoxyquinoline	HC-2404	10 g	1	 	 	 	 	 
+35808-68-5	BLD pharm	4-	Chloro-6-methyl-7H-pyrrolo[2,3-d]pyrimidine	BD159078	250mg	1	냉장	 	 	 	 
+479633-63-1	TCI	4-	Chloro-7-(p-toluenesulfonyl)-7H-pyrrolo[2,3-d]pyrimidine	C3036	1 g	1	 	 	 	 	 
+55052-28-3	combi-blocks	4-	Chloro-7-azaindole	OR-7660	25g	1	냉장	 	 	 	 
+3680-69-1	Combi-blocks	4-	Chloro-7H-pyrrolo[2,3-d]pyrimidine	OS-7803	5 g	1	냉장	2020-02-18	 	 	 
+263149-10-6	combi-block	4-	chloro-7-hydroxy-6-methoxyquinoline-3-carbonitrile	QP-7874	5 g	1	 	2021-03-03	 	 	 
+181950-57-2	BLD Pharm	4-	Chloro-7-hydroxyquinoline,98%	BD211981	1 g	1	냉장	2020-06-17	 	 	 
+68500-37-8	BLDpharm	4-	Chloro-7-methoxyquinoline, 98%	BD12686	1 g	1	냉장	2020-01-29	 	 	 
+7306-68-5	TCI	6-	Chloro-9-(tetrahydropyran-2-yl)purine	C2845	1 g	1	 	 	 	 	 
+079-11-8	TCI	 	Chloroacetic Acid	C2123	25g	1	 	2020-04-03	 	 	 
+079-04-09	sigma-aldrich	 	Chloroacetyl chloride	104493	100 g	1	 	2020-04-24	 	 	 
+106-47-8	alfa	4-	chloroaniline	A12879	250g	1	 	2021-01-05	 	 	 
+104-88-1	TCI	4-	Chlorobenzaldehyde	C0125	25g	1	 	2020-11-24	 	 	 
+108-90-7	TCI	 	Chlorobenzene	C1948	500 g	1	 	2020-04-03	1.-가.-84)	보관중	 
+108-90-7	TCI	 	Chlorobenzene	 	500 g	1	 	 	1.-가.-84)	보관중	 
+1080176	TCI	2-	Chlorobenzimidazole	C1719	5 g	1	 	2021-04-07	 	 	 
+1080176	TCI	2-	Chlorobenzimidazole	C1719	5 g	1	 	2021-06-23	 	 	 
+4635-59-0	Alfa	4-	Chlorobutyryl chloride, 98%	A12249	10 g	1	 	2021-04-01	 	 	 
+5753-26-4	oxchem	1-(2-	Chloroethyl)-4-methylpiperazine hydrochloride	AX8225966	5 g	1	냉장	 	 	 	 
+3647-69-6	Alfa	4-(2-	Chloroethyl)morpholine hydrochloride	L05771	100 g	1	 	 	 	 	 
+67-66-3	Aldrich	 	Chloroform, anhydrous, contains amylenes as stabilizer, ≥99%	372978	1 L	1	 	 	 	 	 
+76513-69-4	Acros	2-(	Chloromethoxy)ethyltrimethylsilane (stabilized with Diisopropylethylamine)	219020050	5 mL	1	냉장	2020-02-10	 	 	 
+76513-69-4	TCI	2-(	Chloromethoxy)ethyltrimethylsilane (stabilized with Diisopropylethylamine)	C1339	5 mL	1	냉장	 	 	 	 
+107-30-2	kanto	 	Chloromethyl methyl ether	07270-31	25g	1	냉장	2019-11-29	1.-가.-82)	보관중	 
+144053-97-4	combi-block	2-(	Chloromethyl)morpholine, HCl	SS-7404	1 g	1	냉장	2021-03-03	 	 	 
+140681-55-6	Aldrich	1-	Chloromethyl-4-fluoro-1,4-diazoniabicyclo[2.2.2]octane bis(tetrafluoroborate)	439479	100 g	1	냉장	2020-04-17	 	 	 
+2454397-84-1	HYC	2-(8-	Chloronaphthalen-1-yl)-4,4,5,5-tetramethyl-1,3,2-dioxaborolane	200415A	1 g	1	 	2020-05-11	 	 	 
+2454397-84-1	HYC	2-(8-	Chloronaphthalen-1-yl)-4,4,5,5-tetramethyl-1,3,2-dioxaborolane	CS-0120530	5 g	1	냉장	2020-10-06	 	 	 
+23100-12-1	combi-blocks	6-	Chloronicotinaldehyde	OR-5598	25g	2	 	2021-01-28	 	 	 
+23100-12-1	combi-blocks	6-	Chloronicotinaldehyde	OR-5598	5 g	1	 	2020-09-18	 	 	 
+23100-12-1	combi-blocks	6-	Chloronicotinaldehyde	OR-5598	5 g	2	 	2020-11-05	 	 	 
+10177-29-4	Alfa	4-	Chloronicotinic acid	L20029	5 g	1	 	 	 	 	 
+5326-23-8	TCI	6-	Chloronicotinic acid, >98%	C1116	100 g	1	 	2021-01-06	 	 	 
+58757-38-3	combi-blocks	6-	Chloronicotinoyl chloride	SS-4111	25g	1	 	2021-01-28	 	 	 
+95-83-0	Aldrich	4-	Chloro-o-phenylenediamine	108871	25g	2	 	2021-01-06	 	 	 
+937-14-4	Sigma-aldrich	3-	Chloroperbenzoic acid	273031	25g	7	냉장	 	 	 	 
+937-14-4	Ald	3-	Chloroperbenzoic acid	273031	100 g	1	 	 	 	 	 
+1679-18-1	TCI	4-	Chlorophenylboronic Acid (contains varying amounts of Anhydride)	 	5 g	1	냉장	 	 	 	 
+5382-19-4	combi	4-	Chloropiperidine, HCl	C210316-402	5 g	1	냉장	2021-03-23	 	 	 
+107-94-8	combi	3-	Chloropropionic acid	QE-5950	25g	1	 	2021-04-07	 	 	 
+625-36-5	Aldrich	3-	Chloropropionyl chloride	C69128	100 g	1	 	2021-03-22	 	 	 
+7357-67-7	Combi-blocks	4-(3-	Chloropropyl)morpholine	ST-7428	25g	1	냉동	 	 	 	 
+7357-67-7	combi-blocks	4-(3-	Chloropropyl)morpholine	ST-7428	25g	3	냉동	2020-03-26	 	 	 
+88625-24-5	BLD Pharm	5-	Chloropyrazine-2-carbaldehyde	BD236466	1 g	1	냉장	2020-07-22	 	 	 
+88625-24-5	BLD	5-	Chloropyrazine-2-carbaldehyde	BD236466	1 g	1	냉장	2020-10-22	 	 	 
+58347-49-2	BLDpharm	7-	Chloropyrazolo[1,5-a]pyrimidine, 98%	BD110522	5 g	1	냉동	 	 	 	 
+19798-80-2	BLDpharm	4-	Chloropyridin-2-amine	BD2662	25 g	1	냉장	 	 	 	 
+39891-13-9	BLDpharm	2-(6-	Chloropyridin-3-yl)acetic acid	BD20646	10 g	1	냉장	2020-12-03	 	 	 
+54087-03-5	combi-blocks	6-	Chloropyridine-2-carbaldehyde	QB-8413	5 g	1	냉장	2020-12-09	 	 	 
+444120-91-6	combi-blocks	2-	Chloropyridine-5-boronic acid	BB-2901	25g	1	냉장	2020-07-28	 	 	 
+933702-55-7	combi-blocks	2-	Chloropyrimidine-5-carbaldehyde	QC-3877	1 g	1	냉장	2020-07-28	 	 	 
+933702-55-7	combi-blocks	2-	Chloropyrimidine-5-carbaldehyde	QC-3877	1 g	1	 	2020-11-04	 	 	 
+4965-33-7	combi-blocks	7-	Chloroquinaldine	OR-1040	5 g	1	 	 	 	 	 
+128-09-6	TCI	N-	Chlorosuccinimide	 	25g	1	 	 	 	 	 
+69627-03-8	ANG	7-	Chlorothieno[3,2-b]pyridine	AG0034EA	100 g	2	냉장	 	 	 	 
+16269-66-2	BLDpharm	4-	Chlorothieno[3,2-d]pyrimidine	BD212693	10 g	1	냉장	 	 	 	 
+75-77-4	Aldrich	 	Chlorotrimethylsilane, puriss., ≥99.0% (GC)	92360	25 mL	1	 	 	 	 	 
+75-77-4	ALD	 	Chlorotrimethylsilane, 98%	92360	100 mL	1	 	2021-07-06	 	 	 
+75-77-4	aldrich	 	Chlorotrimethylsilane, puriss., ≥99.0% (GC)	92360	25 mL	1	냉장	2021-03-25	 	 	 
+7787-70-4	alfa	 	Copper(I) bromide	40752	1 g	1	 	2020-06-10	 	 	 
+7758-89-6	alfa	 	Copper(I) chloride, 97%	11871	100 g	1	데시케이터	2020-03-19	 	 	 
+544-92-3	Daejung	 	Copper(I) cyanide	2578-1405	500 g	1	 	 	 	 	 
+7681-65-4	sigma-aldrich	 	Copper(I) iodide	 	50 g	1	데시케이터	 	 	 	 
+142-71-2	Alfa	 	Copper(II) acetate	B23615	100 g	2	 	 	 	 	 
+142-71-2	Alfa	 	Copper(II) acetate	B23615	25g	3	 	 	 	 	 
+4241-27-4	TCI	3-	Cyano-6-methyl-2-pyridone	C2210	5 g	1	 	2021-03-17	 	 	 
+107-91-5	Acros	2-	Cyanoacetamide	 	100 g	1	 	 	 	 	 
+1735-88-2	Bepharm	2-	Cyano-N-(4-fluorophenyl)acetamide	B74139	25g	1	냉장	 	 	 	 
+3019-25-8	alfa	 	Cyclobutyl methyl ketone	L03521	1 g	1	 	2021-05-11	 	 	 
+01605	Sigma-Aldrich	1,3-	Cyclohexanedione	C101605	100 g	1	 	 	 	 	 
+766-00-7	combi	2-	Cyclopentylethanol	QG-7621	1 g	1	 	2021-05-18	 	 	 
+4023-34-1	Alfa	 	Cyclopropanecarbonyl chloride, 98%	A11948	25 g	1	 	2021-06-15	 	 	 
+2516-47-4	Alfa	 	Cyclopropanemethylamine	A13946	5 g	1	냉장	 	 	 	 
+765-43-5	alfa	 	Cyclopropyl Methyl Ketone	A13540	25 g	1	 	2021-05-11	 	 	 
+2566-44-1	combi	2-	Cyclopropylethanol	QE-6832	250 mg	1	 	2021-03-12	 	 	 
+67376-94-7	combi	N-	Cyclopropyl-N-methylamine hydrochloride	ST-7985	5 g	1	냉장	2021-03-24	 	 	 
+13940-96-0	combi-blocks	3,4-	Diamino diphenyl ether	QB2116	1 g	1	냉장	2020-11-05	 	 	 
+76179-40-3	combi-blocks	1,2-	Diamino-4,5-difluorobenzene	OR-1595	5 g	1	 	2020-07-28	 	 	 
+102-51-2	combi-blocks	3,4-	Diaminoanisole	QB-5107	5 g	1	 	2021-01-06	 	 	 
+368-71-8	combi-blocks	3,4-	Diaminobenzotrifluoride	SS-4247	5 g	1	 	2020-07-28	 	 	 
+496-72-0	TCI	3,4-	Diaminotoluene	D0125	25g	1	 	2020-05-28	 	 	 
+280-57-9	TCI	1,4-	Diazabicyclo[2.2.2]octane	D0134	25g	1	 	 	 	 	 
+6674-22-2	TCI	1,8-	Diazabicyclo[5,4,0]-7-undecene (DBU)	 	25g	1	데시케이터	 	 	 	 
+630-25-1	TCI	1,2-	Dibromo-1,1,2,2-tetrachloroethane	D1987	25g	1	 	2020-03-18	 	 	 
+77-48-5	TCI	1,3-	Dibromo-5,5-dimethylhydantoin	D1265	25g	1	 	 	 	 	 
+106-93-4	Aldrich	1,2-	Dibromoethane	D40752	250 g	1	 	 	 	 	 
+17135-74-9	TCI	1,8-	Dibromonaphthalene	D4656	5 g	1	 	2020-03-05	 	 	 
+109-64-8	TCI	1,3-	Dibromopropane	D0202	25g	1	 	2020-12-04	 	 	 
+109-64-8	TCI	1,3-	Dibromopropane	D0202	25g	1	 	2021-06-02	 	 	 
+1025720-99-3	QSP	3,4-	Dichloro-2-pyridinecarboxamide	DJ-173250	10 g	1	 	 	 	 	 
+118-52-5	Alfa	1,3-	Dichloro-5,5-dimethylhydantoin, 98%	A12718	100 g	1	 	2020-02-10	 	 	 
+1192711-71-9	combi-blocks	2,4-	Dichloro-6-methyl-7h-pyrrolo[2,3-d]pyrimidine	QA-3038	1 g	1	냉장	2020-06-30	 	 	 
+90213-66-4	combi-blocks	2,4-	Dichloro-7H-pyrrolo[2,3-d]pyrimidine	SS-7941	25 g	1	냉장	2020-02-11	 	 	 
+107-06-2	Alfa	1,2-	Dichloroethane, 99+%	A12775	500 mL	1	 	2021-03-17	 	 	 
+5451-40-1	Alfa	2,6-	Dichloropurine	B21289	5 g	1	 	2020-04-22	 	 	 
+188577-69-7	BLD pharm	3,4-	Dichloropyridin-2-amine	BD69782	5 g	1	 	 	 	 	 
+26452-80-2	TCI	2,4-	Dichloropyridine	D3784	5 g	1	냉장	 	 	 	 
+126728-20-9	BLD pharm	2,4-	Dichloropyrido[2,3-d]pyrimidine	BD31684	5 g	1	냉장	 	 	 	 
+1193-21-1	TCI	4,6-	Dichloropyrimidine	D2488	5 g	1	 	 	 	 	 
+538-75-0	Acros	N,N'-	Dicyclohexylcarbodiimide (DCC)	11390	100 g	1	 	 	 	 	 
+91-66-7	Sigma-aldrich	N,N-	Diehtylaniline	185868	250 mL	1	 	 	1.-가.-53)	보관중	 
+SY251483	ACC	2,2-	Diethoxytetrahydrofuran	 	5 g	1	냉장	 	 	 	 
+1972-28-7	TCI	 	Diethyl Azodicarboxylate (40% in Toluene)	A0705	25g	1	 	 	 	 	 
+60-29-7	aldrich	 	Diethyl ethercontains 1 ppm BHT as inhibitor, anhydrous, ≥99.7%	296082	250 mL	1	 	2021-05-12	 	 	 
+87-13-8	Alfa	 	Diethyl ethoxymethylenemalonate, 98+%	A13776	100 g	1	 	 	 	 	 
+6802-75-1	Combi-Blocks	 	Diethyl isopropylidenemalonate	 	25g	1	냉장	 	 	 	 
+111-90-0	Alfa	 	Diethylene glycol monoethyl ether, 98%	A14670	500 g	1	 	2021-06-15	 	 	 
+367-25-9	TCI	2,4-	Difluoroaniline	D1508	25g	1	 	 	1.-가.-53)	보관중	 
+5509-65-9	TCI	2,6-	Difluoroaniline	D1635	25g	1	 	 	1.-가.-53)	보관중	 
+288315-03-7	combi-blocks	3,3-	Difluoroazetidine, HCl	QA-4538	1 g	1	냉동	2020-04-24	 	 	 
+288315-03-7	combi-blocks	3,3-	Difluoroazetidine, HCl	QA-4538	10 g	1	냉장	2020-06-01	 	 	 
+637031-93-7	combi-blocks	3,3-	Difluorocyclobutanamine HCl	QB-2283	5 g	1	냉장	2020-07-21	 	 	 
+675112-70-6	combi-blocks	4,4-	Difluorocyclohexylamine, HCl	SS-0576	1 g	1	 	2020-07-21	 	 	 
+144025-03-6	Combi-Blocks	2,4-	Difluorophenylboronic acid	BB-2274	5 g	1	 	 	 	 	 
+162101-25-9	TCI	2,6-	Difluorophenylboronic Acid	D3087	5 g	1	 	 	 	 	 
+162101-25-9	TCI	2,6-	Difluorophenylboronic Acid	D3087	5 g	1	 	 	 	 	 
+144230-52-4	combi-blocks	4,4-	Difluoropiperidine, HCl	AM-2139	1 g	1	 	2020-04-24	 	 	 
+144230-52-4	combi-blocks	4,4-	Difluoropiperidine, HCl	AM-2139	25g	1	 	2020-06-01	 	 	 
+496807-97-7	combi-blocks	3,3-	Difluoropiperidine, HCl	SS-9713	1 g	1	냉장	2020-07-21	 	 	 
+163457-23-6	combi-blocks	3,3-	Difluoropyrrolidine, HCl	OR-5963	1 g	1	 	2020-04-24	 	 	 
+163457-23-6	combi-blocks	3,3-	Difluoropyrrolidine, HCl	OR-5963	10 g	1	 	2020-06-01	 	 	 
+163457-23-6	combi-blocks	3,3-	Difluoropyrrolidine, HCl	OR-5963	10 g	1	냉장	2020-12-09	 	 	 
+110-87-2	TCI	3,4-	Dihydro-2H-pyran	D0555	100 mL	1	 	 	 	 	 
+22929-52-8	BLDpharm	 	Dihydrofuran-3(2H)-one, 97%	BD28112	25g	1	 	 	 	 	 
+22929-52-8	BLDpharm	 	Dihydrofuran-3(2H)-one, 97%	BD28112	10 g	1	 	 	 	 	 
+1003-04-9	BLDpharm	 	Dihydrothiophen-3(2H)-one, 98%	BD153509	25g	1	 	 	 	 	 
+15450-76-7	TCI	2,8-	Dihydroxyquinoline	 	25g	1	 	 	 	 	 
+1191-15-7	Aldrich	 	Diisobutylaluminum hydride solution 1.0 M in hexanes	190306	100 mL	1	 	 	 	 	 
+108-18-9	Aldrich	 	Diisopropyl amine	471224	100 mL	1	 	 	 	 	 
+7087-68-5	TCI	N,N-	Diisopropylethylamine	 	500 mL	1	-	 	 	 	 
+7087-68-5	TCI	N,N-	Diisopropylethylamine	D1599	500 mL	2	 	2020-12-22	 	 	 
+7087-68-5	TCI	N,N-	Diisopropylethylamine	D1599	500 mL	1	 	 	 	 	 
+3945-69-5	combi-blocks	4-(4,6-	Dimethoxy-1,3,5-triazin-2-yl)-4-methylmorpholinium chloride (DMTMM)	QC-4597	5 g	1	 	 	 	 	 
+5436-21-5	TCI	1,1-	Dimethoxy-3-butanone	 	25 mL	1	 	 	 	 	 
+51673-84-8	combi	2,2-	Dimethoxyacetaldehyde, 60% inwater	QE-9818	25g	1	 	2021-04-16	 	 	 
+1131-62-0	combi	3,4-	Dimethoxyacetophenone	QF-5026	5 g	1	 	2021-04-16	 	 	 
+20781-20-8	Alfa	2,4-	Dimethoxybenzylamine	H27140	5 g	1	 	 	 	 	 
+5763-61-1	BLD	3,4-	Dimethoxybenzylamine, 98%	BD82057	5 g	1	냉장	2021-03-23	 	 	 
+5763-61-1	TCI	3,4-	Dimethoxybenzylamine, 98%	D4024	5 g	1	 	2021-06-29	 	 	 
+864962-69-6	 	5-(2,3-	Dimethy-1H-indol-5-yl)-1,3,4-Oxadiazole-2(3H)-thione,	CSSS00160456051	100 mg	1	 	2020-10-27	 	 	 
+616-38-6	alfa	 	Dimethyl carbonate, 99%	A13104	500 g	1	 	2020-02-06	 	 	 
+108-59-8	alfa	 	Dimethyl malonate	A11007	100 g	1	 	 	 	 	 
+77-78-1	Aldrich	 	Dimethyl sulfate	D186309	100 mL	1	 	 	1.-가.-107)	보관중	 
+77-78-1	Aldrich	 	Dimethyl sulfate	D186309	500 mL	1	 	 	1.-가.-107)	보관중	 
+3171-45-7	TCI	4,5-	Dimethyl-1,2-phenylenediamine	D1083	5 g	1	 	2020-07-07	 	 	 
+624-95-3	TCI	3,3-	Dimethyl-1-butanol	D1333	5 mL	1	 	2021-05-25	 	 	 
+877-96-3	amgene	N,N-	Dimethyl-3-(piperazin-1-yl)propan-1-amine	 	1 g	1	 	2021-07-08	 	 	 
+551-92-8	TCI	1,2-	Dimethyl-5-nitroimidazole	D1564	25g	1	 	 	 	 	 
+124-40-3	Aldrich	 	Dimethylamine solution (40 wt. % in H2O)	426458	100 mL	1	 	 	 	 	 
+124-40-3	Acros	 	Dimethylamine, 2M solution in THF, AcroSeal®	38838	100 ml	1	 	 	 	 	 
+19125-76-9	ANG	3-(	Dimethylamino);-2-methylacrylaldehyde	AGN-PC-0JSZN1	1 g	1	 	 	 	 	 
+124668-49-1	combi-blocks	3-(	Dimethylamino)azetidine diHCl	QB-3581	5 g	1	 	2020-04-03	 	 	 
+108-01-0	alfa	2-(	Dimethylamino)ethanol	B23616	250mL	1	 	 	 	 	 
+4584-46-7	Alfa	2-	Dimethylaminoethyl chloride	 	100 g	1	 	 	 	 	 
+50534-49-1	Combi-blocks	3-	Dimethylaminopiperidine	OR-6950	5 g	1	냉장	 	 	 	 
+25952-53-8	TCI	1-(3-	Dimethylaminopropyl)-3-ethylcarbodiimide hydrochloride (EDC HCl)	D1601	25g	1	냉장	 	 	 	 
+1122-58-3	TCI	4-	Dimethylaminopyridine (DMAP)	 	25g	1	냉장	 	 	 	 
+87-59-5	TCI	2,3-	Dimethylaniline	D0666	25 g	1	냉장	2020-07-07	 	 	 
+121-69-7	Alfa	N,N-	Dimethylaniline, 99%	A11916	500 mL	1	 	2020-02-14	1.-가.-53)	보관중	 
+89381-03-3	BLD Pharm	3,3-	Dimethylazetidine hydrochloride	BD168306	1 g	1	 	2020-05-06	 	 	 
+183158-34-1	Alfa	2,3-	Dimethylbenzeneboronicacid	B23942	5 g	1	 	2020-03-02	 	 	 
+108-00-9	Alfa	N,N-	Dimethylethylenediamine	B20182	50 g	1	데시케이터	 	 	 	 
+1188-33-6	TCI	N,N-	Dimethylformamide diethyl acetal	 	25 mL	1	특별관리대상	 	 	 	 
+1188-33-6	Alfa	N,N-	Dimethylformamide diethyl acetal	L00205	50 g	1	특별관리대상	 	 	 	 
+4637-24-5	TCI	N,N-	Dimethylformamide Dimethyl Acetal	D1293	100 mL	1	특별관리대상	 	 	 	 
+4637-24-5	TCI	N,N-	Dimethylformamide dimethyl acetal	D1293	100 mL	1	특별관리대상	 	 	 	 
+4637-24-5	Combi-blocks	N,N-	Dimethylformamide dimethyl acetal	OT-0501	500 g	1	특별관리대상	 	 	 	 
+68-12-2	Aldrich	N,N-	Dimethylformamide, anhydrous, 99.8%	227056	100 mL	1	 	 	1.-가.-13)	보관중	 
+141-91-3	combi-block	2,6-	Dimethylmorpholine	QB-5486	1 g	1	 	2021-03-03	 	 	 
+147688-58-2	combi-block	2,2-	Dimethylmorpholine	OT-1983	1 g	1	 	2021-03-03	 	 	 
+38646-68-3	combi-blocks	4,4-	Dimethylpiperidine hydrochloride	ST-2560	5 g	1	 	2020-06-01	 	 	 
+38646-68-3	combi-blocks	4,4-	Dimethylpiperidine, HCl	ST-2560	1 g	1	 	2020-04-24	 	 	 
+17508-17-7	LNW	O-(2,4-	Dinitrophenyl)hydroxylamine	11055D	5 g	1	냉장	 	 	 	 
+1072-53-3	Aldrich	1,3,2-	Dioxathiolane 2,2-dioxide	471690	5 g	1	 	 	 	 	 
+1483-72-3	Alfa	 	Diphenyliodonium chloride	A15149	10 g	1	 	2020-05-27	 	 	 
+26386-88-9	Alfa	 	Diphenylphosphonic azide	A12124	25g	1	냉장	 	 	 	 
+26386-88-9	Alfa	 	Diphenylphosphonic azide 97%	A12124	25g	1	냉장	 	 	 	 
+870-50-8	sigma-aldrich	 	Di-tert-butyl azodicarboxylate	 	25g	1	냉장	 	 	 	 
+24424-99-5	Alfa	 	Di-tert-butyl dicarbonate	A14708	100 g	1	냉장	 	 	 	 
+24424-99-5	Alfa	 	Di-tert-butyl-dicarbonate	A14708	100 g	1	냉장	 	 	 	 
+1341200-45-0	chemscene	 	Dubermatinib	CS-4281	50 mg	1	냉장	2020-02-21	 	 	2/26, in-vitro 팀에 전달
+39394-84-8	Sigma-Aldrich	 	Eaton′s Reagent	 380814 	100 mL	1	냉장	 	 	 	 
+1438-14-8	Combi	1,2-	Epoxy-3-methylbutane	QF-8338	1 g	1	냉동	2021-03-12	 	 	 
+1197-37-1	combi-blocks	4-	Ethoxybenzene-1,2-diamine	QJ-4595	5 g	1	냉장	2021-01-13	 	 	 
+130250-54-3	TCI	 	Ethyl 1-(tert-Butoxycarbonyl)-3-piperidinecarboxylate	E0954	25g	1	 	 	 	 	 
+38026-46-9	combi	 	Ethyl 1,2,3,4-tetrahydro-4-oxo-2-thioxo-5-pyrimidinecarboxylate	PY-1927	5 g	1	 	2021-04-07	 	 	 
+889944-72-3	BLD Pharm	 	Ethyl 2-(2,4,6-trichloropyrimidin-5-yl)acetate	BD236929	5 g	1	 	2020-04-24	 	 	 
+117642-16-7	combi	 	Ethyl 2-amino-4H,5H,7H-thieno[2,3-c]pyran-3-carboxylate	SH-5698	1 g	1	냉동	2021-06-23	 	 	 
+924-99-2	TCI	 	Ethyl 3-(Dimethylamino)acrylate	D2836	25g	1	 	 	 	 	 
+10601-80-6	Alfa	 	Ethyl 3,3-diethoxypropionate	L09562	10 g	1	냉장	 	 	 	 
+30866-24-1	sigma-aldrich	 	Ethyl 3-hydrazino-3-oxopropionate	378909	25g	1	 	 	 	 	 
+692729-86-5	WUXI	 	Ethyl 3-phenyl-6,7-dihydro-5h-cyclopenta[c]pyridine-1-carboxylate	 	1 g	1	냉장	2019-12-13	 	 	 
+71406-78-5	combi-blocks	 	Ethyl 4-amino-2-chloropyrimidine-5-carboxylate	QA-0580	1 g	1	냉장	2020-08-24	 	 	 
+774-07-2	combi-blocks	 	Ethyl 6-amino-2-thioxo-1,2-dihydro-5-pyrimidinecarboxylate	QC-1787	1 g	1	 	2020-04-03	 	 	 
+141-97-9   	Alfa	 	Ethyl acetoacetate	A12544	250 g	1	 	 	 	 	 
+140-88-5	TCI	 	Ethyl Acrylate (stabilized with MEHQ)	A0143	25 mL	1	 	 	1.-가.-66)	보관중	 
+64-17-5	DAEJUNG	 	Ethyl alcohol, absolute	4118-4100	1 L	5	 	 	 	 	 
+105-36-2	Aldrich	 	Ethyl Bromoacetate, 98.0%	133973	100 g	1	 	 	 	 	 
+4114-31-2	Alfa	 	Ethyl carbazate, 97%	A13860	50 g	1	데시케이터	2021-06-22	 	 	 
+541-41-3	sigma-aldrich	 	Ethyl chloroformate	185892	100 g	1	냉장	 	 	 	 
+105-56-6	Acros	 	Ethyl cyanoacetate, 98+%	11828	250 g	1	 	2019-12-11	 	 	 
+623-73-4	Daejung	 	Ethyl diazoacetate	E915600	20 g	1	 	 	 	 	 
+60-29-7	Daejung	 	Ethyl ether	4025-4404	4 L	1	냉장	 	 	 	 
+109-94-4	TCI	 	Ethyl Formate	 	25 mL	1	 	 	 	 	 
+109-94-4	alfa	 	Ethyl formate	A11113	500 mL	1	 	2021-01-05	 	 	 
+924-44-7	Alfa	 	Ethyl glyoxylate, ca 50% soln. in toluene	L19207	100 g	1	냉장	 	 	 	 
+7597-56-0	Aldrich	 	Ethyl malonate monoamide, >95%	63403	2.5 g	1	 	 	 	 	 
+36239-09-5	Alfa	 	Ethyl malonyl chloride	A15616	25g	1	냉장	2021-06-23	 	 	 
+928-55-2	Alfa	 	Ethyl propenyl ether	H26319	5 g	1	 	 	 	 	 
+623-47-2	TCI	 	Ethyl Propiolate	P0529	5 mL	1	 	 	 	 	 
+4949-44-4	Alfa	 	Ethyl propionylacetate	 	5 g	1	 	 	 	 	 
+617-35-6	sigma-aldrich	 	Ethyl pyruvate	E47808	25g	1	냉장	 	 	 	 
+372-31-6	Alfa	 	Ethyl trifluoroacetoacetate	 	10 g	1	 	 	 	 	 
+109-92-2	TCI	 	Ethyl vinyl ether (stabilized with KOH)	 	25 mL	1	냉장	 	 	 	 
+25952-53-8	TCI	1-	Ethyl-3-(3-dimethylaminopropyl)carbodiimide Hydrochloride	 	25g	2	냉장	 	 	 	 
+27491	TCI	 	Ethylamine (ca. 10% in Tetrahydrofuran, ca. 2mol/L)	E0842	100 mL	1	냉장	 	 	 	 
+107-21-1	Daejung	 	Ethylene glycol	4026-4105	500 g	1	냉장	 	1.-가.-61)	보관중	 
+107-15-3	alfa	 	Ethylenediamine	A12132	500 mL	1	 	2020-10-21	 	 	 
+5308-25-8	Alfa	1-	Ethylpiperazine, 98%	L15539.22	100 g	1	 	2021-05-11	 	 	 
+850411-12-0	combi-blocks	3-	Fluoro-2-(trifluoromethyl)phenylboronic acid	FA-1581	1 g	1	 	2020-11-04	 	 	 
+2343-23-9	combi-blocks	6-	Fluoro-2,3-dihydro-1h-indole	QE-5453	1 g	1	냉장	2020-09-04	 	 	 
+1128-74-1	combi-blocks	7-	Fluoro-2-methylquinoline	BK-4504	5 g	1	냉장	 	 	 	 
+64465-53-8	combi-blocks	4-	Fluoro-3-methoxyaniline	AN-1070	5 g	1	냉장	 	1.-가.-53)	보관중	 
+352-34-1	TCI	1-	Fluoro-4-iodo benzene	F0237	5 g	1	 	 	 	 	 
+22282-70-8	TCI	2-	Fluoro-4-iodopyridine	F0773	1 g	1	 	 	 	 	 
+403-19-0	combi-blocks	2-	Fluoro-4-nitrophenol	AN-1553	100 g	1	 	2020-03-26	 	 	 
+403-19-0	Combi-Blocks	2-	Fluoro-4-nitrophenol	AN-1553	100 g	2	 	 	 	 	 
+394-41-2	TCI	3-	Fluoro-4-nitrophenol	F0348	5 g	1	 	 	 	 	 
+403-19-0	TCI	2-	Fluoro-4-nitrophenol	F0381	25g	1	 	 	 	 	 
+677728-92-6	combi-blocks	2-	Fluoro-5-formylpyridine	OT-8140	5 g	1	냉장	2020-12-09	 	 	 
+677728-92-6	combi-blocks	2-	Fluoro-5-formylpyridine	OT-8140	5 g	1	냉장	2020-12-09	 	 	 
+677728-92-6	켐원	2-	Fluoro-5-formylpyridine	OT-8140	5 g	1	냉장	2021-04-28	 	 	 
+677728-92-6	combi	2-	Fluoro-5-formylpyridine	OT-8140	5 g	1	 	2021-06-23	 	 	 
+313545-34-5	Combi-Blocks	2-	Fluoro-6-(trifluoromethyl)phenylboronic acid	BB-8535	5 g	1	 	 	 	 	 
+1256345-60-4	BLD Pharm	2-	Fluoro-6-hydroxyphenyl)boronic acid	BD273580	1 g	1	냉장	2020-04-24	 	 	 
+78495-63-3	TCI	2-	Fluoro-6-methoxyphenylboronic Acid	F0941	5 g	1	 	 	 	 	 
+372-19-0	Combi-Blocks	3-	Fluoroaniline	QE-4289	25g	1	 	 	1.-가.-53)	보관중	 
+348-54-9	alfa	2-	Fluoroaniline	A12612	25g	1	 	2021-03-15	 	 	 
+371-40-4	alfa	3-	Fluoroaniline, 99%	A14228	100 g	1	 	2021-01-05	 	 	 
+371-40-4	Alfa	4-	Fluoroaniline, 99%	A15597	100 g	1	 	2021-06-16	 	 	 
+617718-46-4	combi-blocks	3-	Fluoroazetidine, HCl	OR-6565	1 g	1	냉장	2020-04-24	 	 	 
+617718-46-4	combi-blocks	3-	Fluoroazetidine, HCl	OR-6565	10 g	1	냉장	2020-06-01	 	 	 
+367-31-7	combi-blocks	4-	Fluorobenzene-1,2-diamine	OS-7813	5 g	1	 	2020-07-28	 	 	 
+402-46-0	TCI	4-	Fluorobenzenesulfonamide	F0953	5 g	1	 	2020-10-15	 	 	 
+133745-75-2	Combi-Blocks	N-	Fluorobenzenesulfonimide	OR-0284	25g	1	 	 	 	 	 
+133745-75-2	Combi-Blocks	N-	Fluorobenzenesulfonimide	OR-0284	100 g	1	 	 	 	 	 
+2343-22-8	combi-blocks	5-	Fluoroindoline	QA-9916	1 g	1	냉장	2020-09-04	 	 	 
+1765-93-1	Bepharm	(4-	Fluorophenyl)boronic acid	B9939	100 g	2	 	 	 	 	 
+768-35-4	Combi-Blocks	3-	Fluorophenylboronic acid	BB-2290	5 g	1	 	 	 	 	 
+768-35-4	Combi-Blocks	3-	Fluorophenylboronic acid	BB-2290	5 g	1	 	 	 	 	 
+823-85-8	Alfa	4-	Fluorophenylhydrazine hydrochloride	 	25g	2	 	 	 	 	 
+57395-89-8	BLD Pharm	4-	Fluoropiperidine hydrochloride	BD97391	1 g	1	냉장	2020-05-14	 	 	 
+57395-89-8	BLD Pharm	4-	Fluoropiperidine hydrochloride	BD97391	10 g	1	냉장	2020-05-28	 	 	 
+169750-17-8	combi-blocks	3-	Fluoropyrrolidine, HCl	QB-7508	1 g	1	 	2020-04-24	 	 	 
+169750-17-8	combi-blocks	3-	Fluoropyrrolidine, HCl	QB-7508	5 g	1	냉장	2020-06-01	 	 	 
+50-00-0	Daejung	 	Formaldehyde	4044-4400	1 L	1	 	 	1.-가.-98)	보관중	 
+75-12-7	Daejung	 	Formamide	 	500 g	2	 	 	 	 	 
+64-18-6	Alfa	 	Formic acid	A13285	500 g	1	 	 	 	 	 
+64-18-6	Alfa	 	Formic acid, 97%	A13285	500 g	1	 	2020-03-26	 	 	 
+110-17-8	Daejung	 	Fumaric acid	4051-4400	1 kg	1	 	 	 	 	 
+617-89-0	Alfa	 	Furfurylamine, 99%	B23975	100 g	1	 	2021-04-01	 	 	 
+56-40-6	TCI	 	Glycine	G0099	25g	1	 	2020-07-10	 	 	 
+5680-79-5	TCI	 	Glycine Methyl Ester Hydrochloride	G0246	25g	1	 	2020-11-04	 	 	 
+352-97-6	TCI	 	Glycocyamine	G0067	25g	1	 	 	 	 	 
+107-22-2	TCI	 	Glyoxal(39% in water, ca. 8.8 mol/L)	 	25g	1	 	 	 	 	 
+563-96-2	alfa	 	Glyoxylic acid monohydrate, 97%	A16058	25g	1	냉장	2021-06-22	 	 	 
+148893-10-1	combi-blocks	 	HATU	OR-0618	25g	2	냉장	2020-03-26	 	 	 
+148893-10-1	combi-blocks	 	HATU	OR-0618	25g	1	냉장	2020-12-08	 	 	 
+813-19-4	Combi-blocks	 	Hexabutylditin	QF-0105	5 g	1	냉장	 	 	 	 
+67-72-1	Alfa	 	Hexachloroethane	L14297	500 g	1	 	 	 	 	 
+999-97-3	Alfa	1,1,1,3,3,3-	Hexamethyldisilazane	A15139	500 mL	1	 	2020-02-10	 	 	 
+680-31-9	Aldrich	 	Hexamethylphosphoramide (HMPA)	H11602	100 g	1	 	2020-12-22	 	 	 
+7803-57-8	Alfa	 	Hydrazine monohydrate	A14005	50 g	1	 	 	1.-가.-103)	보관중	 
+10035-10-6	Alfa	 	Hydrobromic acid, ACS, 47.0-49.0%	36694	250ml	1	 	 	 	 	 
+7647-01-0	DAEJUNG	 	Hydrochloric acid	4090-4400	1 kg	1	 	2021-04-02	 	 	 
+7647-01-0	DAEJUNG	 	Hydrochloric acid	4090-4100	1 kg	1	 	2021-04-02	 	 	 
+7647-01-0	Daejung	 	Hydrochloric acid (conc.HCl)	 	1 kg	4	냉장	 	1.-다.-5)	보관중	 
+7647-01-0	TCI	 	Hydrogen Chloride (ca. 1mol/L in Ethyl Acetate)	H1060	500 mL	1	 	 	1.-다.-5)	보관중	 
+7647-01-0	sigma-aldrich	 	Hydrogen chloride solution 4.0 M in dioxane	345547	100 mL	2	 	 	1.-다.-5)	보관중	 
+7647-01-0	Alfa	 	Hydrogen chloride, 4M in 1,4-dioxane	A16935	0.5 mole	2	 	 	1.-다.-5)	보관중	 
+7722-84-1	TCI	 	Hydrogen peroxide	H1222	300 mL	1	 	 	 	 	 
+13220-33-2	Alfa	3-	Hydroxy-1-methyl pyrrolidine, 97%	H28122.03	1 g	1	 	 	 	 	 
+26687-49-0	combi	3-	Hydroxy-1-methylazetidine hydrochloride	QB-3372	1 g	1	냉장	2021-05-18	 	 	 
+106-52-5	TCI	4-	Hydroxy-1-methylpiperidine	M0933	25g	1	 	2020-04-23	 	 	 
+124668-46-8	combi-blocks	3-	Hydroxy-3-methylazetidine, HCl	ST-0932	1 g	1	냉장	2020-04-24	 	 	 
+124668-46-8	combi-blocks	3-	Hydroxy-3-methylazetidine, HCl	ST-0932	10 g	1	냉장	2020-06-01	 	 	 
+621-42-1	TCI	3'-	Hydroxyacetanilide	H0188	25g	1	 	2021-04-14	 	 	 
+123-08-0	TCI	4-	Hydroxybenzaldehyde, >98%	H0198	25g	1	 	2020-11-13	 	 	 
+123333-53-9	Daejung	1-	Hydroxybenzotriazole hydrate (HOBt)	4112-4405	500 g	1	 	 	 	 	 
+123333-53-9	Daejung	1-	Hydroxybenzotriazole hydrate (HOBt)	 	500 g	2	 	 	 	 	 
+622-40-2	alfa	4-(2-	Hydroxyethyl)morpholine	B22759	100 g	1	 	 	 	 	 
+196962	combi-blocks	5-	hydroxyisoquinoline	QA-4300	5 g	1	 	2020-10-06	 	 	 
+1408057-44-2	combi-blocks	(S)-2-(	Hydroxymethyl)-1-methyl-4,4-difluoropyrrolidine	QM-8401	1 g	1	냉장	2020-11-04	 	 	 
+103003-01-6	combi-block	2-	Hydroxymethylmorpholine	OR-5806	1 g	1	 	2021-03-03	 	 	 
+5006-66-6	acros	6-	Hydroxynicotinic acid	156400250	25g	1	 	2021-01-29	 	 	 
+5382-16-1	alfa	4-	Hydroxypiperidine	B22723	5 g	1	냉장	 	 	 	 
+4441-30-9	BLDpharm	4-(3-	Hydroxypropyl)morpholine, 98%	BD40392	5 g	1	 	 	 	 	 
+453-20-3	TCI	3-	Hydroxytetrahydrofuran	H1331	5 g	1	 	2021-05-25	 	 	 
+288-32-4	Alfa	 	Imidazole	A10221	100 g	1	 	 	 	 	 
+496-15-1	combi-blocks	 	Indoline	OS-7871	5 g	1	 	2020-06-09	 	 	 
+496-15-1	Alfa	 	Indoline, 99%	A11000	50 g	1	 	2020-10-28	 	 	 
+7553-56-2	Wako	 	Iodine	096-05425	500 g	1	 	 	1.-나.-13)	보관중	 
+7553-56-2	TCI	 	Iodine	I0604	500 g	1	 	 	1.-나.-13)	보관중	 
+71759-87-0	Combi-blocks	4-	Iodo-1-methyl-1H-imidazole	HI-1004	1 g	1	냉장	 	 	 	 
+71759-87-0	Combi-blocks	4-	Iodo-1-methyl-1H-imidazole	HI-1004	5 g	1	냉장	 	 	 	 
+39806-90-1	TCI	4-	Iodo-1-methylpyrazole	I0829	1 g	1	 	 	 	 	 
+158669-26-2	combi	4-	Iodo-2-methoxy-3-pyridinecarboxaldehyde	OR-6459	5 g	1	냉장	2021-03-12	 	 	 
+158669-26-2	combi	4-	Iodo-2-methoxy-3-pyridinecarboxaldehyde	OR-6459	5 g	1	냉장	2021-06-11	 	 	 
+158669-26-2	combi	4-	Iodo-2-methoxypyridine-3-carboxaldehyde	OR-6459	10 g	1	냉장	2021-07-07	 	 	 
+513-38-2	combi	1-	Iodo-2-methylpropane	QE-3493	5 g	1	 	2021-04-20	 	 	 
+591-50-4	TCI	 	Iodobenzene	I0050	25g	1	 	 	 	 	 
+513-48-4	Combi	2-	Iodobutane	QF-1352	1 g	1	 	2021-03-17	 	 	 
+75-03-6	TCI	 	Iodoethane (stabilized with Copper chip)	I0058	25g	1	 	 	 	 	 
+4296-15-5	angene	2-	Iodoethyl methyl ether	 	1 g	1	냉동	2021-03-23	 	 	 
+74-88-4	aldrich	 	Iodomethane	I8507	100 g	1	냉장	2020-03-05	1.-가.-71)	보관중	 
+74-88-4	Alfa	 	Iodomethane, 2M soln.	H32660	100 mL	1	냉장	 	1.-가.-71)	보관중	 
+90-14-2	Alfa	1-	Iodonaphthalene	B22644	10 g	1	 	2020-05-11	 	 	 
+107-08-4	TCI	1-	Iodopropane	I0068	25g	1	 	2021-03-10	 	 	 
+5029-67-4	TCI	2-	Iodopyridine	I0533	5 g	1	 	 	 	 	 
+3240-34-4	Alfa	 	Iodosobenzene diacetate	R24531	25g	1	 	 	 	 	 
+516-12-1	Alfa	N-	Iodosuccinimide	A14320	5 g	1	냉장	 	 	 	 
+7439-89-6	Daejung	 	Iron, powder	5027-4400	1 kg	1	 	 	 	 	 
+78-83-1	TCI	 	Isobutanol	I0094	25 mL	1	 	2021-03-17	 	 	 
+543-27-1	TCI	 	Isobutyl Chloroformate	C0178	25 g	1	 	2021-02-17	 	 	 
+78-81-9	TCI	 	Isobutylamine	I0095	25 mL	1	냉장	2021-02-04	 	 	 
+558-30-5	alfa	 	Isobutylene oxide	L09773	5 g	1	 	2021-04-16	 	 	 
+79-31-2	alfa	 	Isobutyric acid	L04038	100 mL	1	 	2021-02-02	 	 	 
+79-30-1	TCI	 	Isobutyryl chloride, 98%	I0115	25 g	1	 	2021-06-29	 	 	 
+55-22-1	TCI	 	Isonicotinic acid	I0207	25g	1	 	 	 	 	 
+42729-56-6	combi-blocks	1-	Isopropyl-3-pyrrolidinol	QF-4813	1 g	1	 	2020-11-04	 	 	 
+75-31-0	TCI	 	Isopropylamine	I0165	25 mL	1	 	2021-02-17	 	 	 
+2033-24-1	Alfa	 	Isopropylidene malonate	A15603	25g	1	 	 	 	 	 
+NA	 	 	Isoquinolin-5-ylboronic acid	DJ-200227C-3	1 g	1	데시케이터	2020-04-14	 	 	 
+503-74-2	alfa	 	Isovaleric acid	A18642	250ml	1	 	2021-02-16	 	 	 
+108-12-3	TCI	 	Isovaleryl chloride, 97%	I0200	25 g	1	 	2021-06-29	 	 	 
+14678-05-8	Combi-blocks	 	Isoxazol-5-amine	QC-6582	1 g	1	냉동	 	 	 	 
+14678-05-8	Combi-blocks	 	Isoxazol-5-amine	QC-6582	5 g	1	냉동	 	 	 	 
+50-21-5	Daejung	 	Lactic acid	5057-4400	1 kg	1	 	 	 	 	 
+16853-85-3	Aldrich	 	Lithium aluminum hydride solution, 1.0 M in diethyl ether	212792	100 mL	1	 	 	1.-나.-10)	보관중	 
+16853-85-3	Aldrich	 	Lithium aluminum hydride solution (1.0 M in THF)	212776	25 mL	1	 	2021-02-18	 	 	 
+16853-85-3	Alfa	 	Lithium aluminum hydride, powder	A18116	25g	1	 	 	1.-나.-10)	보관중	 
+4039-32-1	sigma-aldrich	 	Lithium bis(trimethylsilyl)amide solution (1M in THF)	225770	100 mL	2	 	 	 	 	 
+7447-41-8	Alfa	 	Lithium chloride, anhydrous, 98+%	A10531	100 g	1	 	 	 	 	 
+4111-54-0	sigma-aldrich	 	Lithium diisopropylamide solution (1M in THF/Hex.)	774766	25 mL	4	냉장	 	 	 	new(2개), used(2개)
+4111-54-0	Aldrich	 	Lithium diisopropylamide solution 2.0 M in THF/heptane/ethylbenzene 	361798	100 mL	1	냉장	 	 	 	 
+1310-66-3	Junsei	 	Lithium hydroxide monohydrate	 	1 kg	1	 	 	 	 	 
+85017-80-7	ACROS	 	Lithium iodide hydrate	20801	100 g	1	 	 	 	 	 
+85017-80-7	alfa	 	Lithium iodide hydrate, Puratronic®, 99.995% (metals basis)	10738	5 g	2	 	 	 	 	new(1개), used(1개)
+10034-81-8	Alfa	 	Magnesium perchlorate	11636.22	100 g	1	 	2021-03-10	 	 	 
+7487-88-9	DAEJUNG	 	Magnesium sulfate anhydrous, granule 99%	5515-4400	1 kg	1	 	2021-07-07	 	 	 
+84020-0401	Junsei	DL-	Malic acid	84020-0401 	500 g	1	 	 	 	 	 
+141-82-2	Daejung	 	Malonic acid	5654-4405	500 g	1	 	 	 	 	 
+109-77-3	Alfa	 	Malononitrile, 99%	A15046.22	100 g	1	 	 	 	 	 
+2033-24-1	TCI	 	Meldrum's Acid (=2,2-Dimethyl-1,3-dioxane-4,6-dione)	M0799	100 g	1	냉장	2020-03-26	 	 	 
+2033-24-1	TCI	 	Meldrums's acid	M0799	100 g	1	냉장	2020-12-22	 	 	 
+13906-09-7	TCI	2-	Mercapto-4(3H)-quinazolinone	M1089	5 g	1	 	2021-04-02	 	 	 
+1074-36-8	Aldrich	4-	Mercaptobenzoic Acid	662534	5 g	1	 	2020-12-24	 	 	 
+38521-46-9	TCI	2-	Mercaptonicotinic Acid	M1213	25g	1	냉장	2021-03-24	 	 	 
+107-96-0	대정화금	3-	Mercaptopropionic acid	5728-4105	500 g	1	 	2021-04-02	 	 	 
+79-42-5	alfa	2-	Mercaptopropionic acid, 97%	L10257	10 g	1	 	2021-02-02	 	 	 
+75-75-2	Alfa	 	Methanesulfonic acid, 98+%	A13565	100 g	1	 	2020-04-23	 	 	 
+75-75-2	Alfa	 	Methanesulfonic acid, 98+%	A13565	500 g	1	 	2020-05-20	 	 	 
+124-63-0	sigma-aldrich	 	Methanesulfonyl chloride	471259	5 mL	1	냉장	 	 	 	 
+59-51-8	TCI	DL-	Methionine, > 99%	M0463	25g	1	 	2020-05-26	 	 	 
+5264-35-7	BLD pharm	5-	Methoxy-3,4-dihydro-2H-pyrrole, 96%	BD104511	5 g	1	냉장	 	 	 	 
+5264-35-7	BLDpharm	5-	Methoxy-3,4-dihydro-2H-pyrrole, 96%	BD104511	10 g	1	냉장	 	 	 	 
+905843-93-8	combi-blocks	3-	Methoxy-3-methylazetidine hydrochloride	QE-6384	5 g	1	냉장	2020-06-01	 	 	 
+577-72-0	Combi-blocks	4-	Methoxy-3-nitroaniline	SS-5305	10 g	1	냉장	2020-01-09	1.-가.-53)	보관중	 
+577-72-0	combi-blocks	4-	Methoxy-3-nitroaniline	SS-5305	100 g	1	냉장	2021-01-06	 	 	 
+106877-20-7	aablocks	3-	Methoxy-4-(trifluoromethyl)phenylamine	AA008Z0Q	5 g	1	냉장	 	 	 	 
+16292-88-9	BLD pharm	3-	Methoxy-4-nitroaniline	BD237575	1 g	1	 	2019-12-03	1.-가.-53)	보관중	 
+82121-05-9	TCI	7-	Methoxy-4-quinolinol,>97%	M1966	5 g	2	 	 	 	 	new(1개), used(1개)
+148644-09-1	combi-blocks	3-	Methoxyazetidine, HCl	SS-3467	10 g	1	냉장	2020-06-01	 	 	 
+123-11-5	Alfa	4-	Methoxybenzaldehyde 98%	A15364	50 g	1	 	 	 	 	 
+1711-05-3	TCI	3-	Methoxybenzoyl Chloride	M2992	5 g	1	 	2021-07-06	 	 	 
+824-94-2	TCI	4-	Methoxybenzyl Chloride	M0676	25 mL	1	냉장	 	 	 	 
+824-94-2	TCI	4-	Methoxybenzyl Chloride (stabilized with Amylene)	M0676	25 mL	1	냉장	 	 	 	 
+2393-23-9	Aldrich	4-	Methoxybenzylamine	M11103	25g	1	 	 	 	 	 
+824-94-2	acros	4-	Methoxybenzylchloride, 98%, stabilized	M0676	25 g	1	냉장	2020-04-21	 	 	 
+1404373-83-6	combi-blocks	3-	Methoxycyclobutanamine hydrochloride	QE-3664	1 g	1	냉장	2020-06-09	 	 	 
+4342-46-5	combi-blocks	4-	Methoxycyclohexanamine	QC-5844	1 g	1	 	2020-06-09	 	 	 
+109-86-4	TCI	2-	Methoxyethanol	M0111	25 mL	1	 	2021-03-17	 	 	 
+3970-21-6	TCI	2-	Methoxyethoxymethyl Chloride	M0680	25 mL	1	냉장	 	 	 	 
+109-85-3	sigma-aldrich	2-	Methoxyethylamine	241067	50 mL	1	 	 	 	 	 
+65873-72-5	combi	6-	Methoxynicotinaldehyde	CA-4314	5 g	1	 	2021-04-26	 	 	 
+102-51-2	BLDpharm	4-	Methoxy-o-phenylenediamine, 97%	BD98571	1 g	1	냉장	2020-10-15	 	 	 
+5720-07-0	Combi-Blocks	4-	Methoxyphenylboronic acid	BB-2326	5 g	1	 	 	 	 	 
+10365-98-7	Combi-Blocks	3-	Methoxyphenylboronic acid	BB-2325	5 g	1	 	 	 	 	 
+688809-94-1	combi-blocks	3-	Methoxypiperidine HCl	HC-4013	10 g	1	 	2020-06-01	 	 	 
+4045-25-4	combi-blocks	4-	Methoxypiperidine, HCl	SS-3466	10 g	1	냉장	2020-06-01	 	 	 
+136725-50-3	combi-blocks	3-	Methoxypyrrolidine, HCl	ST-1105	5 g	1	 	2020-06-01	 	 	 
+2605-67-6	TCI	 	Methyl (Triphenylphosphoranylidene)acetate	T1363	25g	1	 	 	 	 	 
+3829-80-9	combi-block	 	Methyl 2-amino-4-methyl-1,3-thiazole-5-carboxylate	OR-1625	1 g	1	 	2021-03-03	 	 	 
+66977-04-6	Aldrich	 	Methyl 2-cyclopentyllidene-2-cyanoacetate	S409227	1 g	1	냉장	 	 	 	 
+10128-91-3	Combi-Blocks	 	Methyl 2-hydroxynicotinate	SS-5871	10 g	1	냉장	 	 	 	 
+19406-00-9	combi-blocks	 	Methyl 2-oxotetrahydrofuran-3-carboxylate	QN-5483	5 g	1	냉장	2020-02-18	 	 	 
+19438-10-9	Acros	 	Methyl 3-Hydroxybenzoate	352000250	25 g	1	 	2021-07-08	 	 	 
+205448-66-4	BLD pharm	 	Methyl 4-chloro-7-methoxyquinoline-6-carboxylate	BD257784	10 g	1	냉장	 	 	 	 
+205448-66-4	BLD Pharm	 	Methyl 4-chloro-7-methoxyquinoline-6-carboxylate, 97%	BD257784	10 g	1	냉장	2020-03-26	 	 	 
+205448-66-4	BLD Pharm	 	Methyl 4-chloro-7-methoxyquinoline-6-carboxylate, 97%	BD257784	25g	1	냉장	2020-04-01	 	 	 
+205448-66-4	BLD Pharm	 	Methyl 4-chloro-7-methoxyquinoline-6-carboxylate, 97%	BD257784	5 g	2	냉장	2020-04-01	 	 	 
+57595-23-0	BLD	 	Methyl 4-oxotetrahydrofuran-3-carboxylate, 96+%	BD208856	5 g	1	냉장	2021-03-23	 	 	 
+57595-23-0	BLD	 	Methyl 4-oxotetrahydrofuran-3-carboxylate, 96+%	DB208856	5 g	1	냉장	2021-07-06	 	 	 
+22802-67-1	Combi-blocks	 	Methyl 5-amino-2-methoxybenzoate, 97%	ST-9913	5 g	1	 	2020-01-09	 	 	 
+22802-67-1	Combi-blocks	 	Methyl 5-amino-2-methoxybenzoate, 97%	ST-9913	5 g	1	 	2020-02-11	 	 	 
+55876-91-0	Combi-blocks	 	Methyl 5-formylpyridine-2-carboxylate	QY-1323	1 g	1	 	 	 	 	 
+26218-75-7	TCI	 	Methyl 6-Bromopyridine-2-carboxylate	M2342	5 g	1	 	 	 	 	 
+65202-50-8	combi-blocks	 	Methyl 6-chloropyridazine-3-carboxylate	SS-6797	10 g	1	냉장	2020-12-09	 	 	 
+79-22-1	DAEJUNG	 	Methyl chloroformate	5742-4425	25 mL	1	 	2021-02-02	 	 	 
+96-35-5	Alfa	 	Methyl glycolate, 98%	A17870	5 g	1	 	2020-11-02	 	 	 
+2365-48-2	alfa	 	Methyl mercaptoacetate	L03783	25g	1	 	2021-01-05	 	 	 
+123-51-3	TCI	3-	Methyl-1-butanol	I0289	500 mL	1	 	2021-05-07	 	 	 
+1314216-34-6	combi-blocks	2-	Methyl-1h-benzimidazole-5-boronic acid pinacol ester	FM-6668	1 g	1	냉장	2020-11-24	 	 	 
+89-25-8	TCI	3-	Methyl-1-phenyl-5-pyrazolone	M0687	25g	1	 	2021-03-12	 	 	 
+598-75-4	TCI	3-	Methyl-2-butanol	M0171	25 mL	1	 	2021-03-17	 	 	 
+75-85-4	Alfa	2-	Methyl-2-butanol	A18304	500 mL	1	 	2021-05-14	 	 	 
+563-80-4	tci	3-	Methyl-2-butanone	M0173	25 mL	1	 	2021-05-14	 	 	 
+513-35-9	TCI	2-	Methyl-2-butene	P0067	25 mL	1	 	2021-03-10	 	 	 
+513-35-9	TCI	2-	Methyl-2-butene	P0067	100 mL	1	 	2021-07-08	 	 	 
+590-36-3	TCI	2-	Methyl-2-pentanol	M1178	5 mL	1	 	2021-05-25	 	 	 
+108-10-1	alfa	4-	Methyl-2-pentanone	A11618	500 mL	1	 	2021-05-11	 	 	 
+872-50-4	sigma-aldrich	 	Methyl-2-pyrrolidinone (NMP)	328634	500 mL	1	 	 	 	 	 
+1448064-99-0	ACC	5-	Methyl-3H-imidazo[4,5-b]pyridin-6-amine	SY248435	5 g	1	냉장	 	 	 	 
+68165-06-0	Alfa	1-	Methyl-3-pyrrolidinone, 96%	H57585	1 g	1	냉동	 	 	 	 
+53617-36-0	alfa	1-	Methyl-4-(4-piperidinyl)piperazine	H27408	1 g	1	 	 	 	 	 
+696-23-1	TCI	2-	Methyl-4(5)-nitroimidazole	M0922	25g	1	 	 	 	 	 
+7149-42-0	combi-block	(1-	Methyl-4-piperidinyl)methanamine	OR-5702	1 g	1	 	2021-02-19	 	 	 
+3034-42-2	Combi-blocks	1-	Methyl-5-nitroimidazole	QA-7702	25g	1	냉장	 	 	 	 
+593-51-1	Aldrich	 	Methylamine hydrochloride, ≥98%	M0505	100 g	1	 	 	 	 	 
+74-89-5	Adrich	 	Methylamine solution, 33 wt. % in absolute ethanol	534102	250ml	2	냉장	2020-03-24	 	 	 
+74-89-5	Aldrich	 	Methylamine, 33 wt. % in absolute ethanol	534102	250 mL	1	냉장	 	 	 	 
+693-05-0	Combi-blocks	3-(	Methylamino)propionitrile, 96%	QA-1383	5 g	1	 	 	 	 	 
+5616-32-0	TCI	 	Methylaminoacetonitrile,>98.0%(GC)(T)	M0140	5 mL	1	냉장	 	 	 	 
+100-61-8	TCI	N-	Methylaniline	M0147	25g	1	냉장	2021-03-24	 	 	 
+935669-28-6	combi-blocks	3-	Methylazetidine, HCl	QA-6464	1 g	1	냉장	2020-04-24	 	 	 
+935669-28-6	combi-blocks	3-	Methylazetidine, HCl	QA-6464	5 g	1	냉장	2020-06-01	 	 	 
+4760-34-3	combi-blocks	1-N-	Methylbenzene-1,2-diamine	AN-3737	25g	1	 	2021-01-28	 	 	 
+166-53-0	alfa	2-	Methylbutyric acid	A11546	25 mL	1	 	2021-02-02	 	 	 
+2439-56-7	combi	N-	Methylcyclopentanamine	QH-2986	1 g	1	냉장	2021-03-24	 	 	 
+593-56-6	TCI	O-	Methylhydroxylamine Hydrochloride	M0343	25 g	1	 	2020-02-06	 	 	 
+917-54-4	Aldrich	 	Methyllithium solution	197343	100 mL	1	냉장	2020-03-05	 	 	 
+34381-71-0	combi-blocks	N-	Methyl-L-prolinol	OR-0903	5 g	1	 	2020-08-19	 	 	 
+75-16-1	Adrich	 	Methylmagnesium bromide solution 1.4 M in THF: toluene (1:3)	282235	100 mL	1	냉장	 	 	 	 
+1159598-33-0	XFC	(S)-(4-	Methylmorpholin-2-yl)methanol	M201021-1-2	1 g	1	 	2020-11-05	 	 	 
+27550-90-9	combi-block	2-	Methylmorpholine	ST-1646	1 g	1	냉장	2021-03-03	 	 	 
+17933-03-8	combi-blocks	3-	Methylphenylboronic acid	BB-2336	5 g	1	 	2020-03-05	 	 	 
+54699-92-2	combi-block	(4-	Methylpiperazin-1-yl)acetic acid	AM-1736	1 g	1	 	2021-02-19	 	 	 
+109-01-3	Alfa	1-	Methylpiperazine	A10837	100 mL	2	 	 	 	 	alfa 100ml 1개, vial 1개
+127294-77-0	Combi-blocks	N-	Methylpiperidin-3-amine DiHCl	AM-1863	5 g	1	데시케이터	 	 	 	 
+3970-68-1	BLD Pharm	4-	Methylpiperidin-4-ol	BD167654	1 g	1	 	2020-05-06	 	 	 
+3970-68-1	combi-blocks	4-	Methylpiperidin-4-ol	QB-1918	10 g	1	냉장	2020-06-01	 	 	 
+626-58-4	Combi-Blocks	4-	Methylpiperidine	QE-2517	25g	1	 	 	 	 	 
+13220-27-4	combi-blocks	1-	Methylpyrrolidin-3-amine	ST-5334	1 g	1	 	2020-10-22	 	 	 
+125032-87-3	combi-blocks	3-	Methylpyrrolidin-3-ol	QK-2035	1 g	1	 	2020-05-07	 	 	 
+125032-87-3	combi-blocks	3-	Methylpyrrolidin-3-ol	QK-2035	10 g	1	 	2020-06-01	 	 	 
+40245-26-9	combi-blocks	 	Methylquinoline-8-carboxylate	YC-1186	1 g	1	 	 	 	 	 
+40245-26-9	combi-blocks	 	Methylquinoline-8-carboxylate	YC-1186	1 g	1	 	 	 	 	 
+89281-44-7	BLDpharm	2-	Methylthiazol-5-amine	BD226086	5 g	2	냉장	 	 	 	BLD 5g 냉장 1개, combi 1g 시약장 1개
+1318-93-0	Alfa	 	Montmorillonite	42531	100 g	1	 	2020-12-03	 	 	 
+110-91-8	TCI	 	Morpholine	M0465	500 mL	1	 	 	 	 	new(50ml), used(500ml)
+21977-09-3	Angene	2-	Morpholinoacetaldehyde	DJ-192735	1 g	1	냉장	2020-01-16	 	 	 
+948632	BLD pharm	3-	Morpholinopropanoic acid	BD88353	5 g	1	 	2019-12-03	 	 	 
+488-11-9	TCI	 	Mucobromic acid	M0471	25g	1	 	 	 	 	 
+5332-26-3	Combi	N-(	Bromomethyl)phthalimide	ST-7212	5 g	1	 	2021-03-17	 	 	 
+13922-41-3	Alfa	1-	Naphthaleneboronic acid	B21219	5 g	1	 	2020-02-26	 	 	 
+879-18-5	Alfa	1-	Naphthoyl chloride	A14460	10 g	1	 	2020-04-10	 	 	 
+134-32-7	TCI	1-	Naphthylamine	N0052	25g	1	 	2020-07-08	 	 	 
+109-72-8	Aldrich	n-	Butyllithium solution, 2.5M in hexane	230707	25 mL	4	냉장	2020-04-01	 	 	 
+75-84-3	TCI	 	Neopentyl alcohol	D0792	25 g	1	 	2021-03-17	 	 	 
+5813-64-9	combi-block	 	Neopentylamine	QG-9687	1 g	1	 	2021-02-19	 	 	 
+485-47-2	TCI	 	Ninhydrin	I0015	25g	1	 	 	 	 	 
+7697-37-2	Daejung	 	Nitric acid	 	1 kg	4	 	 	1.-다.-6)	보관중	 
+52583-42-3	DAEJUNG	 	Nitric acid fuming 93%	 	500 g	1	 	 	1.-다.-6)	보관중	 
+3251-56-7	TCI	4-	Nitroguaiacol	N0892	25g	1	 	2020-03-26	 	 	 
+3251-56-7	TCI	4-	Nitroguaiacol (2-Methoxy-4-nitrophenol)	N0892	5 g	1	 	 	 	 	 
+3034-38-6	TCI	4-	Nitroimidazole	N0506	25g	1	 	 	 	 	 
+100-02-7	Alfa	4-	Nitrophenol	 	250 g	1	 	 	 	 	 
+ 	cambridge	 	NMR solvent (MeOD)	DLM-24	50 g	2	 	2020-10-15	 	 	 
+20816-12-0	Alfa	 	Osmium(VIII) oxide, 4% aq. soln.	45385	10 mL	1	 	2021-03-10	 	 	 
+174-78-7	TCI	2-	Oxa-6-azaspiro[3.3]heptane	O0466	1 g	1	냉장	 	 	 	 
+144-62-7	Daejung	 	Oxalic acid anhydrous	5710-4105	500 g	1	 	 	 	 	 
+79-37-8	TCI	 	Oxalyl chloride	O0082	25g	1	냉장	 	 	 	 
+79-37-8	TCI	 	Oxalyl chloride	O0082	25g	1	냉장	 	 	 	 
+21635-88-1	combi-blocks	3-	Oxetanamine	SS-1182	5 g	1	냉동	2020-06-09	 	 	 
+1587470	combi-blocks	3-	Oxetanemethanamine	SS-1289	1 g	1	냉장	2020-06-09	 	 	 
+6246-06-06	Combi	3-	Oxetanmethanol	QA-2764	1 g	1	냉장	2021-05-18	 	 	 
+7748-36-9	TCI	3-	Oxetanol	O0409	1 g	1	냉장	2021-05-25	 	 	 
+106984-91-2	combi-blocks	6-	Oxo-1,6-dihydro-pyridine-3-carbaldehyde, 98%	 ST-6354	5 g	1	냉장	2020-11-20	 	 	 
+868171-81-7	combi-blocks	2-	Oxo-1-phenyl-1,2-dihydropyridine-3-carboxylic acid	SS-9192	250mg	1	 	2020-11-24	 	 	 
+70693-62-8	alfa	 	Oxone	89892	100 g	1	 	2020-06-30	 	 	 
+70693-62-8	alfa	 	Oxone®, monopersulfate	89892	100 g	1	 	2021-03-22	 	 	 
+12135-22-7	Adrich	 	Palladium hydroxide on carbon	212911	1 g	1	데시케이터	 	 	 	 
+ 	Sigma-Aldrich	 	Palladium on activated carbon	520829	10 g	1	데시케이터	 	 	 	 
+3375-31-3	ALDRICH	 	Palladium(II) acetate	205869	1 g	1	데시케이터	 	 	 	 
+ 	alfa	 	Palladium, 10% on activated carbon powder, standard, reduced	038304	5 g	1	데시케이터	2020-07-01	 	 	 
+1310584-14-5	PLC Pharm	 	Palladium-Xphos	BD226665	1 g	1	냉장	 	 	 	 
+6032-29-7	TCI	2-	Pentanol	P0056	25 mL	1	 	2021-05-25	 	 	 
+107-87-9	TCI	2-	Pentanone	P0060	25 mL	1	 	2021-05-14	 	 	 
+66-71-7	Alfa	1,10-	Phenanthroline	A13163	5 g	1	 	2020-04-22	 	 	 
+108-95-2	TCI	 	Phenol	P1610	25g	1	 	2021-04-14	 	 	 
+1885-14-9	TCI	 	Phenyl chloroformate	C0649	25 mL	1	냉장	 	 	 	 
+101-84-8	TCI	 	Phenyl ether	P0177	500 g	1	 	2020-12-22	 	 	 
+101-84-8	TCI	 	Phenyl ether	P0177	500 g	1	 	2020-12-24	 	 	 
+98534-81-7	sigma-aldrich	1-	Phenyl-5-(trifluoromethyl)-1H-pyrazole-4-carboxylic acid	 	1 g	1	 	 	 	 	 
+ 	Ark Pharm	 	Phenylcyanacetamide	AK174428	25g	1	냉장	 	 	 	 
+95-54-5	TCI	1,2-	Phenylenediamine	P0168	100 g	1	냉장	2020-07-07	 	 	 
+59-88-1	TCI	 	Phenylhydrazine hydrochloride	 	25g	1	 	 	 	 	 
+39774-28-2	TCI	6-	Phenylpyridine-2-carboxylic Acid	P2320	1 g	1	 	2020-10-28	 	 	 
+100-65-2	combi	N-	pheylhydroxylamine	QC-4795	1 g	1	냉동	2021-03-24	 	 	 
+51429-74-4	TCI	 	Phosphomolybdic Acid Hydrate	 	100 g	1	 	 	 	 	 
+7664-38-2	Daejung	 	Phosphoric acid	 	1 kg	2	 	 	 	 	 
+10025-87-3	DAEJUNG	 	Phosphorous oxychloride	6535-4400	1 kg	1	 	 	 	 	 
+10025-87-3	Daejung	 	Phosphorus(V) oxychloride	 	1 kg	5	 	 	 	 	new(4개), used(2개)
+85-44-9	TCI	 	Phthalic anhydride	P1614	500 g	1	 	 	1.-가.-101)	보관중	 
+85-41-6	TCI	 	Phthalimide	P0402	25g	1	데시케이터	 	 	 	 
+110-85-0	Acros	 	Piperazine, 99%, extra pure	131291000	100 g	1	 	2021-07-08	 	 	 
+3235-67-4	combi-block	 	Piperidin-1-yl-acetic acid	ST-8763	1 g	1	 	2021-02-19	 	 	 
+6859-99-0	combi-blocks	 	Piperidin-3-ol	AM-1801	5 g	1	냉장	2020-04-24	 	 	 
+6859-99-0	combi-blocks	 	Piperidin-3-ol	AM-1801	25g	1	냉장	2020-06-01	 	 	 
+61644-00-6	combi-blocks	 	Piperidin-3-one, HCl	AM-1825	1 g	1	 	2020-04-24	 	 	 
+61644-00-6	combi-blocks	 	Piperidin-3-one, HCl	AM-1825	25g	1	 	2020-06-01	 	 	 
+89895-05-6	Combi-blocks	1-(	Piperidin-3-yl)ethanone hydrochloride	HC-4153	5 g	1	 	 	 	 	 
+5382-16-1	combi-blocks	 	Piperidin-4-ol	AM-1809	5 g	1	 	2020-04-24	 	 	 
+5382-16-1	combi-blocks	 	Piperidin-4-ol	AM-1809	25g	1	 	2020-06-01	 	 	 
+41979-39-9	combi-blocks	 	Piperidin-4-one, HCl	AM-1826	5 g	1	 	2020-04-24	 	 	 
+41979-39-9	combi-blocks	 	piperidin-4-one, HCl	AM-1826	25g	1	 	2020-06-01	 	 	 
+110-89-4	Alfa	 	Piperidine	 	100 mL	1	 	 	 	 	 
+75-98-9	TCI	 	Pivalic Acid	P0461	25 g	1	 	2021-02-17	 	 	 
+8017-16-1	Adrich	 	Polyphosphoric acid	208213	100 g	1	 	 	 	 	 
+888711-44-2	combi-blocks	 	Potassium (bromomethyl)trifluoroborate, 95%	TB-0018	1 g	1	냉동	2020-02-25	 	 	 
+127-08-2	DAEJUNG	 	Potassium acetate 97%	6560-4405	500 g	1	 	 	 	 	 
+584-08-7	Daejung	 	Potassium carbonate	 	1 kg	4	 	 	 	 	 
+584-08-7	Daejung	 	Potassium carbonate, powder	 	1 kg	5	 	 	 	 	 
+7778-77-0	Alfa	 	Potassium dihydrogen phosphate	11594	250 g	1	 	 	 	 	 
+7789-23-3	Aldrich	 	Potassium fluoride	449148	5 g	1	 	 	 	 	 
+7789-23-3	Aldrich	 	Potassium fluoride	402931	500 g	1	 	 	 	 	 
+1310-58-3	DAEJUNG	 	Potassium hydroxide, flakes	6597-4400	1 kg	3	 	 	 	 	 
+7681-11-0	Alfa	 	Potassium iodide, ACS, 99.0% min	11601.22	100 g	1	 	2020-12-01	 	 	 
+7757-79-1	Alfa	 	Potassium nitrate	13443	100 g	1	 	 	 	 	 
+7722-64-7	Daejung	 	Potassium permanganate	 	1 kg	2	 	 	 	 	 
+7778-53-2	Ald	 	Potassium phosphate tribasic	P5629	25g	1	 	 	 	 	 
+7778-53-2	Junsei	 	Potassium phosphate tribasic 98%	84080S1201	500 g	1	 	 	 	 	 
+865-47-4	Alfa	 	Potassium tert-butoxide	A13947	100 g	1	데시케이터	 	 	 	 
+865-47-4	TCI	 	Potassium tert-Butoxide (12% in Tetrahydrofuran, ca. 1mol/L)	P1619	500 mL	1	 	2020-04-22	 	 	 
+865-47-4	TCI	 	Potassium tert-butoxide (12% in THF, 1 mol/L)	 	500 mL	1	 	 	 	 	500 g
+10387-40-3	alfa	 	potassium thioacetate, 98%	L05405	25 g	1	 	2021-02-05	 	 	 
+147-85-3	Alfa	L-	Proline (99%)	A10199	25g	1	 	 	 	 	 
+71-23-8	TCI	1-	Propanol	P0491	25 mL	1	 	2021-03-17	 	 	 
+4744-08-5	TCI	 	Propionaldehyde Diethyl Acetal	 	25 mL	1	데시케이터	 	 	 	 
+79-09-4	alfa	 	Propionic acid, 99%	L04210	100 g	1	 	 	 	 	 
+107-10-8	TCI	 	Propylamine	P0520	25 mL	1	냉장	2021-02-04	 	 	 
+99513-32-3	BLDpharm	4-	Propylbenzene-1,2-diamine, HCl	BD01323415	1.1 g	1	 	2021-01-06	 	 	 
+15448-47-2	TCI	(R)-(+)-	Propylene oxide	P1396	5 mL	1	냉장	2021-03-12	 	 	 
+16088-62-3	TCI	(S)-(-)-	Propylene oxide	P0951	5 mL	1	냉장	2021-03-12	 	 	 
+1207557-48-9	combi-blocks	 	Pyrazolo[1,5-a]pyridin-3-yl-boronic acid pinacol ester	FM-2403	1 g	1	냉장	2020-12-09	 	 	 
+1692-25-7	Aldrich	 	Pyridin-3-ylboronic acid	512125	1 g	1	 	2020-10-30	 	 	 
+110-86-1	Junsei	 	Pyridine	 	1 L	5	 	 	1.-가.-102)	보관중	new(4개), used(1개)
+26412-87-3	TCI	 	Pyridine - Sulfur Trioxide Complex	P0998	25g	1	데시케이터	 	1.-가.-102)	보관중	 
+110-86-1	Alfa	 	Pyridine, anhydrous	43799	100 mL	1	 	 	1.-가.-102)	보관중	 
+98-98-6	TCI	 	Pyridine-2-carboxylic acid	P0421	25g	1	 	 	 	 	 
+500-22-1	TCI	3-	Pyridinecarboxaldehyde	N0090	25 mL	1	 	2021-04-22	 	 	 
+1692-15-5	combi-blocks	4-	pyridylboronic acid	BB-2352	5 g	1	냉동	2020-10-28	 	 	 
+109299-78-7	Acros	5-	Pyrimidinylboronic acid	45170	25g	1	냉장	 	 	 	 
+37386-15-5	combi-block	 	Pyrrolidin-1-ylacetic acid	QB-4317	1 g	1	 	2021-02-19	 	 	 
+3760-52-9	combi-blocks	 	Pyrrolidin-3-one, HCl	OS-1284	25g	1	냉장	2020-06-01	 	 	 
+123-75-1	alfa	 	Pyrrolidine	A14852	100 mL	1	 	 	 	 	 
+40499-83-0	TCI	DL-3-	Pyrrolidinol	P1083	5 g	1	데시케이터	 	 	 	 
+3760-52-9	BLD Pharm	3-	Pyrrolidinone hydrochloride	BD89167	1 g	1	냉동	2020-05-14	 	 	 
+616-45-5	TCI	2-	Pyrrolidone	P0575	25g	1	 	 	 	 	 
+271-63-6	TCI	1H-	Pyrrolo[2,3-b]pyridine	P1117	5 g	1	 	 	 	 	 
+78-98-8	Alfa	 	Pyruvic aldehyde, 35-45% w/w aq. soln	 	25g	1	 	 	 	 	 
+15450-76-7	Combi-blocks	 	Quinoline-2,8-diol	PY-1371	100 g	1	냉장	 	 	 	 
+1375325-68-0	Sigma-aldrich	 	RuPhos Pd G2	753246	250mg	1	냉장	 	 	 	 
+14898-67-0	Acros	 	Ruthenium(Ⅲ) chloride hydrate 35-40%	19548	1 g	1	냉장	 	 	 	 
+234-840-6	Alfa	 	Ruthenium(Ⅳ) oxide anhydrous 99.9%	A10816	5 g	1	데시케이터	 	 	 	 
+32740-79-7	Alfa	 	Ruthenium(Ⅳ) oxide hydrate	11803	5 g	1	 	 	 	 	 
+107-97-1	TCI	 	Sarcosine	M0332	25 g	1	 	2021-05-12	 	 	 
+7631-86-9	Wako	 	Sea sand, 14~20 mesh	 	500 g	5	 	 	 	 	 
+13952-84-6	TCI	sec-	Butylamine	B0708	25 mL	1	냉장	2021-02-04	 	 	 
+7446-08-4	Sigma-Aldrich	 	Selenium dioxide	200107	5 g	1	 	 	 	 	 
+127-09-3	Daejung	 	Sodium acetate anhydrous	7527-4400	1 kg	1	 	 	 	 	 
+26628-22-8	Daejung	 	Sodium azide	 	1 kg	1	 	 	 	 	 
+144-55-8	Daejung	 	Sodium bicarbonate(NaHCO3)	 	1 kg	5	 	 	 	 	 
+1070-89-9	Sigma-Aldrich	 	Sodium bis(trimethylsilyl)amide solution (1M in THF)	245585	100 mL	1	 	 	 	 	 
+16940-66-2	TCI	 	Sodium borohydride	S0480	25g	1	데시케이터	 	 	 	 
+16940-66-2	TCI	 	Sodium borohydride	S0480	100 g	1	 	 	 	 	 
+497-19-8	Daejung	 	Sodium carbonate(Na2CO3)	 	1 kg	2	 	 	 	 	 
+7548-4100	Daejung	 	Sodium chloride	 	1 kg	2	 	 	 	 	 
+7758-19-2	ALD	 	Sodium chlorite	244155	100 g	1	 	2021-03-10	 	 	 
+143-33-9	Alfa	 	Sodium cyanide, ACS, 95% min	12137	100 g	1	 	 	1.-다.-3)	보관중	 
+25895-60-7	Acros	 	Sodium cyanoborohydride	16855	10 g	1	데시케이터	 	 	 	 
+25895-60-7	Alfa	 	Sodium cyanoborohydride 95%	87839	25g	2	데시케이터	 	 	 	 
+141-52-6	TCI	 	Sodium Ethoxide (ca. 20% in EtOH)	S0548	500 mL	2	 	 	 	 	 
+141-52-6	TCI	 	Sodium Ethoxide (ca. 20% in EtOH)	S0548	500 mL	1	 	2021-01-06	 	 	 
+141-52-6	Alfa	 	Sodium ethoxide 96%	L06230	100 g	1	데시케이터	 	 	 	 
+141-52-6	Aldrich	 	Sodium ethoxide, 21% EtOH	230553	100 mL	3	 	 	 	 	 
+7646-69-7	TCI	 	Sodium Hydride 60%	S0481	100 g	1	데시케이터	 	 	 	 
+1310-73-2	Daejung	 	Sodium hydroxide(NaOH)	 	1 kg	2	 	 	 	 	 
+7681-82-5	Yakuri	 	Sodium iodide	 	500 g	1	 	 	 	 	 
+7790-28-5	Alfa	 	Sodium metaperiodate 98%	13798	100 g	1	 	 	 	 	 
+124-41-4	Alfa	 	Sodium methoxide	 	100 g	1	 	 	 	 	 
+124-41-4	TCI	 	Sodium methoxide (ca. 5M in MeOH)	 	100 mL	1	 	 	 	 	 
+124-41-4	daejung	 	Sodium methoxide anhydrous 95%	7596-4405	500 g	1	 	 	 	 	 
+124-41-4	Daejung	 	Sodium methoxide, 30 wt.% solution in methanol	7699-1405	500 mL	1	 	 	 	 	 
+7632-00-0	sigma-aldrich	 	Sodium nitrite	517062	1 L	1	 	2020-04-24	 	 	 
+7601-89-0	alfa	 	Sodium perchlorate, anhydrous	11623	100 g	1	 	 	 	 	 
+7440-23-5	acros	 	Sodium sticks, coated in film of protective oil	390122500	250 g	1	 	2021-05-11	 	 	 
+7757-82-6	daejung	 	Sodium sulfate anhydrous	7630-4405	500 g	5	 	 	 	 	 
+7727-73-3	Acros	 	Sodium sulfate decahydrate, extra pure	125012500	250 g	1	 	 	 	 	 
+1313-82-2	Alfa	 	Sodium sulfide, anhydrous	65122.06	5 g	1	 	2020-12-21	 	 	 
+865-48-5	Alfa	 	Sodium tert-butoxide	A19942	100 g	1	 	 	 	 	 
+1201108	Aldrich	 	Sodium thiomethoxide	281018	1 g	1	 	2020-12-22	 	 	 
+56553-60-7	Alfa	 	Sodium triacetoxyborohydride 95%	B22060	100 g	1	데시케이터	 	 	 	 
+110-15-6	Daejung	 	Succinic acid	7672-4400 	1 kg	1	 	 	 	 	 
+7664-93-9	Daejung	 	Sulfuric acid	 	1 kg	4	 	 	1.-다.-8)	보관중	 
+87-69-4	Daejung	L(+)-	Tartaric acid	8502-4400	1 kg	1	 	 	 	 	 
+145681-01-2	combi-blocks	1-tert-	Butyl 2-methylpyrrolidine-1,2-dicarboxylate	QB-6054	5 g	1	냉장	2020-10-06	 	 	 
+1643-19-2	TCI	 	Tetrabutylammonium bromide	 	100 g	2	 	 	 	 	 
+22206-57-1	sigma-aldrich	 	Tetrabutylammonium fluoride hydrate	241512	10 g	1	 	 	 	 	 
+1941-27-1	TCI	 	Tetrabutylammonium Nitrate	T3651	25g	1	냉장	 	 	 	 
+1941-27-1	TCI	 	Tetrabutylammonium Nitrate	T3651	25g	2	냉장	 	 	 	 
+1941-27-1	sigma-aldrich	 	Tetrabutylammonium Nitrate	359173	2 g	1	냉장	 	 	 	 
+2933-29-1	combi-blocks	4,5,6,7-	Tetrahydro-1,3-benzothiazol-2-amine	SS-6782	1 g	1	냉장	2020-10-15	 	 	 
+475060-43-6	Combi	 	Tetrahydro-3-(iodomethyl)-furan	QE-4855	1 g	1	냉장	2021-03-17	 	 	 
+15833-61-1	Combi	 	Tetrahydro-3-furanmethanol	QE-9873	1 g	1	 	2021-05-18	 	 	 
+109-99-9	Aldrich	 	Tetrahydrofuran, anhydrous, contains 250 ppm BHT as inhibitor, ≥99.9%	186562	250 mL	2	 	 	 	 	 
+97-99-4	DAEJUNG	 	Tetrahydrofurfuryl alcohol	8712-4105	500 g	1	 	2020-10-22	 	 	 
+1192-30-9	TCI	 	Tetrahydrofurfuryl Bromide	T1808	25g	1	 	2021-03-17	 	 	 
+1131912-76-9	Combi-blocks	 	Tetrahydropyran-4-boronic acid, pinacol ester	PN-8522	1 g	1	냉동	 	 	 	 
+14221-01-3	sigma-aldrich	 	Tetrakis(triphenylphosphine)palladium(0)	216666	1 g	2	냉장	2020-01-29	 	 	 
+14221-01-3	TCI	 	Tetrakis(triphenylphosphine)palladium(0)	216666 	25 g	3	냉장	 	 	 	 
+1187055-81-7	combi-blocks	3-(4,4,5,5-	Tetramethyl-1,3,2-dioxaborolan-2-yl)cyclohex-2-enone	FF-5077	1 g	1	냉동	 	 	 	 
+302577-72-6	combi-blocks	3-(	Tetramethyl-1,3,2-dioxaborolan-2-yl)cyclohexan-1-one	PN-4472	5 g	1	냉동	 	 	 	 
+1941-24-8	Alfa	 	Tetramethylammonium nitrate	41790	50 g	1	 	 	 	 	 
+110-18-9	sigma-aldrich	N,N,N′,N′-	Tetramethylethylenediamine	T9281	50 mL	1	 	 	 	 	 
+429-41-4	alfa	 	Tetra-n-butylammonium fluoride, 1M soln. in THF	A10588	100 mL	1	 	2020-10-21	 	 	 
+311-28-4	Alfa	 	Tetra-n-butylammonium iodide	A15484	50 g	1	 	 	 	 	 
+55661-33-1	Combi-blocks	 	Thiazol-2-ylmethanamine	QJ-0501	1 g	1	냉장	2020-12-24	 	 	 
+55661-33-1	combi	 	Thiazol-2-ylmethanamine	QJ-501	1 g	1	냉장	2021-02-16	 	 	 
+17721-00-5	Combi-blocks	5-	Thiazolamine	OR-8276	1 g	1	 	 	 	 	 
+107818-20-2	AstaTech	 	Thieno[3,2-b]pyridin-7-ol	 	25g	1	냉장	 	 	 	5 g 냉장 (1개)
+1003-10-7	sigma-aldrich	γ-	Thiobutyrolactone	105449	10 g	1	 	 	 	 	 
+68-11-01	DAEJUNG	 	Thioglycolic acid	8517-4105	500 g	1	 	2021-01-06	 	 	 
+68-11-01	대정화금	 	Thioglycolic acid	8517-4125	25g	1	 	2020-10-28	 	 	 
+68-11-01	대정화금	 	Thioglycolic acid	8517-4125	25g	1	 	2020-12-02	 	 	 
+39093-93-1	combi-blocks	 	Thiomorpholine 1,1-dioxide	OR-6589	1 g	1	 	2020-04-24	 	 	 
+39093-93-1	combi-blocks	 	Thiomorpholine 1,1-dioxide	OR-6589	10 g	1	 	2020-06-01	 	 	 
+88-13-1	TCI	3-	Thiophenecarboxylic acid	T1084	5 g	1	 	 	 	 	 
+147-93-3	TCI	 	Thiosalicylic Acid	M0054	25g	1	냉장	2021-03-24	 	 	 
+62-56-6	Alfa	 	Thiourea, ACS, 99% min	36609	50 g	1	 	 	 	 	 
+62-56-6	Alfa	 	Thiourea, ACS, 99% min	36609	50 g	1	 	2021-06-14	 	 	 
+10025-69-1	Alfa	 	Tin(II) chloride dihydrate	11536	100 g	1	데시케이터	 	 	 	 
+7646-78-8	daejung	 	Tin(IV) chloride anhydrous	93-5022	250 g	1	데시케이터	 	 	 	 
+7550-45-0	Alfa	 	Titanium(IV) chloride, 1M soln. in dichloromethane	H31830.AE	100 mL	1	데시케이터	 	 	 	 
+108-88-3	DAEJUNG	 	Toluene	8541-7100	1 L	1	 	 	1.-가.-88)	-	 
+6192-52-5	TCI	p-	Toluenesulfonic Acid Monohydrate	 	25g	1	 	 	 	 	 
+6192-52-5	Daejung	p-	Toluenesulfonic Acid Monohydrate	8542-4405	500 g	1	 	 	 	 	 
+98-59-9	Daejung	p-	Toluenesulfonyl chloride	8543-4405	500 g	1	 	 	 	 	 
+19158-51-1	sigma-aldrich	p-	Toluenesulfonyl cyanide	248835	5 g	1	냉장	 	 	 	 
+4124-41-8	Alfa	p-	Toluensulfonic anhydride	L00160	5 g	1	 	 	 	 	 
+108-44-1	TCI	m-	Toluidine	T0298	500 mL	1	냉장	2020-07-07	 	 	 
+76-03-09	Aldrich	 	Trichloroacetic acid	T6399	5 g	1	냉장	 	1.-다.-7)	보관중	 
+55934-02-6	BLD pharm	2,3,4-	Trichloropyridine, 97%	BD249035	5 g	1	냉장	2020-01-07	 	 	 
+2622-14-2	Aldrich	 	Tricyclohexylphosphine	261971	5 g	1	데시케이터	 	 	 	 
+78-39-7	across	 	Triethyl orthoacetate	QE-0300	100 ml	2	 	 	 	 	alfa 100 ml(2개)
+122-51-0	Alfa	 	Triethyl orthoformate	A13587	100 mL	1	 	 	 	 	 
+122-51-0	alfa	 	Triethyl orthoformate	A13587	100 mL	1	 	2021-01-29	 	 	 
+121-44-8	Junsei	 	Triethylamine	 	1 L	3	 	 	 	 	 
+121-44-8	DAEJUNG	 	Triethylamine	8556-4400	1 L	1	 	 	 	 	 
+368-39-8	Alfa	 	Triethyloxonium tetrafluoroborate, 1.0M in dichloromethane	A11678	500 mL	1	냉동	 	 	 	①, 190211 open
+368-39-8	alfa	 	Triethyloxonium tetrafluoroborate, 1.0M in dichloromethane	A11678	500 g	1	냉동	2021-01-05	 	 	 
+368-39-8	Acros	 	Triethyloxonium tetrafluoroborate, 1M solution in methylene chloride, AcroSeal®	42916	100 mL	1	냉동	 	 	 	②, 190423 open
+617-86-7	Alfa	 	Triethylsilane, 98+%	A10320	10 g	1	 	2020-10-28	 	 	 
+76-05-1	Daejung	 	Trifluoroacetic acid	A14420	500 g	1	 	 	 	 	 
+407-25-0	Alfa	 	Trifluoroacetic anhydride	A13614	25g	1	냉장	 	 	 	 
+407-25-0	Adrich	 	Trifluoroacetic anhydride	106232	25g	1	냉장	 	 	 	 
+753-90-2	TCI	2,2,2-	Trifluoroethylamine. >97%	T1169	5 g	1	냉장	2021-05-14	 	 	 
+421-83-0	Alfa	 	Trifluoromethanesulfonyl chloride, 98%	B21774	5 g	1	냉장	2020-11-10	 	 	 
+128796-39-4	Alfa	4-	Trifluoromethyl benzeneboronic acid	B22374	1 g	1	 	 	 	 	11/19, 시약장에 x
+98-16-8	Alfa	3-(	Trifluoromethyl)aniline	A15910	100 g	1	 	 	 	 	 
+1423-26-3	Alfa	3-(	Trifluoromethyl)benzeneboronic acid	B21661	5 g	1	 	 	 	 	 
+2003-10-3	Combi-Blocks	3-(	Trifluoromethyl)phenacyl bromide	QA-8388	5 g	1	냉장	 	 	 	 
+155849-49-3	Combi-Blocks	4-(	Trifluoromethyl)piperidine,HCl	AM-2080	25g	1	냉장	 	 	 	 
+5419-55-6	TCI	 	Triisopropyl Borate	B0521	100 mL	1	 	 	 	 	 
+1136-86-3	combi	3′,4′,5′-	Trimethoxyacetophenone	QE-4207	1 g	1	 	2021-04-16	 	 	 
+121-43-7	Acros	 	Trimethyl borate	34612	100 mL	1	 	 	 	 	 
+1445-45-0	Alfa	 	Trimethyl orthoacetate	 	50 mL	1	시약장	 	 	 	 
+149-73-5	Alfa	 	Trimethyl orthoformate	 	100 mL	1	데시케이터	 	 	 	 
+149-73-5	TCI	 	Trimethyl orthoformate	 	25 mL	1	실온	 	 	 	 
+149-73-5	TCI	 	Trimethyl Orthoformate	O0068	500 mL	1	실온	2020-01-14	 	 	 
+75-24-1	Sigma-Aldrich	 	Trimethylaluminum solution(2M in toluene)	198048	25 mL	4	 	2021-04-26	 	 	 
+420-37-1	combi-blocks	 	Trimethyloxonium tetrafluoroborate, 95%	SS-4166	25g	1	 	 	 	 	 
+1066-54-2	Alfa	 	Trimethylsilylacetylene, 98%	A12856	25g	1	 	 	 	 	 
+1066-54-2	Alfa	 	Trimethylsilylacetylene, 98%	A12856	100 g	1	 	 	 	 	 
+76-84-6	Alfa	 	Triphenylmethanol, 98%	A10366	50 g	1	 	2020-10-28	 	 	 
+76-83-5	Acros	 	Triphenylmethyl chloride, 98%(Trityl chloride)	14040	100 g	1	 	2021-02-08	 	 	 
+603-35-0	TCI	 	Triphenylphosphine	 	500 g	1	 	 	 	 	 
+32315-10-9	Alfa	 	Triphosgene	A14932	5 g	1	냉장	 	 	 	 
+32315-10-9	Alfa	 	Triphosgene, 98%	A14932	5 g	1	 	2021-03-18	 	 	 
+51364-51-3	sigma-aldrich	 	Tris(dibenzylideneacetone)dipalladium(0)	683345	500 mg	1	냉장	 	 	 	 
+51364-51-3	Aldrich	 	Tris(dibenzylideneacetone)dipalladium(0)	683345	5 g	1	냉장	 	 	 	 
+61-54-1	combi	 	Tryptamine	OR-1156	25g	1	냉장	2021-04-16	 	 	 
+57-13-6	Alfa	 	Urea, 99.3+%	36429	500 g	1	 	2020-02-14	 	 	 
+675-20-7	sigma-aldrich	δ-	Valerolactam	V209	25g	1	 	 	 	 	 
+542-28-9	sigma-aldrich	δ-	Valerolactone	 	25 mL	1	냉동	 	 	 	 
+542-28-9	TCI	δ-	Valerolactone	V0039	25g	1	냉장	 	 	 	 
+542-28-9	alfa	δ-	Valerolactone	C16271	250 g	1	냉장	 	 	 	 
+542-28-9	TCI	Δ-	Valerolactone	V0039	100 g	1	냉장	 	 	 	 
+564483-18-7	Aldrich	 	Xphos	638064	1 g	1	 	 	 	 	 
+1330-20-7	DAEJUNG	 	Xylene, mixed	L13317	1 L	1	 	 	1.-가.-81)	보관중	 
+7646-85-7	alfa	 	Zinc chloride, 0.7M soln. in THF	H32962	500 mL	1	냉장	 	 	 	 
+7646-85-7	alfa	 	Zinc chloride, 0.7M soln. in THF	C38945	100 mL	1	냉장	 	 	 	 
+7646-85-7	Alfa	 	Zinc chloride solution 1.0M in diethyl ether 	C37005	800 mL	1	냉장	 	 	 	 
+557-21-1	Acros	 	Zinc cyanide	36807	5 g	1	 	 	 	 	 
+10196-18-6	alfa	 	Zinc nitrate hexahydrate	12313	500 g	1	 	 	 	 	 
+7440-66-6	sigma-aldrich	 	Zinc, powder	96454	250 g	1	 	 	 	 	 
