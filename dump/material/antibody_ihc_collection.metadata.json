@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"eeccf200dd8c43a38c5116e57a7acf6b","collectionName":"antibody_ihc_collection"}
