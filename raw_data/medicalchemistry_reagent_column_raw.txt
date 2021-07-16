@@ -1,0 +1,23 @@
+C18-415-181101	Agilent	Infinitylab Poroshell120 EC-C18	693970-902	4.6x150mm	4 um	2018-11-10	폐기
+C18-515-190101	Agilent	ZORBAX Eclipse Plus 95A C18	959993-902		5um	2019-01-30	보관(사용)
+C18-515-190102	Aegispak	Aegispak C18-L	05AL04615		5 um	2019-01-30	보관(미사용)
+C18-415-190201	Agilent	InfinityLab Poroshell 120 EC-C18	693970-902	4.6x150mm	4 um	2019-02-19	대구첨복단지
+GC18-190301	Agilent	Poroshell 120, UHPLC Grd, EC-C18	820750-916			2019-03-07	폐기
+C18-415-190301	Agilent	InfinityLab Poroshell 120 EC-C18	693970-902	4.6x150mm	4 um	2019-03-08	폐기
+C18-415-190302	Agilent	InfinityLab Poroshell 120 EC-C18	693970-902	4.6x150mm	4 um	2019-03-08	폐기
+C18-415-190501	Agilent	InfinityLab Poroshell 120 EC-C18	693970-902	4.6x150mm	4 um	2019-05-14	폐기
+C18-415-190502	Agilent	InfinityLab Poroshell 120 EC-C18	693970-902	4.6x150mm	4 um	2019-05-14	폐기
+C18-325-190801	YMC	PTH Triart C18 ExRS		4.6x250mm	3 um	2019-08-20	보관(사용)
+C18-325-190802	YMC	PTH Triart C18 ExRS		4.6x250mm	3 um	2019-08-20	보관(사용)
+GC18-200201	Agilent	Poroshell 120, UHPLC Grd, EC-C18	820750-916			2020-02-10	폐기
+C18-415-200201	Agilent	InfinityLab Poroshell 120 EC-C18	693970-902	4.6x150mm	4 um	2020-02-10	폐기
+C18-415-200401	Agilent	InfinityLab Poroshell 120 EC-C18	693970-902	4.6x150mm	4 um	2020-04-14	보관(사용)
+GC18-200401	Agilent	Poroshell 120, UHPLC Grd, EC-C18	820750-916			2020-04-24	보관(사용)
+GC18-200402	Agilent	Poroshell 120, UHPLC Grd, EC-C18	820750-916			2020-04-24	보관(미사용)
+C18-415-200402	Agilent	InfinityLab Poroshell 120 EC-C18	693970-902	4.6x150mm	4 um	2020-04-24	사용중
+C18-415-200403	Agilent	InfinityLab Poroshell 120 EC-C18	693970-902	4.6x150mm	4 um	2020-04-24	보관(미사용)
+C18-325-200401	YMC	PTH Triart C18 ExRS		4.6x250mm	3 um	2020-04-24	보관(사용)
+C18-325-200402	YMC	PTH Triart C18 ExRS		4.6x250mm	3 um	2020-04-24	보관(미사용)
+C18-415-210301	Agilent	InfinityLab Poroshell 120 EC-C18	693970-902	4.6x150mm	4 um	2021-03-04	보관(미사용)
+C18-415-210302	Agilent	InfinityLab Poroshell 120 EC-C18	693970-902	4.6x150mm	4 um	2021-03-11	보관(미사용)
+GC18-210401	Agilent	Poroshell 120, UHPLC Grd, EC-C18	820750-916			2021-04-06	보관(미사용)

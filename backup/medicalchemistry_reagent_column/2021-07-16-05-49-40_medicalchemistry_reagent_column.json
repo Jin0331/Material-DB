@@ -1,0 +1,232 @@
+[
+    {
+        "ID": "C18-415-181101",
+        "Manufacturer": "Agilent",
+        "Name": "Infinitylab Poroshell120 EC-C18",
+        "CAT_NO": "693970-902",
+        "Size": "4.6x150mm",
+        "pore_size": "4 um",
+        "ipgo_date": "2018-11-10",
+        "status": "폐기"
+    },
+    {
+        "ID": "C18-515-190101",
+        "Manufacturer": "Agilent",
+        "Name": "ZORBAX Eclipse Plus 95A C18",
+        "CAT_NO": "959993-902",
+        "Size": "",
+        "pore_size": "5um",
+        "ipgo_date": "2019-01-30",
+        "status": "보관(사용)"
+    },
+    {
+        "ID": "C18-515-190102",
+        "Manufacturer": "Aegispak",
+        "Name": "Aegispak C18-L",
+        "CAT_NO": "05AL04615",
+        "Size": "",
+        "pore_size": "5 um",
+        "ipgo_date": "2019-01-30",
+        "status": "보관(미사용)"
+    },
+    {
+        "ID": "C18-415-190201",
+        "Manufacturer": "Agilent",
+        "Name": "InfinityLab Poroshell 120 EC-C18",
+        "CAT_NO": "693970-902",
+        "Size": "4.6x150mm",
+        "pore_size": "4 um",
+        "ipgo_date": "2019-02-19",
+        "status": "대구첨복단지"
+    },
+    {
+        "ID": "GC18-190301",
+        "Manufacturer": "Agilent",
+        "Name": "Poroshell 120, UHPLC Grd, EC-C18",
+        "CAT_NO": "820750-916",
+        "Size": "",
+        "pore_size": "",
+        "ipgo_date": "2019-03-07",
+        "status": "폐기"
+    },
+    {
+        "ID": "C18-415-190301",
+        "Manufacturer": "Agilent",
+        "Name": "InfinityLab Poroshell 120 EC-C18",
+        "CAT_NO": "693970-902",
+        "Size": "4.6x150mm",
+        "pore_size": "4 um",
+        "ipgo_date": "2019-03-08",
+        "status": "폐기"
+    },
+    {
+        "ID": "C18-415-190302",
+        "Manufacturer": "Agilent",
+        "Name": "InfinityLab Poroshell 120 EC-C18",
+        "CAT_NO": "693970-902",
+        "Size": "4.6x150mm",
+        "pore_size": "4 um",
+        "ipgo_date": "2019-03-08",
+        "status": "폐기"
+    },
+    {
+        "ID": "C18-415-190501",
+        "Manufacturer": "Agilent",
+        "Name": "InfinityLab Poroshell 120 EC-C18",
+        "CAT_NO": "693970-902",
+        "Size": "4.6x150mm",
+        "pore_size": "4 um",
+        "ipgo_date": "2019-05-14",
+        "status": "폐기"
+    },
+    {
+        "ID": "C18-415-190502",
+        "Manufacturer": "Agilent",
+        "Name": "InfinityLab Poroshell 120 EC-C18",
+        "CAT_NO": "693970-902",
+        "Size": "4.6x150mm",
+        "pore_size": "4 um",
+        "ipgo_date": "2019-05-14",
+        "status": "폐기"
+    },
+    {
+        "ID": "C18-325-190801",
+        "Manufacturer": "YMC",
+        "Name": "PTH Triart C18 ExRS",
+        "CAT_NO": "",
+        "Size": "4.6x250mm",
+        "pore_size": "3 um",
+        "ipgo_date": "2019-08-20",
+        "status": "보관(사용)"
+    },
+    {
+        "ID": "C18-325-190802",
+        "Manufacturer": "YMC",
+        "Name": "PTH Triart C18 ExRS",
+        "CAT_NO": "",
+        "Size": "4.6x250mm",
+        "pore_size": "3 um",
+        "ipgo_date": "2019-08-20",
+        "status": "보관(사용)"
+    },
+    {
+        "ID": "GC18-200201",
+        "Manufacturer": "Agilent",
+        "Name": "Poroshell 120, UHPLC Grd, EC-C18",
+        "CAT_NO": "820750-916",
+        "Size": "",
+        "pore_size": "",
+        "ipgo_date": "2020-02-10",
+        "status": "폐기"
+    },
+    {
+        "ID": "C18-415-200201",
+        "Manufacturer": "Agilent",
+        "Name": "InfinityLab Poroshell 120 EC-C18",
+        "CAT_NO": "693970-902",
+        "Size": "4.6x150mm",
+        "pore_size": "4 um",
+        "ipgo_date": "2020-02-10",
+        "status": "폐기"
+    },
+    {
+        "ID": "C18-415-200401",
+        "Manufacturer": "Agilent",
+        "Name": "InfinityLab Poroshell 120 EC-C18",
+        "CAT_NO": "693970-902",
+        "Size": "4.6x150mm",
+        "pore_size": "4 um",
+        "ipgo_date": "2020-04-14",
+        "status": "보관(사용)"
+    },
+    {
+        "ID": "GC18-200401",
+        "Manufacturer": "Agilent",
+        "Name": "Poroshell 120, UHPLC Grd, EC-C18",
+        "CAT_NO": "820750-916",
+        "Size": "",
+        "pore_size": "",
+        "ipgo_date": "2020-04-24",
+        "status": "보관(사용)"
+    },
+    {
+        "ID": "GC18-200402",
+        "Manufacturer": "Agilent",
+        "Name": "Poroshell 120, UHPLC Grd, EC-C18",
+        "CAT_NO": "820750-916",
+        "Size": "",
+        "pore_size": "",
+        "ipgo_date": "2020-04-24",
+        "status": "보관(미사용)"
+    },
+    {
+        "ID": "C18-415-200402",
+        "Manufacturer": "Agilent",
+        "Name": "InfinityLab Poroshell 120 EC-C18",
+        "CAT_NO": "693970-902",
+        "Size": "4.6x150mm",
+        "pore_size": "4 um",
+        "ipgo_date": "2020-04-24",
+        "status": "사용중"
+    },
+    {
+        "ID": "C18-415-200403",
+        "Manufacturer": "Agilent",
+        "Name": "InfinityLab Poroshell 120 EC-C18",
+        "CAT_NO": "693970-902",
+        "Size": "4.6x150mm",
+        "pore_size": "4 um",
+        "ipgo_date": "2020-04-24",
+        "status": "보관(미사용)"
+    },
+    {
+        "ID": "C18-325-200401",
+        "Manufacturer": "YMC",
+        "Name": "PTH Triart C18 ExRS",
+        "CAT_NO": "",
+        "Size": "4.6x250mm",
+        "pore_size": "3 um",
+        "ipgo_date": "2020-04-24",
+        "status": "보관(사용)"
+    },
+    {
+        "ID": "C18-325-200402",
+        "Manufacturer": "YMC",
+        "Name": "PTH Triart C18 ExRS",
+        "CAT_NO": "",
+        "Size": "4.6x250mm",
+        "pore_size": "3 um",
+        "ipgo_date": "2020-04-24",
+        "status": "보관(미사용)"
+    },
+    {
+        "ID": "C18-415-210301",
+        "Manufacturer": "Agilent",
+        "Name": "InfinityLab Poroshell 120 EC-C18",
+        "CAT_NO": "693970-902",
+        "Size": "4.6x150mm",
+        "pore_size": "4 um",
+        "ipgo_date": "2021-03-04",
+        "status": "보관(미사용)"
+    },
+    {
+        "ID": "C18-415-210302",
+        "Manufacturer": "Agilent",
+        "Name": "InfinityLab Poroshell 120 EC-C18",
+        "CAT_NO": "693970-902",
+        "Size": "4.6x150mm",
+        "pore_size": "4 um",
+        "ipgo_date": "2021-03-11",
+        "status": "보관(미사용)"
+    },
+    {
+        "ID": "GC18-210401",
+        "Manufacturer": "Agilent",
+        "Name": "Poroshell 120, UHPLC Grd, EC-C18",
+        "CAT_NO": "820750-916",
+        "Size": "",
+        "pore_size": "",
+        "ipgo_date": "2021-04-06",
+        "status": "보관(미사용)"
+    }
+]
