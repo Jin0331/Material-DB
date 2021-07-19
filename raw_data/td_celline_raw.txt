@@ -1,0 +1,131 @@
+1	Colon	KM12C	Human	p59~	 	 	MEM 10%	ADHERENT	KCLB	김승미	Target Validation	https://cellbank.snu.ac.kr/cellpics/K80015_culture.jpg
+2	Colon	HT-29	Human	p24~	23hrs	 	RPMI 10%	ADHERENT	ATCC	김승미	Target Validation	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/htb-38.jpg?rev=ffa56281e02f47dfac044075446c8755
+3	Liver	SK-Hep-1	Human	p46~	30hrs	 	DMEM 10%	ADHERENT	KCLB	김승미	Target Validation	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/htb-52-low-high.jpg?rev=974db6290d2a4a01b4edd34313ff9c9d
+4	Pancreatic	AsPC-1	Human	 	38-40hrs	 	RPMI 10%	ADHERENT	KCLB	김승미	Target Validation	https://cellbank.snu.ac.kr/cellpics/K21682_culture.jpg
+5	Liver	HepG2	Human	p103~	48hrs	 	MEM 10%	ADHERENT	KCLB	김승미	Target Validation	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/hb-8065-low-high.jpg?rev=6f39c4b5adec4de691af8c8d6e5ecfbb
+6	Cholangio	SNU-308	Human	p10~	48hrs	 	RPMI 10%	ADHERENT	KCLB	김승미	Target Validation	https://cellbank.snu.ac.kr/cellpics/K00308_culture.jpg
+7	Cholangio	SNU-1196	Human	p6~	48hrs	 	RPMI 10%	ADHERENT	KCLB	김승미	Target Validation	https://cellbank.snu.ac.kr/cellpics/K01196_culture.jpg
+8	Colon	LS513	Human	p5~	25hrs	 	RPMI 10%	ADHERENT	ATCC	김승미	Target Validation	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/crl-2134-low-high.jpg?rev=d650ce1e502c4791a9754249044f1bc6
+9	Colon	SNU-1047	Human	p63~	36hrs	 	RPMI 10%	ADHERENT	KCLB	김승미	Target Validation	https://cellbank.snu.ac.kr/cellpics/K01047_culture.jpg
+10	Cholangio	KKU-213	Human	 	24hrs	 	DMEM 10%	ADHERENT	JCRB	김승미	Target Validation	https://cellbank.nibiohn.go.jp/~cellbank/en/search_res_det.cgi?ID=7076
+11	Cholangio	KKK-D138	Human	p41~	24hrs	 	DMEM 10%	ADHERENT	JCRB	김승미	Target Validation	https://cellbank.nibiohn.go.jp/~cellbank/en/search_res_det.cgi?ID=8546
+12	Cholangio	SNU-245	Human	p31~	54hrs	FGFR2 resistant cells	RPMI 10%	ADHERENT	KCLB	김승미	Target Validation	https://cellbank.snu.ac.kr/cellpics/K00245_culture.jpg
+13	Pancreatic	PanC1	Human	p79~	32hrs	 	DMEM 10%	ADHERENT	KCLB	김승미	Target Validation	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/crl-1469_mg1.jpg?rev=ccaa4dc49b834e269fca038d68b010cb
+14	Pancreatic	Mia PaCa-2	Human	p25~	26hrs	 	DMEM 10% + L-glu 2mM	ADHERENT	KCLB	김승미	Target Validation	https://cellbank.snu.ac.kr/cellpics/K21420_culture.jpg
+15	Colon	T84	Human	 	33.9hrs	 	DMEM/F-12 5%+6.25ml L-glu	ADHERENT	KCLB	김승미	Target Validation	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/ccl-248.jpg?rev=231d5008301f4d6db9491109f47f5bc9
+16	NSCLC	H292	Human	p20~	48hrs	 	RPMI 10%	ADHERENT	KCLB	이사홍	Target Validation	https://cellbank.snu.ac.kr/cellpics/K21848_culture.jpg
+17	NSCLC	H292-CMG #F clone	Human	p10~	 	IGSF1 overexpression cell	RPMI 10% + G418	ADHERENT	사내 제작	이사홍	Target Validation	 
+18	NSCLC	H1944	Human	p12~	37.8hrs	 	RPMI 10%	ADHERENT	ATCC	이사홍	Target Validation	https://www.phe-culturecollections.org.uk/media/54950/90050801_MDBK_24hr_post_seeding.jpg
+19	NSCLC	H358	Human	p6~	38hrs	 	RPMI 10% + HEPES	ADHERENT	KCLB	이사홍	Target Validation	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/crl-5807-low-high.jpg?rev=5f7d4f13a0ad45509803a081ad6a3f96
+20	NSCLC	A549	Human	p6~	22hrs	 	RPMI 10%	ADHERENT	KCLB	이사홍	Target Validation	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/ccl-185.jpg?rev=c1dd2f3defe64741bccb640aae5246bb
+21	NSCLC	H838	Human	p7~	55hrs	 	RPMI 10%	ADHERENT	ATCC	이사홍	Target Validation	https://www.elabscience.com/p-nci_h838_cell_line-333418.html
+22	NSCLC	H1650	Human	p36~	42hrs	 	RPMI 10%	ADHERENT	KCLB	이사홍	Target Validation	https://cellbank.snu.ac.kr/main/tmpl/sub_main.php?m_cd=6&m_id=0201&sp=2&c_id=1753
+23	NSCLC	H1975	Human	p8~	38.7hrs	1st generation EGFR inhibitor drug resistant cells	RPMI 10%	ADHERENT	None	이사홍	Target Validation	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/crl-5908.jpg?rev=1a556416b94e474fb60e14deeb162208
+24	NSCLC	HCC1438	Human	p31~	37hrs	 	RPMI 10% + 25mM HEPES	ADHERENT	KCLB	이사홍	Target Validation	https://cellbank.snu.ac.kr/main/tmpl/sub_main.php?m_cd=6&m_id=0201&sp=2&c_id=22
+25	NSCLC	SK-MES-1	Human	p53~	50hrs	 	DMEM 10% + 2mM L-glu	ADHERENT	KCLB	이사홍	Target Validation	https://cellbank.snu.ac.kr/main/tmpl/sub_main.php?m_cd=6&m_id=0201&sp=2&c_id=430
+26	NSCLC	H596	Human	p5~	41.1hrs	 	RPMI 10%	ADHERNET	KCLB	이사홍	Target Validation	https://cellbank.snu.ac.kr/main/tmpl/sub_main.php?m_cd=6&m_id=0201&sp=2&c_id=112
+27	NSCLC	H647	Human	p10~	 	 	RPMI 10%	ADHERNET	ATCC	이사홍	Target Validation	https://storage.googleapis.com/depmap-external-downloads/cell_line_photos/NCI-H647_KG.jpg?GoogleAccessId=depmap-external-downloads%40broad-achilles.iam.gserviceaccount.com&Expires=1626497537&Signature=jDcoQLr5cRZmuvyOFd0dt%252F0NtJe60MKGprZV4PQax7u18C8dyBV7IFw4dDQfHV8Fq4W%252BDCVI7oNcYmVFlGDE7zlfjSLqhWeFRQwxFz4IxskH8SVS88XN8Yinwk1K%252FlvDLTSaOeU%252FcDgGlVOQ95MQW3EGb1kg0dNzj5%252BVe0xsk0efnaeITfoltmUtR3wxq%252FjvRbLWuSOANyev7dNFql9Yy9nG5xJr19q9NdE1YWlu9f1U9x8f4ShYu5%252FQdntnw%252B1QictsUmBmNDX0nL%252Fy4BW36RIOrdXqdgYS1ycGjKnq8433DMKhn2buljskbozvjgQopcv5fWEsOKSv8YKzbDjbaA%3D%3D
+28	NSCLC	HCC1438	Human	p30~	37hrs	 	RPMI 10% + 25mM HEPES	ADHERNET	KCLB	이사홍	Target Validation	https://cellbank.snu.ac.kr/main/tmpl/sub_main.php?m_cd=6&m_id=0201&sp=2&c_id=22
+29	Leukemia	JurkaT	Human	p8~	20.7-22.7hrs	 	RPMI 10%	SUSPENSION	ATCC	이사홍	Target Validation	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/crl-2899_mg1.jpg?rev=fb37b7328ecd4d44aa0329e79429500f
+30	Colon	HCT8	Human	p17~	15hrs	 	RPMI 10%HS + 1%P/S	ADHERENT	ATCC	이사홍	Target Validation	https://cellbank.snu.ac.kr/main/tmpl/sub_main.php?m_cd=6&m_id=0201&sp=2&c_id=472
+31	Colon	COLO201	Human	p4~	21hrs	 	RPMI 10%	SUSPENSION, SOME LOOSELY ADHERENT	ATCC	이사홍	Target Validation	https://cellbank.snu.ac.kr/main/tmpl/sub_main.php?m_cd=6&m_id=0201&sp=2&c_id=50
+32	Cholangio	Choi-CK	Human	p5~	 	 	DMEM + 2mM L-glu	ADHERENT	None	이사홍	Target Validation	 
+33	Cholangio	TFK-1	Human	p11~	37hrs	 	RPMI 10% W/O P/S	ADHERENT	RIKEN	이사홍	Target Validation	https://cellbank.brc.riken.jp/cell_bank/Upload/Images/gazo/RCB2537.jpg
+34	Cholangio	KKU-100	Human	p?~	72hrs	 	DMEM 10%	ADHERENT	JCRB	이사홍	Target Validation	https://cellbank.nibiohn.go.jp/~cellbank/en/search_res_det.cgi?ID=7096
+35	Cholangio	KKK-D068	Human	p31~	 	 	DMEM 10%	ADHERENT	JCRB	이사홍	Target Validation	https://cellbank.nibiohn.go.jp/~cellbank/en/search_res_det.cgi?ID=8485
+36	Cholangio	YSCCC	Human	p15~	one/2 weeks (subculture)	 	RPMI 10% W/O P/S	ADHERENT	RIKEN	이사홍	Target Validation	https://cellbank.brc.riken.jp/cell_bank/Upload/Images/gazo/RCB1549.jpg
+37	NSCLC	H23	Human	p22~	38hrs	 	RPMI 10%	ADHERENT	KCLB	이사홍	Target Validation	https://cellbank.snu.ac.kr/main/tmpl/sub_main.php?m_cd=6&m_id=0201&sp=2&c_id=177
+38	NSCLC	HCC827	Human	p12~	71hrs	 	RPMI 10%	ADHERENT	KCLB	이사홍	Target Validation	https://cellbank.snu.ac.kr/main/tmpl/sub_main.php?m_cd=6&m_id=0201&sp=2&c_id=28
+39	Liver	Hep 3B	Human	p9~	28.05hrs	 	DMEM 10%	ADHERENT	None	이사홍	Target Validation	https://cellbank.snu.ac.kr/main/tmpl/sub_main.php?m_cd=6&m_id=0201&sp=2&c_id=356
+40	Head & Neck	Cal 27	Human	p4~	35hrs	 	DMEM 10%	ADHERENT	ATCC	이사홍	Target Validation	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/crl-2095-low-high.jpg?rev=180f8644a84d41adb86b9eac0bb078f2
+41	Head & Neck	FaDu	Human	p11~	50hrs	 	MEM 10%	ADHERENT	ATCC	이사홍	Target Validation	https://www.dsmz.de/collection/catalogue/details/culture/ACC-784
+42	NSCLC	H1299	Human	p7~	22.5hrs	 	RPMI 10%	ADHERENT	KCLB	이사홍	Target Validation	https://cellbank.snu.ac.kr/main/tmpl/sub_main.php?m_cd=6&m_id=0201&sp=2&c_id=306
+43	Normal	293T	Human	p13~	24~30hrs	 	DMEM 10% + L-glu 2mM	ADHERNET	ATCC	이사홍	Target Validation	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/crl-3216-low.jpg?rev=6a54e305dc9e47ee86b1337d6d72ca9c
+44	Normal	3T3-L1	Human	 	27.3±1.4hrs	 	DMEM 10% BS	ADHERNET	 	이사홍	Target Validation	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/cl-173.jpg?rev=93df27d3669f4415ad5f03bbed35a354
+45	 	3T3-L1 p34 KDStable 2nd	Human	 	 	p34 KD Stable	DMEM 10% BS	ADHERNET	사내 제작	이사홍	Target Validation	 
+46	Normal	3T3-LA1	Human	p5~	 	 	DMEM 10% BS	ADHERNET	 	이사홍	Target Validation	 
+47	Breast	MDA-MB-453	Human	p26~	38hrs	 	RPMI 10%	ADHERNET	KCLB	이사홍	Target Validation	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/htb-131.jpg?rev=d91b44af1e0c44f49fd5bec89dd0830f
+48	Breast	HCC38	Human	p25~	50.98hrs	 	RPMI 10%	ADHERENT	KCLB	이사홍	Target Validation	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/crl-2314.jpg?rev=3f1a3894fdd64c7f80ab080d080256fa
+49	Breast	HCC1395	Human	p?~	72hrs	 	RPMI 10% + HEPES	ADHERENT	아산	이사홍	Target Validation	https://storage.googleapis.com/depmap-external-downloads/cell_line_photos/HCC1395_LUA-3658.jpg?GoogleAccessId=depmap-external-downloads%40broad-achilles.iam.gserviceaccount.com&Expires=1626497802&Signature=NeGfCTBI%252FB7dA6%252FFCgy7N5ZXXErNkd3kQIJLcRcHvgAVmLjeiBZwXR60PvrGoX0Mm1nr3EwXmxR8AFVCef9Ry4OlRnQrdXF73fF1%252BrVDs7mhL5szGSwLHkhdGPpNgsj7M6EiwOoUxV4h78uAJU7Raj6Vw%252FjaPS3BTO3AeFwYrwulycRc3D7OG%252FJ6v8PEUez61vD%252BrVi5Z8eHkMoLJ0z5BBeEH0wIb2bD3OljdldUQVFv4c74utBpoaE%252B%252Bw7oX%252BbS991BnBv7ySVbBDKE9S3EgTjoGQaCzJrpBsiQ5A8NqjtS1n2ftix2fe5Co90r5R3NO2Z5NJ5obhVNgaP8sleTmA%3D%3D
+50	Breast	BT-20	Human	p39~	70hrs	 	RPMI 10%	ADHERENT	KCLB	이사홍	Target Validation	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/htb-19.jpg?rev=7a83a83b50f14e99bcc63669fcbfdd87
+51	Liver	Hep3B	Human	p9~	48hrs	 	DMEM 10%	ADHERENT	KCLB	이사홍	Target Validation	https://lccl.zucmanlab.com/hcc/pages/hcc/images/lccl/Hep3B.jpg?pfdrid_c=true
+52	NSCLC	H460	Human	p8~	17.8hrs	 	RPMI 10%	ADHERENT	KCLB	이사홍	Target Validation	https://cellbank.snu.ac.kr/cellpics/K30177_culture.jpg
+53	Gastric	SNU-638	Human	p?~	47-74hrs	 	RPMI 10%	ADHERENT	KCLB	이사홍	Target Validation	https://cellbank.snu.ac.kr/cellpics/K00638_culture.jpg
+54	Head & Neck	SCC-9	Human	p10~	 	 	Ham's + DMEM 10%	ADHERENT	ATCC	이사홍	Target Validation	https://storage.googleapis.com/depmap-external-downloads/cell_line_photos/SCC-9_LUA-3372.jpg?GoogleAccessId=depmap-external-downloads%40broad-achilles.iam.gserviceaccount.com&Expires=1626497998&Signature=QTxXDgkP4%252BKw9%252FaAW9XN6j6uA2bqeOa2trtjUeAyXO8cpxMWfkuKgBvfCJa9CH4RstfqItpM8TOQaIxXUJYVslsrV%252FRy06a0Aq5%252FSqU%252BIhE1pV%252F23Ra7zSBfGQzMD6Itqo9boe2S4pIkgJ4QU2Ogrxqypm9zsMG6m3W0XS%252F4Ex%252FVmRF3%252F9BwLrzc%252FdSBTC5s4iXO58qVrsfmhMyhqq%252BLs5xDJe38oZOkzM8bsvhCHCkHPrl17FKIrhoMT0QIr%252B4gxTrSp2b9WI%252BoXu2dsAeOljqy4YbahhLarvvyikb1v9cgIFN7Pvg%252BKCx5tpx2q72pHo%252FZeTuA4xoG1XG%252BKJ80Qw%3D%3D
+55	Ovarian	Sk-ov-3	Human	p41~	35hrs	 	RPMI 10%	ADHERENT	KCLB	이사홍	Target Validation	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/htb-77.jpg?rev=7e854993463946f5b4137a45bf8a854a
+56	Ovarian	IGROV-1	Human	p8~	30hrs	 	RPMI 10%	ADHERENT	아산	이사홍	Target Validation	https://storage.googleapis.com/depmap-external-downloads/cell_line_photos/IGROV1_KG.jpg?GoogleAccessId=depmap-external-downloads%40broad-achilles.iam.gserviceaccount.com&Expires=1626498074&Signature=MPo55BiOzsHNZQ3ODZdkgVPSGSnZO76GTjdpH1WSDmv5OSVHdyYTLN%252BqB3%252BLdZWd5vij0%252FmmbCZdCIYT8VX1p2tAGvVbdC5aMxjOhziCYezHdqhy%252FfpBjLN76xEWl%252BY6Bb0ZaA0wVZUk%252FEzQqfo5i3TMV2v9IDUy5%252BNVwkI9Q44gdHfNSwyBEr46r5yPZAwMsznW1uziVxakit9BGnPYAHX10aO5yaG4Amo9S3%252BW0zX7Umh6jUpY%252BnqVODbyH39ZD2je6G1WkxOqKhh8vSyeyHO%252BwpRR9j1Nni5JsUy9ig9Gekznl8VZBd1jri5V3Gh9rvqJfGeV5CGuyexd5ysrfg%3D%3D
+57	Prostate	22RV1	Human	p5~	55hrs	 	RPMI 10%	ADHERENT	ATCC	이사홍	Target Validation	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/crl-2505-high-low-density.jpg?rev=a6fb161246a946b8b081159da8b7a772
+58	Prostate	MKN45	Human	p44~	30-33hrs	 	RPMI 10%	ADHERENT	KCLB	이사홍	Target Validation	https://cellbank.snu.ac.kr/cellpics/K80103_culture.jpg
+59	Cholangio	SNU-478	Human	p7~	52hrs	 	RPMI 10%	ADHERENT	KCLB	진솔	기전연구	https://cellbank.snu.ac.kr/cellpics/K00478_culture.jpg
+60	Cholangio	SNU-869	Human	p12~	48hrs	 	RPMI 10%	ADHERENT	KCLB	진솔	기전연구	https://cellbank.snu.ac.kr/cellpics/K00869_culture.jpg
+61	NSCLC	HCC366	Human	p20~	60-70hrs	 	RPMI 10%	ADHERENT	KCLB	진솔	기전연구	https://cellbank.snu.ac.kr/cellpics/K70366_culture.jpg
+62	NSCLC	H1993	Human	p7~	31.6hrs	 	RPMI 10%	ADHERENT	ATCC	진솔	기전연구	 
+63	NSCLC	SW900	Human	p8~	 	 	L'15 10%	ADHERENT	KCLB	진솔	기전연구	https://cellbank.snu.ac.kr/cellpics/K30059_culture.jpg
+64	NSCLC	H2030	Human	p4~	 	 	RPMI 10%	ADHERENT	ATCC	진솔	기전연구	 
+65	NSCLC	H522	Human	p4-~	48.1hrs	 	RPMI 10%	Adherent, single cells and loosely attached clusters	KCLB	진솔	기전연구	https://cellbank.snu.ac.kr/cellpics/K90522_culture.jpg
+66	NSCLC	HCC15	Human	p12~	29.1hrs	 	RPMI 10%	ADHERENT	ATCC	진솔	기전연구	https://cellbank.snu.ac.kr/main/tmpl/sub_main.php?m_cd=6&m_id=0201&sp=2&c_id=16
+67	NSCLC	H1373	Human	p53~	36.7hrs	 	RPMI 10%	ADHERENT	KCLB	진솔	기전연구	https://cellbank.snu.ac.kr/main/tmpl/sub_main.php?m_cd=6&m_id=0201&sp=2&c_id=195
+68	NSCLC	H520	Human	p3~	61hrs	 	RPMI 10%	ADHERENT	ATCC	진솔	기전연구	 
+69	NSCLC	H2087	Human	p7~	51hrs	 	RPMI 10%	ADHERENT	KCLB	진솔	기전연구	 
+70	NSCLC	HCC44	Human	p13~	36.8hrs	 	RPMI 10%	ADHERENT	KCLB	진솔	기전연구	https://cellbank.snu.ac.kr/main/tmpl/sub_main.php?m_cd=6&m_id=0201&sp=2&c_id=17
+71	NSCLC	HCC2108	Human	p25~	 	 	RPMI 10%	ADHERENT	KCLB	진솔	기전연구	https://cellbank.snu.ac.kr/main/tmpl/sub_main.php?m_cd=6&m_id=0201&sp=2&c_id=19
+72	NSCLC	H460 Mock	Human	 	 	 	RPMI 10%	ADHERENT	사내 제작	진솔	기전연구	 
+73	NSCLC	H460 CMG C6	Human	 	 	 	RPMI 10%	ADHERENT	사내 제작	진솔	기전연구	 
+74	NSCLC	H292 CMG F	Human	 	 	 	RPMI 10%	ADHERENT	사내 제작	진솔	기전연구	 
+75	NSCLC	H292 Mock	Human	 	 	 	RPMI 10%	ADHERENT	사내 제작	진솔	기전연구	 
+76	NSCLC	H417	Human	p20~	26hrs	 	RPMI 10%	ADHERENT	KCLB	진솔	기전연구	 
+77	NSCLC	H1793	Human	p5~	 	 	RPMI 10%	ADHERENT	KCLB	진솔	기전연구	 
+78	NSCLC	HCC2279	Human	p21~	49.3hrs	 	RPMI 10% + 20mM HEPES	ADHERENT	KCLB	진솔	기전연구	https://depmap.org/portal/cell_line/ACH-000731?tab=mutation
+79	NSCLC	Calu-1	Human	p13~	49.8hrs	 	McCoy' 10%	ADHERENT	KCLB	진솔	기전연구	https://cellbank.snu.ac.kr/main/tmpl/sub_main.php?m_cd=6&m_id=0201&sp=2&c_id=2939
+80	Liver	SNU-398	Human	p35	39hrs	 	RPMI 10%	Mixed: adherent and floating	KCLB	진솔	기전연구	https://cellbank.snu.ac.kr/main/tmpl/sub_main.php?m_cd=6&m_id=0201&sp=2&c_id=294
+81	Liver	SNU-449	Human	p17~	36hrs	 	RPMI 10%	ADHERENT	KCLB	진솔	기전연구	https://cellbank.snu.ac.kr/main/tmpl/sub_main.php?m_cd=6&m_id=0201&sp=2&c_id=524
+82	Liver	Huh7	Human	p33~	32.2hrs	 	RPMI 10%	ADHERENT	KCLB	진솔	기전연구	https://lccl.zucmanlab.com/hcc/pages/hcc/images/lccl/Huh7.jpg
+83	Liver	SNU-182	Human	p50~	46hrs	 	RPMI 10%	ADHERENT	KCLB	진솔	기전연구	https://cellbank.snu.ac.kr/main/tmpl/sub_main.php?m_cd=6&m_id=0201&sp=2&c_id=291
+84	Lung	SK-Lu1	Human	p17~	 	 	RPMI 10%	ADHERENT	KCLB	진솔	기전연구	https://cellbank.snu.ac.kr/main/tmpl/sub_main.php?m_cd=6&m_id=0201&sp=2&c_id=471
+85	Liver	SNU-739	Human	p45~	20hrs	 	RPMI 10%	ADHERENT	KCLB	진솔	기전연구	https://cellbank.snu.ac.kr/main/tmpl/sub_main.php?m_cd=6&m_id=0201&sp=2&c_id=595
+86	Cervix	Hela	Human	p111~	31.2hrs	 	MEM 10%	ADHERENT	KCLB	진솔	기전연구	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/ccl-2.jpg?rev=643a21de513e4b17baacc9bc41e4392b
+87	Cervix	Hela S3	Human	p k19~	48hrs	 	RPMI 10%	ADHERENT	KCLB	진솔	기전연구	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/ccl-2-2_mg1.jpg?rev=fa3197827bfe4146b05e1628cf9b932e
+88	Cervix	ME-180	Human	p40~	36hrs	 	MEM 10%	ADHERENT	KCLB	진솔	기전연구	https://cellbank.snu.ac.kr/data/cell_photo/K30033_thum_culture.jpg
+89	Cervix	SiHa	Human	p28~	62.4hrs	 	DMEM 10%	ADHERENT	KCLB	진솔	기전연구	https://cellbank.snu.ac.kr/data/cell_photo/K30035_thum_culture.jpg
+90	Cervix	CaSKi	Human	p278~	76.8hrs	 	RPMI 10%	ADHERENT	KCLB	진솔	기전연구	https://cellbank.snu.ac.kr/data/cell_photo/K21550_thum_culture.png
+91	Ovarian	RMG-Ⅰ	Human	p w6~	40hrs	 	Ham's F/12 10%	ADHERENT	JCRB	진솔	기전연구	https://cellbank.nibiohn.go.jp/~cellbank/en/search_res_det.cgi?ID=1998
+92	Ovarian	RMG-Ⅱ	Human	p w3~	58hrs	 	Ham's F/12 10%	ADHERENT	JCRB	진솔	기전연구	https://cellbank.nibiohn.go.jp/~cellbank/en/search_res_det.cgi?ID=2012
+93	Ovarian	OVMANA	Human	p w6~	70hrs	 	RPMI 10%	ADHERENT	JCRB	진솔	기전연구	https://cellbank.nibiohn.go.jp/~cellbank/en/search_res_det.cgi?ID=2667
+94	Colon	SW620	Human	p5~	20.4hrs	 	RPMI 10%	ADHERENT	ATCC	진솔	기전연구	https://cellbank.snu.ac.kr/data/cell_photo/K60068_thum_culture.jpg
+95	Colon	HCT116	Human	p5~	18.14±0.051hrs	 	McCoy's 10%	ADHERENT	ATCC	진솔	기전연구	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/ccl-247.jpg?rev=022c6a112b8f46e29ff649932d9f2ddb
+96	Colon	SW480	Human	p11~	24hrs	 	RPMI 10%	ADHERENT	ATCC	진솔	기전연구	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/ccl-228.jpg?rev=657a2388a0df440886492216f90abf37
+97	Colon	H508	Human	p74~	32hrs	 	RPMI 10%	Mixed: floating aggregates of round cells with some attached cells	KCLB	진솔	기전연구	https://cellbank.snu.ac.kr/cellpics/K10253_culture.jpg
+98	Colon	RKO	Human	p8~	21hrs	 	EMEM 10%	ADHERENT	ATCC	진솔	기전연구	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/crl-2577-low-high.jpg?rev=9350f657249e498bb0aa6601d472dc98
+99	Colon	HCT-15	Human	p12~	19hrs	 	RPMI 10%	ADHERENT	ATCC	진솔	기전연구	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/ccl-225.jpg?rev=79da50d23c204953869c663ca7987182
+100	Colon	LS 174T	Human	p7~	30-40hrs	 	EMEM 10%	ADHERENT	ATCC	진솔	기전연구	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/cl-188.jpg?rev=525a4163e3ee453eba7e753b42e65fe5
+101	Colon	SW1417	Human	p15~	68hrs	 	RPMI 10%	ADHERENT	ATCC	진솔	기전연구	 
+102	Colon	COLO 320HSR	Human	p45~	 	 	RPMI 10%	Loosely adherent, multicellular aggregates	KCLB	진솔	기전연구	https://cellbank.snu.ac.kr/cellpics/K10220.1_culture.jpg
+103	Colon	LOVO	Human	p88	52hrs	 	RPMI 10%	ADHERENT	ATCC	진솔	기전연구	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/ccl-229.jpg?rev=512f25031a6c461f9c175786b7556664
+104	Colon	SW1116	Human	 	163hrs	 	RPMI 10%	ADHERENT	ATCC	진솔	기전연구	https://cellbank.snu.ac.kr/cellpics/K10233_culture.jpg
+105	Colon	LS 1034	Human	p94~	 	 	RPMI 10%	ADHERENT	ATCC	진솔	기전연구	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/crl-2158.jpg?rev=c325b2737575449dbdd8a2d1cec5c57b
+106	Colon	LS 411N	Human	p10~	24hrs	 	RPMI 10%	ADHERENT	ATCC	진솔	기전연구	 
+107	Colon	SW48	Human	p9~	33hrs	 	RPMI 10%	ADHERENT	ATCC	진솔	기전연구	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/ccl-231.jpg?rev=6d4a72a4751947fcb4bcd0fc8025bfb7
+108	Breast	HCC1937	Human	p25~	50hrs	 	RPMI 10%	Adherent, large-sized epithelial cells that float at high cell densities	KCLB	진솔	기전연구	https://www.dsmz.de/fileadmin/downloads/ACC/cells_in_culture/HCC-1937_Bild_2.jpg
+109	Breast	MCF7	Human	p7~	31.2hrs	 	EMEM 10%	ADHERENT	KCLB	진솔	기전연구	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/htb-22.jpg?rev=e029029991594a60a29eecfaf8e33a64
+110	Breast	HCC2218	Human	p23~	120hrs	 	RPMI 10%	Suspension, floating aggregates of large cell clusters	KCLB	진솔	기전연구	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/crl-2343-low-high.jpg?rev=8de800036c1647ef91a037e86d0613e9
+111	Breast	T-47D	Human	p7~	38.4hrs	 	RPMI 10% + Bovine insulin 0.01 mg/ml	ADHERENT	ATCC	진솔	기전연구	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/htb-133.jpg?rev=d2c1c791cf5f492daeb07288ac70271f
+112	Breast	MDA-MB-231	Human	p8~	38hrs	 	RPMI 10%	ADHERENT	KCLB	진솔	기전연구	https://cellbank.snu.ac.kr/cellpics/K30026_culture.jpg
+113	Breast	SK-BR-3	Human	p12~	30hrs	 	McCoy's 10%	ADHERENT	KCLB	진솔	기전연구	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/htb-30.jpg?rev=b9222dffd83b4e8588508f9a91538e21
+114	Breast	Hs 578T	Human	p9~	34hrs	 	DMEM 10% + Bovine insulin 0.01 mg/ml	ADHERENT	ATCC	진솔	기전연구	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/htb-126.jpg?rev=56f83870a59141fa91b24f348daa41c7
+115	Prostate	PC-3	Human	p36~	25.34±0.02hrs	 	RPMI 10%	ADHERENT	KCLB	이사홍	Target Validation	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/crl-1435.jpg?rev=112a82ca1de242bfbce41fbea0b327a4
+116	Prostate	DU 145	Human	p34~	34hrs	 	RPMI 10%	ADHERENT	ATCC	이사홍	Target Validation	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/htb-81-high-low.jpg?rev=3cd7427b67f64559aeab65b59b1b7810
+117	Colon	Difi (Parent)	Human	 	40hrs	 	RPMI 10% + Cetuximab 25 µg/ml	round up and remain loosely attached	사내 제작	진솔	기전연구	 
+118	Colon	Difi (R2)	Human	 	 	 	RPMI 10% + Cetuximab 25 µg/ml	 	사내 제작	진솔	기전연구	 
+119	Colon	LIM1215 (Parent)	Human	 	32hrs	 	RPMI 10% + Cetuximab 25 µg/ml	ADHERENT	사내 제작	진솔	기전연구	 
+120	Colon	LIM1215 (R1)	Human	 	 	 	RPMI 10% + Cetuximab 25 µg/ml	 	사내 제작	진솔	기전연구	https://www.phe-culturecollections.org.uk/media/56052/LIM1215_01610210S_Episode_5_v02.pdf
+121	Colon	LIM1215 (R2)	Human	 	 	 	RPMI 10% + Cetuximab 25 µg/ml	 	사내 제작	진솔	기전연구	 
+122	Melanoma	B16-F10	Mouse	p67~	17.2hrs	 	DMEM 10%	ADHERENT	KCLB	진솔	기전연구	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/crl-6475.jpg?rev=932a56dc1a4742839124642823fb7f6c
+123	Lung	LLC1	Mouse	p?+8~	21hrs	 	DMEM 10%	Mixed: adherent and suspension	아산	진솔	기전연구	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/crl-1642-low-high.jpg?rev=881167807f8347669cecfcc100755f6f
+124	Colon	MC-38	Mouse	p12~	 	 	DMEM 10% + 0.1mM NEAA, 1mM sodium pyruvate, 0.05mg/ml Gentamicin, 10mM HEPES, 1% P/S (for MC-38)	ADHERENT	 	진솔	기전연구	https://www.kerafast.com/productgroup/665/mc-38-cell-line
+125	Lymphoblast	NIH-3T3 Mock	Human	p9~	 	 	DMEM  10% (BS+G418 100 ug/ml)	 	사내 제작	진솔	기전연구	 
+126	Lymphoblast	NIH-3T3 CMG #2	Human	p12~	 	 	DMEM  10% (BS+G418 100 ug/ml)	 	사내 제작	진솔	기전연구	 
+127	Lymphoblast	NIH-3T3 CMG #8	Human	p15~	 	 	DMEM  10% (BS+G418 100 ug/ml)	 	사내 제작	진솔	기전연구	 
+128	Lymphoblast	NIH-3T3 CMG #15	Human	p11~	 	 	DMEM  10% (BS+G418 100 ug/ml)	 	사내 제작	진솔	기전연구	 
+129	Normal	NIH-3T3	Human	p9~	20hrs	 	DMEM 10% BS	ADHERENT	KCLB	진솔	기전연구	https://www.atcc.org/-/media/product-assets/images/micrographs/cell-biology/crl-1658.jpg?rev=e7afae6ddc3c4066844eee82ec331bf3
+130	Normal	NIH-3T3 (no myc)	Human	 	 	 	DMEM 10% BS	 	 	진솔	기전연구	 
+131	Normal	PDX #116 _ PDC	Human	p2~	 	 	REGM	 	 	진솔	기전연구	 

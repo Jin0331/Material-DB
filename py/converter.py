@@ -660,3 +660,30 @@ def cmc_reagent_column_to_mongo(path, base_path):
         file.write((json.dumps(total_converting, indent=4, sort_keys= False, ensure_ascii=False)))
     
     return total_converting
+
+
+def td_celline_to_mongo(path, base_path):
+    # backup file write
+    save_path = base_path + "/backup/td_celline"
+    file_name = timeStamped("td_celline.json")
+    date_join = os.path.join(save_path, file_name)
+    
+    # txt to json(list or tuple)
+    total_converting = list()
+
+    f = open(path, "r", encoding="UTF-8")
+    content = f.read()
+    splitcontent = content.splitlines()
+
+    for line in splitcontent:
+        line = line.split("\t")
+        
+        # Inserting Data
+        total_converting.append({"No":line[0], "Cancer":line[1], "Cell_line":line[2], "Organism":line[3], "Passage":line[4],
+                                "doubling_time":line[5], "Characteristics":line[6], "Media_Condition":line[7], "GROWTH_PATTERN":line[8],
+                                "purchase":line[9], "manager":line[10], "affiliation":line[11], "Picture":line[12]})  
+        
+    with open(date_join, 'w', encoding="UTF-8") as file:
+        file.write((json.dumps(total_converting, indent=4, sort_keys= False, ensure_ascii=False)))
+    
+    return total_converting
