@@ -1,0 +1,105 @@
+1	4T1	Breast; mammary gland	Mouse	Mimics human breast cancer; Stage IV	R10(w/o P/S)	Adherent	 	동물실험팀
+2	A549	Lung	Human	NSCLC	R10(+25 mM HEPES)	Adherent	KCLB	동물실험팀
+3	B16-F10	Skin	Mouse	Melanoma	D10	Adherent	ATCC, KCLB	동물실험팀
+4	Caco-2	Colon	Human	Adenocarcinoma	E10	Adherent	ATCC	동물실험팀
+5	CAL 27	Tongue	Human	Squamous cell carcinoma	D10	Adherent	ATCC	동물실험팀
+6	Calu-1	Lung	Human	NSCLC	Mccoy's 5A(+10%FBS and 25 mM HEPES)	Adherent	KCLB	동물실험팀
+7	Calu-6	Lung	Human	Carcinoma	R10	Adherent	 	동물실험팀
+8	Capan-1	Pancreas	Human	Adenocarcinoma	R10	Adherent	 	동물실험팀
+9	Caski	Cervix, Uterine	Human	Carcinoma, epidermoid; metastasis	R10	Adherent	KCLB	동물실험팀
+10	Choi-ck	Bile duct	Human	cholangiocarcinoma	D10(+2 mM L-glu)	Adherent	 	동물실험팀
+11	Colo201	Colon	Human	Adenocarcinoma	R10	Loosely attached & suspension	ATCC	동물실험팀
+12	Colo320HSR	Colon	Human	Adenocarcinoma; Dukes' type C	R10	Loosely attached & suspension	KCLB	동물실험팀
+13	Colo320HSR (△155_1-1)	Colon	Human	Adenocarcinoma; Dukes' type C	R10(+200 ug/ml G418)	Loosely attached & suspension	KCLB	동물실험팀
+14	Colo320HSR (△155_1-11)	Colon	Human	Adenocarcinoma; Dukes' type C	R10(+200 ug/ml G418)	Loosely attached & suspension	KCLB	동물실험팀
+15	Colo320HSR (△155_1-14)	Colon	Human	Adenocarcinoma; Dukes' type C	R10(+200 ug/ml G418)	Loosely attached & suspension	KCLB	동물실험팀
+16	Colo320HSR (△155_1-15)	Colon	Human	Adenocarcinoma; Dukes' type C	R10(+200 ug/ml G418)	Loosely attached & suspension	KCLB	동물실험팀
+17	Colo320HSR (△160)	Colon	Human	Adenocarcinoma; Dukes' type C	R10	Loosely attached & suspension	KCLB	동물실험팀
+18	CT26	Fibroblast	Mouse	Carcinoma	D10	Adherent	 	동물실험팀
+19	DLD-1	Colon	Human	Dukes' type C, colorectal adenocarcinoma	R10	Adherent	 	동물실험팀
+20	E0771	Mammary gland/breast	Mouse	Adenocarcinoma	R10(w/o P/S and 10 mM HEPES)	Adherent	CH3 BioSystems	동물실험팀
+21	FaDu	Pharynx	Human	Squamous Cell Carcinoma	M10	Adherent	ATCC	동물실험팀
+22	HCT-116	Colon	Human	Colorectal carcinoma	R10	Adherent	 	동물실험팀
+23	HCT-15	Colon	Human	Dukes' type C, colorectal adenocarcinoma	R10	Adherent	 	동물실험팀
+24	HCT-8	Colon	Human	Ileocecal colorectal adenocarcinoma	R10	Adherent	ATCC	동물실험팀
+25	Hep3B	Liver	Human	Carcinoma, hepatocellular	D10	Adherent	KCLB	동물실험팀
+26	HEPA1-6	Liver	Mouse	Hepatoma	D10	Adherent	ATCC	동물실험팀
+27	HepG2	Liver	Human	Hepatoblastoma	D10	Adherent	 	동물실험팀
+28	HT-29	Colon	Human	Adenocarcinoma	R10	Adherent	 	동물실험팀
+29	Huh7	Liver	Human	Hepatocellular carcinoma	R10	Adherent	 	동물실험팀
+30	KKK-D068H1	Biliary tract	Human	cholangiocarcinoma	D10	Adherent	JCRB	동물실험팀
+31	KKK-D138H2	Biliary tract	Human	cholangiocarcinoma	D10	Adherent	JCRB	동물실험팀
+32	KKU-100	Biliary tract	Human	cholangiocarcinoma	D10	Adherent	JCRB	동물실험팀
+33	KKU-213	Biliary tract	Human	cholangiocarcinoma	D10	Adherent	JCRB	동물실험팀
+34	KM12C	Colon	Human	Carcinoma, low metastatic	M10	Adherent	KCLB	동물실험팀
+35	Lim1215_Parent	Colon; omental metastasis	Human	Adenocarcinoma	R10	Adherent	 	동물실험팀
+36	Lim1215_R1	Colon; omental metastasis	Human	Adenocarcinoma	R10(+25 ug/ml Cetuximab)	Adherent	 	동물실험팀
+37	Lim1215_R2	Colon; omental metastasis	Human	Adenocarcinoma	R10(+25 ug/ml Cetuximab)	Adherent	 	동물실험팀
+38	LL/2(LLC1)	Lung	Mouse	Lewis lung carcinoma	D10 or D10(+2 mM L-glu)	Adherent and suspension	ATCC	동물실험팀
+39	LNC	Cellosaurus	Mouse	Lymphoma	D10	Adherent	ATCC	동물실험팀
+40	LS1034	Cecum	Human	Dukes' type C, colorectal carcinoma	R10	Adherent	ATCC	동물실험팀
+41	LS411N	Cecum	Human	Dukes' type B, colorectal carcinoma	R10	Adherent	 	동물실험팀
+42	LS513	Colon	Human	Carcinoma	R10	Adherent	KCLB	동물실험팀
+43	MC38	Colon	Mouse	Colorectal carcinoma	D10(#LM001-01, +0.1 mM Non-essential amino acids, 1 mM Sodium pyruvate, 10 mM HEPES, 50 ug/ml Gentamycin sulfate and 2 mM glu)	Adherent	Kerafast	동물실험팀
+44	ME-180	Cervix, Uterine	Human	Carcinoma; epidermoid; from metasistic site: omentum	R10	Adherent	KCLB	동물실험팀
+45	MIA PaCa-2	Pancreas	Human	Carcinoma	D10(+2 mM L-glu)	Adherent	KCLB	동물실험팀
+46	NCI-H1299	Lung	Human	NSCLC	R10	Adherent	 	동물실험팀
+47	NCI-H1650	Lung	Human	Adenocarcinoma, NSCLC	R10	Adherent	 	동물실험팀
+48	NCI-H1944	Lung (derived from soft tissue metastasis)	Human	Stage 3B, adenocarcinoma; NSCLC	R10(+25 mM HEPES)	Adherent	ATCC	동물실험팀
+49	NCI-H2286	Lung	Human	SCLC	R10	Adherent	 	동물실험팀
+50	NCI-H292	Lung	Human	NSCLC	R10	Adherent	KCLB	동물실험팀
+51	NCI-H292_Clone5	Lung	Human	NSCLC	R10(+0.5 ug/ml Puromycin)	Adherent	 	동물실험팀
+52	NCI-H292_CloneF	Lung	Human	NSCLC	R10(+200 ug/ml G418)	Adherent	 	동물실험팀
+53	NCI-H292_Mock	Lung	Human	NSCLC	R10(+100 ug/ml G418)	Adherent	 	동물실험팀
+54	NCI-H358	Lung	Human	NSCLC	R10	Adherent	 	동물실험팀
+55	NCI-H417	Lung	Human	SCLC	R10	Suspension	 	동물실험팀
+56	NCI-H460	Lung	Human	NSCLC	R10	Adherent	 	동물실험팀
+57	NCI-H508	Colon	Human	Adenocarcinoma	R10	Floating aggregates of round cells with some attached cell	KCLB	동물실험팀
+58	NCI-H69	Lung	Human	SCLC	R10	Suspension	 	동물실험팀
+59	NCI-H716	Colon	Human	Adenocarcinoma	R10	Floating aggregates of round cells with some attached cell	KCLB	동물실험팀
+60	NCI-H838	Lung (derived from lymph node metastasis)	Human	stage 3B, adenocarcinoma; NSCLC	R10	Adherent	 	동물실험팀
+61	NIH/3T3_Parent	Fibroblast	Mouse	 	DBS10	Adherent	 	동물실험팀
+62	PANC-1	Pancreas; Duct	Human	Epithelioid Carcinoma	D10	Adherent	KCLB	동물실험팀
+63	Renca	Kidney	Mouse	Renal adenocarcinoma	R10(+0.1 mM Non-essential amino acids, 1 mM Sodium pyruvate and 2 mM L-glu)	Adherent	ATCC	동물실험팀
+64	SCC-9	Tongue	Human	Carcinoma; Squamous Cell	Ham's F12+D10 (1:1)Cf) Ham's F12 containing 1.2 g/L Sodium bicarbonate, 2.5 mM L-glu, 15 mM HEPES, 0.5 mM Sodium pyruvate (supplemented with 400 ng/ml Hydrocortisone, 90%)  and 10% FBS	Adherent	ATCC	동물실험팀
+65	SK-Hep1	Liver	Human	Adenocarcinoma; ascites	D10(+2 mM L-glu)	Adherent	KCLB	동물실험팀
+66	SK-LU-1	Lung	Human	Adenocarcinoma	D10	Adherent	 	동물실험팀
+67	SK-MES-1	Lung	Human	Carcinoma, squamous cell; pleural effusion	D10(+2 mM L-glu)	Adherent	KCLB	동물실험팀
+68	SKOV3_PaclitaxelR	Ovary; ascites	Human	Adenocarcinoma	McCoys050(+10% FBS and 100 nM Paclitaxel)	Adherent	 	동물실험팀
+69	SKOV3_Parent	Ovary; ascites	Human	Adenocarcinoma	McCoys050(+10% FBS)	Adherent	 	동물실험팀
+70	SNU-1047	Colon	Human	Carcinoma	R10	Adherent	KCLB	동물실험팀
+71	SNU-449	Liver	Human	Carcinoma, hepatocellular; primary	R10	Adherent	 	동물실험팀
+72	SNU-C1	Colon	Human	Adenocarcinoma	R10	Floating aggregates of round cell clusters	 	동물실험팀
+73	SNU-C2A	Colon	Human	Adenocarcinoma	R10	Adherent	KCLB	동물실험팀
+74	SW1417	Colon	Human	Dukes' type C, grade III, colorectal adenocarcinoma	R10	Adherent	ATCC	동물실험팀
+75	SW48	Colon	Human	Dukes' type C, grade IV, colorectal adenocarcinoma	R10	Adherent	ATCC	동물실험팀
+76	SW480	Colon	Human	Dukes' type B, colorectal carcinoma	R10	Adherent	ATCC	동물실험팀
+77	SW480E	Colon	Human	Colorectal carcinoma	R10	Adherent	 	동물실험팀
+78	SW620	Colon (derived from lymph node metastasis)	Human	Dukes' type C, colorectal carcinoma	R10	Adherent	ATCC	동물실험팀
+79	T84	Colon (derived from lung metastasis)	Human	Colorectal carcinoma	D/F12(+5% FBS and 2.5 mM L-glu)	Adherent	 	동물실험팀
+80	WiDr	Colon	Human	Adenocarcinoma	R10	Adherent	ATCC	동물실험팀
+81	SNU-1196	Biliary tract	Human	biliary tract cancer, hepatic duct bifurcation	R10	Adherent	KCLB	동물실험팀
+82	SNU-1411	Colon	Human	Adenocarcinoma	R10	Adherent	KCLB	동물실험팀
+83	SNU-1460	Colon	Human	Adenocarcinoma	R10	Adherent	KCLB	동물실험팀
+84	SNU-1684	Colon	Human	Adenocarcinoma	R10	Adherent	KCLB	동물실험팀
+85	SNU-254	Biliary tract	Human	biliary tract cancer, common bile duct	R10	Adherent	KCLB	동물실험팀
+86	SNU-308	Biliary tract	Human	biliary tract cancer, gall bladder	R10	Adherent	KCLB	동물실험팀
+87	SNU-478	Biliary tract	Human	biliary tract cancer, ampulla of vater	R10	Adherent	KCLB	동물실험팀
+88	SNU-70	Colon	Human	Adenocarcinoma	R10	Adherent	KCLB	동물실험팀
+89	SNU-C1	Colon	Human	Adenocarcinoma	R10	Suspension	KCLB	동물실험팀
+90	SNU-C2A	Colon	Human	Adenocarcinoma	R10	Adherent	KCLB	동물실험팀
+91	SW1116	Colon	Human	Adenocarcinoma(stage3)	R10	Adherent	KCLB	동물실험팀
+92	SW1417	Colon	Human	Carcinoma	R10	Adherent	ATCC, KCLB	동물실험팀
+93	SW1463	Colon	Human	Carcinoma	R10	Adherent	KCLB	동물실험팀
+94	SW403	Colon	Human	Adenocarcinoma(stage3)	R10	Adherent	ATCC, KCLB	동물실험팀
+95	SW480	Colon	Human	Adenocarcinoma	R10	Adherent	ATCC	동물실험팀
+96	SW480E	Colon	Human	Carcinoma	R10	Adherent	KCLB	동물실험팀
+97	SW620	Colon	Human	Dukes' type C, colorectal carcinoma	R10	Adherent	ATCC	동물실험팀
+98	SW837	Colon	Human	Carcinoma	R10	Adherent	KCLB	동물실험팀
+99	T84	Colon	Human	Colorectal carcinoma	D/F12(+5% FBS)	Adherent	ATCC	동물실험팀
+100	TFK-1	Bile duct	Human	papillary adenocarcinoma	R10(+25mM HEPES)(-P/S)	Adherent	RIKEN RCB	동물실험팀
+101	TGBCI-TKB	Gallbladder	Human	gallbadder carcinoma	D5(-P/S)	Adherent	RIKEN RCB	동물실험팀
+102	THP-1	Peripheral blood	Human	Acute monocytic leukemia	R10(-P/S)	Suspension	 	동물실험팀
+103	UPCI:SCC090	Tongue	Human	Squamous Cell Carcinoma	E10(ATCC)	Adherent	ATCC	동물실험팀
+104	WiDr	Colon	Human	Adenocarcinoma	D10	Adherent	ATCC, KCLB	동물실험팀
+105	YSCCC	Liver	Human	cholangiocellular carcinoma	R10(+25mM HEPES)	Adherent	RIKEN RCB	동물실험팀

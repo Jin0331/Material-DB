@@ -521,10 +521,10 @@ def shsirna_to_mongo(path, base_path):
     
     return total_converting
 
-def celline_to_mongo(path, base_path):
+def celline_wb_to_mongo(path, base_path):
     # backup file write
-    save_path = base_path + "/backup/celline"
-    file_name = timeStamped("celline.json")
+    save_path = base_path + "/backup/celline_wb"
+    file_name = timeStamped("celline_wb.json")
     date_join = os.path.join(save_path, file_name)
     
     # txt to json(list or tuple)
@@ -662,10 +662,10 @@ def cmc_reagent_column_to_mongo(path, base_path):
     return total_converting
 
 
-def td_celline_to_mongo(path, base_path):
+def celline_td_to_mongo(path, base_path):
     # backup file write
-    save_path = base_path + "/backup/td_celline"
-    file_name = timeStamped("td_celline.json")
+    save_path = base_path + "/backup/celline_td"
+    file_name = timeStamped("celline_td.json")
     date_join = os.path.join(save_path, file_name)
     
     # txt to json(list or tuple)
@@ -682,6 +682,31 @@ def td_celline_to_mongo(path, base_path):
         total_converting.append({"No":line[0], "Cancer":line[1], "Cell_line":line[2], "Organism":line[3], "Passage":line[4],
                                 "doubling_time":line[5], "Characteristics":line[6], "Media_Condition":line[7], "GROWTH_PATTERN":line[8],
                                 "purchase":line[9], "manager":line[10], "affiliation":line[11], "Picture":line[12]})  
+        
+    with open(date_join, 'w', encoding="UTF-8") as file:
+        file.write((json.dumps(total_converting, indent=4, sort_keys= False, ensure_ascii=False)))
+    
+    return total_converting
+
+def celline_dd_to_mongo(path, base_path):
+    # backup file write
+    save_path = base_path + "/backup/celline_dd"
+    file_name = timeStamped("celline_dd.json")
+    date_join = os.path.join(save_path, file_name)
+    
+    # txt to json(list or tuple)
+    total_converting = list()
+
+    f = open(path, "r", encoding="UTF-8")
+    content = f.read()
+    splitcontent = content.splitlines()
+
+    for line in splitcontent:
+        line = line.split("\t")
+        
+        # Inserting Data
+        total_converting.append({"No":line[0], "Cell_line":line[1], "Tissue":line[2], "Organism":line[3], "Disease":line[4],
+                                "Media_Condition":line[5], "GROWTH_PATTERN":line[6], "purchase":line[7], "manager":line[8]})  
         
     with open(date_join, 'w', encoding="UTF-8") as file:
         file.write((json.dumps(total_converting, indent=4, sort_keys= False, ensure_ascii=False)))
