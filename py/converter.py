@@ -180,6 +180,31 @@ def pdx_result_to_mongo(path, base_path):
     
     return total_converting
 
+def pdx_champion_to_mongo(path, base_path):
+    save_path = base_path + "/backup/pdx_champion"
+    file_name = timeStamped("pdx_champion.json")
+    date_join = os.path.join(save_path, file_name)
+    
+    # txt to json(list or tuple)
+    total_converting = list()
+
+    f = open(path, "r", encoding="UTF-8")
+    content = f.read()
+    splitcontent = content.splitlines()
+
+    for line in splitcontent:
+        line = line.split("\t")
+        
+        # Inserting Data
+        total_converting.append({"Tissue":line[0], "Model":line[1], "RON_Variant":line[2], "p_RON_Score":line[3], 
+                     "RON_Score":line[4], "Patient_Treatments":line[5], "PDX_Model_TGI":line[6], "Tumor_status":line[7], "Histology":line[8],
+                     "Diagnosis":line[9], "Treatment_history":line[10], "Ethnicity":line[11], "Alias":line[12], "Passage":line[13]})  
+        
+    with open(date_join, 'w', encoding="UTF-8") as file:
+        file.write((json.dumps(total_converting, indent=4, sort_keys= False, ensure_ascii=False)))
+    
+    return total_converting
+
 def ff_to_mongo(path, base_path):
     # backup file write
     save_path = base_path + "/backup/ff"
