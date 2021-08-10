@@ -61,7 +61,7 @@
 61	NIH/3T3_Parent	Fibroblast	Mouse	 	DBS10	Adherent	 	동물실험팀
 62	PANC-1	Pancreas; Duct	Human	Epithelioid Carcinoma	D10	Adherent	KCLB	동물실험팀
 63	Renca	Kidney	Mouse	Renal adenocarcinoma	R10(+0.1 mM Non-essential amino acids, 1 mM Sodium pyruvate and 2 mM L-glu)	Adherent	ATCC	동물실험팀
-64	SCC-9	Tongue	Human	Carcinoma; Squamous Cell	Ham's F12+D10 (1:1)Cf) Ham's F12 containing 1.2 g/L Sodium bicarbonate, 2.5 mM L-glu, 15 mM HEPES, 0.5 mM Sodium pyruvate (supplemented with 400 ng/ml Hydrocortisone, 90%)  and 10% FBS	Adherent	ATCC	동물실험팀
+64	SCC-9	Tongue	Human	Carcinoma; Squamous Cell	Ham's F12+D10 (1:1)  Cf) Ham's F12 containing 1.2 g/L Sodium bicarbonate, 2.5 mM L-glu, 15 mM HEPES, 0.5 mM Sodium pyruvate (supplemented with 400 ng/ml Hydrocortisone, 90%)  and 10% FBS	Adherent	ATCC	동물실험팀
 65	SK-Hep1	Liver	Human	Adenocarcinoma; ascites	D10(+2 mM L-glu)	Adherent	KCLB	동물실험팀
 66	SK-LU-1	Lung	Human	Adenocarcinoma	D10	Adherent	 	동물실험팀
 67	SK-MES-1	Lung	Human	Carcinoma, squamous cell; pleural effusion	D10(+2 mM L-glu)	Adherent	KCLB	동물실험팀
@@ -103,3 +103,41 @@
 103	UPCI:SCC090	Tongue	Human	Squamous Cell Carcinoma	E10(ATCC)	Adherent	ATCC	동물실험팀
 104	WiDr	Colon	Human	Adenocarcinoma	D10	Adherent	ATCC, KCLB	동물실험팀
 105	YSCCC	Liver	Human	cholangiocellular carcinoma	R10(+25mM HEPES)	Adherent	RIKEN RCB	동물실험팀
+106	293T	Kidney	Human	 	D10(+L-glu)	Adherent	 	in vitro 1팀
+107	Calu6	probably lung	Human	Anaplastic carcinoma	R10	Adherent	KCLB	in vitro 1팀
+108	Colo320HSR	Colon	Human	Dukes' type C, colorectal adenocarcinoma	R10	Mix	KCLB	in vitro 1팀
+109	CT26	Colon	Mouse	Carcinoma	D10	Adherent	KCLB	in vitro 1팀
+110	CT26 mCMG-C10	Colon	Mouse	Carcinoma	D10(+G418 400ug/ml)	Adherent	 	in vitro 1팀
+111	CT26 mCMG-C20	Colon	Mouse	Carcinoma	D10(+G418 400ug/ml)	Adherent	 	in vitro 1팀
+112	CT26 mCMG-C9	Colon	Mouse	Carcinoma	D10(+G418 400ug/ml)	Adherent	 	in vitro 1팀
+113	DLD-1	Colon	Human	Dukes' type C, colorectal adenocarcinoma	R10	Adherent	 	in vitro 1팀
+114	H2170	Lung	Human	squamous cell carcinoma	R10	Adherent	ATCC	in vitro 1팀
+115	H292	Lung	Human	Carcinoma,mucoepidermoid	R10(+G418 200ug/ml)	Adherent	KCLB	in vitro 1팀
+116	H292 Mock	Lung	Human	Carcinoma,mucoepidermoid	R10(+G418 100ug/ml)	Adherent	 	in vitro 1팀
+117	H292 cloneF	Lung	Human	Carcinoma,mucoepidermoid	R10(+G418 200ug/ml)	Adherent	 	in vitro 1팀
+118	HCT116	Colon	Human	Colorectal carcinoma	Mc10	Adherent	ATCC	in vitro 1팀
+119	HCT116 p53 -/-	Colon	Human	Colorectal carcinoma	R10	Adherent	 	in vitro 1팀
+120	HCT116 p53 wt	Colon	Human	Colorectal carcinoma	R10	Adherent	 	in vitro 1팀
+121	HCT116-CEACAM1-C20	Colon	Human	Colorectal carcinoma	R10(+G418 100ug/ml)	Adherent	 	in vitro 1팀
+122	HCT116-Mock-C3	Colon	Human	Colorectal carcinoma	R10(+G418 100ug/ml)	Adherent	 	in vitro 1팀
+123	HEK293 CMG-C5	Kidney	Human	 	M10(+G418 100ug/ml)	Adherent	 	in vitro 1팀
+124	HT29	Colon	Human	Colorectal adenocarcinoma	R10	Adherent	ATCC	in vitro 1팀
+125	Jurkat(E6-1)	Peripheral blood	Human	acute T cell leukemia	R10	Suspension (aggregates)	ATCC	in vitro 1팀
+126	KM12SM	Colon	Human	carcinoma	R10	Adherent	KCLB	in vitro 1팀
+127	MDA-MB-231	Breast	Human	adenocarcinoma; pleural effusion	R10	Adherent	KCLB	in vitro 1팀
+128	MKN28	Gastric	Human	Gastric tubular adenocarcinoma	R10	Adherent	 	in vitro 1팀
+129	NCI-H1792	Lung	Human	Adenocarcinoma, Stage4	R10	Adherent	ATCC	in vitro 1팀
+130	NCI-H1975	Lung	Human	Adenocarcinoma, NSCLC	R10	Adherent	 	in vitro 1팀
+131	NCI-H2030	Lung	Human	NSCLC(adenocarcinoma)	R10	Adherent	ATCC	in vitro 1팀
+132	NCI-H460	Lung	Human	large cell carcinoma	R10	Adherent	KCLB	in vitro 1팀
+133	SK-BR-3	Breast	Human	adenocarcinoma	Mc10	Adherent	 	in vitro 1팀
+134	SM-MES-1	Lung	Human	squamous cell carcinoma	D10(+L-glu)	Adherent	KCLB	in vitro 1팀
+135	SNU-1047	Colon	Human	Adenocarcinoma	R10	Adherent	 	in vitro 1팀
+136	SNU-182	Liver	Human	Carcinoma, hepatocellular; primary	R10	Adherent	 	in vitro 1팀
+137	SNU-308	Biliary tract	Human	Biliary tract cancer, gall bladder	R10	Adherent	 	in vitro 1팀
+138	SNU-878	Liver	Human	Hepatocellular carcinoma	R10	Adherent	 	in vitro 1팀
+139	SW1573	Lung	Human	Carcinoma, Alveolar cell	L15	Adherent	ATCC	in vitro 1팀
+140	SW480	Colon	Human	adenocarcinoma	R10	Adherent	ATCC	in vitro 1팀
+141	SW620	colon	Human	Dukes' type C, colorectal carcinoma	R10	Adherent	ATCC	in vitro 1팀
+142	U937	Monocyte	Human	 	R10	Suspension	KCLB	in vitro 1팀
+143	WiDr	Colon	Human	adenocarcinoma	E10	Adherent	ATCC	in vitro 1팀

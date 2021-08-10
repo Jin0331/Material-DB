@@ -62,11 +62,11 @@ WM_HepG2_CL_0061_01	HepG2	Liver	Human	Hepatoblastoma	 	 	 	 	 	M10	Adherent	1:4,
 WM_Hs294T_CL_0062_01	Hs294T	Skin	Human	Melanoma	 	 	 	 	 	D10	Mix	 	 	 
 WM_Hs578T_CL_0063_01	Hs578T	Breast	Human	Carcinoma	 	 	 	 	 	D10	Adherent	 	ATCC	 
 WM_Hs746T_CL_0064_01	Hs746T	Stomach	Human	Carcinoma; metastatic to left leg	 	 	 	 	 	D10	Adherent	 	ATCC,KCLB, Vogen	 
-WM_HT-29_CL_0065_01	HT-29	Colon	Human	Colorectal adenocarcinoma	 	 	 	 	 	M10	Adherent	1:3, 2days1:4, 3days	KCLB	- 너무낮은 density 로계대배양시 cell death 일어남.- Over growth 주의하여세포배양할것
+WM_HT-29_CL_0065_01	HT-29	Colon	Human	Colorectal adenocarcinoma	 	 	 	 	 	M10	Adherent	1:3, 2days  1:4, 3days	KCLB	- 너무낮은 density 로계대배양시 cell death 일어남.  - Over growth 주의하여세포배양할것
 WM_HUCCT1_CL_0066_01	HUCCT1	Bile duct	Human	Bile duct carcinoma	 	 	 	 	 	R10	Adherent	 	 	 
-WM_Huh7_CL_0067_01	Huh7	Liver	Human	 	 	 	 	 	 	R10	Adherent	1:3~1:4, 2days1:4~1:5, 3days	KCLB	- 계대배양시 single cell로잘풀어서배양할것- Confluency 높지않게세포배양할것(over growth시 cell morphology 변함)
+WM_Huh7_CL_0067_01	Huh7	Liver	Human	 	 	 	 	 	 	R10	Adherent	1:3~1:4, 2days  1:4~1:5, 3days	KCLB	- 계대배양시 single cell로잘풀어서배양할것  - Confluency 높지않게세포배양할것(over growth시 cell morphology 변함)
 WM_JHH-7_CL_0068_01	JHH-7	Liver	Human	HBV integratied human hepato cellular carcinoma	 	 	 	 	 	Willi’s(+10% BS,1% P/S)	Adherent	1:4~1:6, 2~3day	ACCGEN	 
-WM_KATOIII_CL_0069_01	KATOIII	Stomach	Human	Carcinoma, pleural effusion with metastases to supraclavicular and axillary lymph nodes	 	 	 	 	 	R10	Adherent	1:4, 2days1:5, 3days	KCLB	- Low density로계대배양시 morphology 변화및 cell death 일어남.- 4일이상계대배양시 cell morphology 변함
+WM_KATOIII_CL_0069_01	KATOIII	Stomach	Human	Carcinoma, pleural effusion with metastases to supraclavicular and axillary lymph nodes	 	 	 	 	 	R10	Adherent	1:4, 2days  1:5, 3days	KCLB	- Low density로계대배양시 morphology 변화및 cell death 일어남.  - 4일이상계대배양시 cell morphology 변함
 WM_KKK-D068_CL_0070_01	KKK-D068	Intrahepatic bile duct	Human	Intrahepatic cholangiocarcinoma	 	 	 	 	 	D10	Adherent	 	JCRB	 
 WM_KKK-D138_CL_0071_01	KKK-D138	intrahepatic bile duct	Human	Intrahepatic cholangiocarcinoma	 	 	 	 	 	D10	Adherent	 	JCRB	 
 WM_KKU-100_CL_0072_01	KKU-100	Colon	Human	carcinoma	 	 	 	 	 	D10	Adherent	 	JCRB	 
@@ -128,7 +128,7 @@ WM_NCI-H820_CL_0127_01	NCI-H820	Lung	Human	Papillary adenocarcinoma	 	KRAS wt	�
 WM_NCI-H838_CL_0128_01	NCI-H838	Lung	Human	Adenocarcinoma; NSCLC; stage 3B	 	KRAS wt	△160	 	 	R10	Adherent	 	ATCC	 
 WM_NCI-N87_CL_0129_01	NCI-N87	Stomach	Human	Gastric carcinoma	 	KRAS mt	 	 	 	R10	Adherent	1:3, 4~5days	KCLB	 
 WM_OVCAR8_CL_0130_01	OVCAR8	Ovary	Human	High grade ovarian serous adenocarcinoma	 	 	 	 	 	R10	Adherent	 	 	 
-WM_Panc 03.27_CL_0131_01	Panc 03.27	Pancreas	Human	Adenocarcinoma	 	KRAS mt	△155	 	 	R15(+Ins 1:1000)	Adherent	1:2, 7days	ATCC, KCLB	- 1X PBS wash 최소 2회 - 1X T/E 3ml incubation 5분이상
+WM_Panc 03.27_CL_0131_01	Panc 03.27	Pancreas	Human	Adenocarcinoma	 	KRAS mt	△155	 	 	R15(+Ins 1:1000)	Adherent	1:2, 7days	ATCC, KCLB	- 1X PBS wash 최소 2회   - 1X T/E 3ml incubation 5분이상
 WM_PANC1_CL_0132_01	PANC1	Pancreas	Human	Epithelioid carcinoma	 	KRAS mt	WT	 	 	D10	Adherent	 	KCLB	 
 WM_PC3_CL_0133_01	PC3	prostate	Human	adenocarcinoma, grade4, metastasis to brain	 	KRAS mt(G12V)	△155	 	 	R10	Adherent	1:5, 2~3days	ATCC, KCLB	 
 WM_PL45_CL_0134_01	PL45	Pancreas	Human	Ductal adenocarcinoma	 	 	 	 	 	D10	Adherent(with some rounded floating cells)	 	 	 
@@ -149,13 +149,13 @@ WM_SK-OV-3_CL_0148_01	SK-OV-3	ovary	Human	adenocarcinoma, malignant ascites	 	KR
 WM_SNU-1_CL_0149_01	SNU-1	Stomach	Human	Carcinoma	 	 	 	 	 	R10	Suspension(aggregates)	 	 	 
 WM_SNU-1047_CL_0150_01	SNU-1047	Colon	Human	Adenocarcinoma	 	KRAS mt	WT	 	 	R10	Adherent	1:3, 2~3days	KCLB	 
 WM_SNU-1196_CL_0151_01	SNU-1196	Biliary tract	Human	Hilar cholangiocarcinoma	 	KRAS wt	Negative	 	 	R10(+HEPES)	Adherent	 	KCLB	 
-WM_SNU-1235_CL_0152_01	SNU-1235	Colon	Human	adenocarcinoma	 	KRAS wt	△155	 	 	L15/10	Adherent	1:2, 7days	ATCC	- without CO2- R10 으로적응시킴
+WM_SNU-1235_CL_0152_01	SNU-1235	Colon	Human	adenocarcinoma	 	KRAS wt	△155	 	 	L15/10	Adherent	1:2, 7days	ATCC	- without CO2  - R10 으로적응시킴
 WM_SNU-1544_CL_0153_01	SNU-1544	Colon	Human	adenocarcinoma	 	 	 	 	 	R10	Adherent	1:4, 2~3days	KCLB	 
 WM_SNU-182_CL_0154_01	SNU-182	Liver	Human	Carcinoma, hepatocellular; primary	 	 	 	 	 	R10	Adherent	 	 	 
 WM_SNU-308_CL_0155_01	SNU-308	Biliary tract	Human	Biliary tract cancer, gall bladder	 	KRAS wt	△165	 	 	R10(+25mM HEPES)	Adherent	1:3, 4~5days	KCLB	 
-WM_SNU-354_CL_0156_01	SNU-354	Liver	Human	Carcinoma, hepatocellular; primary	 	KRAS mt	△155	 	 	L15/10	Adherent	1:4, 2~3days	ATCC	- without CO2- R10 으로적응시킴
+WM_SNU-354_CL_0156_01	SNU-354	Liver	Human	Carcinoma, hepatocellular; primary	 	KRAS mt	△155	 	 	L15/10	Adherent	1:4, 2~3days	ATCC	- without CO2  - R10 으로적응시킴
 WM_SNU387_CL_0157_01	SNU387	Liver	Human	Carcinoma, hepatocellular; primary	 	 	 	 	 	R10	Adherent	 	 	 
-WM_SNU-398_CL_0158_01	SNU-398	Liver	Human	Carcinoma, hepatocellular; primary	 	KRAS mt	△165	 	 	R10	Adherent	1:2, 2~3days	KCLB	- 1X PBS wash 최소 2회 - 1X T/E 3ml incubation 5분이상
+WM_SNU-398_CL_0158_01	SNU-398	Liver	Human	Carcinoma, hepatocellular; primary	 	KRAS mt	△165	 	 	R10	Adherent	1:2, 2~3days	KCLB	- 1X PBS wash 최소 2회   - 1X T/E 3ml incubation 5분이상
 WM_SNU-449_CL_0159_01	SNU-449	Liver	Human	Carcinoma, hepatocellular; primary	 	 	 	 	 	D10	Adherent	 	KCLB	 
 WM_SNU-475_CL_0160_01	SNU-475	Liver	Human	Carcinoma, hepatocellular; primary	 	 	 	 	 	R5	Adherent	 	ATCC	 
 WM_SNU-478_CL_0161_01	SNU-478	Biliary tract	Human	Biliary tract cancer, ampulla of vater	 	 	WT	 	 	R10	Adherent	1:4, 2~3days	ATCC	 
@@ -208,3 +208,36 @@ WM_THP-1_CL_0001_02	THP-1	Monocyte	Human	leukemia, acute monocytic	 	 	 	 	 	R10
 WM_Jurkat(E6-1)_CL_0002_02	Jurkat(E6-1)	Peripheral blood	Human	acute T cell leukemia	 	 	 	 	 	R10	Suspension (aggregates)	 	ATCC	 
 WM_U937_CL_0003_02	U937	Monocyte	Human	 	 	 	 	 	 	R10	Suspension	 	KCLB	 
 WM_NK-92MI_CL_0004_02	NK-92MI	Peripheral blood	Human	Lymphoma; Malignant Non-Hodgkin's	 	 	 	 	 	aMEM (+12.5% FBS, 12.5% H.S, 1x ß-ME, 0.02mM folic acid, 0.2mM inositol)	Suspension (aggregates)	 	ATCC	Aggregated cell이 풀리지 않도록 주의
+WM_CT26 mCMG-C9_CL_0001_03	CT26 mCMG-C9	Colon	Mouse	Carcinoma	 	 	 	 	 	D10(+G418 400ug/ml)	Adherent	 	 	 
+WM_CT26 mCMG-C20_CL_0002_03	CT26 mCMG-C20	Colon	Mouse	Carcinoma	 	 	 	 	 	D10(+G418 400ug/ml)	Adherent	 	 	 
+WM_CT26 mCMG-Clone B_CL_0003_03	CT26 mCMG-Clone B	Colon	Mouse	Carcinoma	 	 	 	 	 	D10(+G418 400ug/ml)	Adherent	 	 	 
+WM_CHO-K1 mCMG-C17_CL_0004_03	CHO-K1 mCMG-C17	ovary	Hamster	Normal	 	 	 	 	 	F12K(+G418 800ug/ml)	Adherent	 	 	 
+WM_CHO-K1 mCMG-C16_CL_0005_03	CHO-K1 mCMG-C16	ovary	Hamster	Normal	 	 	 	 	 	F12K(+G418 500ug/ml)	Adherent	 	 	 
+WM_CHO-K1 mCMG-C14_CL_0006_03	CHO-K1 mCMG-C14	ovary	Hamster	Normal	 	 	 	 	 	F12K(+G418 500ug/ml)	Adherent	 	 	 
+WM_CHO-K1 Mock-C1_CL_0007_03	CHO-K1 Mock-C1	ovary	Hamster	Normal	 	 	 	 	 	F12K(+G418 800ug/ml)	Adherent	 	 	Myc-DDK
+WM_CHO-K1 Mock-C2_CL_0008_03	CHO-K1 Mock-C2	ovary	Hamster	Normal	 	 	 	 	 	F12K(+G418 800ug/ml)	Adherent	 	 	Myc-DDK
+WM_CHO-K1 Mock-C7_CL_0009_03	CHO-K1 Mock-C7	ovary	Hamster	Normal	 	 	 	 	 	F12K(+G418 800ug/ml)	Adherent	 	 	Myc-DDK
+WM_CHO-K1 Mock-C9_CL_0010_03	CHO-K1 Mock-C9	ovary	Hamster	Normal	 	 	 	 	 	F12K(+G418 800ug/ml)	Adherent	 	 	Myc-DDK
+WM_CHO-K1 Mock-C12_CL_0011_03	CHO-K1 Mock-C12	ovary	Hamster	Normal	 	 	 	 	 	F12K(+G418 800ug/ml)	Adherent	 	 	Myc-DDK
+WM_CHO-K1 Mock-C4_CL_0012_03	CHO-K1 Mock-C4	ovary	Hamster	Normal	 	 	 	 	 	DF12(+G418 800ug/ml)	Adherent	 	 	pcDNA3.1
+WM_CHO-K1 Mock-C7_CL_0013_03	CHO-K1 Mock-C7	ovary	Hamster	Normal	 	 	 	 	 	DF12(+G418 800ug/ml)	Adherent	 	 	pcDNA3.1
+WM_CHO-K1 Mock-C8_CL_0014_03	CHO-K1 Mock-C8	ovary	Hamster	Normal	 	 	 	 	 	DF12(+G418 800ug/ml)	Adherent	 	 	pcDNA3.1
+WM_CHO-K1 Mock-C10_CL_0015_03	CHO-K1 Mock-C10	ovary	Hamster	Normal	 	 	 	 	 	DF12(+G418 800ug/ml)	Adherent	 	 	pcDNA3.1
+WM_H460 Mock-C1_CL_0016_03	H460 Mock-C1	Lung	Human	large cell carcinoma	 	 	 	 	 	R10(+G418 1000ug/ml)	Adherent	 	 	pCMV6 myc-DDK
+WM_H460 Mock-C2_CL_0017_03	H460 Mock-C2	Lung	Human	large cell carcinoma	 	 	 	 	 	R10(+G418 1000ug/ml)	Adherent	 	 	pCMV6 myc-DDK
+WM_H460 Mock-C3_CL_0018_03	H460 Mock-C3	Lung	Human	large cell carcinoma	 	 	 	 	 	R10(+G418 1000ug/ml)	Adherent	 	 	pCMV6 myc-DDK
+WM_H460 Mock-C4_CL_0019_03	H460 Mock-C4	Lung	Human	large cell carcinoma	 	 	 	 	 	R10(+G418 1000ug/ml)	Adherent	 	 	pCMV6 myc-DDK
+WM_H460 Mock-C5_CL_0020_03	H460 Mock-C5	Lung	Human	large cell carcinoma	 	 	 	 	 	R10(+G418 1000ug/ml)	Adherent	 	 	pCMV6 myc-DDK
+WM_H460 Mock-C6_CL_0021_03	H460 Mock-C6	Lung	Human	large cell carcinoma	 	 	 	 	 	R10(+G418 1000ug/ml)	Adherent	 	 	pCMV6 myc-DDK
+WM_H460 Mock-C7_CL_0022_03	H460 Mock-C7	Lung	Human	large cell carcinoma	 	 	 	 	 	R10(+G418 1000ug/ml)	Adherent	 	 	pCMV6 myc-DDK
+WM_H460 hCMG-C16_CL_0023_03	H460 hCMG-C16	Lung	Human	large cell carcinoma	 	 	 	 	 	R10(+G418 1000ug/ml)	Adherent	 	 	 
+WM_H460 hCMG-C3_CL_0024_03	H460 hCMG-C3	Lung	Human	large cell carcinoma	 	 	 	 	 	R10(+G418 1000ug/ml)	Adherent	 	 	 
+WM_H292 cloneF_CL_0025_03	H292 cloneF	Lung	Human	Carcinoma,mucoepidermoid	 	 	 	 	 	R10(+G418 200ug/ml)	Adherent	 	 	pCMV6 myc-DDK
+WM_H292 Mock_CL_0026_03	H292 Mock	Lung	Human	Carcinoma,mucoepidermoid	 	 	 	 	 	R10(+G418 100ug/ml)	Adherent	 	 	pCMV6 myc-DDK
+WM_HCT116 Mock-C3_CL_0027_03	HCT116 Mock-C3	Colon	Human	Colorectal carcinoma	 	 	 	 	 	R10(+G418 400ug/ml)	Adherent	 	 	pCMV6 myc-DDK
+WM_HCT116 hCEACAM1-C20_CL_0028_03	HCT116 hCEACAM1-C20	Colon	Human	Colorectal carcinoma	 	 	 	 	 	R10(+G418 400ug/ml)	Adherent	 	 	 
+WM_HEK293E Mock_CL_0029_03	HEK293E Mock	 	Human	 	 	 	 	 	 	M10(+1%AA+100ug/ml zeocin)	Adherent	 	 	Y-biologics
+WM_HEK293E CMG_CL_0030_03	HEK293E hCMG	 	Human	 	 	 	 	 	 	M10(+1%AA+2ug/ml Puro)	Adherent	 	 	Y-biologics
+WM_HEK293 hCMG-C5_CL_0031_03	HEK293 hCMG-C5	Kidney	Human	Transformed primary embryonal kidney	 	 	 	 	 	M10(+G418 200ug/ml)	Adherent	 	 	 
+WM_HEK293 hCMG-C2_CL_0032_03	HEK293 hCMG-C2	Kidney	Human	Transformed primary embryonal kidney	 	 	 	 	 	M10(+G418 200ug/ml)	Adherent	 	 	 
+WM_HEK293 Mock-C12_CL_0033_03	HEK293 Mock-C12	Kidney	Human	Transformed primary embryonal kidney	 	 	 	 	 	M10(+G418 200ug/ml)	Adherent	 	 	pCMV6 myc-DDK
