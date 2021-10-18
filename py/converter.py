@@ -438,6 +438,32 @@ def antibody_WB_to_mongo(path, base_path):
     
     return total_converting
 
+def antibody_WB_to_mongo2(path, base_path):
+    # backup file write
+    save_path = base_path + "/backup/antibody_wb"
+    file_name = timeStamped("antibody_wb.json")
+    date_join = os.path.join(save_path, file_name)
+    
+    # txt to json(list or tuple)
+    total_converting = list()
+
+    f = open(path, "r", encoding="UTF-8")
+    content = f.read()
+    splitcontent = content.splitlines()
+
+    for line in splitcontent:
+        line = line.split("\t")
+        
+        # Inserting Data
+        total_converting.append({"No":line[0], "Antibody":line[1], "Cat_No":line[2], "Host":line[3], "Species_Reactivity":line[4], "Application":line[5], "Protein_size":line[6], "Location":line[7],
+"Manufacturer":line[8], "etc":line[9], "New1":line[10], "New2":line[11], "New3":line[12],
+"New4":line[13], "New5":line[14], "New6":line[15], "New7":line[16], "New8":line[17]})  
+        
+    with open(date_join, 'w', encoding="UTF-8") as file:
+        file.write((json.dumps(total_converting, indent=4, sort_keys= False, ensure_ascii=False)))
+    
+    return total_converting
+
 def antibody_IHC_to_mongo(path, base_path):
     # backup file write
     save_path = base_path + "/backup/antibody_ihc"

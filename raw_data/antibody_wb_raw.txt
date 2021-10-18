@@ -381,3 +381,5 @@
 381	CD8α (C8/144B)	70306S	 	 	MOUSE	HU	IHC	 	 	 	1	 	-20℃ AB BOX 4	 	CELL SIGNALING	 	 	 	 	 	 	 	 	 
 382	Human EGF Neutralizing (D8A1)	12157S	 	 	RABBIT	HU	 	 	 	 	1	 	-20℃ AB BOX 4	 	CELL SIGNALING	단종	 	 	 	 	 	 	 	 
 383	Normal Rabbit IgG	2729S	 	 	RABBIT	 	IP,CHIP	 	 	 	1	 	-20℃ AB BOX 4	 	CELL SIGNALING	 	 	 	 	 	 	 	 	 
+384	Phospho-Stat1 (Tyr701) (58D6)	9167S	 	 	RABBIT	HU,MS	WB,IP,IHC,IF,FACS,CHIP	 	 	84,91	1	 	-20℃ AB BOX 3	 	CELL SIGNALING	 	 	 	 	 	 	 	 	 
+385	Recombinant Anti-PD-L1 antibody [28-8]	ab205921	 	 	RABBIT	HU	WB,IHC-P,IHC-Fr,ICC,FACS	 	 	33(predicted),40-60(detected)	1	 	-20℃ AB BOX 1	 	ABCAM	 	 	 	 	 	 	 	 	 
