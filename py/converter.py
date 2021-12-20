@@ -536,8 +536,8 @@ def protein_to_mongo(path, base_path):
         line = line.split("\t")
         
         # Inserting Data
-        total_converting.append({"Project":line[0], "WMB_NO":line[1], "Reagent_name":line[2], "Manufacturer":line[3], "Cat_No":line[4], 
-                         "Leftover":line[5], "Location":line[6], "Data_sheet":line[7]})  
+        total_converting.append({"Project":line[0], "WMB_NO":line[1], "Manufacturer":line[2], "Cat_No":line[3], 
+                         "Leftover":line[4], "Location":line[5]})  
         
     with open(date_join, 'w', encoding="UTF-8") as file:
         file.write((json.dumps(total_converting, indent=4, sort_keys= False, ensure_ascii=False)))
@@ -562,10 +562,9 @@ def shsirna_to_mongo(path, base_path):
         
         # Inserting Data
         total_converting.append({"Project":line[0], "WMB_NO":line[1], "Name":line[2], "Target_Gene":line[3], "Species":line[4], 
-                         "Type":line[5], "Concentration":line[6], "Sequence":line[7], "Manufacturer":line[8], "Stock_vial_ipgo":line[9],
-                         "Stock_vial_liftover":line[10], "Stock_vial_location":line[11], "Subdivide_vial_liftover":line[12], "Location":line[13],
-                         "Manager":line[14], "New1":line[15], "New2":line[16], "New3":line[17], "New4":line[18], "New5":line[19], "New6":line[20], 
-                         "New7":line[21], "New8":line[22], "New9":line[23], "New10":line[24]})  
+                         "Type":line[5], "Concentration":line[6], "Sequence":line[7], "Manufacturer":line[8], "Location":line[9],
+                         "Manager":line[10], "New1":line[11], "New2":line[12], "New3":line[13], "New4":line[14], "New5":line[15], "New6":line[16], 
+                         "New7":line[17], "New8":line[18], "New9":line[19], "New10":line[20]})  
         
     with open(date_join, 'w', encoding="UTF-8") as file:
         file.write((json.dumps(total_converting, indent=4, sort_keys= False, ensure_ascii=False)))

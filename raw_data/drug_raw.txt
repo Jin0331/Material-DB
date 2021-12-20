@@ -1,37 +1,43 @@
-WM_Bemcentinib_MCE_DR_0001	Bemcentinib	MCE	5mg	TAM inhibitor	HY-15150		CRG reference box	김민화		Bemcentinib_MedChemExpress_DataSheet_PDF						
-WM_Irinotecan HCL_SC_DR_0002	Irinotecan HCL Trihydrate	Selleckchem	25mg	topoisomerase 1 inhibit	136572-09-3		CRG reference box			https://www.selleckchem.com/datasheet/Irinotecan-Hcl-Trihydrate-Campto-S221704-DataSheet.html						
-WM_BMS777607_MK_DR_0003	BMS777607	Medkoo	500mg	Met-related inhibitor	200527		CRG reference box		사용중	BMS777607_medkoo_CoA_PDF						
-WM_BMS777607_SC_DR_0004	BMS777607	Selleckchem	10mg	Met-related inhibitor	S1561		CRG reference box			https://www.selleckchem.com/datasheet/BMS-777607-S156106-DataSheet.html						
-WM_U0126_promega_DR_0005	U0126	promega	1mg*2ea	MEK inhibitor	V112A		CRG reference box		사용중	U0126_promega_CoA_PDF						
-WM_Trametinib_SC_DR_0006	Trametinib	Selleckchem	50mg*2ea, 10mg	MEK1/2 inhibitor	S2673		CRG reference box		사용중	https://www.selleckchem.com/datasheet/gsk1120212-jtp-74057-S267308-DataSheet.html						
-WM_Selumetinib_SC_DR_0007	Selumetinib	Selleckchem	50mg*2ea	MEK inhibitor	S1008		CRG reference box		사용중	https://www.selleckchem.com/datasheet/AZD6244-S100834-DataSheet.html						
-WM_Refametinib_SC_DR_0008	Refametinib	Selleckchem	5mg	MEK1/2 enzyme poket bounding	S1089		CRG reference box		사용중	https://www.selleckchem.com/datasheet/refametinib-rdea119-bay86-9766-S108901-DataSheet.html						
-WM_Pimasertib_SC_DR_0009	Pimasertib	Selleckchem	10mg	MEK inhibitor	S1475		CRG reference box		사용중	https://www.selleckchem.com/datasheet/AS703026-S147504-DataSheet.html						
-WM_AMG510_MK_DR_0010	AMG510	Medkoo	10mg	KRAS G12C Inhibitor	207085		CRG reference box		사용중	AMG-510_Medkoo_CoA_PDF						
-WM_Amgen_NA_DR_0011	Amgen	-	1g		-		CRG reference box			-						
-WM_Cabozantinib_MK_DR_0012	Cabozantinib	Medkoo	200mg*2ea	kinases c-Met and VEGFR2 inhibit	200595		CRG reference box		사용중	Cabozantinib_medkoo_CoA_PDF						
-WM_LY280165_NA_DR_0013	LY280165	-	302.6 mg		-		CRG reference box		사용중	-						
-WM_Oxaliplatin_SC_DR_0014	Oxaliplatin	Selleckchem	50mg	treatment of colorectal cancer.	S1224		CRG reference box		사용중	https://www.selleckchem.com/datasheet/Eloxatin-S122410-DataSheet.html						
-WM_Crizotinib_SC_DR_0015	Crizotinib	Selleckchem	10mg	anti-cancer drug acting as an ALK (anaplastic lymphoma kinase) and ROS1 (c-ros oncogene 1) inhibitor , NSCLC	S1068		CRG reference box		사용중(소량)	https://www.selleckchem.com/datasheet/PF-2341066-S106816-DataSheet.html						
-WM_5FU_SIGMA_DR_0016	5 Fluorouracil(5FU)	sigma	1g	chemotherapy medication	F6627		hood실		NEW, RT 보관 	5-Fluorouracil_sigma_data sheet_PDF						
-WM_gemcitabine HCL_SIGMA_DR_0017	gemcitabine hydrochloride	sigma	10mg	chemotherapy medication 	G6423		hood실		NEW, RT 보관 	gemcitabine hydrochloride_sigma_CoA_PDF						
-WM_Irinotecan HCL_SIGMA_DR_0018	Irinotecan HCL Trihydrate	sigma	50mg	topoisomerase inhibitor (block topoisomerase 1)	I1406		CRG reference box		사용중	Irinotecan HCL Trihydrate_sigma_data sheet_PDF						
-WM_Irinotecan HCL_SC_DR_0019	Irinotecan HCL Trihydrate	Selleckchem	25mg	topoisomerase inhibitor (block topoisomerase 1)	S2217		CRG reference box		사용중	https://www.selleckchem.com/datasheet/Irinotecan-Hcl-Trihydrate-Campto-S221704-DataSheet.html						
-WM_SN-38_SIGMA_DR_0020	7-Ethyl-10-hydroxycamptothecin(SN-38)	sigma	10mg	Topoisomerase I inhibitor	H0165		CRG reference box		사용중	SN-38, sigma aldrich_data sheet_PDF						
-WM_Refampicin_SIGMA_DR_0021	Refampicin	sigma	250mg	is an antibiotic used to treat several types of bacterial infections/ PXR assay 시 사용	R3501		CRG reference box		사용중	Rifampicin_sigma_data sheet_PDF						
-WM_Osimertinib_SC_DR_0022	Osimertinib (AZD9291)	Selleckchem	10mg	EGFR tyrosine kinase inhibitor (to treat non-small-cell lung cancer)	S7297		CRG reference box		New	https://www.selleckchem.com/datasheet/azd9291-S729705-DataSheet.html						
-WM_erlotinib HCI_SC_DR_0023	erlotinib HCI	Selleckchem	100mg	EGFR tyrosine kinase inhibitor (to treat non-small-cell lung cancer, pancreatic cancer)	S1023		CRG reference box		New	https://www.selleckchem.com/datasheet/Erlotinib-Hydrochloride-S102301-DataSheet.html						
-WM_erlotinib HCI_MK_DR_0024	MRTX849	Medkoo	25mg	mtKRAS inhibitor (G12C)	207112		CRG reference box		사용중	MRTX849_medkoo_CoA_PDF						
-WM_Cisplatin_SC_DR_0025	Cisplatin	Selleckchem	50mg	chemotherapy medication 	S1166		CRG reference box		사용중	https://www.selleckchem.com/datasheet/Cisplatin-S116616-DataSheet.html						
-WM_Merestinib_SC_DR_0026	Merestinib (LY2801653)	Selleckchem	25mg	a small molecule inhibitor of MET and several other receptor tyrosine kinases(MST1R, FLT3, AXL, MERTK, TEK, ROS1, NTRK1/2/3, and DDR1/2. )	S7014		CRG reference box		New	https://www.selleckchem.com/datasheet/ly2801653-merestinib-S701401-DataSheet.html						
-WM_Savolitinib_SC_DR_0027	Savolitinib	Selleckchem	25mg	inhibitor of c-Met	S7674		CRG reference box		사용중	https://www.selleckchem.com/products/hmpl-504-azd6094-volitinib.html						
-WM_SGI1776_SC_DR_0028	SGI1776	Selleckchem	10mg	inhibitor of Pim kinases	S2198		PIM reference box			https://www.selleckchem.com/datasheet/SGI-1776-S219804-DataSheet.html						
-WM_Dubermatinib_CHEMSCENE_DR_0029	Dubermatinib	Chemscene	50mg	selective AXL Inhibitor 	CS-4281		TAM inhibitor box		사용중							
-WM_AMG232_MCE_DR_0030	AMG232	MCE	5mg	p53-mdm2 target 	HY-12296		PPI inhibitor box		사용중 (2번 냉동고)	AMG-232_MedChemExpress_DataSheet_PDF						
-WM_HDM201_SC_DR_0031	HDM201	Selleckchem	1mg	p53-mdm2 target 	S8606		PPI inhibitor box		사용중 (2번 냉동고)	https://www.selleckchem.com/datasheet/hdm201-S860601-DataSheet.html						
-WM_Nutlin3a_SC_DR_0032	Nutlin3a	Selleckchem	1mg	p53-mdm2 target 	S8059		PPI inhibitor box		사용중 (5번 냉동고)	https://www.selleckchem.com/products/nutlin-3a.html						
-WM_Pemigatinib_MCE_DR_0033	Pemigatinib	MCE	10mg*2ea 	FGFR  inhibitor	HY-109099		CRG reference box		1vial 사용중	Pemigatinib_MedChemExpress_DataSheet_PDF						
-WM_RBN-2397_MK_DR_0034	RBN-2397	Medkoo	5mg*1ea	 PARP7 inhibitor	462554				사용중	RBN-2397_medkoo_CoA_PDF						
-WM_HLI373_AB_DR_0035	HLI73	APEBIO	5mg	p53-mdm2(ring domain) target	A4478				사용중, RT 보관	https://www.apexbt.com/hli-373.html						
-WM_Serdemetan_AB_DR_0036	Serdemetan(JNJ26854165)	APEBIO	5mg	p53-mdm2(ring domain) target	A4204				사용중, 5번 냉동고	https://www.apexbt.com/jnj-26854165-serdemetan.html						
-WM_RITA_SC_DR_0037	RITA	Selleckchem	5mg	p53-mdm2(N terminal) target	S2781				사용중, 5번 냉동고	https://www.selleckchem.com/products/rita-nsc-652287.html						
+WM_Bemcentinib_MCE_DR_0001	Bemcentinib	MCE	5mg	TAM inhibitor	HY-15150	 	CRG reference box	김민화	 	Bemcentinib_MedChemExpress_DataSheet_PDF	 	 	 	 	 	 
+WM_Irinotecan HCL_SC_DR_0002	Irinotecan HCL Trihydrate	Selleckchem	25mg	topoisomerase 1 inhibit	136572-09-3	 	CRG reference box	 	 	https://www.selleckchem.com/datasheet/Irinotecan-Hcl-Trihydrate-Campto-S221704-DataSheet.html	 	 	 	 	 	 
+WM_BMS777607_MK_DR_0003	BMS777607	Medkoo	500mg	Met-related inhibitor	200527	 	CRG reference box	 	사용중	BMS777607_medkoo_CoA_PDF	 	 	 	 	 	 
+WM_BMS777607_SC_DR_0004	BMS777607	Selleckchem	10mg	Met-related inhibitor	S1561	 	CRG reference box	 	 	https://www.selleckchem.com/datasheet/BMS-777607-S156106-DataSheet.html	 	 	 	 	 	 
+WM_U0126_promega_DR_0005	U0126	promega	1mg*2ea	MEK inhibitor	V112A	 	CRG reference box	 	사용중	U0126_promega_CoA_PDF	 	 	 	 	 	 
+WM_Trametinib_SC_DR_0006	Trametinib	Selleckchem	50mg*2ea, 10mg	MEK1/2 inhibitor	S2673	 	CRG reference box	 	사용중	https://www.selleckchem.com/datasheet/gsk1120212-jtp-74057-S267308-DataSheet.html	 	 	 	 	 	 
+WM_Selumetinib_SC_DR_0007	Selumetinib	Selleckchem	50mg*2ea	MEK inhibitor	S1008	 	CRG reference box	 	사용중	https://www.selleckchem.com/datasheet/AZD6244-S100834-DataSheet.html	 	 	 	 	 	 
+WM_Refametinib_SC_DR_0008	Refametinib	Selleckchem	5mg	MEK1/2 enzyme poket bounding	S1089	 	CRG reference box	 	사용중	https://www.selleckchem.com/datasheet/refametinib-rdea119-bay86-9766-S108901-DataSheet.html	 	 	 	 	 	 
+WM_Pimasertib_SC_DR_0009	Pimasertib	Selleckchem	10mg	MEK inhibitor	S1475	 	CRG reference box	 	사용중	https://www.selleckchem.com/datasheet/AS703026-S147504-DataSheet.html	 	 	 	 	 	 
+WM_AMG510_MK_DR_0010	AMG510	Medkoo	10mg	KRAS G12C Inhibitor	207085	 	CRG reference box	 	사용중	AMG-510_Medkoo_CoA_PDF	 	 	 	 	 	 
+WM_Amgen_NA_DR_0011	Amgen		1g	 		 	CRG reference box	 	 		 	 	 	 	 	 
+WM_Cabozantinib_MK_DR_0012	Cabozantinib	Medkoo	200mg*2ea	kinases c-Met and VEGFR2 inhibit	200595	 	CRG reference box	 	사용중	Cabozantinib_medkoo_CoA_PDF	 	 	 	 	 	 
+WM_LY280165_NA_DR_0013	LY280165		302.6 mg	 		 	CRG reference box	 	사용중		 	 	 	 	 	 
+WM_Oxaliplatin_SC_DR_0014	Oxaliplatin	Selleckchem	50mg	treatment of colorectal cancer.	S1224	 	CRG reference box	 	사용중	https://www.selleckchem.com/datasheet/Eloxatin-S122410-DataSheet.html	 	 	 	 	 	 
+WM_Crizotinib_SC_DR_0015	Crizotinib	Selleckchem	10mg	anti-cancer drug acting as an ALK (anaplastic lymphoma kinase)   and ROS1 (c-ros oncogene 1) inhibitor , NSCLC	S1068	 	CRG reference box	 	사용중(소량)	https://www.selleckchem.com/datasheet/PF-2341066-S106816-DataSheet.html	 	 	 	 	 	 
+WM_5FU_SIGMA_DR_0016	5 Fluorouracil  (5FU)	sigma	1g	chemotherapy medication	F6627	 	hood실	 	NEW, RT 보관	5-Fluorouracil_sigma_data sheet_PDF	 	 	 	 	 	 
+WM_gemcitabine HCL_SIGMA_DR_0017	gemcitabine hydrochloride	sigma	10mg	chemotherapy medication	G6423	 	hood실	 	NEW, RT 보관	gemcitabine hydrochloride_sigma_CoA_PDF	 	 	 	 	 	 
+WM_Irinotecan HCL_SIGMA_DR_0018	Irinotecan HCL Trihydrate	sigma	50mg	topoisomerase inhibitor (block topoisomerase 1)	I1406	 	CRG reference box	 	사용중	Irinotecan HCL Trihydrate_sigma_data sheet_PDF	 	 	 	 	 	 
+WM_Irinotecan HCL_SC_DR_0019	Irinotecan HCL Trihydrate	Selleckchem	25mg	topoisomerase inhibitor (block topoisomerase 1)	S2217	 	CRG reference box	 	사용중	https://www.selleckchem.com/datasheet/Irinotecan-Hcl-Trihydrate-Campto-S221704-DataSheet.html	 	 	 	 	 	 
+WM_SN-38_SIGMA_DR_0020	7-Ethyl-10-hydroxycamptothecin  (SN-38)	sigma	10mg*2ea	Topoisomerase I inhibitor	H0165	 	CRG reference box	 	사용중	SN-38, sigma aldrich_data sheet_PDF	 	 	 	 	 	 
+WM_Refampicin_SIGMA_DR_0021	Refampicin	sigma	250mg	is an antibiotic used to treat several types of bacterial infections/   PXR assay 시 사용	R3501	 	CRG reference box	 	사용중	Rifampicin_sigma_data sheet_PDF	 	 	 	 	 	 
+WM_Osimertinib_SC_DR_0022	Osimertinib (AZD9291)	Selleckchem	10mg	EGFR tyrosine kinase inhibitor   (to treat non-small-cell lung cancer)	S7297	 	CRG reference box	 	New	https://www.selleckchem.com/datasheet/azd9291-S729705-DataSheet.html	 	 	 	 	 	 
+WM_erlotinib HCI_SC_DR_0023	erlotinib HCI	Selleckchem	100mg	EGFR tyrosine kinase inhibitor   (to treat non-small-cell lung cancer, pancreatic cancer)	S1023	 	CRG reference box	 	New	https://www.selleckchem.com/datasheet/Erlotinib-Hydrochloride-S102301-DataSheet.html	 	 	 	 	 	 
+WM_erlotinib HCI_MK_DR_0024	MRTX849	Medkoo	25mg	mtKRAS inhibitor (G12C)	207112	 	CRG reference box	 	사용중	MRTX849_medkoo_CoA_PDF	 	 	 	 	 	 
+WM_Cisplatin_SC_DR_0025	Cisplatin	Selleckchem	50mg	chemotherapy medication	S1166	 	CRG reference box	 	사용중	https://www.selleckchem.com/datasheet/Cisplatin-S116616-DataSheet.html	 	 	 	 	 	 
+WM_Merestinib_SC_DR_0026	Merestinib (LY2801653)	Selleckchem	25mg	a small molecule inhibitor of MET and several other receptor tyrosine kinases  (MST1R, FLT3, AXL, MERTK, TEK, ROS1, NTRK1/2/3, and DDR1/2. )	S7014	 	CRG reference box	 	New	https://www.selleckchem.com/datasheet/ly2801653-merestinib-S701401-DataSheet.html	 	 	 	 	 	 
+WM_Savolitinib_SC_DR_0027	Savolitinib	Selleckchem	25mg	inhibitor of c-Met	S7674	 	CRG reference box	 	사용중	https://www.selleckchem.com/products/hmpl-504-azd6094-volitinib.html	 	 	 	 	 	 
+WM_SGI1776_SC_DR_0028	SGI1776	Selleckchem	10mg	inhibitor of Pim kinases	S2198	 	PIM reference box	 	 	https://www.selleckchem.com/datasheet/SGI-1776-S219804-DataSheet.html	 	 	 	 	 	 
+WM_Dubermatinib_CHEMSCENE_DR_0029	Dubermatinib	Chemscene	50mg	selective AXL Inhibitor	CS-4281	 	TAM inhibitor box	 	사용중	 	 	 	 	 	 	 
+WM_AMG232_MCE_DR_0030	AMG232	MCE	5mg	p53-mdm2 target	HY-12296	 	PPI inhibitor box	 	사용중 (2번 냉동고)	AMG-232_MedChemExpress_DataSheet_PDF	 	 	 	 	 	 
+WM_HDM201_SC_DR_0031	HDM201	Selleckchem	1mg	p53-mdm2 target	S8606	 	PPI inhibitor box	 	사용중 (2번 냉동고)	https://www.selleckchem.com/datasheet/hdm201-S860601-DataSheet.html	 	 	 	 	 	 
+WM_Nutlin3a_SC_DR_0032	Nutlin3a	Selleckchem	1mg	p53-mdm2 target	S8059	 	PPI inhibitor box	 	사용중 (5번 냉동고)	https://www.selleckchem.com/products/nutlin-3a.html	 	 	 	 	 	 
+WM_Pemigatinib_MCE_DR_0033	Pemigatinib	MCE	10mg*2ea	FGFR  inhibitor	HY-109099	 	CRG reference box	 	1vial 사용중	Pemigatinib_MedChemExpress_DataSheet_PDF	 	 	 	 	 	 
+WM_RBN-2397_MK_DR_0034	RBN-2397	Medkoo	5mg*1ea	 PARP7 inhibitor	462554	 	 	 	사용중	RBN-2397_medkoo_CoA_PDF	 	 	 	 	 	 
+WM_HLI373_AB_DR_0035	HLI73	APEBIO	5mg	p53-mdm2(ring domain) target	A4478	 	 	 	사용중, RT 보관	https://www.apexbt.com/hli-373.html	 	 	 	 	 	 
+WM_Serdemetan_AB_DR_0036	Serdemetan(JNJ26854165)	APEBIO	5mg	p53-mdm2(ring domain) target	A4204	 	 	 	사용중, 5번 냉동고	https://www.apexbt.com/jnj-26854165-serdemetan.html	 	 	 	 	 	 
+WM_RITA_SC_DR_0037	RITA	Selleckchem	5mg	p53-mdm2(N terminal) target	S2781	 	 	 	사용중, 5번 냉동고	https://www.selleckchem.com/products/rita-nsc-652287.html	 	 	 	 	 	 
+WM_Sorafenib_EP_DR_0038	Sorafenib	European Pharmacopoeia (EP)   Reference Standard	10mg	 VEGFR, PDGFR and RAF kinases	Y0002098	 	 	 	사용중, 5번 냉동고	https://www.selleckchem.com/products/XL880(GSK1363089,EXEL-2880).html	 	 	 	 	 	 
+WM_Idasanutlin_MCE_DR_0039	Idasa nutlin	MCE	5mg	p53-mdm2(N terminal) target	HY-15676	 	 	 	사용중, 5번 냉동고	https://www.medchemexpress.com/RG7388.html	 	 	 	 	 	 
+WM_BMS777607_MK_DR_0040	BMS777607	Medkoo	25mg	Met-related inhibitor	#20057	 	 	 	NEW, 5번 냉동고	BMS777607_medkoo_CoA_PDF	 	 	 	 	 	 
+WM_Gefitinib_SIGMA_DR_0041	Gefitinib	sigma	10mg	EGFR inhibitor	SML1657	 	 	 	RT 보관	https://www.sigmaaldrich.com/KR/ko/product/sigma/sml1657	 	 	 	 	 	 
+WM_Refametinib_CT_DR_0042	Refametinib(RDEA119)	chemieTek	10mg	MEK1/2 enzyme poket bounding	CT-R119	 	 	 	사용중, 5번 냉동고	Refametinib_CT_CoA_PDF	 	 	 	 	 	 
+WM_Pimasertib_CT_DR_0043	Pimasertib(AS703026)	chemieTek	10mg	MEK inhibitor	CT-AS703	 	 	 	사용중, 5번 냉동고	https://www.chemietek.com/as-703026--pimasertib-details.aspx	 	 	 	 	 	 
