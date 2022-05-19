@@ -19,7 +19,7 @@ WM_Irinotecan HCL_SIGMA_DR_0018	Irinotecan HCL Trihydrate	sigma	50mg	topoisomera
 WM_Irinotecan HCL_SC_DR_0019	Irinotecan HCL Trihydrate	Selleckchem	25mg	topoisomerase inhibitor (block topoisomerase 1)	S2217	 	CRG reference box	 	사용중	https://www.selleckchem.com/datasheet/Irinotecan-Hcl-Trihydrate-Campto-S221704-DataSheet.html	 	 	 	 	 	 
 WM_SN-38_SIGMA_DR_0020	7-Ethyl-10-hydroxycamptothecin  (SN-38)	sigma	10mg*2ea	Topoisomerase I inhibitor	H0165	 	CRG reference box	 	사용중	SN-38, sigma aldrich_data sheet_PDF	 	 	 	 	 	 
 WM_Refampicin_SIGMA_DR_0021	Refampicin	sigma	250mg	is an antibiotic used to treat several types of bacterial infections/   PXR assay 시 사용	R3501	 	CRG reference box	 	사용중	Rifampicin_sigma_data sheet_PDF	 	 	 	 	 	 
-WM_Osimertinib_SC_DR_0022	Osimertinib (AZD9291)	Selleckchem	10mg	EGFR tyrosine kinase inhibitor   (to treat non-small-cell lung cancer)	S7297	 	CRG reference box	 	New	https://www.selleckchem.com/datasheet/azd9291-S729705-DataSheet.html	 	 	 	 	 	 
+WM_Osimertinib_SC_DR_0022	Osimertinib (AZD9291)	Selleckchem	10mg*4ea	EGFR tyrosine kinase inhibitor   (to treat non-small-cell lung cancer)	S7297	 	CRG reference box	 	New	https://www.selleckchem.com/datasheet/azd9291-S729705-DataSheet.html	 	 	 	 	 	 
 WM_erlotinib HCI_SC_DR_0023	erlotinib HCI	Selleckchem	100mg	EGFR tyrosine kinase inhibitor   (to treat non-small-cell lung cancer, pancreatic cancer)	S1023	 	CRG reference box	 	New	https://www.selleckchem.com/datasheet/Erlotinib-Hydrochloride-S102301-DataSheet.html	 	 	 	 	 	 
 WM_erlotinib HCI_MK_DR_0024	MRTX849	Medkoo	25mg	mtKRAS inhibitor (G12C)	207112	 	CRG reference box	 	사용중	MRTX849_medkoo_CoA_PDF	 	 	 	 	 	 
 WM_Cisplatin_SC_DR_0025	Cisplatin	Selleckchem	50mg	chemotherapy medication	S1166	 	CRG reference box	 	사용중	https://www.selleckchem.com/datasheet/Cisplatin-S116616-DataSheet.html	 	 	 	 	 	 
@@ -41,3 +41,4 @@ WM_BMS777607_MK_DR_0040	BMS777607	Medkoo	25mg	Met-related inhibitor	#20057	 	 	 
 WM_Gefitinib_SIGMA_DR_0041	Gefitinib	sigma	10mg	EGFR inhibitor	SML1657	 	 	 	RT 보관	https://www.sigmaaldrich.com/KR/ko/product/sigma/sml1657	 	 	 	 	 	 
 WM_Refametinib_CT_DR_0042	Refametinib(RDEA119)	chemieTek	10mg	MEK1/2 enzyme poket bounding	CT-R119	 	 	 	사용중, 5번 냉동고	Refametinib_CT_CoA_PDF	 	 	 	 	 	 
 WM_Pimasertib_CT_DR_0043	Pimasertib(AS703026)	chemieTek	10mg	MEK inhibitor	CT-AS703	 	 	 	사용중, 5번 냉동고	https://www.chemietek.com/as-703026--pimasertib-details.aspx	 	 	 	 	 	 
+WM_Binimetinib_SC_DR_0044	Binimetinib	Selleckchem	10mg(소량)  50mg (new)	MEK inhibitor	S7007	 	 	 	사용중	https://www.selleckchem.com/products/mek162.html	 	 	 	 	 	 

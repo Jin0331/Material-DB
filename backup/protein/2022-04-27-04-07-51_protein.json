@@ -1,0 +1,308 @@
+[
+    {
+        "Project": "WM-S1",
+        "WMB_NO": "c-Src GST tag",
+        "Manufacturer": "sinobiological Inc.",
+        "Cat_No": "10755-H20B",
+        "Leftover": " ",
+        "Location": "공용 초저온 냉동고(진솔)",
+        "etc": " "
+    },
+    {
+        "Project": "WM-S1",
+        "WMB_NO": "SRC ative GST tagged",
+        "Manufacturer": "sigma",
+        "Cat_No": "S1076",
+        "Leftover": " ",
+        "Location": "공용 초저온 냉동고(진솔)",
+        "etc": " "
+    },
+    {
+        "Project": "WM-S1",
+        "WMB_NO": "RON △155(mtA)",
+        "Manufacturer": "Peak protein",
+        "Cat_No": "RER36",
+        "Leftover": "1uL : 58 vial  200uL : 1 vial  100uL : 2 vial",
+        "Location": "공용 초저온 냉동고(고은희-4)",
+        "etc": "0.963 mg/mL"
+    },
+    {
+        "Project": "WM-S1",
+        "WMB_NO": "RON △160(mtB)",
+        "Manufacturer": "Peak protein",
+        "Cat_No": "RER38",
+        "Leftover": "1uL : 58 vial  100ul 3 vial  200ul 1 vial",
+        "Location": "공용 초저온 냉동고(고은희-4)",
+        "etc": "0.858 mg/mL"
+    },
+    {
+        "Project": "WM-S1",
+        "WMB_NO": "RON △165",
+        "Manufacturer": "Peak protein",
+        "Cat_No": "SA028",
+        "Leftover": "1ml : 10 vial  500ul : 6 vial  50ul : 7 vial (△155 box)",
+        "Location": "공용 초저온 냉동고(고은희-4)",
+        "etc": "0.1 mg/mL"
+    },
+    {
+        "Project": "WM-S1",
+        "WMB_NO": "RON wild type",
+        "Manufacturer": "Peak protein",
+        "Cat_No": "RER34",
+        "Leftover": "200uL : 3 vial  1ul : 24 vial",
+        "Location": "공용 초저온 냉동고(고은희-4)",
+        "etc": "0.749 mg/mL"
+    },
+    {
+        "Project": "WM-S1",
+        "WMB_NO": "RON Active form",
+        "Manufacturer": "carna bioscience",
+        "Cat_No": "08-152",
+        "Leftover": "1.5uL/tube : 32 vial",
+        "Location": "3번 초저온 냉동고 (아래칸)",
+        "etc": " "
+    },
+    {
+        "Project": "WM-S1",
+        "WMB_NO": "VEGFR1 kinase",
+        "Manufacturer": "carna bioscience",
+        "Cat_No": "08-189",
+        "Leftover": "1uL : 18 vial",
+        "Location": "공용 초저온 냉동고(고은희-5)",
+        "etc": " "
+    },
+    {
+        "Project": "WM-S1",
+        "WMB_NO": "VEGFR2(KDR) kinase",
+        "Manufacturer": "carna bioscience",
+        "Cat_No": "08-191",
+        "Leftover": "1 vial (NEW)",
+        "Location": "공용 초저온 냉동고(고은희-5)",
+        "etc": " "
+    },
+    {
+        "Project": "WM-S1",
+        "WMB_NO": "VEGFR3(FLT4) kinase",
+        "Manufacturer": "carna bioscience",
+        "Cat_No": "08-190",
+        "Leftover": "1uL : 20 vial",
+        "Location": "공용 초저온 냉동고(고은희-5)",
+        "etc": " "
+    },
+    {
+        "Project": "WM-S1",
+        "WMB_NO": "rhMSP/MST1",
+        "Manufacturer": "R&D",
+        "Cat_No": "352-MS",
+        "Leftover": "2vial(NEW)  1vial(used)",
+        "Location": "공용 초저온 냉동고(김민화)",
+        "etc": " "
+    },
+    {
+        "Project": "WM-A1",
+        "WMB_NO": "CD48 (SLAMF2), Fc-tag",
+        "Manufacturer": "Sinobiological Inc.",
+        "Cat_No": "10797-H02H",
+        "Leftover": "50ug",
+        "Location": "공용 초저온 냉동고(김성락)",
+        "etc": " "
+    },
+    {
+        "Project": "WM-A1",
+        "WMB_NO": "CD83, AVI tag",
+        "Manufacturer": "Abcam",
+        "Cat_No": "ab271452",
+        "Leftover": "90ug",
+        "Location": "공용 초저온 냉동고(김성락)",
+        "etc": " "
+    },
+    {
+        "Project": "WM-A1",
+        "WMB_NO": "CD300A (IRp60, CMRF-35), Fc-tag",
+        "Manufacturer": "Sinobiological Inc.",
+        "Cat_No": "12449-H02H",
+        "Leftover": "90ug",
+        "Location": "공용 초저온 냉동고(김성락)",
+        "etc": " "
+    },
+    {
+        "Project": "WM-A1",
+        "WMB_NO": "CD72 (Lyb-2), Fc-tag",
+        "Manufacturer": "R&D systems",
+        "Cat_No": "5405-CD-050",
+        "Leftover": "40ug",
+        "Location": "공용 초저온 냉동고(김성락)",
+        "etc": " "
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "mdm2 recombinant human protein",
+        "Manufacturer": "Abnova",
+        "Cat_No": "H0004193-P01",
+        "Leftover": "15ug, 25ug",
+        "Location": "공용 초저온 냉동고(정현호)",
+        "etc": " "
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "mdm2 recombinant human protein",
+        "Manufacturer": "abcam",
+        "Cat_No": "ab82080",
+        "Leftover": " ",
+        "Location": "공용 초저온 냉동고(정현호)",
+        "etc": " "
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "NEDD4 recombinant human protein",
+        "Manufacturer": "bostonbiochem",
+        "Cat_No": "E3-290-050",
+        "Leftover": "10uL",
+        "Location": "공용 초저온 냉동고(정현호)",
+        "etc": " "
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "p34 protein",
+        "Manufacturer": "peptidream",
+        "Cat_No": "Vol1",
+        "Leftover": "",
+        "Location": "공용 초저온 냉동고(정현호)",
+        "etc": " "
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "p34 protein",
+        "Manufacturer": "peptidream",
+        "Cat_No": "Vol2",
+        "Leftover": "40uL",
+        "Location": "공용 초저온 냉동고(정현호)",
+        "etc": " "
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "Sertad1 recombinant human protein",
+        "Manufacturer": "Abnova",
+        "Cat_No": "H00029950-P01",
+        "Leftover": "25ug",
+        "Location": "공용 초저온 냉동고(정현호)",
+        "etc": " "
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "TP53 recombinant human protein",
+        "Manufacturer": "Abnova",
+        "Cat_No": "H0007157-P02",
+        "Leftover": " ",
+        "Location": "공용 초저온 냉동고(정현호)",
+        "etc": " "
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "mdm2 recombinant human protein",
+        "Manufacturer": "bostonbiochem",
+        "Cat_No": "E3-202-050",
+        "Leftover": "3vial(NEW)",
+        "Location": "공용 초저온 냉동고(정현호)",
+        "etc": " "
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "mdm2 recombinant human protein",
+        "Manufacturer": "sigma",
+        "Cat_No": "srp2095",
+        "Leftover": "2vial(NEW)",
+        "Location": "공용 초저온 냉동고(정현호)",
+        "etc": " "
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "UbcH5a/UbE2D1",
+        "Manufacturer": "bostonbiochem",
+        "Cat_No": "E2-616-100",
+        "Leftover": "NEW",
+        "Location": "공용 초저온 냉동고(정현호,new protein box)",
+        "etc": " "
+    },
+    {
+        "Project": "WM-P1",
+        "WMB_NO": "E1 Ez, human",
+        "Manufacturer": "bostonbiochem",
+        "Cat_No": "E3-305-025",
+        "Leftover": "NEW",
+        "Location": "공용 초저온 냉동고(정현호,new protein box)",
+        "etc": " "
+    },
+    {
+        "Project": "PIM",
+        "WMB_NO": "PIM1 kinase",
+        "Manufacturer": "carna bioscience",
+        "Cat_No": "02-054",
+        "Leftover": "NEW(5ug) : 1vial  1uL : 11 vial",
+        "Location": "공용 초저온 냉동고(공용-1)",
+        "etc": " "
+    },
+    {
+        "Project": "PIM",
+        "WMB_NO": "PIM2 kinase",
+        "Manufacturer": "carna bioscience",
+        "Cat_No": "05-155",
+        "Leftover": "NEW(5ug) : 3 vial  1uL/tube : 6 vial  10mM : 1 vial",
+        "Location": "공용 초저온 냉동고(공용-1)",
+        "etc": " "
+    },
+    {
+        "Project": "PIM",
+        "WMB_NO": "PIM3 kinase",
+        "Manufacturer": "carna bioscience",
+        "Cat_No": "02-156",
+        "Leftover": "NEW(5ug) : 2 vial  1uL : 43 vial  50uL : 1  10mM : 3 vial",
+        "Location": "공용 초저온 냉동고(공용-1)",
+        "etc": " "
+    },
+    {
+        "Project": "TAM",
+        "WMB_NO": "AXL kinase",
+        "Manufacturer": "invitrogen",
+        "Cat_No": "A31515",
+        "Leftover": "NEW : 1vial  1uL : 75 vial  5uL : 2 vial",
+        "Location": "공용 초저온 냉동고(공용-1)",
+        "etc": " "
+    },
+    {
+        "Project": "TAM",
+        "WMB_NO": "MERTK kinase",
+        "Manufacturer": "invitrogen",
+        "Cat_No": "PV3627",
+        "Leftover": "NEW : 1vial  1uL : 26 vial",
+        "Location": "공용 초저온 냉동고(공용-1)",
+        "etc": " "
+    },
+    {
+        "Project": "TAM",
+        "WMB_NO": "TYRO3 kinase",
+        "Manufacturer": "invitrogen",
+        "Cat_No": "PV3828",
+        "Leftover": "NEW : 1vial  1uL : 20 vial",
+        "Location": "공용 초저온 냉동고(공용-1)",
+        "etc": " "
+    },
+    {
+        "Project": "MET",
+        "WMB_NO": "MET kinase",
+        "Manufacturer": "carna bioscience",
+        "Cat_No": "08-151",
+        "Leftover": "NEW(5ug) : 1 vial  1uL : 29 vial  50uL : 78 vial",
+        "Location": "공용 초저온 냉동고(공용-4)",
+        "etc": " "
+    },
+    {
+        "Project": "KRAS",
+        "WMB_NO": "SOS-FLAG",
+        "Manufacturer": "Bpbioscience",
+        "Cat_No": "100753",
+        "Leftover": "NEW : 1vial",
+        "Location": "공용 초저온 냉동고(공용-2)",
+        "etc": " "
+    }
+]
