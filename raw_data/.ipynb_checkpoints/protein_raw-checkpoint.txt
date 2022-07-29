@@ -1,18 +1,19 @@
 WM-S1	c-Src GST tag	sinobiological Inc.	10755-H20B	 	공용 초저온 냉동고(진솔)	 
 WM-S1	SRC ative GST tagged	sigma	S1076	 	공용 초저온 냉동고(진솔)	 
-WM-S1	RON △155(mtA)	Peak protein	RER36	1uL : 58 vial  200uL : 1 vial  100uL : 2 vial	공용 초저온 냉동고(고은희-4)	0.963 mg/mL
-WM-S1	RON △160(mtB)	Peak protein	RER38	1uL : 58 vial  100ul 3 vial  200ul 1 vial	공용 초저온 냉동고(고은희-4)	0.858 mg/mL
-WM-S1	RON △165	Peak protein	SA028	1ml : 10 vial  500ul : 6 vial  50ul : 7 vial (△155 box)	공용 초저온 냉동고(고은희-4)	0.1 mg/mL
-WM-S1	RON wild type	Peak protein	RER34	200uL : 3 vial  1ul : 24 vial	공용 초저온 냉동고(고은희-4)	0.749 mg/mL
-WM-S1	RON Active form	carna bioscience	08-152	1.5uL/tube : 32 vial	3번 초저온 냉동고 (아래칸)	 
-WM-S1	VEGFR1 kinase	carna bioscience	08-189	1uL : 18 vial	공용 초저온 냉동고(고은희-5)	 
+WM-S1	RON △155(mtA)	Peak protein	RER36	1ul : 74 tube  200ul : 1 tube  100ul : 2 tube	공용 초저온 냉동고(고은희-4)	0.963 mg/mL
+WM-S1	RON △160(mtB)	Peak protein	RER38	1ul : 58 tube  100ul 3 tube  200ul 1 vtube	공용 초저온 냉동고(고은희-4)	0.858 mg/mL
+WM-S1	RON △165	Peak protein	SA028	1ml : 10 tube  500ul : 6 tube  50ul : 7 tube (△155 box)	공용 초저온 냉동고(고은희-4)	0.1 mg/mL
+WM-S1	RON wild type	Peak protein	RER34	200ul : 3 tube  200ul : 3 tube (△165 box)   1ul : 24 tube	공용 초저온 냉동고(고은희-4)	0.749 mg/mL
+WM-S1	RON Active form	carna bioscience	08-152	1.5ul/tube : 32 tube	3번 초저온 냉동고 (아래칸)	 
+WM-S1	VEGFR1 kinase	carna bioscience	08-189	1ul : 18 tube	공용 초저온 냉동고(고은희-5)	 
 WM-S1	VEGFR2(KDR) kinase	carna bioscience	08-191	1 vial (NEW)	공용 초저온 냉동고(고은희-5)	 
-WM-S1	VEGFR3(FLT4) kinase	carna bioscience	08-190	1uL : 20 vial	공용 초저온 냉동고(고은희-5)	 
-WM-S1	rhMSP/MST1	R&D	352-MS	2vial(NEW)  1vial(used)	공용 초저온 냉동고(김민화)	 
+WM-S1	VEGFR3(FLT4) kinase	carna bioscience	08-190	1ul : 20 tube	공용 초저온 냉동고(고은희-5)	 
+WM-S1	rhMSP/MST1	R&D	352-MS	2 vial (NEW)  1vial(used)	공용 초저온 냉동고(김민화)	 
 WM-A1	CD48 (SLAMF2), Fc-tag	Sinobiological Inc.	10797-H02H	50ug	공용 초저온 냉동고(김성락)	 
 WM-A1	CD83, AVI tag	Abcam	ab271452	90ug	공용 초저온 냉동고(김성락)	 
 WM-A1	CD300A (IRp60, CMRF-35), Fc-tag	Sinobiological Inc.	12449-H02H	90ug	공용 초저온 냉동고(김성락)	 
 WM-A1	CD72 (Lyb-2), Fc-tag	R&D systems	5405-CD-050	40ug	공용 초저온 냉동고(김성락)	 
+WM-A1	CD2 ECD (His-tag)	Sino Biological	10982-H08H	30ug	공용 초저온 냉동고(김성락)	 
 WM-P1	mdm2 recombinant human protein	Abnova	H0004193-P01	15ug, 25ug	공용 초저온 냉동고(정현호)	 
 WM-P1	mdm2 recombinant human protein	abcam	ab82080	 	공용 초저온 냉동고(정현호)	 
 WM-P1	NEDD4 recombinant human protein	bostonbiochem	E3-290-050	10uL	공용 초저온 냉동고(정현호)	 
@@ -24,11 +25,12 @@ WM-P1	mdm2 recombinant human protein	bostonbiochem	E3-202-050	3vial(NEW)	공용 
 WM-P1	mdm2 recombinant human protein	sigma	srp2095	2vial(NEW)	공용 초저온 냉동고(정현호)	 
 WM-P1	UbcH5a/UbE2D1	bostonbiochem	E2-616-100	NEW	공용 초저온 냉동고(정현호,new protein box)	 
 WM-P1	E1 Ez, human	bostonbiochem	E3-305-025	NEW	공용 초저온 냉동고(정현호,new protein box)	 
-PIM	PIM1 kinase	carna bioscience	02-054	NEW(5ug) : 1vial  1uL : 11 vial	공용 초저온 냉동고(공용-1)	 
-PIM	PIM2 kinase	carna bioscience	05-155	NEW(5ug) : 3 vial  1uL/tube : 6 vial  10mM : 1 vial	공용 초저온 냉동고(공용-1)	 
-PIM	PIM3 kinase	carna bioscience	02-156	NEW(5ug) : 2 vial  1uL : 43 vial  50uL : 1  10mM : 3 vial	공용 초저온 냉동고(공용-1)	 
-TAM	AXL kinase	invitrogen	A31515	NEW : 1vial  1uL : 75 vial  5uL : 2 vial	공용 초저온 냉동고(공용-1)	 
-TAM	MERTK kinase	invitrogen	PV3627	NEW : 1vial  1uL : 26 vial	공용 초저온 냉동고(공용-1)	 
-TAM	TYRO3 kinase	invitrogen	PV3828	NEW : 1vial  1uL : 20 vial	공용 초저온 냉동고(공용-1)	 
-MET	MET kinase	carna bioscience	08-151	NEW(5ug) : 1 vial  1uL : 29 vial  50uL : 78 vial	공용 초저온 냉동고(공용-4)	 
+WM-P1	Trim47-Myc tac, FL	Origene	TP318521	30 uL	공용 초저온 냉동고(정현호,new protein box)	 
+PIM	PIM1 kinase	carna bioscience	02-054	NEW(5ug) : 1vial  1uL : 11 tube	공용 초저온 냉동고(공용-1)	 
+PIM	PIM2 kinase	carna bioscience	05-155	NEW(5ug) : 3 vial  1ul : 6 tube  10mM : 2 tube	공용 초저온 냉동고(공용-1)	 
+PIM	PIM3 kinase	carna bioscience	02-156	NEW(5ug) : 2 vial  1ul : 43 tube  5ul : 1 tube  10mM : 3 tube	공용 초저온 냉동고(공용-1)	 
+TAM	AXL kinase	invitrogen	A31515	NEW : 1vial  1ul : 75 tube  5ul : 2 tube	공용 초저온 냉동고(공용-1)	 
+TAM	MERTK kinase	invitrogen	PV3627	NEW : 1vial  1ul : 26 tube	공용 초저온 냉동고(공용-1)	 
+TAM	TYRO3 kinase	invitrogen	PV3828	NEW : 1vial  1ul : 20 tube	공용 초저온 냉동고(공용-1)	 
+MET	MET kinase	carna bioscience	08-151	NEW(5ug) : 1 vial     4nM - 1ul : 29 tube            10ul : 34 tube  26.3nM - 2ul : 44 tube    40nM - 1ul : 30 tube             2ul : 6 tube	공용 초저온 냉동고(공용-4)	 
 KRAS	SOS-FLAG	Bpbioscience	100753	NEW : 1vial	공용 초저온 냉동고(공용-2)	 

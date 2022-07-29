@@ -1,0 +1,5082 @@
+[
+    {
+        "Celline": "22RV1",
+        "Tissue": "Prostate",
+        "Organism": "Human",
+        "Disease": "Carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "293T",
+        "Tissue": "Kidney",
+        "Organism": "Human",
+        "Disease": " ",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10(+L-glu)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "4T1",
+        "Tissue": "Breast",
+        "Organism": "Mouse",
+        "Disease": "Mimics human breast cancer, stage IV",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(w/o P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": "BALB/cfC3H"
+    },
+    {
+        "Celline": "769-P",
+        "Tissue": "Kidney",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma; Renal Cell",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "786-O",
+        "Tissue": "Kidney",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma; Renal Cell",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "A2058",
+        "Tissue": "Skin",
+        "Organism": "Human",
+        "Disease": "Melanoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "A427",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10(+2mM L-glu)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4~1:6, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "A498",
+        "Tissue": "Kidney",
+        "Organism": "Human",
+        "Disease": "Carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": " ",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "A549",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": "△165",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "A704",
+        "Tissue": "Kidney",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "M10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "ACHN",
+        "Tissue": "Kidney",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma; Renal Cell",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "AGS",
+        "Tissue": "Stomach",
+        "Organism": "Human",
+        "Disease": "Gastric Adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS mt(G12D)",
+                "RON_Genotype": "△165",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "AsPC-1",
+        "Tissue": "Pancreas",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "△165",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "B16-F10",
+        "Tissue": "Skin",
+        "Organism": "Mouse",
+        "Disease": "Melanoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": "C57BL/6J"
+    },
+    {
+        "Celline": "BT-20",
+        "Tissue": "Breast",
+        "Organism": "Human",
+        "Disease": "Carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10, E10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4~1:6, 2~3days",
+        "Purchase": "ATCC, KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "BT-474",
+        "Tissue": "Breast",
+        "Organism": "Human",
+        "Disease": "Ductal carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+25mM HEPES)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "BXPC3",
+        "Tissue": "Pancreas",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "CaCo2",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10, M10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC, KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "CAKI-1",
+        "Tissue": "Kidney",
+        "Organism": "Human",
+        "Disease": "Clear cell Carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "Cal27",
+        "Tissue": "Tongue",
+        "Organism": "Human",
+        "Disease": "Squamous cell carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "Calu-1",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Grade III,Epidermoid carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "Mccoy's5A",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4~1:6, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "Calu-3",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "Calu-6",
+        "Tissue": "probably lung",
+        "Organism": "Human",
+        "Disease": "Anaplastic carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "Capan-1",
+        "Tissue": "Pancreas",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "Choi-CK",
+        "Tissue": " ",
+        "Organism": "Human",
+        "Disease": "Cholangiocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10(+L-glu)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "COLO201",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "Dukes' type D, colorectal adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC, KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "COLO205",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "Dukes' type D, colorectal adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3~1:4, 2~3days",
+        "Purchase": "ATCC, KCLB",
+        "Issue": "MSS"
+    },
+    {
+        "Celline": "COLO320DM",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "Dukes' type C, colorectal adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:2~1:3, 2~3days",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "COLO320HSR",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "Dukes' type C, colorectal adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS mt(G12C)",
+                "RON_Genotype": "△160",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Mix",
+        "Ratio_Period": "1:5~1:7, 2~3days",
+        "Purchase": "ATCC, KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "Cos-7",
+        "Tissue": "Kidney",
+        "Organism": "Monkey",
+        "Disease": " ",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10",
+        "GROWTH_PATTERN": " ",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "CT26",
+        "Tissue": "Colon",
+        "Organism": "Mouse",
+        "Disease": "Carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS mt(G12D)",
+                "RON_Genotype": "△155",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3, 2~3days",
+        "Purchase": " ",
+        "Issue": "BALB/c"
+    },
+    {
+        "Celline": "DLD-1",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "Dukes' type C, colorectal adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3~1:4, 4~5day",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "DU145",
+        "Tissue": "Prostate",
+        "Organism": "Human",
+        "Disease": "Carcinoma, Metastasis to brain",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10, E10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3~1:4, 2~3days",
+        "Purchase": "ATCC, KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "E0771",
+        "Tissue": "Breast",
+        "Organism": "Mouse",
+        "Disease": "Adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+10mM HEPES)",
+        "GROWTH_PATTERN": " ",
+        "Ratio_Period": " ",
+        "Purchase": "CH3",
+        "Issue": "C57BL/6"
+    },
+    {
+        "Celline": "FaDu",
+        "Tissue": "Pharynx",
+        "Organism": "Human",
+        "Disease": "Carcinoma, Squamous cell",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "M10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "H4IIE",
+        "Tissue": "Liver",
+        "Organism": "Rat",
+        "Disease": "Hepatoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "M10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "HaCaT",
+        "Tissue": "Keratinocyte",
+        "Organism": "Human",
+        "Disease": " ",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10(+L-glu)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "CLS",
+        "Issue": " "
+    },
+    {
+        "Celline": "HCC-1171",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+25mM HEPES)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "HCC-1438",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Large cell tumor",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "△165",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:5, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "HCC-15",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "NSCLC",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC, KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "HCC-1588",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Squamous cell carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "HCC-1833",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent(loosely attached clusters)",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "HCC-1937",
+        "Tissue": "Breast",
+        "Organism": "Human",
+        "Disease": "TNM stage IIB, grade3, primary ductal carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "HCC-2108",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "HCC-2279",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Adeno-squamous cell carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC, KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "HCC-336",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "NSCLC",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:6, 2~3days",
+        "Purchase": "None",
+        "Issue": " "
+    },
+    {
+        "Celline": "HCC-38",
+        "Tissue": "Breast",
+        "Organism": "Human",
+        "Disease": "TNM stage IIB, grade3, primary ductal carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:8, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "HCC-44",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "NSCLC",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "HCC-827",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "NSCLC",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:2, 4~5days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "HCC-95",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Squamous cell carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Mix",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "HCT116",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "Colorectal carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "Mc10, R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC, KCLB, Vogen",
+        "Issue": " "
+    },
+    {
+        "Celline": "HCT116 p53 -/-",
+        "Tissue": " ",
+        "Organism": " ",
+        "Disease": " ",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "HCT15",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "Dukes' type C, colorectal adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC, KCLB",
+        "Issue": "MSI-H"
+    },
+    {
+        "Celline": "HCT-8",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "Ileocecal colorectal adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(HS)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC, KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "HEK293T",
+        "Tissue": " ",
+        "Organism": " ",
+        "Disease": " ",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": " ",
+        "GROWTH_PATTERN": " ",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "HEL92.1.7",
+        "Tissue": "Bone marrow",
+        "Organism": "Human",
+        "Disease": "Erythroleukemia",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Suspension",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "HeLa",
+        "Tissue": "Cervix uterine",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10, M10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "Hep3B",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "Carcinoma, hepatocellular",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent(loosely attached clusters)",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "HepG2",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "Hepatoblastoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "M10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "Hs294T",
+        "Tissue": "Skin",
+        "Organism": "Human",
+        "Disease": "Melanoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10",
+        "GROWTH_PATTERN": "Mix",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "Hs578T",
+        "Tissue": "Breast",
+        "Organism": "Human",
+        "Disease": "Carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "Hs746T",
+        "Tissue": "Stomach",
+        "Organism": "Human",
+        "Disease": "Carcinoma; metastatic to left leg",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC,KCLB, Vogen",
+        "Issue": " "
+    },
+    {
+        "Celline": "HT-29",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "Colorectal adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3, 2days  1:4, 3days",
+        "Purchase": "ATCC, KCLB",
+        "Issue": "MSS"
+    },
+    {
+        "Celline": "HUCCT1",
+        "Tissue": "Bile duct",
+        "Organism": "Human",
+        "Disease": "Bile duct carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "Huh7",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": " ",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3~1:4, 2days  1:4~1:5, 3days",
+        "Purchase": "KCLB",
+        "Issue": "- 계대 배양시 single cell로 잘 풀어서 배양 할것  - Confluency 높지 않게 세포 배양 할것(over growth시 cell morphology 변함)"
+    },
+    {
+        "Celline": "JHH-7",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "HBV integratied human hepato cellular carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "Willi’s(+10% BS,1% P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4~1:6, 2~3day",
+        "Purchase": "ACCGEN",
+        "Issue": " "
+    },
+    {
+        "Celline": "KKK-D068",
+        "Tissue": "Bile duct",
+        "Organism": "Human",
+        "Disease": "Intrahepatic Bile duct cholangiocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "JCRB",
+        "Issue": " "
+    },
+    {
+        "Celline": "KKK-D138",
+        "Tissue": "Bile duct",
+        "Organism": "Human",
+        "Disease": "Intrahepatic Bile duct cholangiocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "JCRB",
+        "Issue": " "
+    },
+    {
+        "Celline": "KKU-100",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "JCRB",
+        "Issue": " "
+    },
+    {
+        "Celline": "KKU-213",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "JCRB",
+        "Issue": " "
+    },
+    {
+        "Celline": "KM12C",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "M10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": "MSI-H"
+    },
+    {
+        "Celline": "KM12SM",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "LA4",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "adenoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R15",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "LIM1215",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "Colorectal carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+Ins)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "LIM1215D160",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "Colorectal carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+Ins)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "LLC1",
+        "Tissue": "Lung",
+        "Organism": "Mouse",
+        "Disease": "Lewis lung carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10",
+        "GROWTH_PATTERN": "Mix",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": "Strain : C57BL"
+    },
+    {
+        "Celline": "LNCaP",
+        "Tissue": "prostate",
+        "Organism": "Human",
+        "Disease": "Carcinoma, metastasis to left supraclavicular lymph node",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3, 2~3day",
+        "Purchase": "ATCC, KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "LoVo",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "Dukes' type C, grade IV, colorectal adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10,F-12K/10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3~1:4, 2~3day",
+        "Purchase": "ATCC, KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "LS1034",
+        "Tissue": "Cecum",
+        "Organism": "Human",
+        "Disease": "Dukes' type C, colorectal carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB, ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "LS174T",
+        "Tissue": "colon",
+        "Organism": "Human",
+        "Disease": "Dukes' type B, colorectal carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "E10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4, 2~3days",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "LS411N",
+        "Tissue": "cecum",
+        "Organism": "Human",
+        "Disease": "Dukes' type B, colorectal carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": "MSI-H"
+    },
+    {
+        "Celline": "LS513",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4~1:5, 2~3day",
+        "Purchase": "KCLB, ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "M14",
+        "Tissue": "Skin",
+        "Organism": "Human",
+        "Disease": "melanoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "MC38",
+        "Tissue": "Colon",
+        "Organism": "Mouse",
+        "Disease": "Carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "KRA S-D10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "Kerafast",
+        "Issue": "Strain : C57BL"
+    },
+    {
+        "Celline": "MCF10A",
+        "Tissue": "Breast",
+        "Organism": "Human",
+        "Disease": "Fibrocystic disease",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "MEBE, R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC, KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "MCF7",
+        "Tissue": "Breast",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "△165",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10, E10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4, 2~3days",
+        "Purchase": "ATCC, KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "MDA-MB231",
+        "Tissue": "Breast",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma; pleural effusion",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "MDA-MB453",
+        "Tissue": "Breast",
+        "Organism": "Human",
+        "Disease": "Metastatic carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "MeWo",
+        "Tissue": "Skin",
+        "Organism": "Human",
+        "Disease": "Malignant Melanoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "M10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "MIA PaCa-2",
+        "Tissue": "pancreas",
+        "Organism": "Human",
+        "Disease": "carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10(+2mM L-glu)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "MKN1",
+        "Tissue": "Stomach",
+        "Organism": "Human",
+        "Disease": "Carcinoma, adenosquamous",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "MKN28",
+        "Tissue": "Gastric",
+        "Organism": "Human",
+        "Disease": "Gastric tubular adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "MKN45",
+        "Tissue": "Stomach",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS mt(G12C)",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3, 3~4days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "MKN74",
+        "Tissue": "Stomach",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma, tubular",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS mt(Q61H)",
+                "RON_Genotype": "△165",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:5, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "MSTO-211H",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Biphasic Mesothelioma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H1299",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Carcinoma, NSCLC",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H1373",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma(stage3A)",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "△165",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": "2022 새로구매"
+    },
+    {
+        "Celline": "NCI-H1435",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma, NSCLC",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent(single cells and loosely attached clusters)",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H1650",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "stage 3B, adenocarcinoma, bronchoalveolar carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS mt(G12D)",
+                "RON_Genotype": "△165",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H1666",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma, Bronchoalveolar carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H1703",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Squamous cell, NSCLC",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4~1:5, 2~3day",
+        "Purchase": "None, KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H1755",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma, NSCLC",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "WT",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "M10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H1793",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H1944",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "stage 3B, adenocarcinoma; NSCLC",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "WT",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Mix",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H1975",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma, NSCLC",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H1993",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "NSCLC(stage 3A, adenocarcinoma)",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "Negative",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "loosely adherent(multicell aggregates)",
+        "Ratio_Period": "1:3, 2~3days",
+        "Purchase": "ATCC",
+        "Issue": "T/E 사용 금지"
+    },
+    {
+        "Celline": "NCI-H2030",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "NSCLC(adenocarcinoma)",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H2087",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "stage 1, adenocarcinoma, NSCLC",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS mt(G13D)",
+                "RON_Genotype": "WT",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3, 2~3days",
+        "Purchase": "KCLB, ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H2228",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "NSCLC(adenocarcinoma)",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "△160",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:5, 2~3days",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H226",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Squamous Cell Carcinoma, Mesothelioma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H23",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma, NSCLC",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "△160",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H292",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Carcinoma,mucoepidermoid",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H358",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Bronchiolar carcinoma, NCSLC",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H460",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "large cell carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "△160",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4~1:5, 2~3days",
+        "Purchase": "KCLB, ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H498",
+        "Tissue": "Cecum",
+        "Organism": "Human",
+        "Disease": "Colorectal adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS mt",
+                "RON_Genotype": "WT",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H508",
+        "Tissue": "Cecum",
+        "Organism": "Human",
+        "Disease": "Colorectal adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS mt(A146T)",
+                "RON_Genotype": "△165",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H520",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Squamous cell carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": "△160",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Suspnesion(some loosely adherent)",
+        "Ratio_Period": "1:4, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H522",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": "△160",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Mix(Floating aggreate, some loosely adherent)",
+        "Ratio_Period": "1:4, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H596",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "adenosquamous carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "△160",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4~1:5, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": "2022 새로구매"
+    },
+    {
+        "Celline": "NCI-H647",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "stage 3A, adenosquamous carcinomal; NSCLC",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "△155",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4, 2~3days",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H69",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Suspension(aggregates)",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H716",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "Large intestine, Colorectal adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS mt",
+                "RON_Genotype": "△165",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Suspension",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H820",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Papillary adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "△160",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R5",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H838",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma; NSCLC; stage 3B",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "△160",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-N87",
+        "Tissue": "Stomach",
+        "Organism": "Human",
+        "Disease": "Gastric carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS mt",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3, 4~5days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "OVCAR8",
+        "Tissue": "Ovary",
+        "Organism": "Human",
+        "Disease": "High grade ovarian serous adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "Panc 03.27",
+        "Tissue": "Pancreas",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS mt",
+                "RON_Genotype": "△155",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R15(+Ins 1:1000)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:2, 7days",
+        "Purchase": "KCLB, ATCC",
+        "Issue": "- 1X PBS wash 최소 2회   - 1X T/E 3ml incubation 5분 이상"
+    },
+    {
+        "Celline": "PANC1",
+        "Tissue": "Pancreas",
+        "Organism": "Human",
+        "Disease": "Epithelioid carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS mt",
+                "RON_Genotype": "WT",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "PC3",
+        "Tissue": "prostate",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma, grade4, metastasis to brain",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS mt(G12V)",
+                "RON_Genotype": "△155",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "F12K/10, R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:5, 2~3days",
+        "Purchase": "ATCC,KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "RBE",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "cholangiocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS mt",
+                "RON_Genotype": "△160",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(w/o P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3, 2~3days",
+        "Purchase": "RIKIEN",
+        "Issue": " "
+    },
+    {
+        "Celline": "RKO",
+        "Tissue": "colon",
+        "Organism": "Human",
+        "Disease": "carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "△155",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "E10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3, 2~3days",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "RPMI7951",
+        "Tissue": "Skin",
+        "Organism": "Human",
+        "Disease": "Malignant melanoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "M10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "SKBR3",
+        "Tissue": "Breast",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "Negative",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10, Mc10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SKH1",
+        "Tissue": " ",
+        "Organism": "Human",
+        "Disease": "Chronic myeloid leukemia",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10",
+        "GROWTH_PATTERN": " ",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "SK-HEP-1",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma; ascites",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS mt",
+                "RON_Genotype": "WT",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10, D10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3, 2~3days",
+        "Purchase": "ATCC, KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SK-Lu-1",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS mt",
+                "RON_Genotype": "WT",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10(+L-glu)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:6, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SK-MEL-28",
+        "Tissue": "Skin",
+        "Organism": "Human",
+        "Disease": "Malignant melanoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "SK-MEL-5",
+        "Tissue": "Skin",
+        "Organism": "Human",
+        "Disease": "Malignant melanoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "M10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "SK-MES-1",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "squamous cell carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS mt",
+                "RON_Genotype": "WT",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10(+L-glu)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": "New vial 보유"
+    },
+    {
+        "Celline": "SK-OV-3",
+        "Tissue": "ovary",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma, malignant ascites",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS mt",
+                "RON_Genotype": "△160",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SNU-1",
+        "Tissue": "Stomach",
+        "Organism": "Human",
+        "Disease": "Carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Suspension(aggregates)",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "SNU-1047",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS mt",
+                "RON_Genotype": "WT",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SNU-1196",
+        "Tissue": "Biliary tract",
+        "Organism": "Human",
+        "Disease": "Hilar cholangiocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "Negative",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+HEPES)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SNU-1235",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "△155",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:2, 7days",
+        "Purchase": "ATCC, KCLB",
+        "Issue": "- without CO2  - R10 으로 적응 시킴"
+    },
+    {
+        "Celline": "SNU-1544",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SNU-182",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "Carcinoma, hepatocellular; primary",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SNU-308",
+        "Tissue": "Biliary tract",
+        "Organism": "Human",
+        "Disease": "Biliary tract cancer, gall bladder",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS wt",
+                "RON_Genotype": "△165",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+25mM HEPES)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3, 4~5days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SNU-354",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "Carcinoma, hepatocellular; primary",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS mt",
+                "RON_Genotype": "△155",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "L15/10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4, 2~3days",
+        "Purchase": "ATCC",
+        "Issue": "- without CO2  - R10 으로 적응 시킴"
+    },
+    {
+        "Celline": "SNU387",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "Carcinoma, hepatocellular; primary",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "SNU-398",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "Carcinoma, hepatocellular; primary",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": "KRAS mt",
+                "RON_Genotype": "△165",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:2, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": "- 1X PBS wash 최소 2회   - 1X T/E 3ml incubation 5분 이상"
+    },
+    {
+        "Celline": "SNU-449",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "Carcinoma, hepatocellular; primary",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SNU-475",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "Carcinoma, hepatocellular; primary",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SNU-478",
+        "Tissue": "Biliary tract",
+        "Organism": "Human",
+        "Disease": "Biliary tract cancer, ampulla of vater",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": "WT",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4, 2~3days",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "SNU484",
+        "Tissue": "Stomach",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "SNU5",
+        "Tissue": "Stomach",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "RPMI",
+        "GROWTH_PATTERN": "Suspension",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "SNU-739",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "Hepatocellular carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SNU-869",
+        "Tissue": "Biliary tract",
+        "Organism": "Human",
+        "Disease": "Biliary tract cancer, ampulla of vater",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+HEPES)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:8, 2~3days",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SNU-878",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "Hepatocellular carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10(+0.01mg/ml B.I), R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC, KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SNU-886",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "Hepatocellular carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent(patchy)",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SNU-977",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "MEGM kit (+100ng/ml cholera toxin), R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC, KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SNU-C1",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SNU-C2A",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SNU-1235",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SW1116",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma(stage3)",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "ATCC(L15),KCLB(R10)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC, KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SW1417",
+        "Tissue": "colon",
+        "Organism": "Human",
+        "Disease": "Dukes' type C, grade III, colorectal adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "SW1463",
+        "Tissue": "colon",
+        "Organism": "Human",
+        "Disease": "Large intestine, Dukes's type C, adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "L15, D10(+L-glu)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "SW403",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma(stage3)",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "L-15/10, R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC, RIKEN RCB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SW48",
+        "Tissue": "colon",
+        "Organism": "Human",
+        "Disease": "Dukes' type C, grade IV, colorectal adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "L15, R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "SW480",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "L15, R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "SW480E",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SW620",
+        "Tissue": "colon",
+        "Organism": "Human",
+        "Disease": "Dukes' type C, colorectal carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "L15, R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": "MSS"
+    },
+    {
+        "Celline": "SW837",
+        "Tissue": " ",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma, stage4",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "SW900",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Squamous cell carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": "WT",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10(+2mM glutamine, 0.1 mM nonessential amino acids, 1 mM sodium pyruvate, 10 mM HEPES, 50ug/ml gentamycin sulfate)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:8, 2~3days",
+        "Purchase": "Kerafast",
+        "Issue": " "
+    },
+    {
+        "Celline": "T24",
+        "Tissue": "Urinary bladder",
+        "Organism": "Human",
+        "Disease": "Transitional cell carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "RPMI",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "T47D",
+        "Tissue": "Breast",
+        "Organism": "Human",
+        "Disease": "ductal carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": "WT",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10, R10(+B.I)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC, KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "T84",
+        "Tissue": "colon",
+        "Organism": "Human",
+        "Disease": "colorectal carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": "△160",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D/F12/5",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:4, 2~3days",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "TFK-1",
+        "Tissue": "Bile duct",
+        "Organism": "Human",
+        "Disease": "Papillary adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": "WT",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(w/o P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "RIKIEN",
+        "Issue": " "
+    },
+    {
+        "Celline": "TGBC1TKB",
+        "Tissue": "Gall bladder",
+        "Organism": "Human",
+        "Disease": "Gallbadder carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": "△155",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D5(+Low glu, w/o P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": "1:3, 2~3days",
+        "Purchase": "RIKIEN",
+        "Issue": " "
+    },
+    {
+        "Celline": "TKKK",
+        "Tissue": "bile duct",
+        "Organism": "Human",
+        "Disease": "Intraohepatic bile duct carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10(Low glu, w/o P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "RIKIEN",
+        "Issue": " "
+    },
+    {
+        "Celline": "U-2 OS",
+        "Tissue": "Bone",
+        "Organism": "Human",
+        "Disease": "Osteosarcoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "DMEM",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "U-87MG",
+        "Tissue": "Brain",
+        "Organism": "Human",
+        "Disease": "Likely glioblastoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "M10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "UACC-257",
+        "Tissue": "skin",
+        "Organism": "Human",
+        "Disease": "Melanoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "VCaP",
+        "Tissue": "prostate",
+        "Organism": "Human",
+        "Disease": "Cancer",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "WiDr",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "E10, D10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC, KCLB",
+        "Issue": "MSS"
+    },
+    {
+        "Celline": "YD-10B",
+        "Tissue": "Oral,tongue",
+        "Organism": "Human",
+        "Disease": "Squamous cell carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+HEPES)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "YD-15",
+        "Tissue": "Oral,tongue",
+        "Organism": "Human",
+        "Disease": "Mucoepidermoid carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+HEPES)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "YSCCC",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "Cholangiocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(w/o P/S)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "RIKIEN",
+        "Issue": " "
+    },
+    {
+        "Celline": "NCI-H1651",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma; NSCLC",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "ATCC ref",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "HCC-2935",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+HEPES)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "Hepa1-6",
+        "Tissue": "Liver",
+        "Organism": "Mouse",
+        "Disease": "Hepatoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "Strain : C57L"
+    },
+    {
+        "Celline": "MDA-Pca-2b",
+        "Tissue": "Prostate",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": " ",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "New vial"
+    },
+    {
+        "Celline": "CA-HPV-10",
+        "Tissue": "Prostate",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": " ",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "New vial"
+    },
+    {
+        "Celline": "RMG-I",
+        "Tissue": "Ovary",
+        "Organism": "Human",
+        "Disease": "Mesonephroid adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "Ham’sF12/10%FBS",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "JCRB",
+        "Issue": " "
+    },
+    {
+        "Celline": "RMG-II",
+        "Tissue": "Ovary",
+        "Organism": "Human",
+        "Disease": "Mesonephroid adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "Ham’sF12/10%FBS",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "JCRB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SiHa",
+        "Tissue": "Uterus cervix",
+        "Organism": "Human",
+        "Disease": "Squamous Cell Carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "Caski",
+        "Tissue": "Uterus cervix",
+        "Organism": "Human",
+        "Disease": "Epidermoid Carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "OVMANA",
+        "Tissue": "Ovary",
+        "Organism": "Human",
+        "Disease": "ovarian carcinoma, stage IV, CDDP-IP(3) treatment done previously.",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "JCRB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SNU-761",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "hepatocellular carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "DIFI-R1",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "Colorectal carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D/F12/10",
+        "GROWTH_PATTERN": " ",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "LIM1215-R1",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "Colorectal carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+CTX25ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "HeLa S3",
+        "Tissue": "Uterus cervix",
+        "Organism": "Human",
+        "Disease": "Adenocarcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "ME-180",
+        "Tissue": "Uterus cervix",
+        "Organism": "Human",
+        "Disease": "Epidermoid Carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "SCC-9",
+        "Tissue": "Tongue",
+        "Organism": "Human",
+        "Disease": "Squamous cell carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10+Ham’s F12",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": "D10+Ham’s F12 (1대1로 mix)"
+    },
+    {
+        "Celline": "CT26.WT",
+        "Tissue": "Colon",
+        "Organism": "Mouse",
+        "Disease": "Carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "SCC-090",
+        "Tissue": "Tongue",
+        "Organism": "Human",
+        "Disease": "Squamous cell carcinoma, grade3, pathological stage: T2N0",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "E10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "CCD-986sk",
+        "Tissue": "Skin",
+        "Organism": "Human",
+        "Disease": "Normal",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "COS-7",
+        "Tissue": "Kidney",
+        "Organism": "Monkey",
+        "Disease": "SV40 transformed",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "HEK293",
+        "Tissue": "Kidney",
+        "Organism": "Human",
+        "Disease": "Transformed primary embryonal kidney",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "M10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "THLE-2",
+        "Tissue": "Liver",
+        "Organism": "Human",
+        "Disease": "Epithelial cells transformed with SV40 large T antigen",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "BEGM bullet kit(#CC-3170)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "CHO-K1",
+        "Tissue": "ovary",
+        "Organism": "Hamster",
+        "Disease": "Normal",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "F-12K/10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "ARPE-19",
+        "Tissue": "Eye",
+        "Organism": "Human",
+        "Disease": "Normal",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D/F12/10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "HaCaT",
+        "Tissue": "Skin",
+        "Organism": "Human",
+        "Disease": "Normal keratinocyte",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10(+ L-glu)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "CLS",
+        "Issue": " "
+    },
+    {
+        "Celline": "AML12",
+        "Tissue": "Liver",
+        "Organism": "Mouse",
+        "Disease": "Normal",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D/F12(ITS+Dexa)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "CD-1"
+    },
+    {
+        "Celline": "C2C12",
+        "Tissue": "Muscle",
+        "Organism": "Mouse",
+        "Disease": "Normal",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": "C3H"
+    },
+    {
+        "Celline": "Vero",
+        "Tissue": "Kidney",
+        "Organism": "Monkey",
+        "Disease": "Normal",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "THP-1",
+        "Tissue": "Monocyte",
+        "Organism": "Human",
+        "Disease": "leukemia, acute monocytic",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Suspension",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "Jurkat(E6-1)",
+        "Tissue": "Peripheral blood",
+        "Organism": "Human",
+        "Disease": "acute T cell leukemia",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Suspension (aggregates)",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "U937",
+        "Tissue": "Monocyte",
+        "Organism": "Human",
+        "Disease": " ",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10",
+        "GROWTH_PATTERN": "Suspension",
+        "Ratio_Period": " ",
+        "Purchase": "KCLB",
+        "Issue": " "
+    },
+    {
+        "Celline": "NK-92MI",
+        "Tissue": "Peripheral blood",
+        "Organism": "Human",
+        "Disease": "Lymphoma; Malignant Non-Hodgkin's",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "aMEM (+12.5% FBS, 12.5% H.S, 1x ß-ME, 0.02mM folic acid, 0.2mM inositol)",
+        "GROWTH_PATTERN": "Suspension (aggregates)",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": "Aggregated cell이 풀리지 않도록 주의"
+    },
+    {
+        "Celline": "HuT78",
+        "Tissue": "T lymphocyte",
+        "Organism": "Human",
+        "Disease": "Sezary syndrome",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "IMDM(+20% FBS)",
+        "GROWTH_PATTERN": "Suspension",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": " "
+    },
+    {
+        "Celline": "TALL-104",
+        "Tissue": "T lymphocyte",
+        "Organism": "Human",
+        "Disease": "Acute lymphoblastic leukemia ALL",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R20(+IL-2)",
+        "GROWTH_PATTERN": "Suspension",
+        "Ratio_Period": " ",
+        "Purchase": "ATCC",
+        "Issue": "Growth 느림"
+    },
+    {
+        "Celline": "CT26 mCMG-C9",
+        "Tissue": "Colon",
+        "Organism": "Mouse",
+        "Disease": "Carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10(+G418 400ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "CT26 mCMG-C20",
+        "Tissue": "Colon",
+        "Organism": "Mouse",
+        "Disease": "Carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10(+G418 400ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "CT26 mCMG-Clone B",
+        "Tissue": "Colon",
+        "Organism": "Mouse",
+        "Disease": "Carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "D10(+G418 400ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "CHO-K1 mCMG-C17",
+        "Tissue": "ovary",
+        "Organism": "Hamster",
+        "Disease": "Normal",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "F12K(+G418 800ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "CHO-K1 mCMG-C16",
+        "Tissue": "ovary",
+        "Organism": "Hamster",
+        "Disease": "Normal",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "F12K(+G418 500ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "CHO-K1 mCMG-C14",
+        "Tissue": "ovary",
+        "Organism": "Hamster",
+        "Disease": "Normal",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "F12K(+G418 500ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "CHO-K1 Mock-C1",
+        "Tissue": "ovary",
+        "Organism": "Hamster",
+        "Disease": "Normal",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "F12K(+G418 800ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "Myc-DDK"
+    },
+    {
+        "Celline": "CHO-K1 Mock-C2",
+        "Tissue": "ovary",
+        "Organism": "Hamster",
+        "Disease": "Normal",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "F12K(+G418 800ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "Myc-DDK"
+    },
+    {
+        "Celline": "CHO-K1 Mock-C7",
+        "Tissue": "ovary",
+        "Organism": "Hamster",
+        "Disease": "Normal",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "F12K(+G418 800ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "Myc-DDK"
+    },
+    {
+        "Celline": "CHO-K1 Mock-C9",
+        "Tissue": "ovary",
+        "Organism": "Hamster",
+        "Disease": "Normal",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "F12K(+G418 800ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "Myc-DDK"
+    },
+    {
+        "Celline": "CHO-K1 Mock-C12",
+        "Tissue": "ovary",
+        "Organism": "Hamster",
+        "Disease": "Normal",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "F12K(+G418 800ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "Myc-DDK"
+    },
+    {
+        "Celline": "CHO-K1 Mock-C4",
+        "Tissue": "ovary",
+        "Organism": "Hamster",
+        "Disease": "Normal",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "DF12(+G418 800ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "pcDNA3.1"
+    },
+    {
+        "Celline": "CHO-K1 Mock-C7",
+        "Tissue": "ovary",
+        "Organism": "Hamster",
+        "Disease": "Normal",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "DF12(+G418 800ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "pcDNA3.1"
+    },
+    {
+        "Celline": "CHO-K1 Mock-C8",
+        "Tissue": "ovary",
+        "Organism": "Hamster",
+        "Disease": "Normal",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "DF12(+G418 800ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "pcDNA3.1"
+    },
+    {
+        "Celline": "CHO-K1 Mock-C10",
+        "Tissue": "ovary",
+        "Organism": "Hamster",
+        "Disease": "Normal",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "DF12(+G418 800ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "pcDNA3.1"
+    },
+    {
+        "Celline": "H460 Mock-C1",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "large cell carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+G418 1000ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "pCMV6 myc-DDK"
+    },
+    {
+        "Celline": "H460 Mock-C2",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "large cell carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+G418 1000ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "pCMV6 myc-DDK"
+    },
+    {
+        "Celline": "H460 Mock-C3",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "large cell carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+G418 1000ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "pCMV6 myc-DDK"
+    },
+    {
+        "Celline": "H460 Mock-C4",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "large cell carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+G418 1000ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "pCMV6 myc-DDK"
+    },
+    {
+        "Celline": "H460 Mock-C5",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "large cell carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+G418 1000ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "pCMV6 myc-DDK"
+    },
+    {
+        "Celline": "H460 Mock-C6",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "large cell carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+G418 1000ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "pCMV6 myc-DDK"
+    },
+    {
+        "Celline": "H460 Mock-C7",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "large cell carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+G418 1000ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "pCMV6 myc-DDK"
+    },
+    {
+        "Celline": "H460 hCMG-C16",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "large cell carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+G418 1000ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "H460 hCMG-C3",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "large cell carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+G418 1000ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "H292 cloneF",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Carcinoma,mucoepidermoid",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+G418 200ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "pCMV6 myc-DDK"
+    },
+    {
+        "Celline": "H292 Mock",
+        "Tissue": "Lung",
+        "Organism": "Human",
+        "Disease": "Carcinoma,mucoepidermoid",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+G418 100ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "pCMV6 myc-DDK"
+    },
+    {
+        "Celline": "HCT116 Mock-C3",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "Colorectal carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+G418 400ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "pCMV6 myc-DDK"
+    },
+    {
+        "Celline": "HCT116 hCEACAM1-C20",
+        "Tissue": "Colon",
+        "Organism": "Human",
+        "Disease": "Colorectal carcinoma",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "R10(+G418 400ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "HEK293E Mock",
+        "Tissue": " ",
+        "Organism": "Human",
+        "Disease": " ",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "M10(+1%AA+100ug/ml zeocin)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "Y-biologics"
+    },
+    {
+        "Celline": "HEK293E CMG",
+        "Tissue": " ",
+        "Organism": "Human",
+        "Disease": " ",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "M10(+1%AA+2ug/ml Puro)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "Y-biologics"
+    },
+    {
+        "Celline": "HEK293 hCMG-C5",
+        "Tissue": "Kidney",
+        "Organism": "Human",
+        "Disease": "Transformed primary embryonal kidney",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "M10(+G418 200ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "HEK293 hCMG-C2",
+        "Tissue": "Kidney",
+        "Organism": "Human",
+        "Disease": "Transformed primary embryonal kidney",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "M10(+G418 200ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": " "
+    },
+    {
+        "Celline": "HEK293 Mock-C12",
+        "Tissue": "Kidney",
+        "Organism": "Human",
+        "Disease": "Transformed primary embryonal kidney",
+        "Characterization": [
+            {
+                "Chemoresistance_status": " ",
+                "Mutation_status": " ",
+                "RON_Genotype": " ",
+                "IGSF1 Genotype": " ",
+                "P34_Genotype": " "
+            }
+        ],
+        "Media_Condition": "M10(+G418 200ug/ml)",
+        "GROWTH_PATTERN": "Adherent",
+        "Ratio_Period": " ",
+        "Purchase": " ",
+        "Issue": "pCMV6 myc-DDK"
+    }
+]

@@ -399,5 +399,3 @@
 399	Recombinant Anti-CEACAM1 antibody [BLR032F]	ab243889	RABBIT	HU	WB,ICC,IHC-P,IP	 	-20℃ AB BOX 1	ABCAM	 	 	 	 	 	 	 	 	 
 400	Wnt-3a (3A6)	sc-136163	MOUSE	HU,MS,RT	WB,IP,ELISA	39	4℃ AB BOX 3	SANTA CRUZ	 	 	 	 	 	 	 	 	 
 401	Poly/Mono-ADP Ribose	83732	RABBIT	All	WB	 	-20℃ AB BOX 3	CELL SIGNALING	 	 	 	 	 	 	 	 	 
-402	Recombinant Anti-CD48 antibody	ab134049	RABBIT	HU	WB,IP,IHC-P	28(predicted),40-47(detected)	-20℃ AB BOX 3	ABCAM	 	 	 	 	 	 	 	 	 
-403	Anti-PARP7 antibody	ab84664	RABBIT	HU	WB	76(predicted,detected),88,90,(detected)	-20℃ AB BOX 3	ABCAM	 	 	 	 	 	 	 	 	 

@@ -32,15 +32,15 @@ def blood_to_mongo(path, base_path):
         # each filed to tuple
         Gooipchu.append({"Gooknae":line[4], "Haeoe":line[5]})
         Patient_defualt.append({"Gender":line[15], "Age":line[16], "Height":line[17], "Weight":line[18]})
-        Patient_smoking.append({"Status":line[19], "Cigarettes_Day":line[20], "Duration":line[21]})
-        Patient_alcohol.append({"Status":line[22], "Drinks_Day":line[23], "Duration":line[24]})
-        Treatment_history.append({"Prior_Treatment":line[25], "Erbitux_Responder":line[26], "Erbitux_Non_Responder":line[27], 
-                                 "Treatment_History1_Responder":line[28], "Treatment_History1_Non_Responder":line[29]})
-        Singel_cell_seperation_date.append({"Date":line[30], "Manager":line[31]})
-        Cell_population.append({"Information":line[32], "Manager":line[33]})
-        Cytokine_profile.append({"Information":line[34], "Manager":line[35]})
-        In_vitro_coculture_with.append({"Information":line[36], "Manager":line[37]})
-        Tested_drug.append({"Information":line[38], "Manager":line[39], "Patient_information":line[40]})
+#         Patient_smoking.append({"Status":line[19], "Cigarettes_Day":line[20], "Duration":line[21]})
+#         Patient_alcohol.append({"Status":line[22], "Drinks_Day":line[23], "Duration":line[24]})
+#         Treatment_history.append({"Prior_Treatment":line[25], "Erbitux_Responder":line[26], "Erbitux_Non_Responder":line[27], 
+#                                  "Treatment_History1_Responder":line[28], "Treatment_History1_Non_Responder":line[29]})
+#         Singel_cell_seperation_date.append({"Date":line[30], "Manager":line[31]})
+#         Cell_population.append({"Information":line[32], "Manager":line[33]})
+#         Cytokine_profile.append({"Information":line[34], "Manager":line[35]})
+#         In_vitro_coculture_with.append({"Information":line[36], "Manager":line[37]})
+#         Tested_drug.append({"Information":line[38], "Manager":line[39], "Patient_information":line[40]})
 
         # Inserting Data
         total_converting.append({"WMB_NO":line[0], "SampleID":line[1], "FF_ID":line[2], "Gumche_bungo":line[3], 
@@ -594,15 +594,15 @@ def celline_wb_to_mongo(path, base_path):
             exec("%s = list()" %(name), globals())
 
         # each filed to tuple
-        Characterization.append({"Chemoresistance_status":line[5], "Mutation_status":line[6], "RON_Genotype":line[7], "IGSF1 Genotype":line[8],
-                                "P34_Genotype":line[9]})
+        Characterization.append({"Chemoresistance_status":line[4], "Mutation_status":line[5], "RON_Genotype":line[6], "IGSF1 Genotype":line[7],
+                                "P34_Genotype":line[8]})
         #RT_PCR.append({"RON":line[16], "KRAS":line[17], "BRAF":line[18], "EGFR":line[19]})
         #WB.append({"RON":line[20], "BRAF":line[21], "EGFR":line[22]})
         
         # Inserting Data
-        total_converting.append({"WMB_NO":line[0], "Celline":line[1], "Tissue":line[2], "Organism":line[3], "Disease":line[4], 
-                                 "Characterization":Characterization, "Media_Condition":line[10], "GROWTH_PATTERN":line[11],
-                                 "Ratio_Period":line[12], "Purchase":line[13], "Issue":line[14] 
+        total_converting.append({"Celline":line[0], "Tissue":line[1], "Organism":line[2], "Disease":line[3], 
+                                 "Characterization":Characterization, "Media_Condition":line[9], "GROWTH_PATTERN":line[10],
+                                 "Ratio_Period":line[11], "Purchase":line[12], "Issue":line[13] 
                                 })  
         
     with open(date_join, 'w', encoding="UTF-8") as file:

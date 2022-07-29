@@ -20,7 +20,7 @@ WM-S1	WM_CRGe10_SI_S1_0002	siCRG(exon 10)	RON	Human	siRNA	100uM	UCUCGGACCACAUAUU
 WM-S1	WM_bcatenin_SI_S2_0001	siꞵ-catenin	ꞵ-catenin	Human	siRNA	20uM	GCUUGGAAUGAGACUGCUGAU dTdT  AUCAGCAGUCUCAUUCCAAGC dTdT	genepharma	TV 냉동고/ shRNA #1	류예성	300ul	 	 	 	 	 	 	 	 	 
 WM-S1	 	siRON exon10	RON	Human	siRNA	100,20uM	 	 	냉동고 2-B-TD shRNA #1	류예성	100uM-50ul	2uM-100ul	 	 	 	 	 	 	 	 
 WM-S1	 	siRON exon13	RON	Human	siRNA	100,20uM	 	 	냉동고 2-B-TD shRNA #1	류예성	100uM-50ul	2uM-100ul	 	 	 	 	 	 	 	 
-WM-S2	WM_PARP7_SI_S2_0001	siPARP7 -1	PARP7	Human	siRNA	20uM	Sense : GUGAUAAGCUGAGUACUGAUU   Antisense : UCAGUACUCAGCUUAUCACUU	genolution	 	 	300ul	 	 	 	 	 	 	 	 	 
+WM-S2	WM_PARP7_SI_S2_0001	siPARP7 -1	PARP7	Human	siRNA	20uM	Sense : GUGAUAAGCUGAGUACUGAUU   Antisense : UCAGUACUCAGCUUAUCACUU	genolution	기전팀/홍승우	류예성	300ul	 	 	 	 	 	 	 	 	 
 WM-S2	WM_PARP7_SI_S2_0002	siPARP7 -2	PARP7	Human	siRNA	20uM	Sense : GCUCCUGUUUUAUACUGCUUU   Antisense : AGCAGUAUAAAACAGGAGCUU	genolution	 	 	300ul	 	 	 	 	 	 	 	 	 
 WM-S2	WM_PARP7_MR_S2_0001	shPARP7 -1	PARP7	mouse	shRNA	20uM	CUGUUUACUUAACAUUGAUAAACCA	genolution	 	 	200ul	 	 	 	 	 	 	 	 	 
 WM-S2	WM_PARP7_MR_S2_0002	shPARP7 -2	PARP7	mouse	shRNA	20uM	CAAGUCUUACAUCAGCAAAAAGCTA	genolution	 	 	400ul	 	 	 	 	 	 	 	 	 
@@ -49,8 +49,8 @@ WM-A1	WM_IFNGR1_HR_A1_0001	shIFNGR1	IFNGR1	human	shRNA	20uM	GAGAGUUCUUCACCUUUAAG
 WM-A2	WM_CEACAM_HR_A2_0001	shCEACAM_1	CEACAM	Human	shRNA	20uM	GACACUGGAAUCUCCAUCCGUUGGUUCUU UCUC AAGAACCAACGGAUGGAGAUUCCAGUGUC UU	genolution	1번 냉동고 / 김하나	류예성	50L	50L	50L	 	 	 	 	 	 	 
 WM-A2	WM_CEACAM_HR_A2_0002	shCEACAM_2	CEACAM	Human	shRNA	20uM	GGAAAGAGUGGAUGGCAACCGUCAAAUUG UCUC CAAUUUGACGGUUGCCAUCCACUCUUUCC UU	genolution	1번 냉동고 / 김하나	류예성	50L	50L	50L	 	 	 	 	 	 	 
 WM-P1	WM_SERTAD1_HR_P1_0003	shSERTAD1(3)	SERTAD1	human	shRNA	 	CCGAAUUGGACUACCUCAU UCUC AUGAGGUAGUCCAAUUCGG UU	genolution	6번 냉동고/ 진솔	류예성	New	 	 	 	 	 	 	 	 	 
-WM-P1	WM_P53_HR_P1_0001	sh_p53 #1	p53	Human	shRNA	20uM	AUGGAUCCGUGACACGCUUCCCUGGAUUG UCUC CAAUCCAGGGAAGCGUGUCACGGAUCCAU UU	genolution	1번 냉동고 / 약효평가 1팀 box	류예성	50L	 	 	 	 	 	 	 	 	 
-WM-P1	WM_P53_HR_P1_0002	sh_p53 #2	p53	Human	shRNA	20uM	CACCUCACUGCAUGGACGAUCUG UCUC CAGAUCGUCCAUGCAGUGAGGUG UU	genolution	1번 냉동고 / 약효평가 1팀 box	류예성	50L	50L	50L	50L	 	 	 	 	 	 
+WM-P1	WM_P53_HR_P1_0001	sh_p53 #1	p53	Human	shRNA	20uM	AUGGAUCCGUGACACGCUUCCCUGGAUUG UCUC CAAUCCAGGGAAGCGUGUCACGGAUCCAU UU	genolution	PPI센터/ 진솔	류예성	50L	 	 	 	 	 	 	 	 	 
+WM-P1	WM_P53_HR_P1_0002	sh_p53 #2	p53	Human	shRNA	20uM	CACCUCACUGCAUGGACGAUCUG UCUC CAGAUCGUCCAUGCAGUGAGGUG UU	genolution	PPI센터/ 진솔	류예성	50L	50L	50L	50L	 	 	 	 	 	 
 WM-P1	WM_p34_HR_P1_0001	shp34	p34/SERTAD1	Human	shRNA	20uM	CCUCUUUGACCUCUCAGU UCUC ACUGAGAGGUCAAAGAGG UU	genolution	TV 냉동고/ shRNA #1	류예성	50ul	 	 	 	 	 	 	 	 	 
 WM-P1	WM_p34_HR_P1_0002	shSERTAD1	p34/SERTAD1	Human	shRNA	20uM	CCGAAUUGGACUACCUCAU UCUC AUGAGGUAGUCCAAUUCGG UU	genolution	TV 냉동고/ shRNA #1	류예성	200ul	200ul	 	 	 	 	 	 	 	 
 WM-P1	WM_p53_SI_P1_0001	sip34	p34/SERTAD1	Human	siRNA	20uM	Sense : CCGAAUUGGACUACCUCAUUU  Antisense : AUGAGGUAGUCCAAUUCGGUU	genolution	TV 냉동고/ shRNA #1	류예성	100ul	 	 	 	 	 	 	 	 	 
@@ -82,10 +82,38 @@ X	 	siPim2	Pim2	Human	siRNA	20uM	 	genolution	TD 연구소 / 기전연구팀	 	4
 X	 	siPim1	Pim1	Human	siRNA	20uM	 	genolution	TD 연구소 / 기전연구팀	 	400ul	 	 	 	 	 	 	 	 	 
 NEW Target	WM_CCL14_HR_NT_0001	shCCL14	CCL14	Human	shRNA	20uM	CCAACAGCC AGUGCUCCAA	genolution	TV 냉동고/ shRNA new target-2	류예성	100ul	100ul	100ul	100ul	100ul	 	 	 	 	 
 NEW Target	WM_FCN3_HR_NT_0001	shFCN3	FCN3	Human	shRNA	20uM	GAGGCCCTTTACCACCTATGA	genolution	TV 냉동고/ shRNA new target-2	류예성	100ul	100ul	100ul	100ul	100ul	 	 	 	 	 
+NEW Target	WM_FCN3_HR_NT_0002	New shFCN3-2)	FCN3	Human	shRNA	20uM	GCATCCTGTTACCGATCAAAT	genolution	TV 냉동고/ shRNA new target-3	류예성	200ul	200ul	 	 	 	 	 	 	 	 
 NEW Target	WM_C7_HR_NT_0001	shC7	C7	Human	shRNA	20uM	ACAUAGAACUUACUGGAAAU	genolution	TV 냉동고/ shRNA new target-2	류예성	100ul	100ul	100ul	100ul	100ul	 	 	 	 	 
+NEW Target	WM_C7_HR_NT_0002	New shC7#M	C7	Human	shRNA	20uM	CCTGCCTTGAAAGATGGATTT	genolution	TV 냉동고/ shRNA new target-2	류예성	200ul	200ul	 	 	 	 	 	 	 	 
 NEW Target	WM_ALDH1A3_HR_NT_0001	shALDH1A3	ALDH1A3	Human	shRNA	20uM	GGAGACCCCTTCGATGTCAAA	genolution	TV 냉동고/ shRNA new target-2	류예성	100ul	100ul	100ul	100ul	100ul	 	 	 	 	 
 NEW Target	WM_FGF19_HR_NT_0001	shFGF19	FGF19	Human	shRNA	20uM	TTTCTTCCACTCTCTCATT	genolution	TV 냉동고/ shRNA new target-2	류예성	100ul	100ul	100ul	100ul	100ul	 	 	 	 	 
 NEW Target	WM_MUC15_HR_NT_0001	shMUC15	MUC15	Human	shRNA	20uM	GAAGCAAACTTAAACTCAGAT	genolution	TV 냉동고/shRNA new target-2	류예성	100ul	100ul	100ul	100ul	100ul	 	 	 	 	 
 NEW Target	WM_PITX2_HR_NT_0001	shPITX2	PITX2	Human	shRNA	20uM	GGCCGAGCUAUGCAAGAAU	genolution	TV 냉동고/ shRNA new target-2	류예성	100ul	100ul	100ul	100ul	100ul	 	 	 	 	 
 NEW Target	WM_OLFM4_HR_NT_0001	shOLFM4	OLFM4	Human	shRNA	20uM	AAGACCAAGCTGAAAGAGTGT	genolution	TV 냉동고/ shRNA new target-2	류예성	100ul	100ul	100ul	100ul	100ul	 	 	 	 	 
+NEW Target	WM_OLFM4_HR_NT_0002	New shOLFM4#M	OLFM4	Human	shRNA	20uM	CCCTAATGCTGCCTATAATAA	genolution	TV 냉동고/ shRNA new target-2	류예성	200ul	200ul	 	 	 	 	 	 	 	 
 NEW Target	WM_CPA1_HR_NT_0001	shCPA1	CPA1	Human	shRNA	20uM	GTCCCATTTACGTGCTGAAGT	genolution	TV 냉동고/ shRNA new target-2	류예성	100ul	100ul	100ul	100ul	100ul	 	 	 	 	 
+NEW Target	WM_CPA1_HR_NT_0002	New shCPA1 #M	CPA1	Human	shRNA	20uM	GCAGCATCATCAAGGCAATTT	genolution	TV 냉동고/ shRNA new target-3	류예성	200ul	200ul	 	 	 	 	 	 	 	 
+NEW Target	WM_CXCL14_HR_NT_0001	shCXCL14	CXCL14	Human	shRNA	20uM	GCGCAGGGTCTACGAAGAATA	genolution	TV 냉동고/ shRNA new target-2	류예성	200ul	200ul	 	 	 	 	 	 	 	 
+NEW Target	WM_SCGB1D2_HR_NT_0001	shSCGB1D2	SCGB1D2	Human	shRNA	20uM	GAAGAGATGCACGGATCAGAT	genolution	TV 냉동고/ shRNA new target-2	류예성	200ul	200ul	 	 	 	 	 	 	 	 
+NEW Target	WM_SCGB1D2_HR_NT_0002	New SCGB1D2 #M	SCGB1D2	Human	shRNA	20uM	CTTCAGAAACGAAGCCTCATT	genolution	TV 냉동고/ shRNA new target-3	류예성	200ul	200ul	 	 	 	 	 	 	 	 
+NEW Target	WM_TIMP4_HR_NT_0001	shTIMP4	TIMP4	Human	shRNA	20uM	GCCAACAGCCAGAAGCAGTAT	genolution	TV 냉동고/ shRNA new target-2	류예성	200ul	200ul	 	 	 	 	 	 	 	 
+NEW Target	WM_DIRAS3_HR_NT_0001	shDIRAS3	DIRAS3	Human	shRNA	20uM	 CTGCTTGACAAGTGCATAATT	genolution	TV 냉동고/ shRNA new target-2	류예성	200ul	200ul	 	 	 	 	 	 	 	 
+NEW Target	WM_CLCA2_HR_NT_0001	shCLCA2	CLCA2	Human	shRNA	20uM	CTACAGAATATCCAAGATGACTTTAACAA	genolution	TV 냉동고/ shRNA new target-2	류예성	200ul	200ul	 	 	 	 	 	 	 	 
+NEW Target	WM_IVL_HR_NT_0001	shIVL	IVL	Human	shRNA	20uM	GCAACTGGATCAAGAGCTAGT	genolution	TV 냉동고/ shRNA new target-2	류예성	200ul	200ul	 	 	 	 	 	 	 	 
+NEW Target	WM_IVL_HR_NT_0002	New shIVL #M	IVL	Human	shRNA	20uM	GCCCACAAAGGGAGAAGTATT	genolution	TV 냉동고/ shRNA new target-3	류예성	200ul	200ul	 	 	 	 	 	 	 	 
+NEW Target	WM_SYP_HR_NT_0001	shSYP	SYP	Human	shRNA	20uM	GCAGAACAAGTACCGAGAGAA	genolution	TV 냉동고/ shRNA new target-2	류예성	200ul	200ul	 	 	 	 	 	 	 	 
+NEW Target	WM_SYP_HR_NT_0002	New shSYP #M	SYP	Human	shRNA	20uM	CAACCTGTGGTTCGTGTTTAA	genolution	TV 냉동고/ shRNA new target-3	류예성	200ul	200ul	 	 	 	 	 	 	 	 
+NEW Target	WM_GALNT14_HR_NT_0001	shGALNT14	GALNT14	Human	shRNA	20uM	CCAUCCAGAAGGGCAAUAU	genolution	TV 냉동고/ shRNA new target-2	류예성	200ul	200ul	 	 	 	 	 	 	 	 
+NEW Target	WM_FCN3_HR_NT_0003	New shFCN3#M	FCN3	Human	shRNA	20uM	CTGTGGATTTCTTCCGCTCTT	genolution	TV 냉동고/ shRNA new target-3	류예성	류예성	200ul	200ul	 	 	 	 	 	 	 
+NEW Target	WM_PLIN4_HR_NT_0001	shPLIN4	PLIN4	Human	shRNA	20uM	CACCACCAAGATCGTTCTAAC	genolution	TV 냉동고/ shRNA new target-3 (K/D 효율 낮음)	류예성	류예성	200ul	200ul	 	 	 	 	 	 	 
+NEW Target	WM_PLIN4_HR_NT_0002	shPLIN4-2	PLIN4	Human	shRNA	20uM	GAGTCACTGGTGCCGTAAATG	genolution	TV 냉동고/ shRNA new target-3	류예성	류예성	200ul	200ul	 	 	 	 	 	 	 
+NEW Target	WM_CLDN10_HR_NT_0001	shCLDN10	CLDN10	Human	shRNA	20uM	CGCTCTTTGGAATGAAGTGTA	genolution	TV 냉동고/ shRNA new target-3	류예성	류예성	200ul	200ul	 	 	 	 	 	 	 
+NEW Target	WM_KCNMA1_HR_NT_0001	shKCNMA1	CNMA1	Human	shRNA	20uM	GACTGGCAGAGTCCTGGTTGT	genolution	TV 냉동고/ shRNA new target-3	류예성	류예성	200ul	200ul	 	 	 	 	 	 	 
+NEW Target	WM_DES_HR_NT_0001	shDES	DES	Human	shRNA	20uM	GCGGCTAAGAACATTTCTGAA	genolution	TV 냉동고/ shRNA new target-3 (K/D 효율 낮음)	류예성	류예성	200ul	200ul	 	 	 	 	 	 	 
+NEW Target	WM_DES_HR_NT_0002	shDES-2	DES	Human	shRNA	20uM	CCATACCAAGAAGACGGTGAT	genolution	TV 냉동고/ shRNA new target-3	류예성	류예성	200ul	200ul	 	 	 	 	 	 	 
+NEW Target	WM_FLNC_HR_NT_0001	shFLNC	FLNC	Human	shRNA	20uM	CCAGATAAGGTGAAGGCCTTT	genolution	TV 냉동고/ shRNA new target-3 (K/D 효율 낮음)	류예성	류예성	200ul	200ul	 	 	 	 	 	 	 
+NEW Target	WM_FLNC_HR_NT_0002	shFLNC-2	FLNC	Human	shRNA	20uM	CGGTACCTTTGACATCTACTA	genolution	TV 냉동고/ shRNA new target-3	류예성	류예성	200ul	200ul	 	 	 	 	 	 	 
+NEW Target	WM_GRB7_HR_NT_0001	shGRB7	GRB7	Human	shRNA	20uM	CCAGGGCTTTGTCCTCTCTTT	genolution	TV 냉동고/ shRNA new target-3	류예성	류예성	200ul	200ul	 	 	 	 	 	 	 
+NEW Target	WM_GRIK3_HR_NT_0001	shGRIK3	GRIK3	Human	shRNA	20uM	CCGACTCTCTGACAAACAGAT	genolution	TV 냉동고/ shRNA new target-3	류예성	류예성	200ul	200ul	 	 	 	 	 	 	 
+NEW Target	WM_NRXN3_HR_NT_0001	shNRXN3	NRXN3	Human	shRNA	20uM	GCAAAGGACCAGAGACCTTGT	genolution	TV 냉동고/ shRNA new target-3 (K/D 효율 낮음)	류예성	류예성	200ul	200ul	 	 	 	 	 	 	 
+NEW Target	WM_NRXN3_HR_NT_0002	shNRXN3-2	NRXN3	Human	shRNA	20uM	GCTGCCTTAAAGAGGTTGTTT	genolution	TV 냉동고/ shRNA new target-3	류예성	류예성	200ul	200ul	 	 	 	 	 	 	 
